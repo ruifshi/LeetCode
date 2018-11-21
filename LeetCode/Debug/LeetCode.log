@@ -1,0 +1,42 @@
+﻿Build started 11/21/2018 2:00:58 AM.
+     1>Project "C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\LeetCode\LeetCode.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LeetCode.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SumQuery2.cpp
+         SumQuery2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.lib" /MACHINE:X86 Debug\AddBoldTagInString.obj
+         Debug\GameOfLife.obj
+         Debug\ImageSmoother.obj
+         Debug\IntersectionOfTwoArrays.obj
+         Debug\kEmptySlot.obj
+         Debug\LicenseKeyFormat.obj
+         Debug\LongestSubstringK.obj
+         Debug\LongestUnivaluePath.obj
+         Debug\MaxConsecutiveOnes.obj
+         Debug\MaxConsecutiveOnesFlip.obj
+         Debug\MinWindow.obj
+         Debug\NextClosestTime.obj
+         Debug\NumIslands.obj
+         Debug\MergeIntervals.obj
+         Debug\MaxSubarray.obj
+         Debug\MinNumCoins.obj
+         Debug\OneEditDist.obj
+         Debug\PlusOne.obj
+         Debug\RepeatedStringMatch.obj
+         Debug\ShortestPalindrome.obj
+         Debug\SpiralMatrix.obj
+         Debug\SumQuery.obj
+         Debug\Stock.obj
+         Debug\stdafx.obj
+         Debug\LeetCode.obj
+         Debug\SumQuery2.obj
+         Debug\TrappingRainWater.obj
+         Debug\ValidNumber.obj
+         Debug\ValidPalindrome.obj
+         Debug\ValidParentheses.obj
+         LeetCode.vcxproj -> C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.exe
+     1>Done Building Project "C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\LeetCode\LeetCode.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.47

@@ -1,0 +1,1 @@
+int kEmptySlots(int* flowers, int flowersSize, int k);

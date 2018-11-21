@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings">
+      <UniqueIdentifier>{0872e677-b760-4ee9-9e8c-4c1259fdc8e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SpiralMatrix">
+      <UniqueIdentifier>{f227fcb7-0eae-48c1-9bdc-671484d8fa25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\PlusOne">
+      <UniqueIdentifier>{7d2f58a1-5669-43c7-8943-d8d9139260d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\TrappingRainWater">
+      <UniqueIdentifier>{8972e577-090b-4668-becf-fef31cf87db8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LongestSubstringK">
+      <UniqueIdentifier>{955ea5bc-90b0-40d5-a5fa-6e3ba23c5b63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\AddBoldTagInString">
+      <UniqueIdentifier>{c4d1beac-97f7-4aa6-a8c7-fc542b56a3c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\GameOfLife">
+      <UniqueIdentifier>{27980475-afb4-4ffa-ab00-ece7e916c1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General">
+      <UniqueIdentifier>{3f6553a1-ad04-43db-9da1-59a74900a783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\OneEditDist">
+      <UniqueIdentifier>{76de915c-0867-4875-9a14-9839da462173}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General\kEmptySlot">
+      <UniqueIdentifier>{76a218ef-4710-4004-b77e-5ae0fd684807}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General\NextClosestTime">
+      <UniqueIdentifier>{cda74749-d6ea-4ac5-9d7c-74449e6abe95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General\LongestUnivaluePath">
+      <UniqueIdentifier>{8e9a8639-b8b2-47fd-95a4-3e0700ebcb9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General\LicenseKeyFormat">
+      <UniqueIdentifier>{2742a0c4-77a5-4843-a21a-33fa3174249c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1">
+      <UniqueIdentifier>{4185b456-2107-43c1-9328-f6cb023e54b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\NumIslands">
+      <UniqueIdentifier>{7f833220-94f6-4ffb-9e59-0085f5df0ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\MinNumCoins">
+      <UniqueIdentifier>{b5177de0-c72d-470f-82e9-2c0b60808d6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\MinWindow">
+      <UniqueIdentifier>{be13c94d-24a0-4704-a660-21b25ac706dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\Stock">
+      <UniqueIdentifier>{cac811ea-090c-45d1-807e-bab8e938ab4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\SumQuery">
+      <UniqueIdentifier>{76b511ca-62a2-4e9e-9e50-5486ef3f29e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\MergeIntervals">
+      <UniqueIdentifier>{2c360903-25da-4883-9e69-b78a45a6dcd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General\RepeatedStringMatch">
+      <UniqueIdentifier>{61ae9a8e-a542-40b7-bbe5-dfad9fc28c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\MaxSubarray">
+      <UniqueIdentifier>{bfe84cae-77ab-422f-93cc-6097d3234f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidPalindrome">
+      <UniqueIdentifier>{bceff045-45a2-4539-ba52-ce597e589065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidNumber">
+      <UniqueIdentifier>{230411c5-d615-41da-90a9-aa51d79270cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidParentheses">
+      <UniqueIdentifier>{70c393bc-e018-464e-858e-626fbb39ce5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ImageSmoother">
+      <UniqueIdentifier>{a5989405-3e42-4690-baaa-7eed6d755f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntersectionOfTwoArrays">
+      <UniqueIdentifier>{720f116d-2123-400d-9d21-b101bb6daf04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaxConsecutiveOnes">
+      <UniqueIdentifier>{a8faa7fc-0915-4a83-b53a-9edf6f7b51f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaxConsecutiveOnesFlip">
+      <UniqueIdentifier>{a0b48f87-2e5b-492f-a24f-98e5b9b7f47c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ShortestPalindrome">
+      <UniqueIdentifier>{e19c7412-7455-40de-9399-5d262a704601}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cram Level 1\SumQuery2">
+      <UniqueIdentifier>{10b69005-aa98-4f23-b895-25e911ddc8a8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MinWindow.h">
+      <Filter>Source Files\Cram Level 1\MinWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock.h">
+      <Filter>Source Files\Cram Level 1\Stock</Filter>
+    </ClInclude>
+    <ClInclude Include="SumQuery.h">
+      <Filter>Source Files\Cram Level 1\SumQuery</Filter>
+    </ClInclude>
+    <ClInclude Include="NumIslands.h">
+      <Filter>Source Files\Cram Level 1\NumIslands</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeIntervals.h">
+      <Filter>Source Files\Cram Level 1\MergeIntervals</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxSubarray.h">
+      <Filter>Source Files\Cram Level 1\MaxSubarray</Filter>
+    </ClInclude>
+    <ClInclude Include="MinNumCoins.h">
+      <Filter>Source Files\Cram Level 1\MinNumCoins</Filter>
+    </ClInclude>
+    <ClInclude Include="RepeatedStringMatch.h">
+      <Filter>Source Files\General\RepeatedStringMatch</Filter>
+    </ClInclude>
+    <ClInclude Include="kEmptySlot.h">
+      <Filter>Source Files\General\kEmptySlot</Filter>
+    </ClInclude>
+    <ClInclude Include="NextClosestTime.h">
+      <Filter>Source Files\General\NextClosestTime</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestUnivaluePath.h">
+      <Filter>Source Files\General\LongestUnivaluePath</Filter>
+    </ClInclude>
+    <ClInclude Include="LicenseKeyFormat.h">
+      <Filter>Source Files\General\LicenseKeyFormat</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiralMatrix.h">
+      <Filter>Source Files\Array and Strings\SpiralMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="PlusOne.h">
+      <Filter>Source Files\Array and Strings\PlusOne</Filter>
+    </ClInclude>
+    <ClInclude Include="TrappingRainWater.h">
+      <Filter>Source Files\Array and Strings\TrappingRainWater</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstringK.h">
+      <Filter>Source Files\Array and Strings\LongestSubstringK</Filter>
+    </ClInclude>
+    <ClInclude Include="AddBoldTagInString.h">
+      <Filter>Source Files\Array and Strings\AddBoldTagInString</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOfLife.h">
+      <Filter>Source Files\Array and Strings\GameOfLife</Filter>
+    </ClInclude>
+    <ClInclude Include="OneEditDist.h">
+      <Filter>Source Files\Array and Strings\OneEditDist</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidPalindrome.h">
+      <Filter>Source Files\Array and Strings\ValidPalindrome</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidNumber.h">
+      <Filter>Source Files\Array and Strings\ValidNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidParentheses.h">
+      <Filter>Source Files\Array and Strings\ValidParentheses</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageSmoother.h">
+      <Filter>Source Files\Array and Strings\ImageSmoother</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoArrays.h">
+      <Filter>Source Files\Array and Strings\IntersectionOfTwoArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxConsecutiveOnes.h">
+      <Filter>Source Files\Array and Strings\MaxConsecutiveOnes</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxConsecutiveOnesFlip.h">
+      <Filter>Source Files\Array and Strings\MaxConsecutiveOnesFlip</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestPalindrome.h">
+      <Filter>Source Files\Array and Strings\ShortestPalindrome</Filter>
+    </ClInclude>
+    <ClInclude Include="SumQuery2.h">
+      <Filter>Source Files\Cram Level 1\SumQuery2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MinWindow.cpp">
+      <Filter>Source Files\Cram Level 1\MinWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="Stock.cpp">
+      <Filter>Source Files\Cram Level 1\Stock</Filter>
+    </ClCompile>
+    <ClCompile Include="SumQuery.cpp">
+      <Filter>Source Files\Cram Level 1\SumQuery</Filter>
+    </ClCompile>
+    <ClCompile Include="NumIslands.cpp">
+      <Filter>Source Files\Cram Level 1\NumIslands</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeIntervals.cpp">
+      <Filter>Source Files\Cram Level 1\MergeIntervals</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxSubarray.cpp">
+      <Filter>Source Files\Cram Level 1\MaxSubarray</Filter>
+    </ClCompile>
+    <ClCompile Include="MinNumCoins.cpp">
+      <Filter>Source Files\Cram Level 1\MinNumCoins</Filter>
+    </ClCompile>
+    <ClCompile Include="RepeatedStringMatch.cpp">
+      <Filter>Source Files\General\RepeatedStringMatch</Filter>
+    </ClCompile>
+    <ClCompile Include="kEmptySlot.cpp">
+      <Filter>Source Files\General\kEmptySlot</Filter>
+    </ClCompile>
+    <ClCompile Include="NextClosestTime.cpp">
+      <Filter>Source Files\General\NextClosestTime</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestUnivaluePath.cpp">
+      <Filter>Source Files\General\LongestUnivaluePath</Filter>
+    </ClCompile>
+    <ClCompile Include="LicenseKeyFormat.cpp">
+      <Filter>Source Files\General\LicenseKeyFormat</Filter>
+    </ClCompile>
+    <ClCompile Include="SpiralMatrix.cpp">
+      <Filter>Source Files\Array and Strings\SpiralMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="PlusOne.cpp">
+      <Filter>Source Files\Array and Strings\PlusOne</Filter>
+    </ClCompile>
+    <ClCompile Include="TrappingRainWater.cpp">
+      <Filter>Source Files\Array and Strings\TrappingRainWater</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstringK.cpp">
+      <Filter>Source Files\Array and Strings\LongestSubstringK</Filter>
+    </ClCompile>
+    <ClCompile Include="AddBoldTagInString.cpp">
+      <Filter>Source Files\Array and Strings\AddBoldTagInString</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOfLife.cpp">
+      <Filter>Source Files\Array and Strings\GameOfLife</Filter>
+    </ClCompile>
+    <ClCompile Include="OneEditDist.cpp">
+      <Filter>Source Files\Array and Strings\OneEditDist</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidPalindrome.cpp">
+      <Filter>Source Files\Array and Strings\ValidPalindrome</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidNumber.cpp">
+      <Filter>Source Files\Array and Strings\ValidNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidParentheses.cpp">
+      <Filter>Source Files\Array and Strings\ValidParentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageSmoother.cpp">
+      <Filter>Source Files\Array and Strings\ImageSmoother</Filter>
+    </ClCompile>
+    <ClCompile Include="IntersectionOfTwoArrays.cpp">
+      <Filter>Source Files\Array and Strings\IntersectionOfTwoArrays</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxConsecutiveOnes.cpp">
+      <Filter>Source Files\Array and Strings\MaxConsecutiveOnes</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxConsecutiveOnesFlip.cpp">
+      <Filter>Source Files\Array and Strings\MaxConsecutiveOnesFlip</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestPalindrome.cpp">
+      <Filter>Source Files\Array and Strings\ShortestPalindrome</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SumQuery2.cpp">
+      <Filter>Source Files\Cram Level 1\SumQuery2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
