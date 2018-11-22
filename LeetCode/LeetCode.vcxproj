@@ -81,11 +81,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddBoldTagInString.h" />
+    <ClInclude Include="FirstMissingPositive.h" />
+    <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="IntersectionOfTwoArrays.h" />
     <ClInclude Include="MaxConsecutiveOnes.h" />
     <ClInclude Include="MaxConsecutiveOnesFlip.h" />
+    <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="OneEditDist.h" />
     <ClInclude Include="kEmptySlot.h" />
     <ClInclude Include="LicenseKeyFormat.h" />
@@ -97,6 +100,7 @@
     <ClInclude Include="NextClosestTime.h" />
     <ClInclude Include="NumIslands.h" />
     <ClInclude Include="PlusOne.h" />
+    <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RepeatedStringMatch.h" />
     <ClInclude Include="ShortestPalindrome.h" />
     <ClInclude Include="SpiralMatrix.h" />
@@ -113,6 +117,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AddBoldTagInString.cpp" />
+    <ClCompile Include="FirstMissingPositive.cpp" />
+    <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
     <ClCompile Include="ImageSmoother.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
@@ -123,6 +129,7 @@
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
     <ClCompile Include="MinWindow.cpp" />
+    <ClCompile Include="MoveZeroes.cpp" />
     <ClCompile Include="NextClosestTime.cpp" />
     <ClCompile Include="NumIslands.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
@@ -130,6 +137,7 @@
     <ClCompile Include="MinNumCoins.cpp" />
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="PlusOne.cpp" />
+    <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />

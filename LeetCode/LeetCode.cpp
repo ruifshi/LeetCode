@@ -7,7 +7,11 @@
 //#include "ImageSmoother.h"
 //#include "IntersectionOfTwoArrays.h"
 //#include "MaxConsecutiveOnesFlip.h"
-#include "ShortestPalindrome.h"
+//#include "ShortestPalindrome.h"
+//#include "FirstMissingPositive.h"
+//#include "FirstUniqueCharacterInAString.h"
+//#include "MoveZeroes.h"
+#include "RemoveDuplicatesFromSortedArray.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -54,7 +58,26 @@ int _tmain(int argc, _TCHAR* argv[])
 	int out = output.findMaxConsecutiveOnesFlip(input);
 	*/
 
-	string out = output.shortestPalindrome("ananab");
+	//string out = output.shortestPalindrome("ananab");
+
+	/*
+	int array[5] = {7,8,9,11,12};
+	vector<int> input(array, array+5);
+
+	int out = output.firstMissingPositive(input);
+	*/
+
+	//int out = output.firstUniqChar("leetcode");
+
+	/*
+	int array[6] = {1,1,1,0,0,12};
+	vector<int> input(array, array+6);
+	output.moveZeroes(input);
+	*/
+
+	int array[10] = {0,0,1,1,1,2,2,3,3,4};
+	vector<int> input(array, array + 10);
+	int out = output.removeDuplicates(input);
 
 	return 0;
 }
