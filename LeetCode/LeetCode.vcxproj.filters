@@ -118,9 +118,39 @@
     <Filter Include="Source Files\Array and Strings\RemoveDuplicatesFromSortedArray">
       <UniqueIdentifier>{234d3e40-7a46-4491-9908-cbae7850a3f2}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="ReadMe.txt" />
+    <Filter Include="Source Files\Linked List">
+      <UniqueIdentifier>{acdaf7f8-c370-4ac3-89b7-9306ed64d86c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\InsertIntoACyclicSortedList">
+      <UniqueIdentifier>{cc0d7bd8-9245-400b-8d0c-54f38c5ac750}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\MergeKSortedLists">
+      <UniqueIdentifier>{5f730844-daea-4354-af51-414bdb36b1cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs">
+      <UniqueIdentifier>{2f621907-c3a5-4c75-9e2d-63416189992c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\InorderSuccessorInBST">
+      <UniqueIdentifier>{30ca26d7-ecb5-479a-9730-3a7fe48906d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\Evaluate Division">
+      <UniqueIdentifier>{3f34a0f0-978d-4357-931c-ff2e8feaf1f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\RobotRoomCleaner">
+      <UniqueIdentifier>{8804bdb7-2a6f-422e-a6fd-9b72edcfe685}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\RedundantConnectionII">
+      <UniqueIdentifier>{b8458559-bb5d-4966-935b-101bc835f969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\Course Schedule">
+      <UniqueIdentifier>{33e53a10-89eb-4e97-b475-39bb6aa38039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ValidateBinarySearchTree">
+      <UniqueIdentifier>{f09a6e79-08b5-4738-aa95-e53447ff64d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ClosestBinarySearchTreeValue">
+      <UniqueIdentifier>{943651b5-5fa1-494b-ac73-b96170a6b65f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -224,6 +254,33 @@
     </ClInclude>
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h">
       <Filter>Source Files\Array and Strings\RemoveDuplicatesFromSortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeKSortedLists.h">
+      <Filter>Source Files\Linked List\MergeKSortedLists</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertIntoACyclicSortedList.h">
+      <Filter>Source Files\Linked List\InsertIntoACyclicSortedList</Filter>
+    </ClInclude>
+    <ClInclude Include="InorderSuccessorInBST.h">
+      <Filter>Source Files\Trees and Graphs\InorderSuccessorInBST</Filter>
+    </ClInclude>
+    <ClInclude Include="EvaluateDivision.h">
+      <Filter>Source Files\Trees and Graphs\Evaluate Division</Filter>
+    </ClInclude>
+    <ClInclude Include="RobotRoomCleaner.h">
+      <Filter>Source Files\Trees and Graphs\RobotRoomCleaner</Filter>
+    </ClInclude>
+    <ClInclude Include="RedundantConnectionII.h">
+      <Filter>Source Files\Trees and Graphs\RedundantConnectionII</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseSchedule.h">
+      <Filter>Source Files\Trees and Graphs\Course Schedule</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidateBinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\ValidateBinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ClosestBinarySearchTreeValue.h">
+      <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValue</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -329,5 +386,37 @@
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp">
       <Filter>Source Files\Array and Strings\RemoveDuplicatesFromSortedArray</Filter>
     </ClCompile>
+    <ClCompile Include="MergeKSortedLists.cpp">
+      <Filter>Source Files\Linked List\MergeKSortedLists</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertIntoACyclicSortedList.cpp">
+      <Filter>Source Files\Linked List\InsertIntoACyclicSortedList</Filter>
+    </ClCompile>
+    <ClCompile Include="EvaluateDivision.cpp">
+      <Filter>Source Files\Trees and Graphs\Evaluate Division</Filter>
+    </ClCompile>
+    <ClCompile Include="InorderSuccessorInBST.cpp">
+      <Filter>Source Files\Trees and Graphs\InorderSuccessorInBST</Filter>
+    </ClCompile>
+    <ClCompile Include="RobotRoomCleaner.cpp">
+      <Filter>Source Files\Trees and Graphs\RobotRoomCleaner</Filter>
+    </ClCompile>
+    <ClCompile Include="RedundantConnectionII.cpp">
+      <Filter>Source Files\Trees and Graphs\RedundantConnectionII</Filter>
+    </ClCompile>
+    <ClCompile Include="CourseSchedule.cpp">
+      <Filter>Source Files\Trees and Graphs\Course Schedule</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidateBinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\ValidateBinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ClosestBinarySearchTreeValue.cpp">
+      <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValue</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

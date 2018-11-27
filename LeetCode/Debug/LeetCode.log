@@ -1,17 +1,19 @@
-﻿Build started 11/21/2018 8:28:22 PM.
+﻿Build started 11/27/2018 1:17:08 AM.
      1>Project "C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\LeetCode\LeetCode.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LeetCode.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt RemoveDuplicatesFromSortedArray.cpp LeetCode.cpp
-         LeetCode.cpp
-         RemoveDuplicatesFromSortedArray.cpp
-     1>c:\users\rui shi\documents\visual studio 2012\projects\leetcode\leetcode\removeduplicatesfromsortedarray.cpp(11): warning C4018: '<' : signed/unsigned mismatch
-         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LeetCode.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ClosestBinarySearchTreeValue.cpp
+         ClosestBinarySearchTreeValue.cpp
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rui Shi\Documents\Visual Studio 2012\Projects\LeetCode\Debug\LeetCode.lib" /MACHINE:X86 Debug\AddBoldTagInString.obj
+         Debug\ClosestBinarySearchTreeValue.obj
+         Debug\CourseSchedule.obj
+         Debug\EvaluateDivision.obj
          Debug\FirstMissingPositive.obj
          Debug\FirstUniqueCharacterInAString.obj
          Debug\GameOfLife.obj
          Debug\ImageSmoother.obj
+         Debug\InorderSuccessorInBST.obj
+         Debug\InsertIntoACyclicSortedList.obj
          Debug\IntersectionOfTwoArrays.obj
          Debug\kEmptySlot.obj
          Debug\LicenseKeyFormat.obj
@@ -19,6 +21,7 @@
          Debug\LongestUnivaluePath.obj
          Debug\MaxConsecutiveOnes.obj
          Debug\MaxConsecutiveOnesFlip.obj
+         Debug\MergeKSortedLists.obj
          Debug\MinWindow.obj
          Debug\MoveZeroes.obj
          Debug\NextClosestTime.obj
@@ -28,8 +31,10 @@
          Debug\MinNumCoins.obj
          Debug\OneEditDist.obj
          Debug\PlusOne.obj
+         Debug\RedundantConnectionII.obj
          Debug\RemoveDuplicatesFromSortedArray.obj
          Debug\RepeatedStringMatch.obj
+         Debug\RobotRoomCleaner.obj
          Debug\ShortestPalindrome.obj
          Debug\SpiralMatrix.obj
          Debug\SumQuery.obj
@@ -38,6 +43,7 @@
          Debug\LeetCode.obj
          Debug\SumQuery2.obj
          Debug\TrappingRainWater.obj
+         Debug\ValidateBinarySearchTree.obj
          Debug\ValidNumber.obj
          Debug\ValidPalindrome.obj
          Debug\ValidParentheses.obj
@@ -46,4 +52,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.29
+Time Elapsed 00:00:01.58
