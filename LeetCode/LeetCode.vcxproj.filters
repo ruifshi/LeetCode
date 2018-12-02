@@ -151,6 +151,21 @@
     <Filter Include="Source Files\Trees and Graphs\ClosestBinarySearchTreeValue">
       <UniqueIdentifier>{943651b5-5fa1-494b-ac73-b96170a6b65f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Recursion">
+      <UniqueIdentifier>{e5aaf946-d486-4814-b957-7db45021f0b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\Word Squares">
+      <UniqueIdentifier>{79576f0d-746f-42f5-a488-04800556d86d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\StrobogrammaticNumberII">
+      <UniqueIdentifier>{1ab286e7-3aee-4107-b347-86656212c5e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\WordSearchII">
+      <UniqueIdentifier>{a87e11b1-c4b0-49c1-abb1-89ebfa8fddbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\AndroidUnlockPatterns">
+      <UniqueIdentifier>{fe08e90a-094b-4b12-9502-4167b2682e0e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -282,6 +297,18 @@
     <ClInclude Include="ClosestBinarySearchTreeValue.h">
       <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValue</Filter>
     </ClInclude>
+    <ClInclude Include="WorldSquares.h">
+      <Filter>Source Files\Recursion\Word Squares</Filter>
+    </ClInclude>
+    <ClInclude Include="StrobogrammaticNumberII.h">
+      <Filter>Source Files\Recursion\StrobogrammaticNumberII</Filter>
+    </ClInclude>
+    <ClInclude Include="WordSearchII.h">
+      <Filter>Source Files\Recursion\WordSearchII</Filter>
+    </ClInclude>
+    <ClInclude Include="AndroidUnlockPatterns.h">
+      <Filter>Source Files\Recursion\AndroidUnlockPatterns</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -412,6 +439,18 @@
     </ClCompile>
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp">
       <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSquares.cpp">
+      <Filter>Source Files\Recursion\Word Squares</Filter>
+    </ClCompile>
+    <ClCompile Include="StrobogrammaticNumberII.cpp">
+      <Filter>Source Files\Recursion\StrobogrammaticNumberII</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearchII.cpp">
+      <Filter>Source Files\Recursion\WordSearchII</Filter>
+    </ClCompile>
+    <ClCompile Include="AndroidUnlockPatterns.cpp">
+      <Filter>Source Files\Recursion\AndroidUnlockPatterns</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

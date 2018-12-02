@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddBoldTagInString.h" />
+    <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="EvaluateDivision.h" />
@@ -112,6 +113,7 @@
     <ClInclude Include="RobotRoomCleaner.h" />
     <ClInclude Include="ShortestPalindrome.h" />
     <ClInclude Include="SpiralMatrix.h" />
+    <ClInclude Include="StrobogrammaticNumberII.h" />
     <ClInclude Include="SumQuery.h" />
     <ClInclude Include="Stock.h" />
     <ClInclude Include="MinWindow.h" />
@@ -123,9 +125,12 @@
     <ClInclude Include="ValidNumber.h" />
     <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="WordSearchII.h" />
+    <ClInclude Include="WorldSquares.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AddBoldTagInString.cpp" />
+    <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
@@ -158,6 +163,7 @@
     <ClCompile Include="RobotRoomCleaner.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />
+    <ClCompile Include="StrobogrammaticNumberII.cpp" />
     <ClCompile Include="SumQuery.cpp" />
     <ClCompile Include="Stock.cpp" />
     <ClCompile Include="stdafx.cpp">
@@ -171,6 +177,8 @@
     <ClCompile Include="ValidNumber.cpp" />
     <ClCompile Include="ValidPalindrome.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
+    <ClCompile Include="WordSearchII.cpp" />
+    <ClCompile Include="WordSquares.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

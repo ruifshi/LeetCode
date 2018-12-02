@@ -18,7 +18,11 @@
 //#include "EvaluateDivision.h"
 //#include "RedundantConnectionII.h"
 //#include "CourseSchedule.h"
-#include "ValidateBinarySearchTree.h"
+//#include "ValidateBinarySearchTree.h"
+//#include "WorldSquares.h"
+//#include "StrobogrammaticNumberII.h"
+//#include "WordSearchII.h"
+#include "AndroidUnlockPatterns.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -181,10 +185,50 @@ int _tmain(int argc, _TCHAR* argv[])
 	bool out = output.canFinish(3, prerequisites);
 	*/
 	
+	/*
 	TreeNode root(INT_MIN);
 	TreeNode a(INT_MIN);
 	root.left = &a;
 	bool out = output.isValidBST(&root);
+	*/
+
+	/*
+	vector<string> words;
+	words.push_back("abat");
+	words.push_back("baba");
+	words.push_back("atan");
+	words.push_back("atal");
+
+	vector<vector<string>> out = output.wordSquares(words);
+	*/
+
+	//vector<string> out = output.findStrobogrammatic(4);
+
+	/*
+	vector<string> words;
+	words.push_back("ab");
+	words.push_back("abb");
+	//words.push_back("eat");
+	//words.push_back("rain");
+
+	vector<vector<char>> board;
+	char array[2] = {'a', 'b'};
+	vector<char> vec(array, array + 2);
+	char array1[2] = {'c', 'd'};
+	vector<char> vec1(array1, array1 + 2);
+	//char array2[4] = {'i','h','k','r'};
+	//vector<char> vec2(array2, array2 + 4);
+	//char array3[4] = {'i','f','l','v'};
+	//vector<char> vec3(array3, array3 + 4);
+	board.push_back(vec);
+	board.push_back(vec1);
+	//board.push_back(vec2);
+	//board.push_back(vec3);
+
+	vector<string> out = output.findWords(board, words);
+	*/
+
+	int out = output.numberOfPatterns(1,9);
 
 	return 0;
 }
