@@ -1,4 +1,6 @@
-#include "string.h"
-#include "stdlib.h"
+#include <string>
+#include <vector>
 
-char* minWindow(char* s, char* t);
+using namespace std;
+
+string minWindow(string s, string t);

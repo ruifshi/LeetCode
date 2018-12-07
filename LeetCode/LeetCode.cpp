@@ -22,7 +22,17 @@
 //#include "WorldSquares.h"
 //#include "StrobogrammaticNumberII.h"
 //#include "WordSearchII.h"
-#include "AndroidUnlockPatterns.h"
+//#include "AndroidUnlockPatterns.h"
+//#include "MinWindow.h"
+//#include "ShortestDistanceFromAllBuildings.h"
+//#include "FindKthSmallestPairDistance.h"
+//#include "FindKPairsWithSmallestSums.h"
+//#include "RangeModule.h"
+//#include "RangeModule.h"
+//#include "LongestPalindromicSubstring.h"
+//#include "DiagonalTraverse.h"
+//#include "NextGreaterElementI.h"
+#include "PacificAtlanticWaterFlow.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -228,7 +238,102 @@ int _tmain(int argc, _TCHAR* argv[])
 	vector<string> out = output.findWords(board, words);
 	*/
 
-	int out = output.numberOfPatterns(1,9);
+	//int out = output.numberOfPatterns(1,9);
+
+	//string s = minWindow("ADOBECODEBANC", "ABC");
+
+	/*
+	int array[5] = {1,0,2,0,1};
+	vector<int> vec(array, array+5);
+	int array1[5] = {0,0,0,0,0};
+	vector<int> vec1(array1, array1+5);
+	int array2[5] = {0,0,1,0,0};
+	vector<int> vec2(array2, array2+5);
+
+	vector<vector<int>> grid;
+	grid.push_back(vec);
+	grid.push_back(vec1);
+	grid.push_back(vec2);
+
+	int out = output.shortestDistance(grid);
+	*/
+
+	/*
+	int array[3] = {1,3,1};
+	vector<int> vec(array, array+3);
+
+	int out = output.smallestDistancePair(vec, 1);
+	*/
+
+	/*
+	int array[11] = {10,-4,0,0,6,6,6,7,10,22,100};
+	vector<int> vec1(array, array+11);
+	int array1[6] = {3,5,6,7,8,100};
+	vector<int> vec2(array1, array1+6);
+
+	vector<pair<int, int>> out = output.kSmallestPairs(vec1, vec2, 20);
+	*/
+
+	/*
+	RangeModule input;
+
+	input.addRange(10, 20);
+	input.addRange(30, 35);
+	input.addRange(34, 40);
+	input.removeRange(14, 16);
+	bool out = input.queryRange(10, 14);
+	out = input.queryRange(13, 15);
+	out = input.queryRange(16, 17);
+	*/
+
+	//string s = output.longestPalindrome("ccc");
+
+	/*
+	int array[3] = {1,2,3};
+	int array1[3] = {4,5,6};
+	int array2[3] = {7,8,9};
+	vector<int> vec(array, array+3);
+	vector<int> vec1(array1, array1+3);
+	vector<int> vec2(array2, array2+3);
+
+	vector<vector<int>> input;
+	input.push_back(vec);
+	input.push_back(vec1);
+	input.push_back(vec2);
+
+	vector<int> out = output.findDiagonalOrder(input);
+	*/
+
+	/*
+	int array[3] = {4,1,2};
+	vector<int> input(array, array+3);
+	int array1[4] = {1,3,4,2};
+	vector<int> input1(array1, array1+3);
+
+	vector<int> out = output.nextGreaterElement(input, input1);
+	*/
+
+	int array[5] = {1,2,2,3,5};
+	int array1[5] = {3,2,3,4,4};
+	int array2[5] = {2,4,5,3,1};
+	int array3[5] = {6,7,1,4,5};
+	int array4[5] = {5,1,1,2,4};
+
+	vector<int> vec(array, array+5);
+	vector<int> vec1(array1, array1+5);
+	vector<int> vec2(array2, array2+5);
+	vector<int> vec3(array3, array3+5);
+	vector<int> vec4(array4, array4+5);
+
+	vector<vector<int>> matrix;
+
+	matrix.push_back(vec);
+	matrix.push_back(vec1);
+	matrix.push_back(vec2);
+	matrix.push_back(vec3);
+	matrix.push_back(vec4);
+
+	vector<pair<int, int>> out = output.pacificAtlantic(matrix);
 
 	return 0;
 }

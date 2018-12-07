@@ -166,6 +166,48 @@
     <Filter Include="Source Files\Recursion\AndroidUnlockPatterns">
       <UniqueIdentifier>{fe08e90a-094b-4b12-9502-4167b2682e0e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching">
+      <UniqueIdentifier>{f421b178-9da7-414d-af65-f1af3f83f9d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\KthLargestElementInAnArray">
+      <UniqueIdentifier>{5226c971-065f-4499-85e3-090cd4e03200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ShortestDistanceFromAllBuildings">
+      <UniqueIdentifier>{a30d45cf-ae3b-4d28-9a84-b9d969e67528}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindKthSmallestPairDistance">
+      <UniqueIdentifier>{0dad7b79-bd80-4d5b-9c43-59b483b3edbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindKPairsWithSmallestSums">
+      <UniqueIdentifier>{37ca7cf9-8370-40a9-979b-a9ae220b88dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RangeModule">
+      <UniqueIdentifier>{2bd56b2e-1781-49cc-8dff-46867251f803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\Sqrtx">
+      <UniqueIdentifier>{eab14898-0156-4087-9bd8-325efe1104d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\InsertInterval">
+      <UniqueIdentifier>{23dd714b-b169-427a-9c2f-a769514b7bf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SortTransformedArray">
+      <UniqueIdentifier>{bca6dba2-a540-4fc3-a10b-1d7765b80004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LongestPalindromicSubstring">
+      <UniqueIdentifier>{c2362a78-0956-43e9-bc96-283a4a9acdc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\DiagonalTraverse">
+      <UniqueIdentifier>{6589f3b7-30ff-4fa8-8e38-129cd818d300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\NextGreaterElementI">
+      <UniqueIdentifier>{f0a9be6b-c307-483e-880d-a7de635e5a31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PacificAtlanticWaterFlow">
+      <UniqueIdentifier>{7e63fca1-8d89-44fd-a7f3-7fef65d5680f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\EvaluateReversePolishNotation">
+      <UniqueIdentifier>{c9848b68-476e-47f6-840d-6df7a96f8497}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -309,6 +351,45 @@
     <ClInclude Include="AndroidUnlockPatterns.h">
       <Filter>Source Files\Recursion\AndroidUnlockPatterns</Filter>
     </ClInclude>
+    <ClInclude Include="KthLargestElementInAnArray.h">
+      <Filter>Source Files\Sorting and Searching\KthLargestElementInAnArray</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestDistanceFromAllBuildings.h">
+      <Filter>Source Files\Sorting and Searching\ShortestDistanceFromAllBuildings</Filter>
+    </ClInclude>
+    <ClInclude Include="FindKthSmallestPairDistance.h">
+      <Filter>Source Files\Sorting and Searching\FindKthSmallestPairDistance</Filter>
+    </ClInclude>
+    <ClInclude Include="FindKPairsWithSmallestSums.h">
+      <Filter>Source Files\Sorting and Searching\FindKPairsWithSmallestSums</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeModule.h">
+      <Filter>Source Files\Sorting and Searching\RangeModule</Filter>
+    </ClInclude>
+    <ClInclude Include="Sqrtx.h">
+      <Filter>Source Files\Sorting and Searching\Sqrtx</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertInterval.h">
+      <Filter>Source Files\Sorting and Searching\InsertInterval</Filter>
+    </ClInclude>
+    <ClInclude Include="SortTransformedArray.h">
+      <Filter>Source Files\Sorting and Searching\SortTransformedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstring.h">
+      <Filter>Source Files\Sorting and Searching\LongestPalindromicSubstring</Filter>
+    </ClInclude>
+    <ClInclude Include="DiagonalTraverse.h">
+      <Filter>Source Files\Sorting and Searching\DiagonalTraverse</Filter>
+    </ClInclude>
+    <ClInclude Include="NextGreaterElementI.h">
+      <Filter>Source Files\Sorting and Searching\NextGreaterElementI</Filter>
+    </ClInclude>
+    <ClInclude Include="PacificAtlanticWaterFlow.h">
+      <Filter>Source Files\Sorting and Searching\PacificAtlanticWaterFlow</Filter>
+    </ClInclude>
+    <ClInclude Include="EvaluateReversePolishNotation.h">
+      <Filter>Source Files\Sorting and Searching\EvaluateReversePolishNotation</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -451,6 +532,45 @@
     </ClCompile>
     <ClCompile Include="AndroidUnlockPatterns.cpp">
       <Filter>Source Files\Recursion\AndroidUnlockPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="KthLargestElementInAnArray.cpp">
+      <Filter>Source Files\Sorting and Searching\KthLargestElementInAnArray</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestDistanceFromAllBuildings.cpp">
+      <Filter>Source Files\Sorting and Searching\ShortestDistanceFromAllBuildings</Filter>
+    </ClCompile>
+    <ClCompile Include="FindKthSmallestPairDistance.cpp">
+      <Filter>Source Files\Sorting and Searching\FindKthSmallestPairDistance</Filter>
+    </ClCompile>
+    <ClCompile Include="FindKPairsWithSmallestSums.cpp">
+      <Filter>Source Files\Sorting and Searching\FindKPairsWithSmallestSums</Filter>
+    </ClCompile>
+    <ClCompile Include="RangeModule.cpp">
+      <Filter>Source Files\Sorting and Searching\RangeModule</Filter>
+    </ClCompile>
+    <ClCompile Include="Sqrtx.cpp">
+      <Filter>Source Files\Sorting and Searching\Sqrtx</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertInterval.cpp">
+      <Filter>Source Files\Sorting and Searching\InsertInterval</Filter>
+    </ClCompile>
+    <ClCompile Include="SortTransformedArray.cpp">
+      <Filter>Source Files\Sorting and Searching\SortTransformedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestPalindromicSubstring.cpp">
+      <Filter>Source Files\Sorting and Searching\LongestPalindromicSubstring</Filter>
+    </ClCompile>
+    <ClCompile Include="DiagonalTraverse.cpp">
+      <Filter>Source Files\Sorting and Searching\DiagonalTraverse</Filter>
+    </ClCompile>
+    <ClCompile Include="NextGreaterElementI.cpp">
+      <Filter>Source Files\Sorting and Searching\NextGreaterElementI</Filter>
+    </ClCompile>
+    <ClCompile Include="PacificAtlanticWaterFlow.cpp">
+      <Filter>Source Files\Sorting and Searching\PacificAtlanticWaterFlow</Filter>
+    </ClCompile>
+    <ClCompile Include="EvaluateReversePolishNotation.cpp">
+      <Filter>Source Files\Sorting and Searching\EvaluateReversePolishNotation</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
