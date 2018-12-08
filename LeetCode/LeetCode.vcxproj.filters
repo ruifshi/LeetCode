@@ -208,6 +208,9 @@
     <Filter Include="Source Files\Sorting and Searching\EvaluateReversePolishNotation">
       <UniqueIdentifier>{c9848b68-476e-47f6-840d-6df7a96f8497}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Dynamic Programming">
+      <UniqueIdentifier>{fce6ff31-2908-4dae-8c4e-0e788d3970f7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -390,6 +393,9 @@
     <ClInclude Include="EvaluateReversePolishNotation.h">
       <Filter>Source Files\Sorting and Searching\EvaluateReversePolishNotation</Filter>
     </ClInclude>
+    <ClInclude Include="DecodeWays.h">
+      <Filter>Source Files\Dynamic Programming</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -571,6 +577,9 @@
     </ClCompile>
     <ClCompile Include="EvaluateReversePolishNotation.cpp">
       <Filter>Source Files\Sorting and Searching\EvaluateReversePolishNotation</Filter>
+    </ClCompile>
+    <ClCompile Include="DecodeWays.cpp">
+      <Filter>Source Files\Dynamic Programming</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

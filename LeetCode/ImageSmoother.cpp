@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "ImageSmoother.h"
+#include <algorithm>
 
 vector<vector<int>> Solution::imageSmoother(vector<vector<int>>& M) {
 	int row = M.size();

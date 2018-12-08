@@ -32,7 +32,8 @@
 //#include "LongestPalindromicSubstring.h"
 //#include "DiagonalTraverse.h"
 //#include "NextGreaterElementI.h"
-#include "PacificAtlanticWaterFlow.h"
+//#include "PacificAtlanticWaterFlow.h"
+#include "DecodeWays.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -313,6 +314,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	vector<int> out = output.nextGreaterElement(input, input1);
 	*/
 
+	/*
 	int array[5] = {1,2,2,3,5};
 	int array1[5] = {3,2,3,4,4};
 	int array2[5] = {2,4,5,3,1};
@@ -334,6 +336,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	matrix.push_back(vec4);
 
 	vector<pair<int, int>> out = output.pacificAtlantic(matrix);
+	*/
+
+	int ways = output.numDecodings("12");
 
 	return 0;
 }

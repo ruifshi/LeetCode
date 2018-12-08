@@ -2,6 +2,7 @@
 #include "LongestUnivaluePath.h"
 #include "math.h"
 
+#include <algorithm>
 #include <vector>
 
 using namespace std;

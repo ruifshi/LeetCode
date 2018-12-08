@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "InsertInterval.h"
+#include <algorithm>
 
 vector<Interval> Solution::insert(vector<Interval>& intervals, Interval newInterval) {
 	vector<Interval> ans;

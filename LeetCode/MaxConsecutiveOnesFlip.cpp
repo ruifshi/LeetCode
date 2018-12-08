@@ -1,6 +1,8 @@
 #include "stdafx.h"
 #include "MaxConsecutiveOnesFlip.h"
 
+#include <algorithm>
+
 int Solution::findMaxConsecutiveOnesFlip(vector<int>& nums) {
     int ones = 0, prev_ones = 0, max_ones = 0, size = nums.size();
     for (int i = 0; i < size; ++i)

@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "GameOfLife.h"
+#include <algorithm>
 
 void Solution::gameOfLife(vector<vector<int>>& board) {
     int m = board.size(), n = m ? board[0].size() : 0;

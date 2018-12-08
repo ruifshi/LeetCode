@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "LongestPalindromicSubstring.h"
+#include <algorithm>
 
 string Solution::longestPalindrome(string s) {
 	if(s.size() == 0 || s == "") {

@@ -1,6 +1,8 @@
 #include "stdafx.h"
 #include "TrappingRainWater.h"
 
+#include <algorithm>
+
 int Solution::trap(vector<int>& height) {
 	if(height.empty() || height.size() == 1) {
 		return 0;

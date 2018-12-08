@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "ClosestBinarySearchTreeValue.h"
-#include "math.h"
+#include <cmath>
 
 int Solution::closestValue(TreeNode* root, double target) {
 	/*

@@ -1,6 +1,8 @@
 #include "stdafx.h"
 #include "RangeModule.h"
 
+#include <algorithm>
+
 void RangeModule::addRange(int left, int right) {
     int n = invals.size();
     vector<pair<int, int>> tmp;
