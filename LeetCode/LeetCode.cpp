@@ -33,7 +33,11 @@
 //#include "DiagonalTraverse.h"
 //#include "NextGreaterElementI.h"
 //#include "PacificAtlanticWaterFlow.h"
-#include "DecodeWays.h"
+//#include "DecodeWays.h"
+//#include "WordBreak.h"
+//#include "SentenceScreenFitting.h"
+//#include "MaximumVacationDays.h"
+#include "MinimumPathSum.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -338,7 +342,27 @@ int _tmain(int argc, _TCHAR* argv[])
 	vector<pair<int, int>> out = output.pacificAtlantic(matrix);
 	*/
 
-	int ways = output.numDecodings("12");
+	//int ways = output.numDecodings("226");
+	
+	//vector<string> Dict = { "go","goal","goals","special" };
+
+	//bool contains = output.wordBreak("goalspecial", Dict);
+
+	/*
+	vector<string> intput = {"a", "bcd", "e"};
+	int out = output.wordsTyping(intput, 3, 6);
+	*/
+
+	/*
+	vector<vector<int>> flights = { {0,1,1}, {1,0,1}, {1,1,0} };
+	vector<vector<int>> days = { {1,3,1}, {6,0,3}, {3,3,3} };
+
+	int vaca = output.maxVacationDays(flights, days);
+	*/
+
+	vector<vector<int>> grid = { {1,3,1}, {1,5,1}, {4,2,1} };
+
+	int out = output.minPathSum(grid);
 
 	return 0;
 }

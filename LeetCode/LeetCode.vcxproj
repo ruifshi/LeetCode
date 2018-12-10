@@ -87,6 +87,7 @@
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DiagonalTraverse.h" />
+    <ClInclude Include="EditDistance.h" />
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
     <ClInclude Include="FindKPairsWithSmallestSums.h" />
@@ -94,6 +95,7 @@
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="GameOfLife.h" />
+    <ClInclude Include="HouseRobberII.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="InorderSuccessorInBST.h" />
     <ClInclude Include="InsertInterval.h" />
@@ -103,7 +105,9 @@
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="MaxConsecutiveOnes.h" />
     <ClInclude Include="MaxConsecutiveOnesFlip.h" />
+    <ClInclude Include="MaximumVacationDays.h" />
     <ClInclude Include="MergeKSortedLists.h" />
+    <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="NextGreaterElementI.h" />
     <ClInclude Include="OneEditDist.h" />
@@ -123,6 +127,7 @@
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RepeatedStringMatch.h" />
     <ClInclude Include="RobotRoomCleaner.h" />
+    <ClInclude Include="SentenceScreenFitting.h" />
     <ClInclude Include="ShortestDistanceFromAllBuildings.h" />
     <ClInclude Include="ShortestPalindrome.h" />
     <ClInclude Include="SortTransformedArray.h" />
@@ -140,6 +145,7 @@
     <ClInclude Include="ValidNumber.h" />
     <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WorldSquares.h" />
   </ItemGroup>
@@ -150,6 +156,7 @@
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DiagonalTraverse.cpp" />
+    <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="EvaluateReversePolishNotation.cpp" />
     <ClCompile Include="FindKPairsWithSmallestSums.cpp" />
@@ -157,6 +164,7 @@
     <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
+    <ClCompile Include="HouseRobberII.cpp" />
     <ClCompile Include="ImageSmoother.cpp" />
     <ClCompile Include="InorderSuccessorInBST.cpp" />
     <ClCompile Include="InsertInterval.cpp" />
@@ -170,7 +178,9 @@
     <ClCompile Include="LongestUnivaluePath.cpp" />
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
+    <ClCompile Include="MaximumVacationDays.cpp" />
     <ClCompile Include="MergeKSortedLists.cpp" />
+    <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinWindow.cpp" />
     <ClCompile Include="MoveZeroes.cpp" />
     <ClCompile Include="NextClosestTime.cpp" />
@@ -187,6 +197,7 @@
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
     <ClCompile Include="RobotRoomCleaner.cpp" />
+    <ClCompile Include="SentenceScreenFitting.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />
@@ -206,6 +217,7 @@
     <ClCompile Include="ValidNumber.cpp" />
     <ClCompile Include="ValidPalindrome.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
+    <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordSearchII.cpp" />
     <ClCompile Include="WordSquares.cpp" />
   </ItemGroup>

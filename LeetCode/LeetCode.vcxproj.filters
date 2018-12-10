@@ -211,6 +211,27 @@
     <Filter Include="Source Files\Dynamic Programming">
       <UniqueIdentifier>{fce6ff31-2908-4dae-8c4e-0e788d3970f7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Dynamic Programming\DecodeWays">
+      <UniqueIdentifier>{195b915c-a0ca-445f-9b49-41853215d65f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\WordBreak">
+      <UniqueIdentifier>{c7b85bc1-2461-4460-a538-2f10bb175725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\SentenceScreenFitting">
+      <UniqueIdentifier>{a9c12971-1dab-4029-bff8-d213b1371e39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MaximumVacationDays">
+      <UniqueIdentifier>{51ec9928-1c84-438d-9ee6-f278974ee7ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\EditDistance">
+      <UniqueIdentifier>{040e6af2-351b-45f2-9afa-e2ea64d231f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MinimumPathSum">
+      <UniqueIdentifier>{65537b69-40ee-4614-8e1a-01e1bed8e7dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\HouseRobberII">
+      <UniqueIdentifier>{1043050b-0e75-4618-a4a5-fe05bad07bde}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -394,7 +415,25 @@
       <Filter>Source Files\Sorting and Searching\EvaluateReversePolishNotation</Filter>
     </ClInclude>
     <ClInclude Include="DecodeWays.h">
-      <Filter>Source Files\Dynamic Programming</Filter>
+      <Filter>Source Files\Dynamic Programming\DecodeWays</Filter>
+    </ClInclude>
+    <ClInclude Include="WordBreak.h">
+      <Filter>Source Files\Dynamic Programming\WordBreak</Filter>
+    </ClInclude>
+    <ClInclude Include="SentenceScreenFitting.h">
+      <Filter>Source Files\Dynamic Programming\SentenceScreenFitting</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumVacationDays.h">
+      <Filter>Source Files\Dynamic Programming\MaximumVacationDays</Filter>
+    </ClInclude>
+    <ClInclude Include="EditDistance.h">
+      <Filter>Source Files\Dynamic Programming\EditDistance</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumPathSum.h">
+      <Filter>Source Files\Dynamic Programming\MinimumPathSum</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobberII.h">
+      <Filter>Source Files\Dynamic Programming\HouseRobberII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -579,7 +618,25 @@
       <Filter>Source Files\Sorting and Searching\EvaluateReversePolishNotation</Filter>
     </ClCompile>
     <ClCompile Include="DecodeWays.cpp">
-      <Filter>Source Files\Dynamic Programming</Filter>
+      <Filter>Source Files\Dynamic Programming\DecodeWays</Filter>
+    </ClCompile>
+    <ClCompile Include="WordBreak.cpp">
+      <Filter>Source Files\Dynamic Programming\WordBreak</Filter>
+    </ClCompile>
+    <ClCompile Include="SentenceScreenFitting.cpp">
+      <Filter>Source Files\Dynamic Programming\SentenceScreenFitting</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumVacationDays.cpp">
+      <Filter>Source Files\Dynamic Programming\MaximumVacationDays</Filter>
+    </ClCompile>
+    <ClCompile Include="EditDistance.cpp">
+      <Filter>Source Files\Dynamic Programming\EditDistance</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumPathSum.cpp">
+      <Filter>Source Files\Dynamic Programming\MinimumPathSum</Filter>
+    </ClCompile>
+    <ClCompile Include="HouseRobberII.cpp">
+      <Filter>Source Files\Dynamic Programming\HouseRobberII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,3 +1,9 @@
-﻿  ClosestBinarySearchTreeValue.cpp
-c:\users\rui shi\documents\visual studio 2017\projects\leetcode\leetcode\closestbinarysearchtreevalue.cpp(18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  LeetCode.vcxproj -> C:\Users\Rui Shi\Documents\Visual Studio 2017\Projects\LeetCode\Debug\LeetCode.exe
+﻿  HouseRobberII.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\houserobberii.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\houserobberii.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  MaximumVacationDays.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\maximumvacationdays.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\maximumvacationdays.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  MinimumPathSum.cpp
+  Generating Code...
+  LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe
