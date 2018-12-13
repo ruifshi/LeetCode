@@ -83,9 +83,11 @@
   <ItemGroup>
     <ClInclude Include="AddBoldTagInString.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
+    <ClInclude Include="BinarySearchTreeIterator.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="DecodeWays.h" />
+    <ClInclude Include="DesignTicTacToe.h" />
     <ClInclude Include="DiagonalTraverse.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="EvaluateDivision.h" />
@@ -109,6 +111,7 @@
     <ClInclude Include="MergeKSortedLists.h" />
     <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MoveZeroes.h" />
+    <ClInclude Include="MovingAverageFromDataStream.h" />
     <ClInclude Include="NextGreaterElementI.h" />
     <ClInclude Include="OneEditDist.h" />
     <ClInclude Include="kEmptySlot.h" />
@@ -121,8 +124,10 @@
     <ClInclude Include="NextClosestTime.h" />
     <ClInclude Include="NumIslands.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
+    <ClInclude Include="PeekingIterator.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="RangeModule.h" />
+    <ClInclude Include="RangeSumQuery2D.h" />
     <ClInclude Include="RedundantConnectionII.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RepeatedStringMatch.h" />
@@ -148,13 +153,16 @@
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WorldSquares.h" />
+    <ClInclude Include="ZigzagIterator.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AddBoldTagInString.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
+    <ClCompile Include="BinarySearchTreeIterator.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
+    <ClCompile Include="DesignTicTacToe.cpp" />
     <ClCompile Include="DiagonalTraverse.cpp" />
     <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
@@ -183,6 +191,7 @@
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinWindow.cpp" />
     <ClCompile Include="MoveZeroes.cpp" />
+    <ClCompile Include="MovingAverageFromDataStream.cpp" />
     <ClCompile Include="NextClosestTime.cpp" />
     <ClCompile Include="NextGreaterElementI.cpp" />
     <ClCompile Include="NumIslands.cpp" />
@@ -191,8 +200,10 @@
     <ClCompile Include="MinNumCoins.cpp" />
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
+    <ClCompile Include="PeekingIterator.cpp" />
     <ClCompile Include="PlusOne.cpp" />
     <ClCompile Include="RangeModule.cpp" />
+    <ClCompile Include="RangeSumQuery2D.cpp" />
     <ClCompile Include="RedundantConnectionII.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
@@ -220,6 +231,7 @@
     <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordSearchII.cpp" />
     <ClCompile Include="WordSquares.cpp" />
+    <ClCompile Include="ZigzagIterator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

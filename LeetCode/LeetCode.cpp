@@ -37,11 +37,13 @@
 //#include "WordBreak.h"
 //#include "SentenceScreenFitting.h"
 //#include "MaximumVacationDays.h"
-#include "MinimumPathSum.h"
+//#include "MinimumPathSum.h"
+//#include "MovingAverageFromDataStream.h"
+#include "BinarySearchTreeIterator.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution output;
+	//Solution output;
 
 	/*
 	bool out = output.isNumber(" 99e2.5 ");
@@ -360,9 +362,29 @@ int _tmain(int argc, _TCHAR* argv[])
 	int vaca = output.maxVacationDays(flights, days);
 	*/
 
+	/*
 	vector<vector<int>> grid = { {1,3,1}, {1,5,1}, {4,2,1} };
 
 	int out = output.minPathSum(grid);
+	*/
+
+	/*
+	MovingAverage move(3);
+	move.next(1);
+	move.next(10);
+	move.next(3);
+	move.next(5);
+	*/
+
+	TreeNode a(1);
+	TreeNode b(2);
+	TreeNode c(3);
+
+	a.left = &b;
+	a.right = &c;
+
+	BSTIterator it(&a);
+	int val = it.next();
 
 	return 0;
 }

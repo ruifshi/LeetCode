@@ -232,6 +232,27 @@
     <Filter Include="Source Files\Dynamic Programming\HouseRobberII">
       <UniqueIdentifier>{1043050b-0e75-4618-a4a5-fe05bad07bde}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Design">
+      <UniqueIdentifier>{1db6c814-7cd0-4a07-b0a8-49e5e33eef59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\MovingAverageFromDataStream">
+      <UniqueIdentifier>{3d62ccbe-76e8-4e86-b5e3-ff9967377ab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\PeekingIterator">
+      <UniqueIdentifier>{3f38984d-f33c-4f54-b1c8-d7772beef29a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\BinarySearchTreeIterator">
+      <UniqueIdentifier>{451bdb64-d179-4d77-a4ae-65b02f2c4940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\ZigzagIterator">
+      <UniqueIdentifier>{156e6534-eb60-4c67-b120-c86f5b28f52c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\DesignTicTacToe">
+      <UniqueIdentifier>{f9065065-417c-4932-be4c-07e5f74578af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\RangeSumQuery2D">
+      <UniqueIdentifier>{dcbc28c3-b07a-47a4-928b-dd25131b0d41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -435,6 +456,24 @@
     <ClInclude Include="HouseRobberII.h">
       <Filter>Source Files\Dynamic Programming\HouseRobberII</Filter>
     </ClInclude>
+    <ClInclude Include="MovingAverageFromDataStream.h">
+      <Filter>Source Files\Design\MovingAverageFromDataStream</Filter>
+    </ClInclude>
+    <ClInclude Include="PeekingIterator.h">
+      <Filter>Source Files\Design\PeekingIterator</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchTreeIterator.h">
+      <Filter>Source Files\Design\BinarySearchTreeIterator</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigzagIterator.h">
+      <Filter>Source Files\Design\ZigzagIterator</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignTicTacToe.h">
+      <Filter>Source Files\Design\DesignTicTacToe</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeSumQuery2D.h">
+      <Filter>Source Files\Design\RangeSumQuery2D</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -637,6 +676,24 @@
     </ClCompile>
     <ClCompile Include="HouseRobberII.cpp">
       <Filter>Source Files\Dynamic Programming\HouseRobberII</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingAverageFromDataStream.cpp">
+      <Filter>Source Files\Design\MovingAverageFromDataStream</Filter>
+    </ClCompile>
+    <ClCompile Include="PeekingIterator.cpp">
+      <Filter>Source Files\Design\PeekingIterator</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTreeIterator.cpp">
+      <Filter>Source Files\Design\BinarySearchTreeIterator</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigzagIterator.cpp">
+      <Filter>Source Files\Design\ZigzagIterator</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignTicTacToe.cpp">
+      <Filter>Source Files\Design\DesignTicTacToe</Filter>
+    </ClCompile>
+    <ClCompile Include="RangeSumQuery2D.cpp">
+      <Filter>Source Files\Design\RangeSumQuery2D</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

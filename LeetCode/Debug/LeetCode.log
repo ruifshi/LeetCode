@@ -1,9 +1,9 @@
-﻿  HouseRobberII.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\houserobberii.cpp(21): warning C4018: '<': signed/unsigned mismatch
-c:\users\rui shi\source\repos\leetcode\leetcode\houserobberii.cpp(28): warning C4018: '<': signed/unsigned mismatch
-  MaximumVacationDays.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\maximumvacationdays.cpp(15): warning C4018: '<': signed/unsigned mismatch
-c:\users\rui shi\source\repos\leetcode\leetcode\maximumvacationdays.cpp(18): warning C4018: '<': signed/unsigned mismatch
-  MinimumPathSum.cpp
+﻿  DesignTicTacToe.cpp
+  RangeSumQuery2D.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  LeetCode.cpp
   Generating Code...
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe
