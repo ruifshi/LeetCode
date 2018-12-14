@@ -253,6 +253,15 @@
     <Filter Include="Source Files\Design\RangeSumQuery2D">
       <UniqueIdentifier>{dcbc28c3-b07a-47a4-928b-dd25131b0d41}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Others">
+      <UniqueIdentifier>{04ec1b61-ceba-4800-bf8b-f9fbd9c6f6e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Others\UTF8Validation">
+      <UniqueIdentifier>{0838cedd-b426-430b-b368-d63911fc3c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Others\MaximumProductOfWordLengths">
+      <UniqueIdentifier>{03bce76f-a5f0-4035-aafe-ba947ce8b464}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -474,6 +483,12 @@
     <ClInclude Include="RangeSumQuery2D.h">
       <Filter>Source Files\Design\RangeSumQuery2D</Filter>
     </ClInclude>
+    <ClInclude Include="UTF8Validation.h">
+      <Filter>Source Files\Others\UTF8Validation</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumProductOfWordLengths.h">
+      <Filter>Source Files\Others\MaximumProductOfWordLengths</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -694,6 +709,12 @@
     </ClCompile>
     <ClCompile Include="RangeSumQuery2D.cpp">
       <Filter>Source Files\Design\RangeSumQuery2D</Filter>
+    </ClCompile>
+    <ClCompile Include="UTF8Validation.cpp">
+      <Filter>Source Files\Others\UTF8Validation</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumProductOfWordLengths.cpp">
+      <Filter>Source Files\Others\MaximumProductOfWordLengths</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

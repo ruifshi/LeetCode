@@ -107,6 +107,7 @@
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="MaxConsecutiveOnes.h" />
     <ClInclude Include="MaxConsecutiveOnesFlip.h" />
+    <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="MaximumVacationDays.h" />
     <ClInclude Include="MergeKSortedLists.h" />
     <ClInclude Include="MinimumPathSum.h" />
@@ -146,6 +147,7 @@
     <ClInclude Include="SumQuery2.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TrappingRainWater.h" />
+    <ClInclude Include="UTF8Validation.h" />
     <ClInclude Include="ValidateBinarySearchTree.h" />
     <ClInclude Include="ValidNumber.h" />
     <ClInclude Include="ValidPalindrome.h" />
@@ -186,6 +188,7 @@
     <ClCompile Include="LongestUnivaluePath.cpp" />
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
+    <ClCompile Include="MaximumProductOfWordLengths.cpp" />
     <ClCompile Include="MaximumVacationDays.cpp" />
     <ClCompile Include="MergeKSortedLists.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
@@ -224,6 +227,7 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
+    <ClCompile Include="UTF8Validation.cpp" />
     <ClCompile Include="ValidateBinarySearchTree.cpp" />
     <ClCompile Include="ValidNumber.cpp" />
     <ClCompile Include="ValidPalindrome.cpp" />
