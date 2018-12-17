@@ -52,32 +52,8 @@
     <Filter Include="Source Files\General\LicenseKeyFormat">
       <UniqueIdentifier>{2742a0c4-77a5-4843-a21a-33fa3174249c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Cram Level 1">
-      <UniqueIdentifier>{4185b456-2107-43c1-9328-f6cb023e54b6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\NumIslands">
-      <UniqueIdentifier>{7f833220-94f6-4ffb-9e59-0085f5df0ee6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\MinNumCoins">
-      <UniqueIdentifier>{b5177de0-c72d-470f-82e9-2c0b60808d6d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\MinWindow">
-      <UniqueIdentifier>{be13c94d-24a0-4704-a660-21b25ac706dc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\Stock">
-      <UniqueIdentifier>{cac811ea-090c-45d1-807e-bab8e938ab4a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\SumQuery">
-      <UniqueIdentifier>{76b511ca-62a2-4e9e-9e50-5486ef3f29e3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\MergeIntervals">
-      <UniqueIdentifier>{2c360903-25da-4883-9e69-b78a45a6dcd3}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\General\RepeatedStringMatch">
       <UniqueIdentifier>{61ae9a8e-a542-40b7-bbe5-dfad9fc28c11}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\MaxSubarray">
-      <UniqueIdentifier>{bfe84cae-77ab-422f-93cc-6097d3234f82}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Array and Strings\ValidPalindrome">
       <UniqueIdentifier>{bceff045-45a2-4539-ba52-ce597e589065}</UniqueIdentifier>
@@ -102,9 +78,6 @@
     </Filter>
     <Filter Include="Source Files\Array and Strings\ShortestPalindrome">
       <UniqueIdentifier>{e19c7412-7455-40de-9399-5d262a704601}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Cram Level 1\SumQuery2">
-      <UniqueIdentifier>{10b69005-aa98-4f23-b895-25e911ddc8a8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Array and Strings\FirstMissingPositive">
       <UniqueIdentifier>{81212a4d-1bd3-47ab-809b-45ef4cfb1faf}</UniqueIdentifier>
@@ -268,6 +241,30 @@
     <Filter Include="Source Files\Recursion\WordSquares">
       <UniqueIdentifier>{79576f0d-746f-42f5-a488-04800556d86d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\MaxSubarray">
+      <UniqueIdentifier>{bfe84cae-77ab-422f-93cc-6097d3234f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MergeIntervals">
+      <UniqueIdentifier>{2c360903-25da-4883-9e69-b78a45a6dcd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\NumIslands">
+      <UniqueIdentifier>{7f833220-94f6-4ffb-9e59-0085f5df0ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\Stock">
+      <UniqueIdentifier>{cac811ea-090c-45d1-807e-bab8e938ab4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MinNumCoins">
+      <UniqueIdentifier>{b5177de0-c72d-470f-82e9-2c0b60808d6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinWindow">
+      <UniqueIdentifier>{be13c94d-24a0-4704-a660-21b25ac706dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\SumQuery">
+      <UniqueIdentifier>{76b511ca-62a2-4e9e-9e50-5486ef3f29e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\SumQuery2">
+      <UniqueIdentifier>{10b69005-aa98-4f23-b895-25e911ddc8a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -277,25 +274,25 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="MinWindow.h">
-      <Filter>Source Files\Cram Level 1\MinWindow</Filter>
+      <Filter>Source Files\Sorting and Searching\MinWindow</Filter>
     </ClInclude>
     <ClInclude Include="Stock.h">
-      <Filter>Source Files\Cram Level 1\Stock</Filter>
+      <Filter>Source Files\Array and Strings\Stock</Filter>
     </ClInclude>
     <ClInclude Include="SumQuery.h">
-      <Filter>Source Files\Cram Level 1\SumQuery</Filter>
+      <Filter>Source Files\Dynamic Programming\SumQuery</Filter>
     </ClInclude>
     <ClInclude Include="NumIslands.h">
-      <Filter>Source Files\Cram Level 1\NumIslands</Filter>
+      <Filter>Source Files\Trees and Graphs\NumIslands</Filter>
     </ClInclude>
     <ClInclude Include="MergeIntervals.h">
-      <Filter>Source Files\Cram Level 1\MergeIntervals</Filter>
+      <Filter>Source Files\Sorting and Searching\MergeIntervals</Filter>
     </ClInclude>
     <ClInclude Include="MaxSubarray.h">
-      <Filter>Source Files\Cram Level 1\MaxSubarray</Filter>
+      <Filter>Source Files\Array and Strings\MaxSubarray</Filter>
     </ClInclude>
     <ClInclude Include="MinNumCoins.h">
-      <Filter>Source Files\Cram Level 1\MinNumCoins</Filter>
+      <Filter>Source Files\Dynamic Programming\MinNumCoins</Filter>
     </ClInclude>
     <ClInclude Include="RepeatedStringMatch.h">
       <Filter>Source Files\General\RepeatedStringMatch</Filter>
@@ -358,7 +355,7 @@
       <Filter>Source Files\Array and Strings\ShortestPalindrome</Filter>
     </ClInclude>
     <ClInclude Include="SumQuery2.h">
-      <Filter>Source Files\Cram Level 1\SumQuery2</Filter>
+      <Filter>Source Files\Dynamic Programming\SumQuery2</Filter>
     </ClInclude>
     <ClInclude Include="FirstMissingPositive.h">
       <Filter>Source Files\Array and Strings\FirstMissingPositive</Filter>
@@ -507,25 +504,25 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MinWindow.cpp">
-      <Filter>Source Files\Cram Level 1\MinWindow</Filter>
+      <Filter>Source Files\Sorting and Searching\MinWindow</Filter>
     </ClCompile>
     <ClCompile Include="Stock.cpp">
-      <Filter>Source Files\Cram Level 1\Stock</Filter>
+      <Filter>Source Files\Array and Strings\Stock</Filter>
     </ClCompile>
     <ClCompile Include="SumQuery.cpp">
-      <Filter>Source Files\Cram Level 1\SumQuery</Filter>
+      <Filter>Source Files\Dynamic Programming\SumQuery</Filter>
     </ClCompile>
     <ClCompile Include="NumIslands.cpp">
-      <Filter>Source Files\Cram Level 1\NumIslands</Filter>
+      <Filter>Source Files\Trees and Graphs\NumIslands</Filter>
     </ClCompile>
     <ClCompile Include="MergeIntervals.cpp">
-      <Filter>Source Files\Cram Level 1\MergeIntervals</Filter>
+      <Filter>Source Files\Sorting and Searching\MergeIntervals</Filter>
     </ClCompile>
     <ClCompile Include="MaxSubarray.cpp">
-      <Filter>Source Files\Cram Level 1\MaxSubarray</Filter>
+      <Filter>Source Files\Array and Strings\MaxSubarray</Filter>
     </ClCompile>
     <ClCompile Include="MinNumCoins.cpp">
-      <Filter>Source Files\Cram Level 1\MinNumCoins</Filter>
+      <Filter>Source Files\Dynamic Programming\MinNumCoins</Filter>
     </ClCompile>
     <ClCompile Include="RepeatedStringMatch.cpp">
       <Filter>Source Files\General\RepeatedStringMatch</Filter>
@@ -591,7 +588,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SumQuery2.cpp">
-      <Filter>Source Files\Cram Level 1\SumQuery2</Filter>
+      <Filter>Source Files\Dynamic Programming\SumQuery2</Filter>
     </ClCompile>
     <ClCompile Include="FirstMissingPositive.cpp">
       <Filter>Source Files\Array and Strings\FirstMissingPositive</Filter>
