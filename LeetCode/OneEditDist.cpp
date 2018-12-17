@@ -1,14 +1,17 @@
 #include "stdafx.h"
 #include "OneEditDist.h"
 
+// O(n)
 bool Solution::isOneEditDistance(string s, string t) {
 	int slen = s.size();
 	int tlen = t.size();
 
+	// if size diff is more than 2, return
 	if(abs(slen - tlen) > 1 || (slen == 0 && tlen == 0) || s.compare(t) == 0) {
 		return false;
 	}
 
+	// if the length is the same, then see if there is only one char diff
 	if(slen == tlen) {
 		int count = 0;
 		for(int i = 0; i < slen; i++) {
@@ -25,6 +28,9 @@ bool Solution::isOneEditDistance(string s, string t) {
 		}
 	}
 
+	// find the longer string and iterate. Check each char one by one
+	// and keep an index diff to keep track. If diff becomes greater than
+	// 1, return false;
 	int i = 0, diff = 0;
 	string longer;
 	string shorter;

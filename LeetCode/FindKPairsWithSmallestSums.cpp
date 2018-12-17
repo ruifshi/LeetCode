@@ -5,6 +5,7 @@
 #include <queue>
 #include <set>
 
+// O(nums1.size() * nums2.size())
 vector<pair<int, int>> Solution::kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
 	vector<pair<int, int>> ans;
 
@@ -14,6 +15,9 @@ vector<pair<int, int>> Solution::kSmallestPairs(vector<int>& nums1, vector<int>&
 
 	priority_queue<pair<int, pair<int, int>>> q;
 
+	// always keep k elements in the priority queue
+	// if a smaller sum than the highest in the queue comes in,
+	// enqueue and pop the old value
 	for(int i = 0; i < min((int)nums1.size(), k); i++) {
 		for(int j = 0; j < min((int)nums2.size(), k); j++) {
 			if(q.size() < k) {

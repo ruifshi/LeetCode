@@ -2,6 +2,7 @@
 #include "ClosestBinarySearchTreeValue.h"
 #include <cmath>
 
+// O(n), height of tree
 int Solution::closestValue(TreeNode* root, double target) {
 	/*
     int ans = root->val;
@@ -18,6 +19,8 @@ int Solution::closestValue(TreeNode* root, double target) {
 	return ans;
 }
 
+// loop through values and find the smallest abs difference between current
+// node and target
 void Solution::closestValueHelper(TreeNode* node, double target, double &ans) {
 	if(node == NULL) {
 		return;

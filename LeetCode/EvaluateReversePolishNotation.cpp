@@ -3,6 +3,7 @@
 
 #include <stack>
 
+// O(number of tokens)
 int Solution::evalRPN(vector<string>& tokens) {
 	stack<int> stk;
 

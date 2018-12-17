@@ -3,28 +3,32 @@
 
 #include <unordered_map>
 
+// O(n)
 vector<int> Solution::intersection(vector<int>& nums1, vector<int>& nums2) {
 	unordered_map<int, int> table;
 	vector<int> output;
 
-	for(int i = 0; i < nums1.size(); i++)
+	// store all unique elements and assign a tracker of 1
+	for (int i = 0; i < nums1.size(); i++)
 	{
-		if(table.find(nums1[i]) == table.end()) {
-			table.insert(pair<int, int>(nums1[i], 0));
+		if (table.find(nums1[i]) == table.end()) {
+			table.insert(pair<int, int>(nums1[i], 1));
 		}
 		else {
-			table[nums1[i]]++;
+			table[nums1[i]] = 1;
 		}
 	}
 
-	for(int i = 0; i < nums2.size(); i++) {
-		if(table.find(nums2[i]) != table.end()) {
+	// If a common element is found, increment the tracker
+	for (int i = 0; i < nums2.size(); i++) {
+		if (table.find(nums2[i]) != table.end()) {
 			table[nums2[i]]++;
 		}
 	}
 
-	for(auto x: table) {
-		if(x.second > 1) {
+	// output all the comment elements
+	for (auto x : table) {
+		if (x.second > 1) {
 			output.push_back(x.first);
 		}
 	}

@@ -4,6 +4,7 @@
 #include <vector>
 #include <algorithm>
 
+//O(word1.size() * word2.size())
 int Solution::minDistance(string word1, string word2) {
 	int n = word1.size();
 	int m = word2.size();
@@ -22,6 +23,7 @@ int Solution::minDistance(string word1, string word2) {
 		table[0][j] = j;
 	}
 
+	// iterate through the rest of the table and look at the operations
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= m; j++) {
 			int top = table[i - 1][j] + 1;	//del

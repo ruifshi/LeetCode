@@ -3,6 +3,7 @@
 
 #include <stack>
 
+// O(n)
 bool Solution::isValid(string s) {
     stack<char> stack;
 
@@ -13,6 +14,9 @@ bool Solution::isValid(string s) {
         return false;
     }
     
+	// use a stack to match. If it's an open, pop it on the stack.
+	// If it's a close, then the last element on the stack has to be
+	// a matching open.
     for(int i =0 ; i < s.length(); i++){
         char c = s[i];
         if(c == '}'|| c == ')' || c == ']'){

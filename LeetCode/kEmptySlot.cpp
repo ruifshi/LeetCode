@@ -46,6 +46,7 @@ int kEmptySlots(int* flowers, int flowersSize, int k) {
 }
 */
 
+// O(n)
 int kEmptySlots(int* flowers, int flowersSize, int k) {
 	int *days = (int*)malloc(sizeof(int)*flowersSize);
 	int i, left = 0, right = k + 1, result = INT_MAX;
@@ -71,3 +72,28 @@ int kEmptySlots(int* flowers, int flowersSize, int k) {
 
 	return result;
 }
+
+/* O(nlogn)
+class Solution {
+public:
+	int kEmptySlots(vector<int>& flowers, int k) {
+	  if(flowers.size()==0) return -1;
+	  set<int> s;
+	  s.insert(flowers[0]);
+	  for(int d=1;d<flowers.size();d++){
+		//first check the right neighbor
+		 auto right = s.upper_bound(flowers[d]);   // find the closest right place which has blooming flower (log(n))
+		 if(right != s.end() && (*right) -flowers[d] == k +1) return d+1;
+
+		//did not find the answer yet? let's check the left neighbor then
+		s.insert(flowers[d]);
+		 auto self = s.find(flowers[d]);
+		 auto left = prev(self);     //  find the closest left place which has blooming flower (log(n))
+		 if(left != s.end()&& flowers[d] -(*left) == k +1)
+			 return d+1;
+	 }
+	  return -1;
+
+	}
+};
+*/

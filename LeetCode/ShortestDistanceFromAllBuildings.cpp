@@ -3,6 +3,7 @@
 
 #include <queue>
 
+// O(m^2 * n^2)
 int Solution::shortestDistance(vector<vector<int>>& grid) {
 	//Do BFS from all buildings to all squares with 0
 	//hit 2D array keeps track of how many times a building has reached that square
@@ -64,16 +65,7 @@ bool Solution::helper(vector<vector<int>>& grid, vector<vector<int>>& hits, vect
 		int j = q.front().second;
 		q.pop();
 
-		pair<int, int> a(i+1,j);
-		pair<int, int> b(i-1,j);
-		pair<int, int> c(i,j+1);
-		pair<int, int> d(i,j-1);
-		vector<pair<int, int>> pos;
-
-		pos.push_back(a);
-		pos.push_back(b);
-		pos.push_back(c);
-		pos.push_back(d);
+		vector<pair<int, int>> pos = { {i + 1, j}, {i - 1, j}, {i, j + 1}, {i, j - 1} };
 
 		for(auto p : pos) {
 			int x = p.first;

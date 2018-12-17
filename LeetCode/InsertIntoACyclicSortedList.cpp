@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// O(n), number of elements in the list
 Node* Solution::insert(Node* head, int insertVal) {
     if(head == NULL) {
         head = new Node(insertVal, NULL);

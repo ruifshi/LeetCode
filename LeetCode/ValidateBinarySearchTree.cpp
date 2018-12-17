@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "ValidateBinarySearchTree.h"
 
+//O(n), all the nodes
 bool Solution::isValidBST(TreeNode* root) {
 	return isValidBSTHelper(root, LONG_MIN, LONG_MAX);
 }

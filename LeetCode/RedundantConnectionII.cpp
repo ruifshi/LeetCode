@@ -62,13 +62,14 @@ vector<int> Solution::findRedundantDirectedConnection(vector<vector<int>>& edges
     }
 	*/
 
+	// use a map to construct a graph of the given edges
     int u, v;
     bool hasCycle = false;
-    vector<int> dup_node;  //{child, dup pathther}
+    vector<int> dup_node;  //{child, dup fathers}
     vector<int> ringEdge;
     for(const auto &e: edges){
         u = e[0]; v = e[1];
-        //a node has multiple paththers
+        //a node has multiple fathers
         if(path.find(v) != path.end()){
             dup_node.push_back(v);
             dup_node.push_back(u);
@@ -77,6 +78,8 @@ vector<int> Solution::findRedundantDirectedConnection(vector<vector<int>>& edges
 			path[v] = u;
 		}
         //at most one cycle in the tree
+		// ringEdge finds the node that makes a cycle
+		// without dup fathers
         if(!hasCycle){
             if(hasCycle = checkCycle(v)){
                 ringEdge.push_back(u);
@@ -85,12 +88,15 @@ vector<int> Solution::findRedundantDirectedConnection(vector<vector<int>>& edges
         }
     }
 
-
+	// if no dup fathers, then just return ringEdge
     if(dup_node.empty()) {
 		return ringEdge;
 	}
 
 	vector<int> ans;
+	// If the dup father nodes create a cycle, then
+	// we needw to break the cycle and not remove the 
+	// wrong node. Else, just remoe the dup nodes.
     if(checkCycle(dup_node[0])) {
 		ans.push_back(path[dup_node[0]]);
 		ans.push_back(dup_node[0]);

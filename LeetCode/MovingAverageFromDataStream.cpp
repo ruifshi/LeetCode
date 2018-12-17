@@ -7,6 +7,7 @@ MovingAverage::MovingAverage(int size) {
 	return;
 }
 
+// O(1)
 double MovingAverage::next(int val) {
 	sum += val;
 	q.push(val);

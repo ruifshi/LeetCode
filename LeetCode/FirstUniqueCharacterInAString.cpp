@@ -3,6 +3,7 @@
 
 #include <unordered_map>
 
+// O(n)
 int Solution::firstUniqChar(string s) {
 	/*
 	unordered_map<char, pair<int, int>> table;
@@ -23,7 +24,19 @@ int Solution::firstUniqChar(string s) {
 	*/
 
     vector<int> v(26, 0);
-    for (auto u : s) v[u-'a'] += 1;
-    for (int i = 0; i < s.size(); i++) if (v[s[i]-'a'] == 1) return i;
+
+	// count number of chars for each letter
+	for (auto u : s) {
+		v[u - 'a'] += 1;
+	}
+
+	// iterate through string and return the first
+	// index that is more than one char
+	for (int i = 0; i < s.size(); i++) {
+		if (v[s[i] - 'a'] == 1) {
+			return i;
+		}
+	}
+
     return -1;
 }

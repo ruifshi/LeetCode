@@ -3,6 +3,7 @@
 
 #include <set>
 
+// O(n^2)
 bool Solution::wordBreak(string s, vector<string>& wordDict) {
 	set<string> Dict;
 
@@ -12,8 +13,11 @@ bool Solution::wordBreak(string s, vector<string>& wordDict) {
 
 	vector<bool> table(s.size()+1, false);
 
-	table[0] = true;
+	table[0] = true; // NULL string
 
+	// check all substring from null char to current i and see if it's in the 
+	// dictionary. dp keeps track of the start and end of a word to see if it's
+	// valid and separate.
 	for (int i = 1; i <= s.size(); i++) {
 		for (int j = 0; j < i; j++) {
 			if (table[j] && Dict.find(s.substr(j, i - j)) != Dict.end()) {

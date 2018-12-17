@@ -2,10 +2,14 @@
 #include "ImageSmoother.h"
 #include <algorithm>
 
+// O(row*col)
 vector<vector<int>> Solution::imageSmoother(vector<vector<int>>& M) {
 	int row = M.size();
 	int col = M[0].size();
 
+	// Iterate through each element and apply the rules with respect
+	// to the elements around it. Keep the results in some upper bits
+	// to save space and at the end, shift the bits out.
 	for(int i = 0; i < row; i++) {
 		for(int j = 0; j < col; j++) {
 

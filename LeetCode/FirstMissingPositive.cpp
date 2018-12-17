@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "FirstMissingPositive.h"
 
+// O(n)
 int Solution::firstMissingPositive(vector<int>& nums) {
 	if(nums.size() == 0) {
 		return 1;

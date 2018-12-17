@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "WorldSquares.h"
 
+// O(words * wordlength)
 vector<vector<string>> Solution::wordSquares(vector<string>& words) {
     int n = words[0].size();
     TrieNode* root = build(words);

@@ -1,11 +1,13 @@
 #include "stdafx.h"
 #include "WordSearchII.h"
 
+// O((row * col)^2)
 vector<string> Solution::findWords(vector<vector<char>>& board, vector<string>& words) {
 	if(board.size() == 0 || board[0].size() == 0) {
 		return ans;
 	}
 
+	// make sure we don't repeat words if it's already found
 	found.assign(words.size(), false);
 	TrieNode *root = buildTrie(words);
 
@@ -37,6 +39,7 @@ TrieNode* Solution::buildTrie(vector<string>& words) {
 	return root;
 }
 
+// DFS + backtracking
 void Solution::helper(vector<vector<char>>& board, vector<string>& words, TrieNode *root, int row, int col, vector<vector<bool>> visited) {
 	if(row == board.size() || col == board[0].size() || row < 0 || col < 0 || root == NULL || visited[row][col]) {
 		return;

@@ -1,7 +1,24 @@
 #include "stdafx.h"
 #include "EvaluateDivision.h"
 
+Node* Solution::findParent(Node* node) {
+	if (node->parent == node)
+		return node;
+	node->parent = findParent(node->parent);
+	return node->parent;
+}
+
+void Solution::unionNodes(Node* node1, Node* node2, double num, unordered_map<string, Node*>& map) {
+	Node* parent1 = findParent(node1), *parent2 = findParent(node2);
+	double ratio = node2->value * num / node1->value;
+	for (auto it = map.begin(); it != map.end(); it++)
+		if (findParent(it->second) == parent1)
+			it->second->value *= ratio;
+	parent1->parent = parent2;
+}
+
 double Solution::Helper(string A, string B, unordered_map<string, unordered_map<string, double>> graph, unordered_set<string> visited) {
+	// base case where DFS finds itself
 	if(A == B) {
 		return 1.0;
 	}
@@ -22,26 +39,11 @@ double Solution::Helper(string A, string B, unordered_map<string, unordered_map<
 	return -1.0;
 }
 
-Node* Solution::findParent(Node* node) {
-    if (node -> parent == node)
-        return node;
-    node -> parent = findParent(node -> parent);
-    return node -> parent;
-}
-
-void Solution::unionNodes(Node* node1, Node* node2, double num, unordered_map<string, Node*>& map) {
-    Node* parent1 = findParent(node1), *parent2 = findParent(node2);
-    double ratio = node2 -> value * num / node1 -> value;
-    for (auto it = map.begin(); it != map.end(); it ++)
-        if (findParent(it -> second) == parent1)
-            it -> second -> value *= ratio;
-    parent1 -> parent = parent2;
-}
-
+// O(number of queries * edge)
 vector<double> Solution::calcEquation(vector<pair<string, string>> equations, vector<double>& values, vector<pair<string, string>> queries) {
-	/*
 	unordered_map<string, unordered_map<string, double>> graph;
 
+	// create a graph of all the nodes and their values
 	for(int i = 0; i < equations.size(); i++) {
 		string A = equations[i].first;
 		string B = equations[i].second;
@@ -50,6 +52,7 @@ vector<double> Solution::calcEquation(vector<pair<string, string>> equations, ve
 		graph[B][A] = 1.0/val;
 	}
 
+	// use DFS to find the queries
 	vector<double> solution;
 	for(auto element: queries) {
 		string A = element.first;
@@ -63,8 +66,8 @@ vector<double> Solution::calcEquation(vector<pair<string, string>> equations, ve
 	}
 
 	return solution;
-	*/
 
+	/*
     unordered_map<string, Node*> map;
     vector<double> res;
     for (int i = 0; i < equations.size(); i ++) {
@@ -95,4 +98,5 @@ vector<double> Solution::calcEquation(vector<pair<string, string>> equations, ve
             res.push_back(map[query.first] -> value / map[query.second] -> value);
     }
     return res;
+	*/
 }

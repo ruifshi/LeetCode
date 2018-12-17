@@ -133,17 +133,11 @@
     <Filter Include="Source Files\Trees and Graphs\InorderSuccessorInBST">
       <UniqueIdentifier>{30ca26d7-ecb5-479a-9730-3a7fe48906d9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Trees and Graphs\Evaluate Division">
-      <UniqueIdentifier>{3f34a0f0-978d-4357-931c-ff2e8feaf1f0}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Trees and Graphs\RobotRoomCleaner">
       <UniqueIdentifier>{8804bdb7-2a6f-422e-a6fd-9b72edcfe685}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Trees and Graphs\RedundantConnectionII">
       <UniqueIdentifier>{b8458559-bb5d-4966-935b-101bc835f969}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Trees and Graphs\Course Schedule">
-      <UniqueIdentifier>{33e53a10-89eb-4e97-b475-39bb6aa38039}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Trees and Graphs\ValidateBinarySearchTree">
       <UniqueIdentifier>{f09a6e79-08b5-4738-aa95-e53447ff64d5}</UniqueIdentifier>
@@ -153,9 +147,6 @@
     </Filter>
     <Filter Include="Source Files\Recursion">
       <UniqueIdentifier>{e5aaf946-d486-4814-b957-7db45021f0b3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Recursion\Word Squares">
-      <UniqueIdentifier>{79576f0d-746f-42f5-a488-04800556d86d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Recursion\StrobogrammaticNumberII">
       <UniqueIdentifier>{1ab286e7-3aee-4107-b347-86656212c5e8}</UniqueIdentifier>
@@ -261,6 +252,21 @@
     </Filter>
     <Filter Include="Source Files\Others\MaximumProductOfWordLengths">
       <UniqueIdentifier>{03bce76f-a5f0-4035-aafe-ba947ce8b464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReadNCharactersGivenRead4">
+      <UniqueIdentifier>{e7489f2f-8b4d-4fad-8a6c-8df188bf49a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReadNCharactersGivenRead4II">
+      <UniqueIdentifier>{52d9544f-81cb-4967-bcdf-464670fe1c10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CourseSchedule">
+      <UniqueIdentifier>{33e53a10-89eb-4e97-b475-39bb6aa38039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\EvaluateDivision">
+      <UniqueIdentifier>{3f34a0f0-978d-4357-931c-ff2e8feaf1f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\WordSquares">
+      <UniqueIdentifier>{79576f0d-746f-42f5-a488-04800556d86d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -376,7 +382,7 @@
       <Filter>Source Files\Trees and Graphs\InorderSuccessorInBST</Filter>
     </ClInclude>
     <ClInclude Include="EvaluateDivision.h">
-      <Filter>Source Files\Trees and Graphs\Evaluate Division</Filter>
+      <Filter>Source Files\Trees and Graphs\EvaluateDivision</Filter>
     </ClInclude>
     <ClInclude Include="RobotRoomCleaner.h">
       <Filter>Source Files\Trees and Graphs\RobotRoomCleaner</Filter>
@@ -385,7 +391,7 @@
       <Filter>Source Files\Trees and Graphs\RedundantConnectionII</Filter>
     </ClInclude>
     <ClInclude Include="CourseSchedule.h">
-      <Filter>Source Files\Trees and Graphs\Course Schedule</Filter>
+      <Filter>Source Files\Trees and Graphs\CourseSchedule</Filter>
     </ClInclude>
     <ClInclude Include="ValidateBinarySearchTree.h">
       <Filter>Source Files\Trees and Graphs\ValidateBinarySearchTree</Filter>
@@ -394,7 +400,7 @@
       <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValue</Filter>
     </ClInclude>
     <ClInclude Include="WorldSquares.h">
-      <Filter>Source Files\Recursion\Word Squares</Filter>
+      <Filter>Source Files\Recursion\WordSquares</Filter>
     </ClInclude>
     <ClInclude Include="StrobogrammaticNumberII.h">
       <Filter>Source Files\Recursion\StrobogrammaticNumberII</Filter>
@@ -488,6 +494,12 @@
     </ClInclude>
     <ClInclude Include="MaximumProductOfWordLengths.h">
       <Filter>Source Files\Others\MaximumProductOfWordLengths</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadNCharactersGivenRead4.h">
+      <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadNCharactersGivenRead4II.h">
+      <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4II</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -600,7 +612,7 @@
       <Filter>Source Files\Linked List\InsertIntoACyclicSortedList</Filter>
     </ClCompile>
     <ClCompile Include="EvaluateDivision.cpp">
-      <Filter>Source Files\Trees and Graphs\Evaluate Division</Filter>
+      <Filter>Source Files\Trees and Graphs\EvaluateDivision</Filter>
     </ClCompile>
     <ClCompile Include="InorderSuccessorInBST.cpp">
       <Filter>Source Files\Trees and Graphs\InorderSuccessorInBST</Filter>
@@ -612,7 +624,7 @@
       <Filter>Source Files\Trees and Graphs\RedundantConnectionII</Filter>
     </ClCompile>
     <ClCompile Include="CourseSchedule.cpp">
-      <Filter>Source Files\Trees and Graphs\Course Schedule</Filter>
+      <Filter>Source Files\Trees and Graphs\CourseSchedule</Filter>
     </ClCompile>
     <ClCompile Include="ValidateBinarySearchTree.cpp">
       <Filter>Source Files\Trees and Graphs\ValidateBinarySearchTree</Filter>
@@ -621,7 +633,7 @@
       <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValue</Filter>
     </ClCompile>
     <ClCompile Include="WordSquares.cpp">
-      <Filter>Source Files\Recursion\Word Squares</Filter>
+      <Filter>Source Files\Recursion\WordSquares</Filter>
     </ClCompile>
     <ClCompile Include="StrobogrammaticNumberII.cpp">
       <Filter>Source Files\Recursion\StrobogrammaticNumberII</Filter>
@@ -715,6 +727,12 @@
     </ClCompile>
     <ClCompile Include="MaximumProductOfWordLengths.cpp">
       <Filter>Source Files\Others\MaximumProductOfWordLengths</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadNCharactersGivenRead4.cpp">
+      <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadNCharactersGivenRead4II.cpp">
+      <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4II</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

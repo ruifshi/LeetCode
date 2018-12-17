@@ -3,6 +3,7 @@
 
 #include <algorithm>
 
+// O(n^2*k)
 int Solution::maxVacationDays(vector<vector<int>>& flights, vector<vector<int>>& days) {
 	if (flights.size() == 0 || days.size() == 0) {
 		return 0;
@@ -27,6 +28,7 @@ int Solution::maxVacationDays(vector<vector<int>>& flights, vector<vector<int>>&
 }
 
 /* DFS solution
+// O(n^k)
 public class Solution {
 	public int maxVacationDays(int[][] flights, int[][] days) {
 		return dfs(flights, days, 0, 0);
@@ -47,6 +49,7 @@ public class Solution {
 */
 
 /* DFS with memo
+// O(n^2*k)
 public class Solution {
 	public int maxVacationDays(int[][] flights, int[][] days) {
 		int[][] memo = new int[flights.length][days[0].length];

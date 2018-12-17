@@ -3,6 +3,7 @@
 
 #include <algorithm>
 
+// O(n)
 int Solution::rob(vector<int>& nums) {
 	if (nums.empty()) {
 		return 0;

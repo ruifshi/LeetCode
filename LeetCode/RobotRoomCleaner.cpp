@@ -17,6 +17,7 @@ void Robot::clean() {
 	return;
 }
 
+//O(matirx size)
 void Solution::cleanRoom(Robot& robot) {
     int cur_dir = 0;
 	unordered_map<int, unordered_map<int,int>> cleaned;

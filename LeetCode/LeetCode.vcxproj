@@ -129,6 +129,8 @@
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="RangeModule.h" />
     <ClInclude Include="RangeSumQuery2D.h" />
+    <ClInclude Include="ReadNCharactersGivenRead4.h" />
+    <ClInclude Include="ReadNCharactersGivenRead4II.h" />
     <ClInclude Include="RedundantConnectionII.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RepeatedStringMatch.h" />
@@ -207,6 +209,8 @@
     <ClCompile Include="PlusOne.cpp" />
     <ClCompile Include="RangeModule.cpp" />
     <ClCompile Include="RangeSumQuery2D.cpp" />
+    <ClCompile Include="ReadNCharactersGivenRead4.cpp" />
+    <ClCompile Include="ReadNCharactersGivenRead4II.cpp" />
     <ClCompile Include="RedundantConnectionII.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />

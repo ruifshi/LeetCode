@@ -3,6 +3,19 @@
 
 #include <map>
 
+// O(n)
+// Initialize a vector called remaining, which contains the needed
+// matching numbers of each character in s.
+// If there are still
+// characters needed to be contained(increment i in this case),
+// decrease the matching number of that character and check if it is
+// still non - negative.If it is, then it is the character in t, so
+// decrease the total required number required.
+// If there is no more
+// characters required(increment start in this case), record min
+// and left if a smaller length is found.Recover the number of this
+// character in the remaining and if it is a character in t
+// increase required.
 string minWindow(string s, string t) {
     if (s.size() == 0 || t.size() == 0) {
 		return "";

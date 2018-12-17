@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "ValidNumber.h"
 
+// O(n)
 bool Solution::isNumber(string s) {
     int len = s.size();
     if(len == 0) return false; // empty string, not a number

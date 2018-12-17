@@ -3,6 +3,7 @@
 
 #include <vector>
 
+// O(n)
 int Solution::numDecodings(string s) {
 	return helper_dp(s);
 }
@@ -19,8 +20,8 @@ int Solution::helper_dp(string s) {
 
 	vector<int> ways(size + 1, 0);
 
-	ways[0] = 1;
-	ways[1] = 1;
+	ways[0] = 1;	// Null string
+	ways[1] = 1;	// valid first char
 	
 	for (int i = 2; i <= size; i++) {
 		if (s.at(i - 1) > '0') {

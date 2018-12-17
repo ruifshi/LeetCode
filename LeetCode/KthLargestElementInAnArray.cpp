@@ -3,6 +3,7 @@
 
 #include <queue>
 
+// O(nlogn) due to sorting
 int Solution::findKthLargest(vector<int>& nums, int k) {
 	/*
 	priority_queue<int> q;

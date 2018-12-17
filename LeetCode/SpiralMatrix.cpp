@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// O(n), n = number of elements
 vector<int> Solution::spiralOrder(vector<vector<int>>& matrix) {
 	if(matrix.empty()) {
 		return vector<int>();
@@ -18,7 +19,7 @@ vector<int> Solution::spiralOrder(vector<vector<int>>& matrix) {
 	int k = 0;
 
 	while(true) {
-		//top left to right
+		//top left to right, then move down
 		for(int i = l; i <= r; i++) {
 			output[k++] = matrix[u][i];
 		}
@@ -26,7 +27,7 @@ vector<int> Solution::spiralOrder(vector<vector<int>>& matrix) {
 			break;
 		}
 
-		//right top to bottom
+		//right top to bottom, then move left
 		for(int i = u; i <= d; i++) {
 			output[k++] = matrix[i][r];
 		}
@@ -34,7 +35,7 @@ vector<int> Solution::spiralOrder(vector<vector<int>>& matrix) {
 			break;
 		}
 
-		//bottom right to left
+		//bottom right to left, then move up
 		for(int i = r; i >= l; i--) {
 			output[k++] = matrix[d][i];
 		}
@@ -42,7 +43,7 @@ vector<int> Solution::spiralOrder(vector<vector<int>>& matrix) {
 			break;
 		}
 
-		//left bottom to up
+		//left bottom to up, then move right
 		for(int i = d; i >= u; i--) {
 			output[k++] = matrix[i][l];
 		}

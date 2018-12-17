@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "ZigzagIterator.h"
 
+// O(size of largest input vector)
 ZigzagIterator::ZigzagIterator(vector<int>& v1, vector<int>& v2) {
 	int size = v1.size() > v2.size() ? v1.size() : v2.size();
 	int v1Size = v1.size();

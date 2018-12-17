@@ -2,6 +2,7 @@
 #include "RangeSumQuery2D.h"
 
 //https://www.youtube.com/watch?v=PwDqpOMwg6U
+// O(row * col)
 NumMatrix::NumMatrix(vector<vector<int>> matrix) {
 	if (matrix.size() == 0 || matrix[0].size() == 0) {
 		return;
@@ -19,6 +20,7 @@ NumMatrix::NumMatrix(vector<vector<int>> matrix) {
 	return;
 }
 
+// O(row * col)
 void NumMatrix::update(int row, int col, int val) {
 	grid[row][col] = val;
 
@@ -31,6 +33,7 @@ void NumMatrix::update(int row, int col, int val) {
 	return;
 }
 
+// O(1)
 int NumMatrix::sumRegion(int row1, int col1, int row2, int col2) {
 	return table[row2 + 1][col2 + 1] - table[row1][col2 + 1] - table[row2 + 1][col1] + table[row1][col1];
 }

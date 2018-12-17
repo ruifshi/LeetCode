@@ -3,6 +3,8 @@
 
 #include <vector>
 
+
+// O(n)
 string Solution::shortestPalindrome(string s) {
 	// If you reverse the string and add it to the beginning,
 	// it will always create a palindrome. However, you need
@@ -26,3 +28,25 @@ string Solution::shortestPalindrome(string s) {
     }
     return rev.substr(0, n - f[n_new - 1]) + s;
 }
+
+/* O(n^2)
+// Find the palindrome if it exists in the current word by
+// comparing the input string against it's reverse. You should 
+// get a substring that is the same. You can then append the rest 
+// of the string in the reverse string to the original to create a
+// new palindrome.
+
+// s = "abcbabcab" --> abcba bcab
+// rev = "bacbabcba" --> bacb abcba
+string shortestPalindrome(string s)
+{
+	int n = s.size();
+	string rev(s);
+	reverse(rev.begin(), rev.end());
+	for (int i = 0; i < n; i++) {
+		if (s.substr(0, n - i) == rev.substr(i))
+			return rev.substr(0, i) + s;
+	}
+	return "";
+}
+*/

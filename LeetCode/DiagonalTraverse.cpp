@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "DiagonalTraverse.h"
 
+// O(row*col)
 vector<int> Solution::findDiagonalOrder(vector<vector<int>>& matrix) {
 	vector<int> ans;
 	int rowCnt = matrix.size();

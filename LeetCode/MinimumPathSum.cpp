@@ -3,6 +3,7 @@
 
 #include <algorithm>
 
+// O(row * col)
 int Solution::minPathSum(vector<vector<int>>& grid) {
 	if (grid.size() == 0 || grid[0].size() == 0) {
 		return 0;
@@ -27,7 +28,7 @@ int Solution::minPathSum(vector<vector<int>>& grid) {
 	
 	for (int i = 1; i < n; i++) {
 		for (int j = 1; j < m; j++) {
-			table[i][j] = min(table[i - 1][j], table[i][j - 1]) + grid[i][j];	//minimum of coming from up for left plus current
+			table[i][j] = min(table[i - 1][j], table[i][j - 1]) + grid[i][j];	//minimum of coming from up or left plus current
 		}
 	}
 

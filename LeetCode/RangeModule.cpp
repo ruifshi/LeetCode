@@ -3,6 +3,7 @@
 
 #include <algorithm>
 
+// O(n)
 void RangeModule::addRange(int left, int right) {
     int n = invals.size();
     vector<pair<int, int>> tmp;
@@ -22,7 +23,8 @@ void RangeModule::addRange(int left, int right) {
     }
     invals.swap(tmp);
 }
-    
+
+// O(logn)
 bool RangeModule::queryRange(int left, int right) {
     int n = invals.size(), l = 0, r = n-1;
     while (l <= r) {
@@ -36,7 +38,8 @@ bool RangeModule::queryRange(int left, int right) {
     }
     return false;
 }
-    
+
+// O(n)
 void RangeModule::removeRange(int left, int right) {
     int n = invals.size();
     vector<pair<int, int>> tmp;

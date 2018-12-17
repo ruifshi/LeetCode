@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "InorderSuccessorInBST.h"
 
+// O(n), depth of the tree
 TreeNode* Solution::inorderSuccessor(TreeNode* root, TreeNode* p) {
 	if(root == NULL || p == NULL) {
 		return NULL;

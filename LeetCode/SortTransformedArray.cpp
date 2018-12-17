@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "SortTransformedArray.h"
 
+// O(n)
 vector<int> Solution::sortTransformedArray(vector<int>& nums, int a, int b, int c) {
     vector<int> ans;
 
@@ -10,6 +11,9 @@ vector<int> Solution::sortTransformedArray(vector<int>& nums, int a, int b, int 
 
     int i = 0, j = nums.size()-1, q1, q2;
 
+	// If a is positive, then that means the ends of the 
+	// array are the biggest values. The elements toward the
+	// middle are smaller so add to beginning
     if(a > 0) {
         while(i <= j) {
             q1 = quad(nums[i], a, b, c);
@@ -24,6 +28,9 @@ vector<int> Solution::sortTransformedArray(vector<int>& nums, int a, int b, int 
             }
         }
     }
+	// If a is negative, then that means the ends of the 
+	// array are the smallest values. The elements toward the
+	// middle are bigger so add to end
     else {
         while(i <= j) {
             q1 = quad(nums[i], a, b, c);

@@ -1,3 +1,26 @@
-﻿  MaximumProductOfWordLengths.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\maximumproductofwordlengths.cpp(9): warning C4018: '<': signed/unsigned mismatch
+﻿  EditDistance.cpp
+  HouseRobberII.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\houserobberii.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\houserobberii.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  LeetCode.cpp
+  MaximumVacationDays.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\maximumvacationdays.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\maximumvacationdays.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  MinimumPathSum.cpp
+  MovingAverageFromDataStream.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\movingaveragefromdatastream.cpp(15): warning C4018: '>': signed/unsigned mismatch
+  RangeSumQuery2D.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2d.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  SentenceScreenFitting.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\sentencescreenfitting.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  WordBreak.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\wordbreak.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\wordbreak.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\wordbreak.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\wordbreak.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  ZigzagIterator.cpp
+  Generating Code...
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

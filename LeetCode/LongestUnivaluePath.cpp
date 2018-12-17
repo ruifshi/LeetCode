@@ -7,6 +7,7 @@
 
 using namespace std;
 
+// O(n)
 int Solution::helper(TreeNode *node, int *solution) {
 	if(node == NULL) {
 		return 0;
