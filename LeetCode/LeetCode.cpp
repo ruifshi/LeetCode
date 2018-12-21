@@ -40,10 +40,15 @@
 //#include "MinimumPathSum.h"
 //#include "MovingAverageFromDataStream.h"
 //#include "BinarySearchTreeIterator.h"
+//#include "LRUCache.h"
+//#include "MedianOfTwoSortedArrays.h"
+//#include "UniqueEmailAddresses.h"
+//#include "SerializeAndDeserializeBinaryTree.h"
+//#include "LetterCombinationsOfAPhoneNumber.h"
+#include "GenerateParentheses.h"
 
-int _tmain(int argc, _TCHAR* argv[])
-{
-	//Solution output;
+int _tmain(int argc, _TCHAR* argv[]) {
+	Solution output;
 
 	/*
 	bool out = output.isNumber(" 99e2.5 ");
@@ -389,6 +394,59 @@ int _tmain(int argc, _TCHAR* argv[])
 	BSTIterator it(&a);
 	int val = it.next();
 	*/
+
+	/*
+	LRUCache cache(3);
+
+	cache.put(1, 1);
+	cache.put(2, 2);
+	cache.put(3, 3);
+	cache.put(4, 4);
+	int a = cache.get(4);
+	a = cache.get(3);
+	a = cache.get(2);
+	a = cache.get(1);
+	cache.put(5, 5);
+	a = cache.get(1);
+	a = cache.get(2);
+	a = cache.get(3);
+	a = cache.get(4);
+	a = cache.get(5);
+	*/
+	
+	/*
+	vector<int> nums1 = { 1, 3, 8, 9, 15 };
+	vector<int> nums2 = { 7, 11, 19, 21, 18, 25 };
+
+	int med = output.findMedianSortedArrays(nums1, nums2);
+	*/
+
+	/*
+	vector<string> emails = { "test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com" };
+
+	int ans = output.numUniqueEmails(emails);
+	*/
+
+	/*
+	TreeNode a(1);
+	TreeNode b(2);
+	TreeNode c(3);
+	TreeNode d(4);
+	TreeNode e(5);
+
+	a.left = &b;
+	a.right = &c;
+	c.left = &d;
+	c.right = &e;
+
+	Codec codec;
+	string s = codec.serialize(&a);
+	TreeNode* node = codec.deserialize(s);
+	*/
+
+	//vector<string> s = output.letterCombinations("23");
+
+	vector<string> s = output.generateParenthesis(3);
 
 	return 0;
 }

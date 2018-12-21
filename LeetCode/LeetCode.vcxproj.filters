@@ -265,6 +265,36 @@
     <Filter Include="Source Files\Dynamic Programming\SumQuery2">
       <UniqueIdentifier>{10b69005-aa98-4f23-b895-25e911ddc8a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Design\LRUCache">
+      <UniqueIdentifier>{573c14ec-ff98-46b5-808e-e0993a4b9a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MedianOfTwoSortedArrays">
+      <UniqueIdentifier>{8e028836-d1fb-40ea-848a-f19eba1deb89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FruitIntoBaskets">
+      <UniqueIdentifier>{353f14e1-b45d-4a1b-9d00-7a32f69a9735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\UniqueEmailAddresses">
+      <UniqueIdentifier>{128edb96-ff10-4bb3-b514-b4c63584026a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MeetingRoomsII">
+      <UniqueIdentifier>{51c69e2c-f559-4c47-89a0-284d767be28b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RegularExpressionMatching">
+      <UniqueIdentifier>{a90de8b2-4de5-41d7-8a6c-d8d4a0a21e41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SerializeAndDeserializeBinaryTree">
+      <UniqueIdentifier>{b6d1d36c-95ee-4060-b894-10e466b20a4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\LetterCombinationsOfAPhoneNumber">
+      <UniqueIdentifier>{ce1b7fdc-b9ba-4ec1-a9e2-a0add8d8a8dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\NextPermutation">
+      <UniqueIdentifier>{2fbbc912-bda5-4b95-b756-6cdbdb1617be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\GenerateParentheses">
+      <UniqueIdentifier>{a40b9174-c7de-4e34-896d-52604a12a42d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -498,6 +528,36 @@
     <ClInclude Include="ReadNCharactersGivenRead4II.h">
       <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4II</Filter>
     </ClInclude>
+    <ClInclude Include="LRUCache.h">
+      <Filter>Source Files\Design\LRUCache</Filter>
+    </ClInclude>
+    <ClInclude Include="MedianOfTwoSortedArrays.h">
+      <Filter>Source Files\Sorting and Searching\MedianOfTwoSortedArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FruitIntoBaskets.h">
+      <Filter>Source Files\Array and Strings\FruitIntoBaskets</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueEmailAddresses.h">
+      <Filter>Source Files\Array and Strings\UniqueEmailAddresses</Filter>
+    </ClInclude>
+    <ClInclude Include="MeetingRoomsII.h">
+      <Filter>Source Files\Sorting and Searching\MeetingRoomsII</Filter>
+    </ClInclude>
+    <ClInclude Include="RegularExpressionMatching.h">
+      <Filter>Source Files\Array and Strings\RegularExpressionMatching</Filter>
+    </ClInclude>
+    <ClInclude Include="SerializeAndDeserializeBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\SerializeAndDeserializeBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinationsOfAPhoneNumber.h">
+      <Filter>Source Files\Recursion\LetterCombinationsOfAPhoneNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="NextPermutation.h">
+      <Filter>Source Files\Array and Strings\NextPermutation</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerateParentheses.h">
+      <Filter>Source Files\Recursion\GenerateParentheses</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -730,6 +790,36 @@
     </ClCompile>
     <ClCompile Include="ReadNCharactersGivenRead4II.cpp">
       <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4II</Filter>
+    </ClCompile>
+    <ClCompile Include="LRUCache.cpp">
+      <Filter>Source Files\Design\LRUCache</Filter>
+    </ClCompile>
+    <ClCompile Include="MedianOfTwoSortedArrays.cpp">
+      <Filter>Source Files\Sorting and Searching\MedianOfTwoSortedArrays</Filter>
+    </ClCompile>
+    <ClCompile Include="FruitIntoBaskets.cpp">
+      <Filter>Source Files\Array and Strings\FruitIntoBaskets</Filter>
+    </ClCompile>
+    <ClCompile Include="UniqueEmailAddresses.cpp">
+      <Filter>Source Files\Array and Strings\UniqueEmailAddresses</Filter>
+    </ClCompile>
+    <ClCompile Include="MeetingRoomsII.cpp">
+      <Filter>Source Files\Sorting and Searching\MeetingRoomsII</Filter>
+    </ClCompile>
+    <ClCompile Include="RegularExpressionMatching.cpp">
+      <Filter>Source Files\Array and Strings\RegularExpressionMatching</Filter>
+    </ClCompile>
+    <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\SerializeAndDeserializeBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp">
+      <Filter>Source Files\Recursion\LetterCombinationsOfAPhoneNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="NextPermutation.cpp">
+      <Filter>Source Files\Array and Strings\NextPermutation</Filter>
+    </ClCompile>
+    <ClCompile Include="GenerateParentheses.cpp">
+      <Filter>Source Files\Recursion\GenerateParentheses</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
