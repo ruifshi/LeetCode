@@ -45,7 +45,14 @@
 //#include "UniqueEmailAddresses.h"
 //#include "SerializeAndDeserializeBinaryTree.h"
 //#include "LetterCombinationsOfAPhoneNumber.h"
-#include "GenerateParentheses.h"
+//#include "GenerateParentheses.h"
+//#include "Pow.h"
+//#include "BasicCalculator.h"
+//#include "PalindromePairs.h"
+//#include "BurstBalloons.h"
+//#include "LongestConsecutiveSequence.h"
+//#include "EncodeAndDecodeTinyURL.h"
+#include "WordBreakII.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -446,7 +453,31 @@ int _tmain(int argc, _TCHAR* argv[]) {
 
 	//vector<string> s = output.letterCombinations("23");
 
-	vector<string> s = output.generateParenthesis(3);
+	//vector<string> s = output.generateParenthesis(3);
+
+	//double out = output.myPow(2.0, -214748364);
+
+	//int out = output.calculate("(11+(4+5+2)-3)+(6+8)");
+
+	/*
+	vector<string> words = { "abcd","dcba","lls","s","sssll" };
+	vector<vector<int>> out = output.palindromePairs(words);
+	*/
+
+	/*
+	vector<int> vec = { 3,1,5,8 };
+	int out = output.maxCoins(vec);
+	*/
+
+	/*
+	vector<int> vec = { 100, 4, 200, 1, 3, 2 };
+	int max = output.longestConsecutive(vec);
+	*/
+
+	//output.decode(output.encode("url"));
+
+	vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
+	vector<string> ans = output.wordBreakII("catsanddog", wordDict);
 
 	return 0;
 }

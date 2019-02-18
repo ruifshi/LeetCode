@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "UTF8Validation.h"
 
+// O(n)
 bool Solution::validUtf8(vector<int>& data) {
 	// Number of bytes in the current UTF-8 character
 	int numberOfBytesToProcess = 0;

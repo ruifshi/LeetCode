@@ -34,26 +34,8 @@
     <Filter Include="Source Files\Array and Strings\GameOfLife">
       <UniqueIdentifier>{27980475-afb4-4ffa-ab00-ece7e916c1a8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\General">
-      <UniqueIdentifier>{3f6553a1-ad04-43db-9da1-59a74900a783}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\OneEditDist">
       <UniqueIdentifier>{76de915c-0867-4875-9a14-9839da462173}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\General\kEmptySlot">
-      <UniqueIdentifier>{76a218ef-4710-4004-b77e-5ae0fd684807}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\General\NextClosestTime">
-      <UniqueIdentifier>{cda74749-d6ea-4ac5-9d7c-74449e6abe95}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\General\LongestUnivaluePath">
-      <UniqueIdentifier>{8e9a8639-b8b2-47fd-95a4-3e0700ebcb9c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\General\LicenseKeyFormat">
-      <UniqueIdentifier>{2742a0c4-77a5-4843-a21a-33fa3174249c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\General\RepeatedStringMatch">
-      <UniqueIdentifier>{61ae9a8e-a542-40b7-bbe5-dfad9fc28c11}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Array and Strings\ValidPalindrome">
       <UniqueIdentifier>{bceff045-45a2-4539-ba52-ce597e589065}</UniqueIdentifier>
@@ -217,15 +199,6 @@
     <Filter Include="Source Files\Design\RangeSumQuery2D">
       <UniqueIdentifier>{dcbc28c3-b07a-47a4-928b-dd25131b0d41}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Others">
-      <UniqueIdentifier>{04ec1b61-ceba-4800-bf8b-f9fbd9c6f6e6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Others\UTF8Validation">
-      <UniqueIdentifier>{0838cedd-b426-430b-b368-d63911fc3c15}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Others\MaximumProductOfWordLengths">
-      <UniqueIdentifier>{03bce76f-a5f0-4035-aafe-ba947ce8b464}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\ReadNCharactersGivenRead4">
       <UniqueIdentifier>{e7489f2f-8b4d-4fad-8a6c-8df188bf49a5}</UniqueIdentifier>
     </Filter>
@@ -280,20 +253,74 @@
     <Filter Include="Source Files\Sorting and Searching\MeetingRoomsII">
       <UniqueIdentifier>{51c69e2c-f559-4c47-89a0-284d767be28b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\RegularExpressionMatching">
-      <UniqueIdentifier>{a90de8b2-4de5-41d7-8a6c-d8d4a0a21e41}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Trees and Graphs\SerializeAndDeserializeBinaryTree">
       <UniqueIdentifier>{b6d1d36c-95ee-4060-b894-10e466b20a4c}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Recursion\LetterCombinationsOfAPhoneNumber">
       <UniqueIdentifier>{ce1b7fdc-b9ba-4ec1-a9e2-a0add8d8a8dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Recursion\GenerateParentheses">
+      <UniqueIdentifier>{a40b9174-c7de-4e34-896d-52604a12a42d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\Pow">
+      <UniqueIdentifier>{d7e19609-5ede-4935-8f31-69a0ec30ca1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\kEmptySlot">
+      <UniqueIdentifier>{76a218ef-4710-4004-b77e-5ae0fd684807}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LicenseKeyFormat">
+      <UniqueIdentifier>{2742a0c4-77a5-4843-a21a-33fa3174249c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\LongestUnivaluePath">
+      <UniqueIdentifier>{8e9a8639-b8b2-47fd-95a4-3e0700ebcb9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\NextClosestTime">
+      <UniqueIdentifier>{cda74749-d6ea-4ac5-9d7c-74449e6abe95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RepeatedStringMatch">
+      <UniqueIdentifier>{61ae9a8e-a542-40b7-bbe5-dfad9fc28c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximumProductOfWordLengths">
+      <UniqueIdentifier>{03bce76f-a5f0-4035-aafe-ba947ce8b464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\UTF8Validation">
+      <UniqueIdentifier>{0838cedd-b426-430b-b368-d63911fc3c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BasicCalculator">
+      <UniqueIdentifier>{b975fe54-ae32-4db9-a0a2-dce070f9fda2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PalindromePairs">
+      <UniqueIdentifier>{183c4efd-95ba-4a71-b771-2c22b28bef80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\MinStack">
+      <UniqueIdentifier>{cdfbe2d9-46b5-4542-a3c3-39da7ef541a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\BurstBalloons">
+      <UniqueIdentifier>{e872630e-edba-42f0-a500-aea7098349dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\FlattenNestedListIterator">
+      <UniqueIdentifier>{362ffcd6-fd29-4f18-9f13-2bf332d26123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LongestConsecutiveSequence">
+      <UniqueIdentifier>{72a5810b-d5eb-432e-b715-319544fb7840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SearchA2DMatrixII">
+      <UniqueIdentifier>{d0c55cc5-bd51-4b9e-8aeb-22f4884b79d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\EncodeAndDecodeTinyURL">
+      <UniqueIdentifier>{42355b1f-7679-47df-befc-d5e27ae2ca86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FindPeakElement">
+      <UniqueIdentifier>{76225fa6-d4e8-4d8d-b3d3-3ca40b7ba3d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\WordBreakII">
+      <UniqueIdentifier>{34ff5a64-a35e-4684-b453-154194b1c34e}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files\Array and Strings\NextPermutation">
       <UniqueIdentifier>{2fbbc912-bda5-4b95-b756-6cdbdb1617be}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Recursion\GenerateParentheses">
-      <UniqueIdentifier>{a40b9174-c7de-4e34-896d-52604a12a42d}</UniqueIdentifier>
+    <Filter Include="Source Files\Dynamic Programming\RegularExpressionMatching">
+      <UniqueIdentifier>{a90de8b2-4de5-41d7-8a6c-d8d4a0a21e41}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -325,19 +352,19 @@
       <Filter>Source Files\Dynamic Programming\MinNumCoins</Filter>
     </ClInclude>
     <ClInclude Include="RepeatedStringMatch.h">
-      <Filter>Source Files\General\RepeatedStringMatch</Filter>
+      <Filter>Source Files\Array and Strings\RepeatedStringMatch</Filter>
     </ClInclude>
     <ClInclude Include="kEmptySlot.h">
-      <Filter>Source Files\General\kEmptySlot</Filter>
+      <Filter>Source Files\Array and Strings\kEmptySlot</Filter>
     </ClInclude>
     <ClInclude Include="NextClosestTime.h">
-      <Filter>Source Files\General\NextClosestTime</Filter>
+      <Filter>Source Files\Array and Strings\NextClosestTime</Filter>
     </ClInclude>
     <ClInclude Include="LongestUnivaluePath.h">
-      <Filter>Source Files\General\LongestUnivaluePath</Filter>
+      <Filter>Source Files\Trees and Graphs\LongestUnivaluePath</Filter>
     </ClInclude>
     <ClInclude Include="LicenseKeyFormat.h">
-      <Filter>Source Files\General\LicenseKeyFormat</Filter>
+      <Filter>Source Files\Array and Strings\LicenseKeyFormat</Filter>
     </ClInclude>
     <ClInclude Include="SpiralMatrix.h">
       <Filter>Source Files\Array and Strings\SpiralMatrix</Filter>
@@ -517,10 +544,10 @@
       <Filter>Source Files\Design\RangeSumQuery2D</Filter>
     </ClInclude>
     <ClInclude Include="UTF8Validation.h">
-      <Filter>Source Files\Others\UTF8Validation</Filter>
+      <Filter>Source Files\Array and Strings\UTF8Validation</Filter>
     </ClInclude>
     <ClInclude Include="MaximumProductOfWordLengths.h">
-      <Filter>Source Files\Others\MaximumProductOfWordLengths</Filter>
+      <Filter>Source Files\Array and Strings\MaximumProductOfWordLengths</Filter>
     </ClInclude>
     <ClInclude Include="ReadNCharactersGivenRead4.h">
       <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4</Filter>
@@ -544,7 +571,7 @@
       <Filter>Source Files\Sorting and Searching\MeetingRoomsII</Filter>
     </ClInclude>
     <ClInclude Include="RegularExpressionMatching.h">
-      <Filter>Source Files\Array and Strings\RegularExpressionMatching</Filter>
+      <Filter>Source Files\Dynamic Programming\RegularExpressionMatching</Filter>
     </ClInclude>
     <ClInclude Include="SerializeAndDeserializeBinaryTree.h">
       <Filter>Source Files\Trees and Graphs\SerializeAndDeserializeBinaryTree</Filter>
@@ -557,6 +584,39 @@
     </ClInclude>
     <ClInclude Include="GenerateParentheses.h">
       <Filter>Source Files\Recursion\GenerateParentheses</Filter>
+    </ClInclude>
+    <ClInclude Include="Pow.h">
+      <Filter>Source Files\Sorting and Searching\Pow</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicCalculator.h">
+      <Filter>Source Files\Array and Strings\BasicCalculator</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromePairs.h">
+      <Filter>Source Files\Sorting and Searching\PalindromePairs</Filter>
+    </ClInclude>
+    <ClInclude Include="MinStack.h">
+      <Filter>Source Files\Design\MinStack</Filter>
+    </ClInclude>
+    <ClInclude Include="BurstBalloons.h">
+      <Filter>Source Files\Dynamic Programming\BurstBalloons</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenNestedListIterator.h">
+      <Filter>Source Files\Design\FlattenNestedListIterator</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestConsecutiveSequence.h">
+      <Filter>Source Files\Array and Strings\LongestConsecutiveSequence</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchA2DMatrixII.h">
+      <Filter>Source Files\Sorting and Searching\SearchA2DMatrixII</Filter>
+    </ClInclude>
+    <ClInclude Include="EncodeAndDecodeTinyURL.h">
+      <Filter>Source Files\Design\EncodeAndDecodeTinyURL</Filter>
+    </ClInclude>
+    <ClInclude Include="FindPeakElement.h">
+      <Filter>Source Files\Array and Strings\FindPeakElement</Filter>
+    </ClInclude>
+    <ClInclude Include="WordBreakII.h">
+      <Filter>Source Files\Dynamic Programming\WordBreakII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -585,19 +645,19 @@
       <Filter>Source Files\Dynamic Programming\MinNumCoins</Filter>
     </ClCompile>
     <ClCompile Include="RepeatedStringMatch.cpp">
-      <Filter>Source Files\General\RepeatedStringMatch</Filter>
+      <Filter>Source Files\Array and Strings\RepeatedStringMatch</Filter>
     </ClCompile>
     <ClCompile Include="kEmptySlot.cpp">
-      <Filter>Source Files\General\kEmptySlot</Filter>
+      <Filter>Source Files\Array and Strings\kEmptySlot</Filter>
     </ClCompile>
     <ClCompile Include="NextClosestTime.cpp">
-      <Filter>Source Files\General\NextClosestTime</Filter>
+      <Filter>Source Files\Array and Strings\NextClosestTime</Filter>
     </ClCompile>
     <ClCompile Include="LongestUnivaluePath.cpp">
-      <Filter>Source Files\General\LongestUnivaluePath</Filter>
+      <Filter>Source Files\Trees and Graphs\LongestUnivaluePath</Filter>
     </ClCompile>
     <ClCompile Include="LicenseKeyFormat.cpp">
-      <Filter>Source Files\General\LicenseKeyFormat</Filter>
+      <Filter>Source Files\Array and Strings\LicenseKeyFormat</Filter>
     </ClCompile>
     <ClCompile Include="SpiralMatrix.cpp">
       <Filter>Source Files\Array and Strings\SpiralMatrix</Filter>
@@ -780,10 +840,10 @@
       <Filter>Source Files\Design\RangeSumQuery2D</Filter>
     </ClCompile>
     <ClCompile Include="UTF8Validation.cpp">
-      <Filter>Source Files\Others\UTF8Validation</Filter>
+      <Filter>Source Files\Array and Strings\UTF8Validation</Filter>
     </ClCompile>
     <ClCompile Include="MaximumProductOfWordLengths.cpp">
-      <Filter>Source Files\Others\MaximumProductOfWordLengths</Filter>
+      <Filter>Source Files\Array and Strings\MaximumProductOfWordLengths</Filter>
     </ClCompile>
     <ClCompile Include="ReadNCharactersGivenRead4.cpp">
       <Filter>Source Files\Array and Strings\ReadNCharactersGivenRead4</Filter>
@@ -807,7 +867,7 @@
       <Filter>Source Files\Sorting and Searching\MeetingRoomsII</Filter>
     </ClCompile>
     <ClCompile Include="RegularExpressionMatching.cpp">
-      <Filter>Source Files\Array and Strings\RegularExpressionMatching</Filter>
+      <Filter>Source Files\Dynamic Programming\RegularExpressionMatching</Filter>
     </ClCompile>
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp">
       <Filter>Source Files\Trees and Graphs\SerializeAndDeserializeBinaryTree</Filter>
@@ -820,6 +880,39 @@
     </ClCompile>
     <ClCompile Include="GenerateParentheses.cpp">
       <Filter>Source Files\Recursion\GenerateParentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="Pow.cpp">
+      <Filter>Source Files\Sorting and Searching\Pow</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicCalculator.cpp">
+      <Filter>Source Files\Array and Strings\BasicCalculator</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromePairs.cpp">
+      <Filter>Source Files\Sorting and Searching\PalindromePairs</Filter>
+    </ClCompile>
+    <ClCompile Include="MinStack.cpp">
+      <Filter>Source Files\Design\MinStack</Filter>
+    </ClCompile>
+    <ClCompile Include="BurstBalloons.cpp">
+      <Filter>Source Files\Dynamic Programming\BurstBalloons</Filter>
+    </ClCompile>
+    <ClCompile Include="FlattenNestedListIterator.cpp">
+      <Filter>Source Files\Design\FlattenNestedListIterator</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestConsecutiveSequence.cpp">
+      <Filter>Source Files\Array and Strings\LongestConsecutiveSequence</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchA2DMatrixII.cpp">
+      <Filter>Source Files\Sorting and Searching\SearchA2DMatrixII</Filter>
+    </ClCompile>
+    <ClCompile Include="EncodeAndDecodeTinyURL.cpp">
+      <Filter>Source Files\Design\EncodeAndDecodeTinyURL</Filter>
+    </ClCompile>
+    <ClCompile Include="FindPeakElement.cpp">
+      <Filter>Source Files\Array and Strings\FindPeakElement</Filter>
+    </ClCompile>
+    <ClCompile Include="WordBreakII.cpp">
+      <Filter>Source Files\Dynamic Programming\WordBreakII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

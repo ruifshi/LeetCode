@@ -77,23 +77,22 @@ int kEmptySlots(int* flowers, int flowersSize, int k) {
 class Solution {
 public:
 	int kEmptySlots(vector<int>& flowers, int k) {
-	  if(flowers.size()==0) return -1;
-	  set<int> s;
-	  s.insert(flowers[0]);
-	  for(int d=1;d<flowers.size();d++){
-		//first check the right neighbor
-		 auto right = s.upper_bound(flowers[d]);   // find the closest right place which has blooming flower (log(n))
-		 if(right != s.end() && (*right) -flowers[d] == k +1) return d+1;
-
-		//did not find the answer yet? let's check the left neighbor then
-		s.insert(flowers[d]);
-		 auto self = s.find(flowers[d]);
-		 auto left = prev(self);     //  find the closest left place which has blooming flower (log(n))
-		 if(left != s.end()&& flowers[d] -(*left) == k +1)
-			 return d+1;
-	 }
-	  return -1;
-
+	   set<int> pos_set;
+	   pos_set.insert(flowers.front());
+	   for(int i=1; i<flowers.size(); i++){
+		   auto it = pos_set.insert(flowers[i]).first;
+		   if(it != pos_set.begin()){
+			   if(*it - *prev(it)-1 == k){
+				   return i+1;
+			   }
+		   }
+		   if(next(it) != pos_set.end()){
+			   if(*next(it) - *it -1 == k){
+				   return i+1;
+			   }
+		   }
+	   }
+	   return -1;
 	}
 };
 */
