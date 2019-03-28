@@ -52,7 +52,9 @@
 //#include "BurstBalloons.h"
 //#include "LongestConsecutiveSequence.h"
 //#include "EncodeAndDecodeTinyURL.h"
-#include "WordBreakII.h"
+//#include "WordBreakII.h"
+//#include "VowelSpellchecker.h"
+#include "NumberOfSquarefulArrays.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -476,8 +478,21 @@ int _tmain(int argc, _TCHAR* argv[]) {
 
 	//output.decode(output.encode("url"));
 
-	vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
-	vector<string> ans = output.wordBreakII("catsanddog", wordDict);
+	//vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
+	//vector<string> ans = output.wordBreakII("catsanddog", wordDict);
+
+	/*
+	string arr[] = { "KiTe","kite","hare","Hare" };
+	vector<string> wordlist(arr, arr+4);
+
+	string arr1[] = { "kite","Kite","KiTe","Hare","HARE","Hear","hear","keti","keet","keto" };
+	vector<string> queries(arr1, arr1+10);
+
+	output.spellchecker(wordlist, queries);
+	*/
+
+	vector<int> vec = { 1,17,8 };
+	int out = output.numSquarefulPerms(vec);
 
 	return 0;
 }

@@ -82,12 +82,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddBoldTagInString.h" />
+    <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BasicCalculator.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
     <ClInclude Include="BurstBalloons.h" />
+    <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
     <ClInclude Include="CourseSchedule.h" />
+    <ClInclude Include="CousinsInBinaryTree.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DesignTicTacToe.h" />
     <ClInclude Include="DiagonalTraverse.h" />
@@ -101,6 +104,7 @@
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
+    <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="GenerateParentheses.h" />
@@ -110,6 +114,7 @@
     <ClInclude Include="InsertInterval.h" />
     <ClInclude Include="InsertIntoACyclicSortedList.h" />
     <ClInclude Include="IntersectionOfTwoArrays.h" />
+    <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="LongestConsecutiveSequence.h" />
@@ -128,6 +133,7 @@
     <ClInclude Include="MovingAverageFromDataStream.h" />
     <ClInclude Include="NextGreaterElementI.h" />
     <ClInclude Include="NextPermutation.h" />
+    <ClInclude Include="NumberOfSquarefulArrays.h" />
     <ClInclude Include="OneEditDist.h" />
     <ClInclude Include="kEmptySlot.h" />
     <ClInclude Include="LicenseKeyFormat.h" />
@@ -140,6 +146,7 @@
     <ClInclude Include="NumIslands.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
     <ClInclude Include="PalindromePairs.h" />
+    <ClInclude Include="PathSumII.h" />
     <ClInclude Include="PeekingIterator.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="Pow.h" />
@@ -152,11 +159,14 @@
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RepeatedStringMatch.h" />
     <ClInclude Include="RobotRoomCleaner.h" />
+    <ClInclude Include="RottingOranges.h" />
+    <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
     <ClInclude Include="SearchA2DMatrixII.h" />
     <ClInclude Include="SentenceScreenFitting.h" />
     <ClInclude Include="SerializeAndDeserializeBinaryTree.h" />
     <ClInclude Include="ShortestDistanceFromAllBuildings.h" />
     <ClInclude Include="ShortestPalindrome.h" />
+    <ClInclude Include="SmallestStringStartingFromLeaf.h" />
     <ClInclude Include="SortTransformedArray.h" />
     <ClInclude Include="SpiralMatrix.h" />
     <ClInclude Include="Sqrtx.h" />
@@ -168,26 +178,37 @@
     <ClInclude Include="SumQuery2.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TrappingRainWater.h" />
+    <ClInclude Include="Triangle.h" />
+    <ClInclude Include="UniqueBinarySearchTrees.h" />
     <ClInclude Include="UniqueEmailAddresses.h" />
+    <ClInclude Include="UniquePaths.h" />
+    <ClInclude Include="UniquePathsII.h" />
     <ClInclude Include="UTF8Validation.h" />
     <ClInclude Include="ValidateBinarySearchTree.h" />
     <ClInclude Include="ValidNumber.h" />
     <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="VerticalOrderTraversalOfABinaryTree.h" />
+    <ClInclude Include="VowelSpellchecker.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordBreakII.h" />
+    <ClInclude Include="WordLadder.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WorldSquares.h" />
     <ClInclude Include="ZigzagIterator.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="01Knapsack.cpp" />
     <ClCompile Include="AddBoldTagInString.cpp" />
+    <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="BasicCalculator.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
     <ClCompile Include="BurstBalloons.cpp" />
+    <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
+    <ClCompile Include="CousinsInBinaryTree.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DesignTicTacToe.cpp" />
     <ClCompile Include="DiagonalTraverse.cpp" />
@@ -201,6 +222,7 @@
     <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
+    <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
     <ClCompile Include="FruitIntoBaskets.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
@@ -210,7 +232,9 @@
     <ClCompile Include="InsertInterval.cpp" />
     <ClCompile Include="InsertIntoACyclicSortedList.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
+    <ClCompile Include="IntervalListIntersections.cpp" />
     <ClCompile Include="kEmptySlot.cpp" />
+    <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LicenseKeyFormat.cpp" />
@@ -234,6 +258,7 @@
     <ClCompile Include="NextClosestTime.cpp" />
     <ClCompile Include="NextGreaterElementI.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
+    <ClCompile Include="NumberOfSquarefulArrays.cpp" />
     <ClCompile Include="NumIslands.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MaxSubarray.cpp" />
@@ -241,9 +266,11 @@
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="PalindromePairs.cpp" />
+    <ClCompile Include="PathSumII.cpp" />
     <ClCompile Include="PeekingIterator.cpp" />
     <ClCompile Include="PlusOne.cpp" />
     <ClCompile Include="Pow.cpp" />
+    <ClCompile Include="Prims.cpp" />
     <ClCompile Include="RangeModule.cpp" />
     <ClCompile Include="RangeSumQuery2D.cpp" />
     <ClCompile Include="ReadNCharactersGivenRead4.cpp" />
@@ -253,12 +280,16 @@
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
     <ClCompile Include="RobotRoomCleaner.cpp" />
+    <ClCompile Include="RottingOranges.cpp" />
+    <ClCompile Include="SatisfiabilityOfEqualityEquations.cpp" />
     <ClCompile Include="SearchA2DMatrixII.cpp" />
     <ClCompile Include="SentenceScreenFitting.cpp" />
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
+    <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />
+    <ClCompile Include="Dijkstra.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
@@ -271,14 +302,21 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
+    <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="UniqueEmailAddresses.cpp" />
+    <ClCompile Include="UniquePaths.cpp" />
+    <ClCompile Include="UniquePathsII.cpp" />
     <ClCompile Include="UTF8Validation.cpp" />
     <ClCompile Include="ValidateBinarySearchTree.cpp" />
     <ClCompile Include="ValidNumber.cpp" />
     <ClCompile Include="ValidPalindrome.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
+    <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
+    <ClCompile Include="VowelSpellchecker.cpp" />
     <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordBreakII.cpp" />
+    <ClCompile Include="WordLadder.cpp" />
     <ClCompile Include="WordSearchII.cpp" />
     <ClCompile Include="WordSquares.cpp" />
     <ClCompile Include="ZigzagIterator.cpp" />

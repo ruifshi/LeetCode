@@ -80,7 +80,7 @@ public:
 	   set<int> pos_set;
 	   pos_set.insert(flowers.front());
 	   for(int i=1; i<flowers.size(); i++){
-		   auto it = pos_set.insert(flowers[i]).first;
+		   auto it = pos_set.insert(flowers[i]).first;	// first points to newly inserted element or the existing one already in the set
 		   if(it != pos_set.begin()){
 			   if(*it - *prev(it)-1 == k){
 				   return i+1;

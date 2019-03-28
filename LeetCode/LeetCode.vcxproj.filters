@@ -322,6 +322,63 @@
     <Filter Include="Source Files\Dynamic Programming\RegularExpressionMatching">
       <UniqueIdentifier>{a90de8b2-4de5-41d7-8a6c-d8d4a0a21e41}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Linked List\AddTwoNumbers">
+      <UniqueIdentifier>{292e61cb-04b8-4e6c-94da-836552a47cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\VowelSpellchecker">
+      <UniqueIdentifier>{127d8477-2e32-4397-9d62-5b85d112179b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FlipBinaryTreeToMatchPreorderTraversal">
+      <UniqueIdentifier>{afaeff92-963a-47c7-ae5d-61537191637d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SmallestStringStartingFromLeaf">
+      <UniqueIdentifier>{0d3fb3fb-9aa7-4b9b-894a-134c727fa974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\RottingOranges">
+      <UniqueIdentifier>{b0fa5a4d-21c5-4240-bb85-ef19266cbd49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CousinsInBinaryTree">
+      <UniqueIdentifier>{5792fecf-3d30-4a71-8145-43b8a9180539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SatisfiabilityOfEqualityEquations">
+      <UniqueIdentifier>{25a96582-d91b-4647-8946-4d3b005e7718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MSTandShortestPath">
+      <UniqueIdentifier>{b7ae99a3-c0c2-4245-8e6f-93f5c0af6090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\NumberOfSquarefulArrays">
+      <UniqueIdentifier>{b2e57768-264f-4555-bef2-b83d05420e68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\VerticalOrderTraversalOfABinaryTree">
+      <UniqueIdentifier>{474f3765-2cdc-497d-8848-3583a6836c1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntervalListIntersections">
+      <UniqueIdentifier>{000abd6c-b80b-4a9d-80cd-c1aa7621f213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\UniquePaths">
+      <UniqueIdentifier>{f45dff45-fae2-4a07-bec6-21b1f45b8596}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\UniquePathsII">
+      <UniqueIdentifier>{0a1443ec-06b2-4593-b033-649ad36bca5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\ClimbingStairs">
+      <UniqueIdentifier>{0411824b-d436-4f95-bb46-382fb7b477e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\UniqueBinarySearchTrees">
+      <UniqueIdentifier>{0ac2e958-ed8f-4615-9e7a-c4a7c9b9c952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\Triangle">
+      <UniqueIdentifier>{185656fb-3df5-4ecc-92c7-7d08c2f24467}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PathSumII">
+      <UniqueIdentifier>{680bf53f-192d-462d-9995-8dab05084f8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\WordLadder">
+      <UniqueIdentifier>{0af45063-9288-4adf-8b86-b3ea29f75f59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\01Knapsack">
+      <UniqueIdentifier>{8587a89a-5c50-4cd4-a09b-ee43b457424a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -618,6 +675,57 @@
     <ClInclude Include="WordBreakII.h">
       <Filter>Source Files\Dynamic Programming\WordBreakII</Filter>
     </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>Source Files\Linked List\AddTwoNumbers</Filter>
+    </ClInclude>
+    <ClInclude Include="VowelSpellchecker.h">
+      <Filter>Source Files\Sorting and Searching\VowelSpellchecker</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\FlipBinaryTreeToMatchPreorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="SmallestStringStartingFromLeaf.h">
+      <Filter>Source Files\Trees and Graphs\SmallestStringStartingFromLeaf</Filter>
+    </ClInclude>
+    <ClInclude Include="RottingOranges.h">
+      <Filter>Source Files\Trees and Graphs\RottingOranges</Filter>
+    </ClInclude>
+    <ClInclude Include="CousinsInBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\CousinsInBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SatisfiabilityOfEqualityEquations.h">
+      <Filter>Source Files\Trees and Graphs\SatisfiabilityOfEqualityEquations</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfSquarefulArrays.h">
+      <Filter>Source Files\Trees and Graphs\NumberOfSquarefulArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="VerticalOrderTraversalOfABinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\VerticalOrderTraversalOfABinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="IntervalListIntersections.h">
+      <Filter>Source Files\Array and Strings\IntervalListIntersections</Filter>
+    </ClInclude>
+    <ClInclude Include="UniquePaths.h">
+      <Filter>Source Files\Dynamic Programming\UniquePaths</Filter>
+    </ClInclude>
+    <ClInclude Include="UniquePathsII.h">
+      <Filter>Source Files\Dynamic Programming\UniquePathsII</Filter>
+    </ClInclude>
+    <ClInclude Include="ClimbingStairs.h">
+      <Filter>Source Files\Dynamic Programming\ClimbingStairs</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueBinarySearchTrees.h">
+      <Filter>Source Files\Dynamic Programming\UniqueBinarySearchTrees</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Source Files\Dynamic Programming\Triangle</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSumII.h">
+      <Filter>Source Files\Trees and Graphs\PathSumII</Filter>
+    </ClInclude>
+    <ClInclude Include="WordLadder.h">
+      <Filter>Source Files\Trees and Graphs\WordLadder</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -913,6 +1021,69 @@
     </ClCompile>
     <ClCompile Include="WordBreakII.cpp">
       <Filter>Source Files\Dynamic Programming\WordBreakII</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTwoNumbers.cpp">
+      <Filter>Source Files\Linked List\AddTwoNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="VowelSpellchecker.cpp">
+      <Filter>Source Files\Sorting and Searching\VowelSpellchecker</Filter>
+    </ClCompile>
+    <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\FlipBinaryTreeToMatchPreorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="SmallestStringStartingFromLeaf.cpp">
+      <Filter>Source Files\Trees and Graphs\SmallestStringStartingFromLeaf</Filter>
+    </ClCompile>
+    <ClCompile Include="RottingOranges.cpp">
+      <Filter>Source Files\Trees and Graphs\RottingOranges</Filter>
+    </ClCompile>
+    <ClCompile Include="CousinsInBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\CousinsInBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="SatisfiabilityOfEqualityEquations.cpp">
+      <Filter>Source Files\Trees and Graphs\SatisfiabilityOfEqualityEquations</Filter>
+    </ClCompile>
+    <ClCompile Include="Prims.cpp">
+      <Filter>Source Files\Trees and Graphs\MSTandShortestPath</Filter>
+    </ClCompile>
+    <ClCompile Include="Kruskals.cpp">
+      <Filter>Source Files\Trees and Graphs\MSTandShortestPath</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra.cpp">
+      <Filter>Source Files\Trees and Graphs\MSTandShortestPath</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfSquarefulArrays.cpp">
+      <Filter>Source Files\Trees and Graphs\NumberOfSquarefulArrays</Filter>
+    </ClCompile>
+    <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\VerticalOrderTraversalOfABinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="IntervalListIntersections.cpp">
+      <Filter>Source Files\Array and Strings\IntervalListIntersections</Filter>
+    </ClCompile>
+    <ClCompile Include="UniquePaths.cpp">
+      <Filter>Source Files\Dynamic Programming\UniquePaths</Filter>
+    </ClCompile>
+    <ClCompile Include="UniquePathsII.cpp">
+      <Filter>Source Files\Dynamic Programming\UniquePathsII</Filter>
+    </ClCompile>
+    <ClCompile Include="ClimbingStairs.cpp">
+      <Filter>Source Files\Dynamic Programming\ClimbingStairs</Filter>
+    </ClCompile>
+    <ClCompile Include="UniqueBinarySearchTrees.cpp">
+      <Filter>Source Files\Dynamic Programming\UniqueBinarySearchTrees</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Source Files\Dynamic Programming\Triangle</Filter>
+    </ClCompile>
+    <ClCompile Include="PathSumII.cpp">
+      <Filter>Source Files\Trees and Graphs\PathSumII</Filter>
+    </ClCompile>
+    <ClCompile Include="WordLadder.cpp">
+      <Filter>Source Files\Trees and Graphs\WordLadder</Filter>
+    </ClCompile>
+    <ClCompile Include="01Knapsack.cpp">
+      <Filter>Source Files\Dynamic Programming\01Knapsack</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
