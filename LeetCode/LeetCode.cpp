@@ -54,7 +54,8 @@
 //#include "EncodeAndDecodeTinyURL.h"
 //#include "WordBreakII.h"
 //#include "VowelSpellchecker.h"
-#include "NumberOfSquarefulArrays.h"
+//#include "NumberOfSquarefulArrays.h"
+#include "MinNumOfKConsecutiveBitFlips.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -491,8 +492,13 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	output.spellchecker(wordlist, queries);
 	*/
 
+	/*
 	vector<int> vec = { 1,17,8 };
 	int out = output.numSquarefulPerms(vec);
+	*/
+
+	vector<int> vec = { 0,0,0,1,0,1,1,0 };
+	int out = output.minKBitFlips(vec, 3);
 
 	return 0;
 }

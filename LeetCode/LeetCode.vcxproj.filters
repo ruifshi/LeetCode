@@ -313,9 +313,6 @@
     <Filter Include="Source Files\Array and Strings\FindPeakElement">
       <UniqueIdentifier>{76225fa6-d4e8-4d8d-b3d3-3ca40b7ba3d1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Dynamic Programming\WordBreakII">
-      <UniqueIdentifier>{34ff5a64-a35e-4684-b453-154194b1c34e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\NextPermutation">
       <UniqueIdentifier>{2fbbc912-bda5-4b95-b756-6cdbdb1617be}</UniqueIdentifier>
     </Filter>
@@ -378,6 +375,27 @@
     </Filter>
     <Filter Include="Source Files\Dynamic Programming\01Knapsack">
       <UniqueIdentifier>{8587a89a-5c50-4cd4-a09b-ee43b457424a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\AllNodesDistanceKinBinaryTree">
+      <UniqueIdentifier>{fadb0fb9-6403-4fee-982d-6647e2188a3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MergeSortedArray">
+      <UniqueIdentifier>{88c294f2-0491-4538-a834-30e6472538b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\TravelingSalesman">
+      <UniqueIdentifier>{2b02caa9-4e7e-45e3-8551-0785661461c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\WordBreakII">
+      <UniqueIdentifier>{34ff5a64-a35e-4684-b453-154194b1c34e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\BrokenCalculator">
+      <UniqueIdentifier>{64977d6e-8197-42f8-8855-75be1e2a5536}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal">
+      <UniqueIdentifier>{983df86f-8adf-42b6-afb2-5a5ac3b9f332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips">
+      <UniqueIdentifier>{e307cab6-e431-4914-9cf0-70b2be872242}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -725,6 +743,21 @@
     </ClInclude>
     <ClInclude Include="WordLadder.h">
       <Filter>Source Files\Trees and Graphs\WordLadder</Filter>
+    </ClInclude>
+    <ClInclude Include="AllNodesDistanceKinBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\AllNodesDistanceKinBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSortedArray.h">
+      <Filter>Source Files\Array and Strings\MergeSortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="BrokenCalculator.h">
+      <Filter>Source Files\Sorting and Searching\BrokenCalculator</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBSTFromPreorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="MinNumOfKConsecutiveBitFlips.h">
+      <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1084,6 +1117,24 @@
     </ClCompile>
     <ClCompile Include="01Knapsack.cpp">
       <Filter>Source Files\Dynamic Programming\01Knapsack</Filter>
+    </ClCompile>
+    <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\AllNodesDistanceKinBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSortedArray.cpp">
+      <Filter>Source Files\Array and Strings\MergeSortedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="TravelingSalesman.cpp">
+      <Filter>Source Files\Dynamic Programming\TravelingSalesman</Filter>
+    </ClCompile>
+    <ClCompile Include="BrokenCalculator.cpp">
+      <Filter>Source Files\Sorting and Searching\BrokenCalculator</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructBSTFromPreorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp">
+      <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
