@@ -112,6 +112,7 @@
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="GenerateParentheses.h" />
+    <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="HouseRobberII.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="InorderSuccessorInBST.h" />
@@ -140,6 +141,7 @@
     <ClInclude Include="MovingAverageFromDataStream.h" />
     <ClInclude Include="NextGreaterElementI.h" />
     <ClInclude Include="NextPermutation.h" />
+    <ClInclude Include="NondecreasingArray.h" />
     <ClInclude Include="NumberOfSquarefulArrays.h" />
     <ClInclude Include="OneEditDist.h" />
     <ClInclude Include="kEmptySlot.h" />
@@ -152,6 +154,7 @@
     <ClInclude Include="NextClosestTime.h" />
     <ClInclude Include="NumIslands.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
+    <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="PalindromePairs.h" />
     <ClInclude Include="PathSumII.h" />
     <ClInclude Include="PeekingIterator.h" />
@@ -275,6 +278,7 @@
     <ClCompile Include="NextClosestTime.cpp" />
     <ClCompile Include="NextGreaterElementI.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
+    <ClCompile Include="NondecreasingArray.cpp" />
     <ClCompile Include="NumberOfSquarefulArrays.cpp" />
     <ClCompile Include="NumIslands.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
@@ -282,6 +286,7 @@
     <ClCompile Include="MinNumCoins.cpp" />
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
+    <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="PalindromePairs.cpp" />
     <ClCompile Include="PathSumII.cpp" />
     <ClCompile Include="PeekingIterator.cpp" />
@@ -335,6 +340,7 @@
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
     <ClCompile Include="VowelSpellchecker.cpp" />
+    <ClCompile Include="WalkingRobotSimulation.cpp" />
     <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordBreakII.cpp" />
     <ClCompile Include="WordLadder.cpp" />
