@@ -421,6 +421,12 @@
     <Filter Include="Source Files\Design\WalkingRobotSimulation">
       <UniqueIdentifier>{9fde9a49-7559-42ba-8b3a-17c16a9a71d1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\BuddyStrings">
+      <UniqueIdentifier>{4c24595d-7c66-4127-9149-1939b4a6116d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\DailyTemperature">
+      <UniqueIdentifier>{8d89efd5-899c-4e8d-9fb9-e70bf006dd3a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -806,6 +812,12 @@
     </ClInclude>
     <ClInclude Include="WalkingRobotSimulation.h">
       <Filter>Source Files\Design\WalkingRobotSimulation</Filter>
+    </ClInclude>
+    <ClInclude Include="BuddyStrings.h">
+      <Filter>Source Files\Array and Strings\BuddyStrings</Filter>
+    </ClInclude>
+    <ClInclude Include="DailyTemperature.h">
+      <Filter>Source Files\Array and Strings\DailyTemperature</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1207,6 +1219,12 @@
     </ClCompile>
     <ClCompile Include="WalkingRobotSimulation.cpp">
       <Filter>Source Files\Design\WalkingRobotSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="BuddyStrings.cpp">
+      <Filter>Source Files\Array and Strings\BuddyStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyTemperature.cpp">
+      <Filter>Source Files\Array and Strings\DailyTemperature</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,10 +1,258 @@
-﻿  NondecreasingArray.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\nondecreasingarray.cpp(28): warning C4018: '<': signed/unsigned mismatch
-  PalindromeNumber.cpp
-  Permutations.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\permutations.cpp(12): warning C4018: '<': signed/unsigned mismatch
-  LeetCode.cpp
-  WalkingRobotSimulation.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\walkingrobotsimulation.cpp(19): warning C4018: '<': signed/unsigned mismatch
+﻿  stdafx.cpp
+  01Knapsack.cpp
+  AddBoldTagInString.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\addboldtaginstring.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\addboldtaginstring.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\addboldtaginstring.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  AddTwoNumbers.cpp
+  AllNodesDistanceKinBinaryTree.cpp
+  AndroidUnlockPatterns.cpp
+  BasicCalculator.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\basiccalculator.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  BinarySearchTreeIterator.cpp
+  BrokenCalculator.cpp
+  BuddyStrings.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\buddystrings.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\buddystrings.cpp(25): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  BurstBalloons.cpp
+  ClimbingStairs.cpp
+  ClosestBinarySearchTreeValue.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\closestbinarysearchtreevalue.cpp(19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ConstructBSTFromPreorderTraversal.cpp
+  CourseSchedule.cpp
+  CousinsInBinaryTree.cpp
+  DailyTemperature.cpp
+  DecodeWays.cpp
+  DesignTicTacToe.cpp
+  DiagonalTraverse.cpp
+  EditDistance.cpp
   Generating Code...
-  LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe
+  Compiling...
+  EncodeAndDecodeTinyURL.cpp
+  EvaluateDivision.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\evaluatedivision.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  EvaluateReversePolishNotation.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\evaluatereversepolishnotation.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  FindKPairsWithSmallestSums.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\findkpairswithsmallestsums.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  FindKthSmallestPairDistance.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\findkthsmallestpairdistance.cpp(13): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\findkthsmallestpairdistance.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\findkthsmallestpairdistance.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  FindPeakElement.cpp
+  FirstMissingPositive.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\firstmissingpositive.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\firstmissingpositive.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\firstmissingpositive.cpp(23): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\firstmissingpositive.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  FirstUniqueCharacterInAString.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\firstuniquecharacterinastring.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  FizzBuzz.cpp
+  FlattenNestedListIterator.cpp
+  FlipBinaryTreeToMatchPreorderTraversal.cpp
+  FruitIntoBaskets.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\fruitintobaskets.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  GameOfLife.cpp
+  GenerateParentheses.cpp
+  HouseRobberII.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\houserobberii.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\houserobberii.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  ImageSmoother.cpp
+  InorderSuccessorInBST.cpp
+  InsertInterval.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\insertinterval.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\insertinterval.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\insertinterval.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  InsertIntoACyclicSortedList.cpp
+  IntersectionOfTwoArrays.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\intersectionoftwoarrays.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\intersectionoftwoarrays.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\ruifs\source\repos\leetcode\leetcode\flattennestedlistiterator.cpp(17): warning C4172: returning address of local variable or temporary
+  Compiling...
+  IntervalListIntersections.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\intervallistintersections.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  kEmptySlot.cpp
+  Kruskals.cpp
+  KthLargestElementInAnArray.cpp
+  LetterCombinationsOfAPhoneNumber.cpp
+  LicenseKeyFormat.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\licensekeyformat.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  LongestConsecutiveSequence.cpp
+  LongestPalindromicSubstring.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\longestpalindromicsubstring.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\longestpalindromicsubstring.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  LongestSubstringK.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\longestsubstringk.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\longestsubstringk.cpp(23): warning C4018: '>': signed/unsigned mismatch
+  LongestUnivaluePath.cpp
+  LRUCache.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\lrucache.cpp(82): warning C4018: '>': signed/unsigned mismatch
+  MaxConsecutiveOnes.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\maxconsecutiveones.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  MaxConsecutiveOnesFlip.cpp
+  MaximumDepthOfBinaryTree.cpp
+  MaximumProductOfWordLengths.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\maximumproductofwordlengths.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  MaximumVacationDays.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\maximumvacationdays.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\maximumvacationdays.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  MedianOfTwoSortedArrays.cpp
+  MeetingRoomsII.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\meetingroomsii.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  MergeKSortedLists.cpp
+  MergeSortedArray.cpp
+  Generating Code...
+c:\users\ruifs\source\repos\leetcode\leetcode\medianoftwosortedarrays.cpp(55): warning C4715: 'Solution::findMedianSortedArrays': not all control paths return a value
+  Compiling...
+  MinimumPathSum.cpp
+  MinNumOfKConsecutiveBitFlips.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\minnumofkconsecutivebitflips.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\minnumofkconsecutivebitflips.cpp(20): warning C4018: '>': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\minnumofkconsecutivebitflips.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  MinStack.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\minstack.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MinWindow.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\minwindow.cpp(34): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\minwindow.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  MoveZeroes.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\movezeroes.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  MovingAverageFromDataStream.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\movingaveragefromdatastream.cpp(15): warning C4018: '>': signed/unsigned mismatch
+  NextClosestTime.cpp
+  NextGreaterElementI.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\nextgreaterelementi.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\nextgreaterelementi.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\nextgreaterelementi.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  NextPermutation.cpp
+  NondecreasingArray.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\nondecreasingarray.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  NumberOfSquarefulArrays.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\numberofsquarefularrays.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NumIslands.cpp
+  MergeIntervals.cpp
+  MaxSubarray.cpp
+  MinNumCoins.cpp
+  OneEditDist.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\oneeditdist.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  PacificAtlanticWaterFlow.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\pacificatlanticwaterflow.cpp(46): warning C4018: '>=': signed/unsigned mismatch
+  PalindromeNumber.cpp
+  PalindromePairs.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\palindromepairs.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\palindromepairs.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\palindromepairs.cpp(15): warning C4018: '<=': signed/unsigned mismatch
+  PathSumII.cpp
+  Generating Code...
+  Compiling...
+  PeekingIterator.cpp
+  Permutations.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\permutations.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  PlusOne.cpp
+  Pow.cpp
+  Prims.cpp
+  RangeModule.cpp
+  RangeSumQuery2D.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\rangesumquery2d.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\rangesumquery2d.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\rangesumquery2d.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\rangesumquery2d.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  ReadNCharactersGivenRead4.cpp
+  ReadNCharactersGivenRead4II.cpp
+  RedundantConnectionII.cpp
+  RegularExpressionMatching.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\regularexpressionmatching.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\regularexpressionmatching.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\regularexpressionmatching.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  RemoveDuplicatesFromSortedArray.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\removeduplicatesfromsortedarray.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  RepeatedStringMatch.cpp
+  RobotRoomCleaner.cpp
+  RottingOranges.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\rottingoranges.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\rottingoranges.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\rottingoranges.cpp(37): warning C4018: '>=': signed/unsigned mismatch
+  SatisfiabilityOfEqualityEquations.cpp
+  SearchA2DMatrixII.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\searcha2dmatrixii.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  SentenceScreenFitting.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\sentencescreenfitting.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  SerializeAndDeserializeBinaryTree.cpp
+  ShortestDistanceFromAllBuildings.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\shortestdistancefromallbuildings.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  ShortestPalindrome.cpp
+  SingleNumber.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\singlenumber.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  SmallestStringStartingFromLeaf.cpp
+  SortTransformedArray.cpp
+  Dijkstra.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\dijkstra.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ReverseString.cpp
+  SpiralMatrix.cpp
+  Sqrtx.cpp
+  StrobogrammaticNumberII.cpp
+  SumQuery.cpp
+  Stock.cpp
+  LeetCode.cpp
+  SumQuery2.cpp
+  TrappingRainWater.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\trappingrainwater.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\trappingrainwater.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  TravelingSalesman.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\travelingsalesman.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  Triangle.cpp
+  UniqueBinarySearchTrees.cpp
+  UniqueEmailAddresses.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\uniqueemailaddresses.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  UniquePaths.cpp
+  UniquePathsII.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\uniquepathsii.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\uniquepathsii.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\uniquepathsii.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\uniquepathsii.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  UTF8Validation.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\utf8validation.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  ValidateBinarySearchTree.cpp
+  ValidNumber.cpp
+  ValidPalindrome.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\validpalindrome.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  ValidParentheses.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\validparentheses.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  VerticalOrderTraversalOfABinaryTree.cpp
+  VowelSpellchecker.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\vowelspellchecker.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  WalkingRobotSimulation.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\walkingrobotsimulation.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  WordBreak.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\wordbreak.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordbreak.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordbreak.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordbreak.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  WordBreakII.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\wordbreakii.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordbreakii.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  WordLadder.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\wordladder.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  WordSearchII.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsearchii.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsearchii.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsearchii.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsearchii.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  WordSquares.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsquares.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsquares.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\wordsquares.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  ZigzagIterator.cpp
+  Generating Code...
+  LINK : C:\Users\ruifs\source\repos\LeetCode\Debug\LeetCode.exe not found or not built by the last incremental link; performing full link
+  LeetCode.vcxproj -> C:\Users\ruifs\source\repos\LeetCode\Debug\LeetCode.exe
