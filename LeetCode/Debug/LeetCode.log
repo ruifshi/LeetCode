@@ -1,5 +1,3 @@
-﻿  MinNumOfKConsecutiveBitFlips.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\minnumofkconsecutivebitflips.cpp(15): warning C4018: '<': signed/unsigned mismatch
-c:\users\rui shi\source\repos\leetcode\leetcode\minnumofkconsecutivebitflips.cpp(19): warning C4018: '>': signed/unsigned mismatch
-c:\users\rui shi\source\repos\leetcode\leetcode\minnumofkconsecutivebitflips.cpp(23): warning C4018: '<': signed/unsigned mismatch
+﻿  Permutations.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\permutations.cpp(11): warning C4018: '<': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

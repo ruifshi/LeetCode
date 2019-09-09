@@ -106,6 +106,7 @@
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
+    <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
@@ -125,6 +126,7 @@
     <ClInclude Include="LRUCache.h" />
     <ClInclude Include="MaxConsecutiveOnes.h" />
     <ClInclude Include="MaxConsecutiveOnesFlip.h" />
+    <ClInclude Include="MaximumDepthOfBinaryTree.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="MaximumVacationDays.h" />
     <ClInclude Include="MedianOfTwoSortedArrays.h" />
@@ -153,6 +155,7 @@
     <ClInclude Include="PalindromePairs.h" />
     <ClInclude Include="PathSumII.h" />
     <ClInclude Include="PeekingIterator.h" />
+    <ClInclude Include="Permutations.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="Pow.h" />
     <ClInclude Include="RangeModule.h" />
@@ -163,6 +166,7 @@
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RepeatedStringMatch.h" />
+    <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RobotRoomCleaner.h" />
     <ClInclude Include="RottingOranges.h" />
     <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
@@ -171,6 +175,7 @@
     <ClInclude Include="SerializeAndDeserializeBinaryTree.h" />
     <ClInclude Include="ShortestDistanceFromAllBuildings.h" />
     <ClInclude Include="ShortestPalindrome.h" />
+    <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SmallestStringStartingFromLeaf.h" />
     <ClInclude Include="SortTransformedArray.h" />
     <ClInclude Include="SpiralMatrix.h" />
@@ -229,6 +234,7 @@
     <ClCompile Include="FindPeakElement.cpp" />
     <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
+    <ClCompile Include="FizzBuzz.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
     <ClCompile Include="FruitIntoBaskets.cpp" />
@@ -253,6 +259,7 @@
     <ClCompile Include="LRUCache.cpp" />
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
+    <ClCompile Include="MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
     <ClCompile Include="MaximumVacationDays.cpp" />
     <ClCompile Include="MedianOfTwoSortedArrays.cpp" />
@@ -278,6 +285,7 @@
     <ClCompile Include="PalindromePairs.cpp" />
     <ClCompile Include="PathSumII.cpp" />
     <ClCompile Include="PeekingIterator.cpp" />
+    <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="PlusOne.cpp" />
     <ClCompile Include="Pow.cpp" />
     <ClCompile Include="Prims.cpp" />
@@ -297,9 +305,11 @@
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
+    <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
+    <ClCompile Include="ReverseString.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />

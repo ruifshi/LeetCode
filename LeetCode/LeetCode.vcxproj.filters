@@ -397,6 +397,21 @@
     <Filter Include="Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips">
       <UniqueIdentifier>{e307cab6-e431-4914-9cf0-70b2be872242}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\ReverseString">
+      <UniqueIdentifier>{6a39b729-f9ab-4a29-9493-a4418c7c5beb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumDepthOfBinaryTree">
+      <UniqueIdentifier>{a60688b8-468e-41a0-97e6-bf2f10b73971}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SingleNumber">
+      <UniqueIdentifier>{dd1186e5-7d14-4529-bc58-3ea054d146ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FizzBuzz">
+      <UniqueIdentifier>{735fb920-b7e5-4b51-902d-730014ef56fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\Permutations">
+      <UniqueIdentifier>{fa0243cf-db0d-4d56-8ee2-d5f07800ad50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -758,6 +773,21 @@
     </ClInclude>
     <ClInclude Include="MinNumOfKConsecutiveBitFlips.h">
       <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseString.h">
+      <Filter>Source Files\Array and Strings\ReverseString</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumDepthOfBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\MaximumDepthOfBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleNumber.h">
+      <Filter>Source Files\Array and Strings\SingleNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="FizzBuzz.h">
+      <Filter>Source Files\Array and Strings\FizzBuzz</Filter>
+    </ClInclude>
+    <ClInclude Include="Permutations.h">
+      <Filter>Source Files\Recursion\Permutations</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1135,6 +1165,21 @@
     </ClCompile>
     <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp">
       <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseString.cpp">
+      <Filter>Source Files\Array and Strings\ReverseString</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumDepthOfBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumDepthOfBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleNumber.cpp">
+      <Filter>Source Files\Array and Strings\SingleNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="FizzBuzz.cpp">
+      <Filter>Source Files\Array and Strings\FizzBuzz</Filter>
+    </ClCompile>
+    <ClCompile Include="Permutations.cpp">
+      <Filter>Source Files\Recursion\Permutations</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

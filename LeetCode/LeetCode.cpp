@@ -55,7 +55,8 @@
 //#include "WordBreakII.h"
 //#include "VowelSpellchecker.h"
 //#include "NumberOfSquarefulArrays.h"
-#include "MinNumOfKConsecutiveBitFlips.h"
+//#include "MinNumOfKConsecutiveBitFlips.h"
+#include "Permutations.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -497,8 +498,11 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	int out = output.numSquarefulPerms(vec);
 	*/
 
-	vector<int> vec = { 0,0,0,1,0,1,1,0 };
-	int out = output.minKBitFlips(vec, 3);
+	//vector<int> vec = { 0,0,0,1,0,1,1,0 };
+	//int out = output.minKBitFlips(vec, 3);
+
+	vector<int> vec = { 1,2,3 };
+	vector<vector<int>> out = output.permute(vec);
 
 	return 0;
 }
