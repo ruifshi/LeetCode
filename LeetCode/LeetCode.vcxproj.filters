@@ -412,6 +412,15 @@
     <Filter Include="Source Files\Recursion\Permutations">
       <UniqueIdentifier>{fa0243cf-db0d-4d56-8ee2-d5f07800ad50}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\NondecreasingArray">
+      <UniqueIdentifier>{4e713f52-508e-4444-a4c5-2301a73eb1b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\PalindromeNumber">
+      <UniqueIdentifier>{ed81f555-de6c-4ed5-a4c6-bdf629e32fde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\WalkingRobotSimulation">
+      <UniqueIdentifier>{9fde9a49-7559-42ba-8b3a-17c16a9a71d1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -788,6 +797,15 @@
     </ClInclude>
     <ClInclude Include="Permutations.h">
       <Filter>Source Files\Recursion\Permutations</Filter>
+    </ClInclude>
+    <ClInclude Include="NondecreasingArray.h">
+      <Filter>Source Files\Array and Strings\NondecreasingArray</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeNumber.h">
+      <Filter>Source Files\Array and Strings\PalindromeNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="WalkingRobotSimulation.h">
+      <Filter>Source Files\Design\WalkingRobotSimulation</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1180,6 +1198,15 @@
     </ClCompile>
     <ClCompile Include="Permutations.cpp">
       <Filter>Source Files\Recursion\Permutations</Filter>
+    </ClCompile>
+    <ClCompile Include="NondecreasingArray.cpp">
+      <Filter>Source Files\Array and Strings\NondecreasingArray</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromeNumber.cpp">
+      <Filter>Source Files\Array and Strings\PalindromeNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="WalkingRobotSimulation.cpp">
+      <Filter>Source Files\Design\WalkingRobotSimulation</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
