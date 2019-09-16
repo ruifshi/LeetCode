@@ -457,6 +457,12 @@
     <Filter Include="Source Files\Array and Strings\MostCommonWord">
       <UniqueIdentifier>{3d84ad88-bde6-41af-ae13-b4f4a7a0c37b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\BuddyStrings">
+      <UniqueIdentifier>{ec04f1f0-ba07-483e-aa02-9c8e0898d328}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\DailyTemperature">
+      <UniqueIdentifier>{21ea624e-7aa1-4db5-a59c-1c91895e0207}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -878,6 +884,12 @@
     </ClInclude>
     <ClInclude Include="MostCommonWord.h">
       <Filter>Source Files\Array and Strings\MostCommonWord</Filter>
+    </ClInclude>
+    <ClInclude Include="BuddyStrings.h">
+      <Filter>Source Files\Array and Strings\BuddyStrings</Filter>
+    </ClInclude>
+    <ClInclude Include="DailyTemperature.h">
+      <Filter>Source Files\Array and Strings\DailyTemperature</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1315,6 +1327,12 @@
     </ClCompile>
     <ClCompile Include="MostCommonWord.cpp">
       <Filter>Source Files\Array and Strings\MostCommonWord</Filter>
+    </ClCompile>
+    <ClCompile Include="BuddyStrings.cpp">
+      <Filter>Source Files\Array and Strings\BuddyStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyTemperature.cpp">
+      <Filter>Source Files\Array and Strings\DailyTemperature</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
