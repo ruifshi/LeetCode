@@ -56,7 +56,9 @@
 //#include "VowelSpellchecker.h"
 //#include "NumberOfSquarefulArrays.h"
 //#include "MinNumOfKConsecutiveBitFlips.h"
-#include "Permutations.h"
+//#include "Permutations.h"
+//#include "FindTheTownJudge.h"
+#include "TopKFrequentWords.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -501,8 +503,14 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	//vector<int> vec = { 0,0,0,1,0,1,1,0 };
 	//int out = output.minKBitFlips(vec, 3);
 
-	vector<int> vec = { 1,2,3 };
-	vector<vector<int>> out = output.permute(vec);
+	//vector<int> vec = { 1,2,3 };
+	//vector<vector<int>> out = output.permute(vec);
+
+	//vector<vector<int>> vec = {{1,3},{2,3}};
+	//int ans = output.findJudge(3, vec);
+
+	vector<string> vec = { "the", "day", "is", "sunny", "the", "the", "the", "sunny", "is", "is" };
+	vector<string> ans = output.topKFrequent(vec, 4);
 
 	return 0;
 }

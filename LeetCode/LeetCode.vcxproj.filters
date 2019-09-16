@@ -421,6 +421,42 @@
     <Filter Include="Source Files\Design\WalkingRobotSimulation">
       <UniqueIdentifier>{9fde9a49-7559-42ba-8b3a-17c16a9a71d1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PartitionLabels">
+      <UniqueIdentifier>{844fe05c-38e6-44a2-ace5-399506ba2e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\TopKFrequentElements">
+      <UniqueIdentifier>{10cd0453-e077-4160-8935-9f8ff8c7ee78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\KClosestPointsToOrigin">
+      <UniqueIdentifier>{63b57917-0273-44c0-b9fb-03d8fdea48ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\TwoSumLessThanK">
+      <UniqueIdentifier>{cc6fc0a8-dc58-4446-97d5-31483fedb036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\TwoSums">
+      <UniqueIdentifier>{3a135e1a-e221-493d-847d-45fa33e7689a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReorderDataInLogFiles">
+      <UniqueIdentifier>{796313bc-8400-4157-b287-c57739020a24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FindTheTownJudge">
+      <UniqueIdentifier>{1af23007-d439-4bb1-8cbb-7e326466e8e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\GroupAnagrams">
+      <UniqueIdentifier>{b9585944-d32b-42e7-b5ca-cf11cc410695}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\TopKFrequentWords">
+      <UniqueIdentifier>{3f840dad-b312-4cd8-a4ff-8982ff8efd11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\TheMazeII">
+      <UniqueIdentifier>{191e85b5-9cbd-4ef7-bfba-4ac394d333dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeZigzagLevelOrderTraversal">
+      <UniqueIdentifier>{546e926c-2be5-4df3-b958-34a4ccd9dbe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MostCommonWord">
+      <UniqueIdentifier>{3d84ad88-bde6-41af-ae13-b4f4a7a0c37b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -806,6 +842,42 @@
     </ClInclude>
     <ClInclude Include="WalkingRobotSimulation.h">
       <Filter>Source Files\Design\WalkingRobotSimulation</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionLabels.h">
+      <Filter>Source Files\Sorting and Searching\PartitionLabels</Filter>
+    </ClInclude>
+    <ClInclude Include="TopKFrequentElements.h">
+      <Filter>Source Files\Sorting and Searching\TopKFrequentElements</Filter>
+    </ClInclude>
+    <ClInclude Include="KClosestPointsToOrigin.h">
+      <Filter>Source Files\Sorting and Searching\KClosestPointsToOrigin</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSumLessThanK.h">
+      <Filter>Source Files\Array and Strings\TwoSumLessThanK</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSums.h">
+      <Filter>Source Files\Array and Strings\TwoSums</Filter>
+    </ClInclude>
+    <ClInclude Include="ReorderDataInLogFiles.h">
+      <Filter>Source Files\Array and Strings\ReorderDataInLogFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheTownJudge.h">
+      <Filter>Source Files\Trees and Graphs\FindTheTownJudge</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupAnagrams.h">
+      <Filter>Source Files\Array and Strings\GroupAnagrams</Filter>
+    </ClInclude>
+    <ClInclude Include="TopKFrequentWords.h">
+      <Filter>Source Files\Sorting and Searching\TopKFrequentWords</Filter>
+    </ClInclude>
+    <ClInclude Include="TheMazeII.h">
+      <Filter>Source Files\Trees and Graphs\TheMazeII</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeZigzagLevelOrderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="MostCommonWord.h">
+      <Filter>Source Files\Array and Strings\MostCommonWord</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1207,6 +1279,42 @@
     </ClCompile>
     <ClCompile Include="WalkingRobotSimulation.cpp">
       <Filter>Source Files\Design\WalkingRobotSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionLabels.cpp">
+      <Filter>Source Files\Sorting and Searching\PartitionLabels</Filter>
+    </ClCompile>
+    <ClCompile Include="TopKFrequentElements.cpp">
+      <Filter>Source Files\Sorting and Searching\TopKFrequentElements</Filter>
+    </ClCompile>
+    <ClCompile Include="KClosestPointsToOrigin.cpp">
+      <Filter>Source Files\Sorting and Searching\KClosestPointsToOrigin</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSumLessThanK.cpp">
+      <Filter>Source Files\Array and Strings\TwoSumLessThanK</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSums.cpp">
+      <Filter>Source Files\Array and Strings\TwoSums</Filter>
+    </ClCompile>
+    <ClCompile Include="ReorderDataInLogFiles.cpp">
+      <Filter>Source Files\Array and Strings\ReorderDataInLogFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="FindTheTownJudge.cpp">
+      <Filter>Source Files\Trees and Graphs\FindTheTownJudge</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupAnagrams.cpp">
+      <Filter>Source Files\Array and Strings\GroupAnagrams</Filter>
+    </ClCompile>
+    <ClCompile Include="TopKFrequentWords.cpp">
+      <Filter>Source Files\Sorting and Searching\TopKFrequentWords</Filter>
+    </ClCompile>
+    <ClCompile Include="TheMazeII.cpp">
+      <Filter>Source Files\Trees and Graphs\TheMazeII</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeZigzagLevelOrderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeZigzagLevelOrderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="MostCommonWord.cpp">
+      <Filter>Source Files\Array and Strings\MostCommonWord</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
