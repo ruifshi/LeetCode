@@ -8,7 +8,7 @@ bool comp(string a, string b) {
 	int i = a.find(' ');
 	int j = b.find(' ');
 	
-	return a.substr(i + 1) < b.substr(j + 1);
+	return a.substr(i + 1) + a.substr(0, i) < b.substr(j + 1) + b.substr(0, i);
 }
 
 vector<string> Solution::reorderLogFiles(vector<string>& logs) {

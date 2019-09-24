@@ -463,6 +463,39 @@
     <Filter Include="Source Files\Array and Strings\DailyTemperature">
       <UniqueIdentifier>{21ea624e-7aa1-4db5-a59c-1c91895e0207}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Linked List\MergeTwoSortedLists">
+      <UniqueIdentifier>{4227aa9f-5c3b-4731-a768-021f098806a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\InsertDeleteGetRandom">
+      <UniqueIdentifier>{51776ce7-e929-40df-840e-14143f4aca0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SubtreeOfAnotherTree">
+      <UniqueIdentifier>{43998449-ac52-4966-a998-4f2a68e2e753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BasicCalculatorIII">
+      <UniqueIdentifier>{d72e5a93-5290-4cb3-8c95-415497130482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\DesignSearchAutocompleteSystem">
+      <UniqueIdentifier>{9f4d9b6c-baa7-4337-aa24-a54a48440965}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LongestAbsoluteFilePath">
+      <UniqueIdentifier>{54b49272-315c-4c71-a5e7-403d1e2e5f6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SlidingWindowMaximum">
+      <UniqueIdentifier>{612021d7-2b2e-46e7-9cec-94add4b32144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\3Sum">
+      <UniqueIdentifier>{2018b761-2ad6-468d-97f5-21543a161816}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntegerToEnglishWords">
+      <UniqueIdentifier>{240ddd64-b9d8-485f-b35d-eecfd316cbc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\FindMedianFromDataStream">
+      <UniqueIdentifier>{cc4a8abe-a973-4ce3-83d9-a63b2d74b0f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MinimumCostToMergeStones">
+      <UniqueIdentifier>{b94888ef-50f3-43eb-b524-ce2828164234}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -890,6 +923,39 @@
     </ClInclude>
     <ClInclude Include="DailyTemperature.h">
       <Filter>Source Files\Array and Strings\DailyTemperature</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeTwoSortedLists.h">
+      <Filter>Source Files\Linked List\MergeTwoSortedLists</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertDeleteGetRandom.h">
+      <Filter>Source Files\Design\InsertDeleteGetRandom</Filter>
+    </ClInclude>
+    <ClInclude Include="SubtreeOfAnotherTree.h">
+      <Filter>Source Files\Trees and Graphs\SubtreeOfAnotherTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicCalculatorIII.h">
+      <Filter>Source Files\Array and Strings\BasicCalculatorIII</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignSearchAutocompleteSystem.h">
+      <Filter>Source Files\Trees and Graphs\DesignSearchAutocompleteSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestAbsoluteFilePath.h">
+      <Filter>Source Files\Array and Strings\LongestAbsoluteFilePath</Filter>
+    </ClInclude>
+    <ClInclude Include="SlidingWindowMaximum.h">
+      <Filter>Source Files\Sorting and Searching\SlidingWindowMaximum</Filter>
+    </ClInclude>
+    <ClInclude Include="3Sum.h">
+      <Filter>Source Files\Array and Strings\3Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerToEnglishWords.h">
+      <Filter>Source Files\Array and Strings\IntegerToEnglishWords</Filter>
+    </ClInclude>
+    <ClInclude Include="FindMedianFromDataStream.h">
+      <Filter>Source Files\Design\FindMedianFromDataStream</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumCostToMergeStones.h">
+      <Filter>Source Files\Dynamic Programming\MinimumCostToMergeStones</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1333,6 +1399,39 @@
     </ClCompile>
     <ClCompile Include="DailyTemperature.cpp">
       <Filter>Source Files\Array and Strings\DailyTemperature</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeTwoSortedLists.cpp">
+      <Filter>Source Files\Linked List\MergeTwoSortedLists</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertDeleteGetRandom.cpp">
+      <Filter>Source Files\Design\InsertDeleteGetRandom</Filter>
+    </ClCompile>
+    <ClCompile Include="SubtreeOfAnotherTree.cpp">
+      <Filter>Source Files\Trees and Graphs\SubtreeOfAnotherTree</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicCalculatorIII.cpp">
+      <Filter>Source Files\Array and Strings\BasicCalculatorIII</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignSearchAutocompleteSystem.cpp">
+      <Filter>Source Files\Trees and Graphs\DesignSearchAutocompleteSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestAbsoluteFilePath.cpp">
+      <Filter>Source Files\Array and Strings\LongestAbsoluteFilePath</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingWindowMaximum.cpp">
+      <Filter>Source Files\Sorting and Searching\SlidingWindowMaximum</Filter>
+    </ClCompile>
+    <ClCompile Include="3Sum.cpp">
+      <Filter>Source Files\Array and Strings\3Sum</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegerToEnglishWords.cpp">
+      <Filter>Source Files\Array and Strings\IntegerToEnglishWords</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMedianFromDataStream.cpp">
+      <Filter>Source Files\Design\FindMedianFromDataStream</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumCostToMergeStones.cpp">
+      <Filter>Source Files\Dynamic Programming\MinimumCostToMergeStones</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

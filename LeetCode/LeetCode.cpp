@@ -58,7 +58,10 @@
 //#include "MinNumOfKConsecutiveBitFlips.h"
 //#include "Permutations.h"
 //#include "FindTheTownJudge.h"
-#include "TopKFrequentWords.h"
+//#include "TopKFrequentWords.h"
+//#include "LongestAbsoluteFilePath.h"
+//#include "SlidingWindowMaximum.h"
+#include "IntegerToEnglishWords.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -509,8 +512,15 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	//vector<vector<int>> vec = {{1,3},{2,3}};
 	//int ans = output.findJudge(3, vec);
 
-	vector<string> vec = { "the", "day", "is", "sunny", "the", "the", "the", "sunny", "is", "is" };
-	vector<string> ans = output.topKFrequent(vec, 4);
+	//vector<string> vec = { "the", "day", "is", "sunny", "the", "the", "the", "sunny", "is", "is" };
+	//vector<string> ans = output.topKFrequent(vec, 4);
+
+	//int out = output.lengthLongestPath("dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext");
+
+	//vector<int> vec = { 1,3,-1,-3,5,3,6,7 };
+	//vector<int> out = output.maxSlidingWindow(vec, 3);
+
+	string out = output.numberToWords(12345678);
 
 	return 0;
 }
