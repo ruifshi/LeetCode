@@ -84,6 +84,7 @@
     <ClInclude Include="3Sum.h" />
     <ClInclude Include="AddBoldTagInString.h" />
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="AlienDictionary.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BasicCalculator.h" />
@@ -98,6 +99,8 @@
     <ClInclude Include="ConstructBSTFromPreorderTraversal.h" />
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="CousinsInBinaryTree.h" />
+    <ClInclude Include="CriticalConnectionsInANetwork.h" />
+    <ClInclude Include="CutOffTreesForGolfEvent.h" />
     <ClInclude Include="DailyTemperature.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DesignSearchAutocompleteSystem.h" />
@@ -129,14 +132,17 @@
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MostCommonWord.h" />
     <ClInclude Include="PartitionLabels.h" />
+    <ClInclude Include="PrisonCellsAfterNDays.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
+    <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="TheMazeII.h" />
     <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TopKFrequentWords.h" />
     <ClInclude Include="TwoSumLessThanK.h" />
     <ClInclude Include="TwoSums.h" />
+    <ClInclude Include="UniquePathsIII.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="HouseRobberII.h" />
     <ClInclude Include="ImageSmoother.h" />
@@ -240,6 +246,7 @@
     <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="AddBoldTagInString.cpp" />
     <ClCompile Include="AddTwoNumbers.cpp" />
+    <ClCompile Include="AlienDictionary.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="BasicCalculator.cpp" />
@@ -254,6 +261,8 @@
     <ClCompile Include="ConstructBSTFromPreorderTraversal.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="CousinsInBinaryTree.cpp" />
+    <ClCompile Include="CriticalConnectionsInANetwork.cpp" />
+    <ClCompile Include="CutOffTreesForGolfEvent.cpp" />
     <ClCompile Include="DailyTemperature.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DesignSearchAutocompleteSystem.cpp" />
@@ -336,6 +345,7 @@
     <ClCompile Include="PlusOne.cpp" />
     <ClCompile Include="Pow.cpp" />
     <ClCompile Include="Prims.cpp" />
+    <ClCompile Include="PrisonCellsAfterNDays.cpp" />
     <ClCompile Include="RangeModule.cpp" />
     <ClCompile Include="RangeSumQuery2D.cpp" />
     <ClCompile Include="ReadNCharactersGivenRead4.cpp" />
@@ -356,6 +366,7 @@
     <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
+    <ClCompile Include="SnakesAndLadders.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
     <ClCompile Include="ReverseString.cpp" />
@@ -383,6 +394,7 @@
     <ClCompile Include="UniqueEmailAddresses.cpp" />
     <ClCompile Include="UniquePaths.cpp" />
     <ClCompile Include="UniquePathsII.cpp" />
+    <ClCompile Include="UniquePathsIII.cpp" />
     <ClCompile Include="UTF8Validation.cpp" />
     <ClCompile Include="ValidateBinarySearchTree.cpp" />
     <ClCompile Include="ValidNumber.cpp" />

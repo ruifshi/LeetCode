@@ -1,5 +1,3 @@
-﻿  FindMedianFromDataStream.cpp
-  IntegerToEnglishWords.cpp
-  MinimumCostToMergeStones.cpp
-  Generating Code...
+﻿  CutOffTreesForGolfEvent.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\cutofftreesforgolfevent.cpp(22): warning C4018: '<': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

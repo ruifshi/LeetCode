@@ -2,6 +2,7 @@
 #include "WordBreakII.h"
 
 // O(n^3)
+/*
 vector<string> Solution::wordBreakII(string s, vector<string>& wordDict) {
 	unordered_set<string> Dict;
 
@@ -36,26 +37,29 @@ vector<string> Solution::helper(string s, unordered_set<string>& word)
 	table[s] = res;
 	return res;
 }
+*/
+vector<string> Solution::wordBreakII(string s, vector<string>& wordDict) {
+	vector<vector<string>> dp(s.length() + 1);
+	vector<string> initial;
+	initial.push_back("");
+	dp[0] = initial;
 
-/* DP
-public class Solution {
-	public List<String> wordBreak(String s, Set<String> wordDict) {
-		LinkedList<String>[] dp = new LinkedList[s.length() + 1];
-		LinkedList<String> initial = new LinkedList<>();
-		initial.add("");
-		dp[0] = initial;
-		for (int i = 1; i <= s.length(); i++) {
-			LinkedList<String> list = new LinkedList<>();
-			for (int j = 0; j < i; j++) {
-				if (dp[j].size() > 0 && wordDict.contains(s.substring(j, i))) {
-					for (String l : dp[j]) {
-						list.add(l + (l.equals("") ? "" : " ") + s.substring(j, i));
-					}
+	unordered_set<string> Dict;
+
+	for (int i = 0; i < wordDict.size(); i++) {
+		Dict.insert(wordDict[i]);
+	}
+
+	for (int i = 1; i <= s.length(); i++) {
+		vector<string> list;
+		for (int j = 0; j < i; j++) {
+			if (dp[j].size() > 0 && Dict.find(s.substr(j, i-j)) != Dict.end()) {
+				for (string l : dp[j]) {
+					list.push_back(l + (l == "" ? "" : " ") + s.substr(j, i-j));
 				}
 			}
-			dp[i] = list;
 		}
-		return dp[s.length()];
+		dp[i] = list;
 	}
+	return dp[s.length()];
 }
-*/

@@ -4,6 +4,7 @@
 #include <set>
 
 // O(n^2)
+//https://www.youtube.com/watch?v=WepWFGxiwRs
 bool Solution::wordBreak(string s, vector<string>& wordDict) {
 	set<string> Dict;
 

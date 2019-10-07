@@ -496,6 +496,24 @@
     <Filter Include="Source Files\Dynamic Programming\MinimumCostToMergeStones">
       <UniqueIdentifier>{b94888ef-50f3-43eb-b524-ce2828164234}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\AlienDictionary">
+      <UniqueIdentifier>{b347176d-cbb5-4021-87d4-cb0654de1a09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CriticalConnectionsInANetwork">
+      <UniqueIdentifier>{eaff01df-dfa0-45d2-b007-3bdced986fa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\UniquePathsIII">
+      <UniqueIdentifier>{6ed80b55-8a9b-4c22-9920-9993e6b3ca3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\PrisonCellsAfterNDays">
+      <UniqueIdentifier>{90945748-6908-48fd-87fa-74e7700f3b94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SnakesAndLadders">
+      <UniqueIdentifier>{e777a2ba-e060-4748-a541-21bcbec83416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CutOffTreesForGolfEvent">
+      <UniqueIdentifier>{4d0e82d6-1c97-42f5-bf7a-fcd821e3beb9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -956,6 +974,24 @@
     </ClInclude>
     <ClInclude Include="MinimumCostToMergeStones.h">
       <Filter>Source Files\Dynamic Programming\MinimumCostToMergeStones</Filter>
+    </ClInclude>
+    <ClInclude Include="AlienDictionary.h">
+      <Filter>Source Files\Trees and Graphs\AlienDictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="CriticalConnectionsInANetwork.h">
+      <Filter>Source Files\Trees and Graphs\CriticalConnectionsInANetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="UniquePathsIII.h">
+      <Filter>Source Files\Dynamic Programming\UniquePathsIII</Filter>
+    </ClInclude>
+    <ClInclude Include="PrisonCellsAfterNDays.h">
+      <Filter>Source Files\Array and Strings\PrisonCellsAfterNDays</Filter>
+    </ClInclude>
+    <ClInclude Include="SnakesAndLadders.h">
+      <Filter>Source Files\Trees and Graphs\SnakesAndLadders</Filter>
+    </ClInclude>
+    <ClInclude Include="CutOffTreesForGolfEvent.h">
+      <Filter>Source Files\Trees and Graphs\CutOffTreesForGolfEvent</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1432,6 +1468,24 @@
     </ClCompile>
     <ClCompile Include="MinimumCostToMergeStones.cpp">
       <Filter>Source Files\Dynamic Programming\MinimumCostToMergeStones</Filter>
+    </ClCompile>
+    <ClCompile Include="AlienDictionary.cpp">
+      <Filter>Source Files\Trees and Graphs\AlienDictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="CriticalConnectionsInANetwork.cpp">
+      <Filter>Source Files\Trees and Graphs\CriticalConnectionsInANetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="UniquePathsIII.cpp">
+      <Filter>Source Files\Dynamic Programming\UniquePathsIII</Filter>
+    </ClCompile>
+    <ClCompile Include="PrisonCellsAfterNDays.cpp">
+      <Filter>Source Files\Array and Strings\PrisonCellsAfterNDays</Filter>
+    </ClCompile>
+    <ClCompile Include="SnakesAndLadders.cpp">
+      <Filter>Source Files\Trees and Graphs\SnakesAndLadders</Filter>
+    </ClCompile>
+    <ClCompile Include="CutOffTreesForGolfEvent.cpp">
+      <Filter>Source Files\Trees and Graphs\CutOffTreesForGolfEvent</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

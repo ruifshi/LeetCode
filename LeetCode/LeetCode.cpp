@@ -52,7 +52,7 @@
 //#include "BurstBalloons.h"
 //#include "LongestConsecutiveSequence.h"
 //#include "EncodeAndDecodeTinyURL.h"
-//#include "WordBreakII.h"
+#include "WordBreakII.h"
 //#include "VowelSpellchecker.h"
 //#include "NumberOfSquarefulArrays.h"
 //#include "MinNumOfKConsecutiveBitFlips.h"
@@ -61,7 +61,7 @@
 //#include "TopKFrequentWords.h"
 //#include "LongestAbsoluteFilePath.h"
 //#include "SlidingWindowMaximum.h"
-#include "IntegerToEnglishWords.h"
+//#include "IntegerToEnglishWords.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -485,8 +485,8 @@ int _tmain(int argc, _TCHAR* argv[]) {
 
 	//output.decode(output.encode("url"));
 
-	//vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
-	//vector<string> ans = output.wordBreakII("catsanddog", wordDict);
+	vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
+	vector<string> ans = output.wordBreakII("catsanddog", wordDict);
 
 	/*
 	string arr[] = { "KiTe","kite","hare","Hare" };
@@ -520,7 +520,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	//vector<int> vec = { 1,3,-1,-3,5,3,6,7 };
 	//vector<int> out = output.maxSlidingWindow(vec, 3);
 
-	string out = output.numberToWords(12345678);
+	//string out = output.numberToWords(12345678);
 
-	return 0;
+	//return 0;
 }
