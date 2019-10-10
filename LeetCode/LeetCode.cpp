@@ -52,7 +52,7 @@
 //#include "BurstBalloons.h"
 //#include "LongestConsecutiveSequence.h"
 //#include "EncodeAndDecodeTinyURL.h"
-#include "WordBreakII.h"
+//#include "WordBreakII.h"
 //#include "VowelSpellchecker.h"
 //#include "NumberOfSquarefulArrays.h"
 //#include "MinNumOfKConsecutiveBitFlips.h"
@@ -62,6 +62,8 @@
 //#include "LongestAbsoluteFilePath.h"
 //#include "SlidingWindowMaximum.h"
 //#include "IntegerToEnglishWords.h"
+//#include "DesignInMemoryFileSystem.h"
+#include "WordLadderII.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -485,8 +487,8 @@ int _tmain(int argc, _TCHAR* argv[]) {
 
 	//output.decode(output.encode("url"));
 
-	vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
-	vector<string> ans = output.wordBreakII("catsanddog", wordDict);
+	//vector<string> wordDict = { "cat", "cats", "and", "sand", "dog" };
+	//vector<string> ans = output.wordBreakII("catsanddog", wordDict);
 
 	/*
 	string arr[] = { "KiTe","kite","hare","Hare" };
@@ -521,6 +523,18 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	//vector<int> out = output.maxSlidingWindow(vec, 3);
 
 	//string out = output.numberToWords(12345678);
+
+	/*
+	FileSystem fs;
+	fs.ls("/");
+	fs.mkdir("/a/b/c");
+	fs.addContentToFile("/a/b/c/d", "hello");
+	fs.ls("/");
+	fs.readContentFromFile("/a/b/c/d");
+	*/
+
+	vector<string> vec = { "hot","dot","dog","lot","log","cog" };
+	vector<vector<string>> ans = output.findLadders("hit", "cog", vec);
 
 	//return 0;
 }
