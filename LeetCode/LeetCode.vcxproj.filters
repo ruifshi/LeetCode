@@ -541,6 +541,18 @@
     <Filter Include="Source Files\Array and Strings\JumpGameII">
       <UniqueIdentifier>{b3da60d3-dcce-494f-baee-8df421c4bba1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\MinimumCostToConnectSticks">
+      <UniqueIdentifier>{04c708cc-626c-428f-9eae-bf10599d54dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumLevelSumOfABinaryTree">
+      <UniqueIdentifier>{7d090700-c0ed-43b0-a326-c661fbaf802d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\NumberOfDiceRollsWithTargetSum">
+      <UniqueIdentifier>{20b149db-1fc8-4c58-9833-6737a0f6d502}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\LongestCommonSubsequence">
+      <UniqueIdentifier>{c715edff-e0cd-4d00-8605-bebfbf052300}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1046,6 +1058,18 @@
     </ClInclude>
     <ClInclude Include="JumpGameII.h">
       <Filter>Source Files\Array and Strings\JumpGameII</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumCostToConnectSticks.h">
+      <Filter>Source Files\Array and Strings\MinimumCostToConnectSticks</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumLevelSumOfABinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\MaximumLevelSumOfABinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfDiceRollsWithTargetSum.h">
+      <Filter>Source Files\Dynamic Programming\NumberOfDiceRollsWithTargetSum</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestCommonSubsequence.h">
+      <Filter>Source Files\Dynamic Programming\LongestCommonSubsequence</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1567,6 +1591,18 @@
     </ClCompile>
     <ClCompile Include="JumpGameII.cpp">
       <Filter>Source Files\Array and Strings\JumpGameII</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumCostToConnectSticks.cpp">
+      <Filter>Source Files\Array and Strings\MinimumCostToConnectSticks</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumLevelSumOfABinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp">
+      <Filter>Source Files\Dynamic Programming\NumberOfDiceRollsWithTargetSum</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestCommonSubsequence.cpp">
+      <Filter>Source Files\Dynamic Programming\LongestCommonSubsequence</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

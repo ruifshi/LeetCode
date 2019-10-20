@@ -136,9 +136,13 @@
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
+    <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
+    <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MostCommonWord.h" />
+    <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
@@ -319,6 +323,7 @@
     <ClCompile Include="LFUCache.cpp" />
     <ClCompile Include="LicenseKeyFormat.cpp" />
     <ClCompile Include="LongestAbsoluteFilePath.cpp" />
+    <ClCompile Include="LongestCommonSubsequence.cpp" />
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
@@ -327,6 +332,7 @@
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
     <ClCompile Include="MaximumDepthOfBinaryTree.cpp" />
+    <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
     <ClCompile Include="MaximumVacationDays.cpp" />
     <ClCompile Include="MedianOfTwoSortedArrays.cpp" />
@@ -334,6 +340,7 @@
     <ClCompile Include="MergeKSortedLists.cpp" />
     <ClCompile Include="MergeSortedArray.cpp" />
     <ClCompile Include="MergeTwoSortedLists.cpp" />
+    <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp" />
@@ -346,6 +353,7 @@
     <ClCompile Include="NextGreaterElementI.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NondecreasingArray.cpp" />
+    <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp" />
     <ClCompile Include="NumberOfSquarefulArrays.cpp" />
     <ClCompile Include="NumIslands.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
