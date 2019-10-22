@@ -63,7 +63,8 @@
 //#include "SlidingWindowMaximum.h"
 //#include "IntegerToEnglishWords.h"
 //#include "DesignInMemoryFileSystem.h"
-#include "WordLadderII.h"
+//#include "WordLadderII.h"
+#include "132Pattern.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -533,8 +534,11 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	fs.readContentFromFile("/a/b/c/d");
 	*/
 
-	vector<string> vec = { "hot","dot","dog","lot","log","cog" };
-	vector<vector<string>> ans = output.findLadders("hit", "cog", vec);
+	//vector<string> vec = { "hot","dot","dog","lot","log","cog" };
+	//vector<vector<string>> ans = output.findLadders("hit", "cog", vec);
+
+	vector<int> vec = { 3,1,4,2 };
+	bool out = output.find132pattern(vec);
 
 	//return 0;
 }

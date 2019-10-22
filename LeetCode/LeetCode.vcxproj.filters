@@ -556,6 +556,18 @@
     <Filter Include="Source Files\Sorting and Searching\EmployeeFreeTime">
       <UniqueIdentifier>{59ab4970-a306-44b6-9af6-43845423e288}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\InvertBinaryTree">
+      <UniqueIdentifier>{c42837b0-30e5-45d1-8e13-e628934fa70a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PrimePalindrome">
+      <UniqueIdentifier>{e2223dcf-80ee-498f-afe7-080a4b3ac796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ShortestPathInBinaryMatrix">
+      <UniqueIdentifier>{0b3ba820-a3e8-4b3f-8110-870c12e20fa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\132Pattern">
+      <UniqueIdentifier>{aba39d50-4340-44f7-ae05-9c103e39fbf8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1076,6 +1088,18 @@
     </ClInclude>
     <ClInclude Include="EmployeeFreeTime.h">
       <Filter>Source Files\Sorting and Searching\EmployeeFreeTime</Filter>
+    </ClInclude>
+    <ClInclude Include="InvertBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\InvertBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimePalindrome.h">
+      <Filter>Source Files\Sorting and Searching\PrimePalindrome</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestPathInBinaryMatrix.h">
+      <Filter>Source Files\Trees and Graphs\ShortestPathInBinaryMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="132Pattern.h">
+      <Filter>Source Files\Sorting and Searching\132Pattern</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1612,6 +1636,18 @@
     </ClCompile>
     <ClCompile Include="EmployeeFreeTime.cpp">
       <Filter>Source Files\Sorting and Searching\EmployeeFreeTime</Filter>
+    </ClCompile>
+    <ClCompile Include="InvertBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\InvertBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimePalindrome.cpp">
+      <Filter>Source Files\Sorting and Searching\PrimePalindrome</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestPathInBinaryMatrix.cpp">
+      <Filter>Source Files\Trees and Graphs\ShortestPathInBinaryMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="132Pattern.cpp">
+      <Filter>Source Files\Sorting and Searching\132Pattern</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

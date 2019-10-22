@@ -81,6 +81,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="132Pattern.h" />
     <ClInclude Include="3Sum.h" />
     <ClInclude Include="AddBoldTagInString.h" />
     <ClInclude Include="AddTwoNumbers.h" />
@@ -133,6 +134,7 @@
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
+    <ClInclude Include="InvertBinaryTree.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LFUCache.h" />
@@ -145,8 +147,10 @@
     <ClInclude Include="MostCommonWord.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
+    <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
+    <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
@@ -257,6 +261,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01Knapsack.cpp" />
+    <ClCompile Include="132Pattern.cpp" />
     <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="AddBoldTagInString.cpp" />
     <ClCompile Include="AddTwoNumbers.cpp" />
@@ -316,6 +321,7 @@
     <ClCompile Include="IntegerToEnglishWords.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
     <ClCompile Include="IntervalListIntersections.cpp" />
+    <ClCompile Include="InvertBinaryTree.cpp" />
     <ClCompile Include="JumpGameII.cpp" />
     <ClCompile Include="KClosestPointsToOrigin.cpp" />
     <ClCompile Include="kEmptySlot.cpp" />
@@ -371,6 +377,7 @@
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="PlusOne.cpp" />
     <ClCompile Include="Pow.cpp" />
+    <ClCompile Include="PrimePalindrome.cpp" />
     <ClCompile Include="Prims.cpp" />
     <ClCompile Include="PrisonCellsAfterNDays.cpp" />
     <ClCompile Include="RangeModule.cpp" />
@@ -388,6 +395,7 @@
     <ClCompile Include="SearchA2DMatrixII.cpp" />
     <ClCompile Include="SentenceScreenFitting.cpp" />
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp" />
+    <ClCompile Include="ShortestPathInBinaryMatrix.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
