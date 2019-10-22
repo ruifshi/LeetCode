@@ -553,6 +553,9 @@
     <Filter Include="Source Files\Dynamic Programming\LongestCommonSubsequence">
       <UniqueIdentifier>{c715edff-e0cd-4d00-8605-bebfbf052300}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\EmployeeFreeTime">
+      <UniqueIdentifier>{59ab4970-a306-44b6-9af6-43845423e288}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1070,6 +1073,9 @@
     </ClInclude>
     <ClInclude Include="LongestCommonSubsequence.h">
       <Filter>Source Files\Dynamic Programming\LongestCommonSubsequence</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeeFreeTime.h">
+      <Filter>Source Files\Sorting and Searching\EmployeeFreeTime</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1603,6 +1609,9 @@
     </ClCompile>
     <ClCompile Include="LongestCommonSubsequence.cpp">
       <Filter>Source Files\Dynamic Programming\LongestCommonSubsequence</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeFreeTime.cpp">
+      <Filter>Source Files\Sorting and Searching\EmployeeFreeTime</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

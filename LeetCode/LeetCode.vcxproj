@@ -113,6 +113,7 @@
     <ClInclude Include="DesignTicTacToe.h" />
     <ClInclude Include="DiagonalTraverse.h" />
     <ClInclude Include="EditDistance.h" />
+    <ClInclude Include="EmployeeFreeTime.h" />
     <ClInclude Include="EncodeAndDecodeTinyURL.h" />
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
@@ -288,6 +289,7 @@
     <ClCompile Include="DesignTicTacToe.cpp" />
     <ClCompile Include="DiagonalTraverse.cpp" />
     <ClCompile Include="EditDistance.cpp" />
+    <ClCompile Include="EmployeeFreeTime.cpp" />
     <ClCompile Include="EncodeAndDecodeTinyURL.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="EvaluateReversePolishNotation.cpp" />
