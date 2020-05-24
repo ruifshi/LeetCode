@@ -83,7 +83,9 @@
   <ItemGroup>
     <ClInclude Include="132Pattern.h" />
     <ClInclude Include="3Sum.h" />
+    <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddBoldTagInString.h" />
+    <ClInclude Include="AddStrings.h" />
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="AlienDictionary.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
@@ -92,6 +94,8 @@
     <ClInclude Include="BasicCalculatorIII.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
     <ClInclude Include="BinaryTreeMaximumPathSum.h" />
+    <ClInclude Include="BinaryTreeRightSideView.h" />
+    <ClInclude Include="BinaryTreeVerticalOrderTraversal.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="BoundaryOfBinaryTree.h" />
     <ClInclude Include="BrokenCalculator.h" />
@@ -113,6 +117,7 @@
     <ClInclude Include="DesignSnakeGame.h" />
     <ClInclude Include="DesignTicTacToe.h" />
     <ClInclude Include="DiagonalTraverse.h" />
+    <ClInclude Include="DiameterOfBinaryTree.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="EmployeeFreeTime.h" />
     <ClInclude Include="EncodeAndDecodeTinyURL.h" />
@@ -140,26 +145,33 @@
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
+    <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MostCommonWord.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
+    <ClInclude Include="ProductOfArrayExceptSelf.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SnakesAndLadders.h" />
+    <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
+    <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TheMazeII.h" />
     <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TopKFrequentWords.h" />
     <ClInclude Include="TwoSumLessThanK.h" />
     <ClInclude Include="TwoSums.h" />
     <ClInclude Include="UniquePathsIII.h" />
+    <ClInclude Include="ValidPalindromeII.h" />
+    <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="HouseRobberII.h" />
     <ClInclude Include="ImageSmoother.h" />
@@ -263,7 +275,9 @@
     <ClCompile Include="01Knapsack.cpp" />
     <ClCompile Include="132Pattern.cpp" />
     <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="AddBinary.cpp" />
     <ClCompile Include="AddBoldTagInString.cpp" />
+    <ClCompile Include="AddStrings.cpp" />
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="AlienDictionary.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
@@ -272,6 +286,8 @@
     <ClCompile Include="BasicCalculatorIII.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
+    <ClCompile Include="BinaryTreeRightSideView.cpp" />
+    <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeZigzagLevelOrderTraversal.cpp" />
     <ClCompile Include="BoundaryOfBinaryTree.cpp" />
     <ClCompile Include="BrokenCalculator.cpp" />
@@ -293,6 +309,7 @@
     <ClCompile Include="DesignSearchAutocompleteSystem.cpp" />
     <ClCompile Include="DesignTicTacToe.cpp" />
     <ClCompile Include="DiagonalTraverse.cpp" />
+    <ClCompile Include="DiameterOfBinaryTree.cpp" />
     <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="EmployeeFreeTime.cpp" />
     <ClCompile Include="EncodeAndDecodeTinyURL.cpp" />
@@ -336,6 +353,7 @@
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
     <ClCompile Include="LongestUnivaluePath.cpp" />
+    <ClCompile Include="LowestCommonAncestorOfABinaryTree.cpp" />
     <ClCompile Include="LRUCache.cpp" />
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
@@ -351,6 +369,7 @@
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
+    <ClCompile Include="MinimumRemoveToMakeValidParentheses.cpp" />
     <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp" />
     <ClCompile Include="MinStack.cpp" />
     <ClCompile Include="MinWindow.cpp" />
@@ -380,6 +399,7 @@
     <ClCompile Include="PrimePalindrome.cpp" />
     <ClCompile Include="Prims.cpp" />
     <ClCompile Include="PrisonCellsAfterNDays.cpp" />
+    <ClCompile Include="ProductOfArrayExceptSelf.cpp" />
     <ClCompile Include="RangeModule.cpp" />
     <ClCompile Include="RangeSumQuery2D.cpp" />
     <ClCompile Include="ReadNCharactersGivenRead4.cpp" />
@@ -408,6 +428,7 @@
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
+    <ClCompile Include="SubarraySumEqualsK.cpp" />
     <ClCompile Include="SubtreeOfAnotherTree.cpp" />
     <ClCompile Include="SumQuery.cpp" />
     <ClCompile Include="Stock.cpp" />
@@ -417,6 +438,7 @@
     </ClCompile>
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
+    <ClCompile Include="TaskScheduler.cpp" />
     <ClCompile Include="TheMazeII.cpp" />
     <ClCompile Include="TopKFrequentElements.cpp" />
     <ClCompile Include="TopKFrequentWords.cpp" />
@@ -434,7 +456,9 @@
     <ClCompile Include="ValidateBinarySearchTree.cpp" />
     <ClCompile Include="ValidNumber.cpp" />
     <ClCompile Include="ValidPalindrome.cpp" />
+    <ClCompile Include="ValidPalindromeII.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
+    <ClCompile Include="VerifyingAnAlienDictionary.cpp" />
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
     <ClCompile Include="VowelSpellchecker.cpp" />
     <ClCompile Include="WalkingRobotSimulation.cpp" />

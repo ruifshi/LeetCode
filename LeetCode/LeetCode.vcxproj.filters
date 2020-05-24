@@ -454,9 +454,6 @@
     <Filter Include="Source Files\Trees and Graphs\BinaryTreeZigzagLevelOrderTraversal">
       <UniqueIdentifier>{546e926c-2be5-4df3-b958-34a4ccd9dbe4}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\MostCommonWord">
-      <UniqueIdentifier>{3d84ad88-bde6-41af-ae13-b4f4a7a0c37b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\BuddyStrings">
       <UniqueIdentifier>{ec04f1f0-ba07-483e-aa02-9c8e0898d328}</UniqueIdentifier>
     </Filter>
@@ -567,6 +564,45 @@
     </Filter>
     <Filter Include="Source Files\Sorting and Searching\132Pattern">
       <UniqueIdentifier>{aba39d50-4340-44f7-ae05-9c103e39fbf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ProductOfArrayExceptSelf">
+      <UniqueIdentifier>{5e5cacfe-5023-4409-9a9a-358de6194330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SubarraySumEqualsK">
+      <UniqueIdentifier>{d86ac194-34ce-4914-b2d1-939acb5123ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MoveZeroes\MostCommonWord">
+      <UniqueIdentifier>{3d84ad88-bde6-41af-ae13-b4f4a7a0c37b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\VerifyingAnAlienDictionary">
+      <UniqueIdentifier>{e8cb3fde-fb25-4524-a52e-2f381f5fc2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\AddStrings">
+      <UniqueIdentifier>{37d6a72c-13c0-4ff9-b2a5-3785ff7bfa89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinimumRemoveToMakeValidParentheses">
+      <UniqueIdentifier>{349b2360-9952-4077-8b61-dbdadd3b8410}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeRightSideView">
+      <UniqueIdentifier>{4f16eda9-0940-494b-bc54-192fd64d4838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\AddBinary">
+      <UniqueIdentifier>{ca167610-6c83-476b-b19b-47997202003b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\DiameterOfBinaryTree">
+      <UniqueIdentifier>{f95275cc-57eb-4663-8dd8-17f16a197e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\LowestCommonAncestorOfABinaryTree">
+      <UniqueIdentifier>{978fcb62-873e-4dbe-a240-021112eb89d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidPalindromeII">
+      <UniqueIdentifier>{625115c8-e761-4281-befd-57627cba68fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\TaskScheduler">
+      <UniqueIdentifier>{d6b1d611-6569-47a6-b756-678cbf6e869a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeVerticalOrderTraversal">
+      <UniqueIdentifier>{bf160694-1c72-4914-86f3-bb9b13a432f5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -988,7 +1024,7 @@
       <Filter>Source Files\Trees and Graphs\BinaryTreeZigzagLevelOrderTraversal</Filter>
     </ClInclude>
     <ClInclude Include="MostCommonWord.h">
-      <Filter>Source Files\Array and Strings\MostCommonWord</Filter>
+      <Filter>Source Files\Array and Strings\MoveZeroes\MostCommonWord</Filter>
     </ClInclude>
     <ClInclude Include="BuddyStrings.h">
       <Filter>Source Files\Array and Strings\BuddyStrings</Filter>
@@ -1100,6 +1136,42 @@
     </ClInclude>
     <ClInclude Include="132Pattern.h">
       <Filter>Source Files\Sorting and Searching\132Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ProductOfArrayExceptSelf.h">
+      <Filter>Source Files\Array and Strings\ProductOfArrayExceptSelf</Filter>
+    </ClInclude>
+    <ClInclude Include="SubarraySumEqualsK.h">
+      <Filter>Source Files\Array and Strings\SubarraySumEqualsK</Filter>
+    </ClInclude>
+    <ClInclude Include="VerifyingAnAlienDictionary.h">
+      <Filter>Source Files\Array and Strings\VerifyingAnAlienDictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="AddStrings.h">
+      <Filter>Source Files\Array and Strings\AddStrings</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumRemoveToMakeValidParentheses.h">
+      <Filter>Source Files\Sorting and Searching\MinimumRemoveToMakeValidParentheses</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeRightSideView.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeRightSideView</Filter>
+    </ClInclude>
+    <ClInclude Include="AddBinary.h">
+      <Filter>Source Files\Array and Strings\AddBinary</Filter>
+    </ClInclude>
+    <ClInclude Include="DiameterOfBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\DiameterOfBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="LowestCommonAncestorOfABinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\LowestCommonAncestorOfABinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidPalindromeII.h">
+      <Filter>Source Files\Array and Strings\ValidPalindromeII</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskScheduler.h">
+      <Filter>Source Files\Sorting and Searching\TaskScheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeVerticalOrderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeVerticalOrderTraversal</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1536,7 +1608,7 @@
       <Filter>Source Files\Trees and Graphs\BinaryTreeZigzagLevelOrderTraversal</Filter>
     </ClCompile>
     <ClCompile Include="MostCommonWord.cpp">
-      <Filter>Source Files\Array and Strings\MostCommonWord</Filter>
+      <Filter>Source Files\Array and Strings\MoveZeroes\MostCommonWord</Filter>
     </ClCompile>
     <ClCompile Include="BuddyStrings.cpp">
       <Filter>Source Files\Array and Strings\BuddyStrings</Filter>
@@ -1648,6 +1720,42 @@
     </ClCompile>
     <ClCompile Include="132Pattern.cpp">
       <Filter>Source Files\Sorting and Searching\132Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductOfArrayExceptSelf.cpp">
+      <Filter>Source Files\Array and Strings\ProductOfArrayExceptSelf</Filter>
+    </ClCompile>
+    <ClCompile Include="SubarraySumEqualsK.cpp">
+      <Filter>Source Files\Array and Strings\SubarraySumEqualsK</Filter>
+    </ClCompile>
+    <ClCompile Include="VerifyingAnAlienDictionary.cpp">
+      <Filter>Source Files\Array and Strings\VerifyingAnAlienDictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="AddStrings.cpp">
+      <Filter>Source Files\Array and Strings\AddStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumRemoveToMakeValidParentheses.cpp">
+      <Filter>Source Files\Sorting and Searching\MinimumRemoveToMakeValidParentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeRightSideView.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeRightSideView</Filter>
+    </ClCompile>
+    <ClCompile Include="AddBinary.cpp">
+      <Filter>Source Files\Array and Strings\AddBinary</Filter>
+    </ClCompile>
+    <ClCompile Include="DiameterOfBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\DiameterOfBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="LowestCommonAncestorOfABinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\LowestCommonAncestorOfABinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidPalindromeII.cpp">
+      <Filter>Source Files\Array and Strings\ValidPalindromeII</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskScheduler.cpp">
+      <Filter>Source Files\Sorting and Searching\TaskScheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeVerticalOrderTraversal</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

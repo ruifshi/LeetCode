@@ -15,7 +15,7 @@ int Solution::minMeetingRooms(vector<Interval>& intervals) {
 		return 0;
 	}
 
-	// sort according to end times
+	// sort according to start times
 	sort(intervals.begin(), intervals.end(), [](const Interval& l, const Interval& r) { return l.start < r.start; });
 
 	//int = type, vector<int> = container, greater<int> = smallest element on top

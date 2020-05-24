@@ -12,7 +12,7 @@
 //#include "FirstMissingPositive.h"
 //#include "FirstUniqueCharacterInAString.h"
 //#include "MoveZeroes.h"
-//#include "RemoveDuplicatesFromSortedArray.h"
+#include "RemoveDuplicatesFromSortedArray.h"
 //#include "MergeKSortedLists.h"
 //#include "InsertIntoACyclicSortedList.h"
 //#include "EvaluateDivision.h"
@@ -64,7 +64,7 @@
 //#include "IntegerToEnglishWords.h"
 //#include "DesignInMemoryFileSystem.h"
 //#include "WordLadderII.h"
-#include "132Pattern.h"
+//#include "132Pattern.h"
 
 int _tmain(int argc, _TCHAR* argv[]) {
 	Solution output;
@@ -127,11 +127,10 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	output.moveZeroes(input);
 	*/
 
-	/*
+	
 	int array[10] = {0,0,1,1,1,2,2,3,3,4};
 	vector<int> input(array, array + 10);
 	int out = output.removeDuplicates(input);
-	*/
 
 	/*
 	ListNode a(1);
@@ -537,8 +536,8 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	//vector<string> vec = { "hot","dot","dog","lot","log","cog" };
 	//vector<vector<string>> ans = output.findLadders("hit", "cog", vec);
 
-	vector<int> vec = { 3,1,4,2 };
-	bool out = output.find132pattern(vec);
+	//vector<int> vec = { 3,1,4,2 };
+	//bool out = output.find132pattern(vec);
 
 	//return 0;
 }
