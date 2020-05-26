@@ -1,5 +1,5 @@
-﻿  BinaryTreeVerticalOrderTraversal.cpp
-  TaskScheduler.cpp
-  ValidPalindromeII.cpp
-  Generating Code...
+﻿  RemoveInvalidParentheses.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\removeinvalidparentheses.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\removeinvalidparentheses.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\removeinvalidparentheses.cpp(46): warning C4018: '<': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

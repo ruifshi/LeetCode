@@ -568,9 +568,6 @@
     <Filter Include="Source Files\Array and Strings\ProductOfArrayExceptSelf">
       <UniqueIdentifier>{5e5cacfe-5023-4409-9a9a-358de6194330}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\SubarraySumEqualsK">
-      <UniqueIdentifier>{d86ac194-34ce-4914-b2d1-939acb5123ce}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\MoveZeroes\MostCommonWord">
       <UniqueIdentifier>{3d84ad88-bde6-41af-ae13-b4f4a7a0c37b}</UniqueIdentifier>
     </Filter>
@@ -603,6 +600,48 @@
     </Filter>
     <Filter Include="Source Files\Trees and Graphs\BinaryTreeVerticalOrderTraversal">
       <UniqueIdentifier>{bf160694-1c72-4914-86f3-bb9b13a432f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\AddAndSearchWord">
+      <UniqueIdentifier>{176febfc-3ed5-4a5b-9a13-37ab251524e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RandomPickWithWeight">
+      <UniqueIdentifier>{9ffb72f9-a273-4134-8cfd-99ab6e0d35cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ExclusiveTimeOfFunctions">
+      <UniqueIdentifier>{03947e26-dc85-4f8c-9032-5f30118d9040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SparseMatrixMultiplication">
+      <UniqueIdentifier>{f123d116-7ba1-4d04-873a-1a76a0c9058f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\DivideTwoIntegers">
+      <UniqueIdentifier>{01128cf0-7eb0-4fe5-9797-61e50656b10d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\RangeSumOfBST">
+      <UniqueIdentifier>{85a12ec5-1eef-4dce-bcc9-75f78a9e8e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\SubarraySumEqualsK">
+      <UniqueIdentifier>{d86ac194-34ce-4914-b2d1-939acb5123ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\ContinuousSubarraySum">
+      <UniqueIdentifier>{7f417db5-1672-4f83-8715-78ff955ad3f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumDifferenceBetweenNodeAndAncestor">
+      <UniqueIdentifier>{930630ae-b485-4844-84ed-d23c7dae7527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MonotonicArray">
+      <UniqueIdentifier>{4edac595-714f-45b7-a293-4dcfd821dcda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\IsGraphBipartite">
+      <UniqueIdentifier>{f078f0fa-14bd-4aaa-bee2-bb9a39a676e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximumSwap">
+      <UniqueIdentifier>{38335ad4-2d17-415c-86c5-e9ee4e5db47e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RandomPickIndex">
+      <UniqueIdentifier>{9abe366e-eaa3-45b8-91fa-38cfc5a89337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\RemoveInvalidParentheses">
+      <UniqueIdentifier>{4eab50ae-b98c-48f9-8cf3-d8acd225dbd3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1141,7 +1180,7 @@
       <Filter>Source Files\Array and Strings\ProductOfArrayExceptSelf</Filter>
     </ClInclude>
     <ClInclude Include="SubarraySumEqualsK.h">
-      <Filter>Source Files\Array and Strings\SubarraySumEqualsK</Filter>
+      <Filter>Source Files\Dynamic Programming\SubarraySumEqualsK</Filter>
     </ClInclude>
     <ClInclude Include="VerifyingAnAlienDictionary.h">
       <Filter>Source Files\Array and Strings\VerifyingAnAlienDictionary</Filter>
@@ -1172,6 +1211,45 @@
     </ClInclude>
     <ClInclude Include="BinaryTreeVerticalOrderTraversal.h">
       <Filter>Source Files\Trees and Graphs\BinaryTreeVerticalOrderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="AddAndSearchWord.h">
+      <Filter>Source Files\Design\AddAndSearchWord</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomPickWithWeight.h">
+      <Filter>Source Files\Sorting and Searching\RandomPickWithWeight</Filter>
+    </ClInclude>
+    <ClInclude Include="ExclusiveTimeOfFunctions.h">
+      <Filter>Source Files\Sorting and Searching\ExclusiveTimeOfFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="SparseMatrixMultiplication.h">
+      <Filter>Source Files\Array and Strings\SparseMatrixMultiplication</Filter>
+    </ClInclude>
+    <ClInclude Include="DivideTwoIntegers.h">
+      <Filter>Source Files\Sorting and Searching\DivideTwoIntegers</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeSumOfBST.h">
+      <Filter>Source Files\Trees and Graphs\RangeSumOfBST</Filter>
+    </ClInclude>
+    <ClInclude Include="ContinuousSubarraySum.h">
+      <Filter>Source Files\Dynamic Programming\ContinuousSubarraySum</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h">
+      <Filter>Source Files\Trees and Graphs\MaximumDifferenceBetweenNodeAndAncestor</Filter>
+    </ClInclude>
+    <ClInclude Include="MonotonicArray.h">
+      <Filter>Source Files\Array and Strings\MonotonicArray</Filter>
+    </ClInclude>
+    <ClInclude Include="IsGraphBipartite.h">
+      <Filter>Source Files\Trees and Graphs\IsGraphBipartite</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumSwap.h">
+      <Filter>Source Files\Array and Strings\MaximumSwap</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomPickIndex.h">
+      <Filter>Source Files\Sorting and Searching\RandomPickIndex</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveInvalidParentheses.h">
+      <Filter>Source Files\Recursion\RemoveInvalidParentheses</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1725,7 +1803,7 @@
       <Filter>Source Files\Array and Strings\ProductOfArrayExceptSelf</Filter>
     </ClCompile>
     <ClCompile Include="SubarraySumEqualsK.cpp">
-      <Filter>Source Files\Array and Strings\SubarraySumEqualsK</Filter>
+      <Filter>Source Files\Dynamic Programming\SubarraySumEqualsK</Filter>
     </ClCompile>
     <ClCompile Include="VerifyingAnAlienDictionary.cpp">
       <Filter>Source Files\Array and Strings\VerifyingAnAlienDictionary</Filter>
@@ -1756,6 +1834,45 @@
     </ClCompile>
     <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp">
       <Filter>Source Files\Trees and Graphs\BinaryTreeVerticalOrderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="AddAndSearchWord.cpp">
+      <Filter>Source Files\Design\AddAndSearchWord</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomPickWithWeight.cpp">
+      <Filter>Source Files\Sorting and Searching\RandomPickWithWeight</Filter>
+    </ClCompile>
+    <ClCompile Include="ExclusiveTimeOfFunctions.cpp">
+      <Filter>Source Files\Sorting and Searching\ExclusiveTimeOfFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="SparseMatrixMultiplication.cpp">
+      <Filter>Source Files\Array and Strings\SparseMatrixMultiplication</Filter>
+    </ClCompile>
+    <ClCompile Include="DivideTwoIntegers.cpp">
+      <Filter>Source Files\Sorting and Searching\DivideTwoIntegers</Filter>
+    </ClCompile>
+    <ClCompile Include="RangeSumOfBST.cpp">
+      <Filter>Source Files\Trees and Graphs\RangeSumOfBST</Filter>
+    </ClCompile>
+    <ClCompile Include="ContinuousSubarraySum.cpp">
+      <Filter>Source Files\Dynamic Programming\ContinuousSubarraySum</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumDifferenceBetweenNodeAndAncestor</Filter>
+    </ClCompile>
+    <ClCompile Include="MonotonicArray.cpp">
+      <Filter>Source Files\Array and Strings\MonotonicArray</Filter>
+    </ClCompile>
+    <ClCompile Include="IsGraphBipartite.cpp">
+      <Filter>Source Files\Trees and Graphs\IsGraphBipartite</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumSwap.cpp">
+      <Filter>Source Files\Array and Strings\MaximumSwap</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomPickIndex.cpp">
+      <Filter>Source Files\Sorting and Searching\RandomPickIndex</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveInvalidParentheses.cpp">
+      <Filter>Source Files\Recursion\RemoveInvalidParentheses</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

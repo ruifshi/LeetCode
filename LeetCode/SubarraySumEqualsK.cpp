@@ -16,7 +16,7 @@ int Solution::subarraySum(vector<int>& nums, int k) {
 	for (int i = 0; i < nums.size(); i++) {
 		sum += nums[i];
 
-		if (sum == k)	//sound subarr 
+		if (sum == k)	//found subarr 
 			count++;
 
 		if (subarr_sums.find(sum - k) != subarr_sums.end()) {
