@@ -83,6 +83,7 @@
   <ItemGroup>
     <ClInclude Include="132Pattern.h" />
     <ClInclude Include="3Sum.h" />
+    <ClInclude Include="AccountsMerge.h" />
     <ClInclude Include="AddAndSearchWord.h" />
     <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddBoldTagInString.h" />
@@ -127,6 +128,7 @@
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
     <ClInclude Include="ExclusiveTimeOfFunctions.h" />
+    <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FindKPairsWithSmallestSums.h" />
     <ClInclude Include="FindKthSmallestPairDistance.h" />
     <ClInclude Include="FindMedianFromDataStream.h" />
@@ -153,6 +155,7 @@
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
+    <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
     <ClInclude Include="MaximumSwap.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
@@ -170,7 +173,10 @@
     <ClInclude Include="RangeSumOfBST.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
+    <ClInclude Include="ReverseLinkedList.h" />
+    <ClInclude Include="ReverseLinkedListII.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
+    <ClInclude Include="SimilarStringGroups.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
@@ -288,6 +294,7 @@
     <ClCompile Include="01Knapsack.cpp" />
     <ClCompile Include="132Pattern.cpp" />
     <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="AccountsMerge.cpp" />
     <ClCompile Include="AddAndSearchWord.cpp" />
     <ClCompile Include="AddBinary.cpp" />
     <ClCompile Include="AddBoldTagInString.cpp" />
@@ -332,6 +339,7 @@
     <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="EvaluateReversePolishNotation.cpp" />
     <ClCompile Include="ExclusiveTimeOfFunctions.cpp" />
+    <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FindKPairsWithSmallestSums.cpp" />
     <ClCompile Include="FindKthSmallestPairDistance.cpp" />
     <ClCompile Include="FindMedianFromDataStream.cpp" />
@@ -379,6 +387,7 @@
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
+    <ClCompile Include="MaximumSumOf3NonOverlappingSubarrays.cpp" />
     <ClCompile Include="MaximumSwap.cpp" />
     <ClCompile Include="MaximumVacationDays.cpp" />
     <ClCompile Include="MedianOfTwoSortedArrays.cpp" />
@@ -434,6 +443,8 @@
     <ClCompile Include="RemoveInvalidParentheses.cpp" />
     <ClCompile Include="ReorderDataInLogFiles.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
+    <ClCompile Include="ReverseLinkedList.cpp" />
+    <ClCompile Include="ReverseLinkedListII.cpp" />
     <ClCompile Include="RobotRoomCleaner.cpp" />
     <ClCompile Include="RottingOranges.cpp" />
     <ClCompile Include="SatisfiabilityOfEqualityEquations.cpp" />
@@ -443,6 +454,7 @@
     <ClCompile Include="ShortestPathInBinaryMatrix.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
+    <ClCompile Include="SimilarStringGroups.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />

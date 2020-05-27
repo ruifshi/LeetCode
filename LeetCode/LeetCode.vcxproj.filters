@@ -22,9 +22,6 @@
     <Filter Include="Source Files\Array and Strings\PlusOne">
       <UniqueIdentifier>{7d2f58a1-5669-43c7-8943-d8d9139260d8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\TrappingRainWater">
-      <UniqueIdentifier>{8972e577-090b-4668-becf-fef31cf87db8}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\LongestSubstringK">
       <UniqueIdentifier>{955ea5bc-90b0-40d5-a5fa-6e3ba23c5b63}</UniqueIdentifier>
     </Filter>
@@ -643,6 +640,27 @@
     <Filter Include="Source Files\Recursion\RemoveInvalidParentheses">
       <UniqueIdentifier>{4eab50ae-b98c-48f9-8cf3-d8acd225dbd3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\AccountsMerge">
+      <UniqueIdentifier>{56e19da4-0b22-4cd1-9268-f2094e6ae641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\ReverseLinkedList">
+      <UniqueIdentifier>{06071ee0-1ed8-4b04-97a9-b09c543692ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\ReverseLinkedListII">
+      <UniqueIdentifier>{9a3a1f8f-5876-409a-9584-8fdba2b36c65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\ExpressionAddOperators">
+      <UniqueIdentifier>{717d6986-cdaa-43dd-83c4-51fa747229f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MaximumSumOf3NonOverlappingSubarrays">
+      <UniqueIdentifier>{379d5105-2011-4a53-81dd-db36e50afd4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\TrappingRainWater">
+      <UniqueIdentifier>{8972e577-090b-4668-becf-fef31cf87db8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SimilarStringGroups">
+      <UniqueIdentifier>{3c2b7df7-a340-4685-b41d-8877638d0f21}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -694,7 +712,7 @@
       <Filter>Source Files\Array and Strings\PlusOne</Filter>
     </ClInclude>
     <ClInclude Include="TrappingRainWater.h">
-      <Filter>Source Files\Array and Strings\TrappingRainWater</Filter>
+      <Filter>Source Files\Dynamic Programming\TrappingRainWater</Filter>
     </ClInclude>
     <ClInclude Include="LongestSubstringK.h">
       <Filter>Source Files\Array and Strings\LongestSubstringK</Filter>
@@ -1251,6 +1269,24 @@
     <ClInclude Include="RemoveInvalidParentheses.h">
       <Filter>Source Files\Recursion\RemoveInvalidParentheses</Filter>
     </ClInclude>
+    <ClInclude Include="AccountsMerge.h">
+      <Filter>Source Files\Trees and Graphs\AccountsMerge</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseLinkedList.h">
+      <Filter>Source Files\Linked List\ReverseLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseLinkedListII.h">
+      <Filter>Source Files\Linked List\ReverseLinkedListII</Filter>
+    </ClInclude>
+    <ClInclude Include="ExpressionAddOperators.h">
+      <Filter>Source Files\Recursion\ExpressionAddOperators</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h">
+      <Filter>Source Files\Dynamic Programming\MaximumSumOf3NonOverlappingSubarrays</Filter>
+    </ClInclude>
+    <ClInclude Include="SimilarStringGroups.h">
+      <Filter>Source Files\Trees and Graphs\SimilarStringGroups</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -1299,7 +1335,7 @@
       <Filter>Source Files\Array and Strings\PlusOne</Filter>
     </ClCompile>
     <ClCompile Include="TrappingRainWater.cpp">
-      <Filter>Source Files\Array and Strings\TrappingRainWater</Filter>
+      <Filter>Source Files\Dynamic Programming\TrappingRainWater</Filter>
     </ClCompile>
     <ClCompile Include="LongestSubstringK.cpp">
       <Filter>Source Files\Array and Strings\LongestSubstringK</Filter>
@@ -1873,6 +1909,24 @@
     </ClCompile>
     <ClCompile Include="RemoveInvalidParentheses.cpp">
       <Filter>Source Files\Recursion\RemoveInvalidParentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountsMerge.cpp">
+      <Filter>Source Files\Trees and Graphs\AccountsMerge</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseLinkedList.cpp">
+      <Filter>Source Files\Linked List\ReverseLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseLinkedListII.cpp">
+      <Filter>Source Files\Linked List\ReverseLinkedListII</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionAddOperators.cpp">
+      <Filter>Source Files\Recursion\ExpressionAddOperators</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumSumOf3NonOverlappingSubarrays.cpp">
+      <Filter>Source Files\Dynamic Programming\MaximumSumOf3NonOverlappingSubarrays</Filter>
+    </ClCompile>
+    <ClCompile Include="SimilarStringGroups.cpp">
+      <Filter>Source Files\Trees and Graphs\SimilarStringGroups</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
