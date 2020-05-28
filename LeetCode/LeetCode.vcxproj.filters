@@ -661,6 +661,18 @@
     <Filter Include="Source Files\Trees and Graphs\SimilarStringGroups">
       <UniqueIdentifier>{3c2b7df7-a340-4685-b41d-8877638d0f21}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\FindAllAnagramsInAString">
+      <UniqueIdentifier>{f4725541-bc34-4a73-a2eb-9ba709c981c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FirstBadVersion">
+      <UniqueIdentifier>{91ee1a33-a88c-48d5-b2d5-171c832da383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\GroupShiftedStrings">
+      <UniqueIdentifier>{0eaab494-a2a4-4709-ab66-5f605460d65e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ReorganizeString">
+      <UniqueIdentifier>{bb0178ed-d571-4b47-93d0-bd97acc28f71}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1286,6 +1298,18 @@
     </ClInclude>
     <ClInclude Include="SimilarStringGroups.h">
       <Filter>Source Files\Trees and Graphs\SimilarStringGroups</Filter>
+    </ClInclude>
+    <ClInclude Include="FindAllAnagramsInAString.h">
+      <Filter>Source Files\Array and Strings\FindAllAnagramsInAString</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstBadVersion.h">
+      <Filter>Source Files\Sorting and Searching\FirstBadVersion</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupShiftedStrings.h">
+      <Filter>Source Files\Sorting and Searching\GroupShiftedStrings</Filter>
+    </ClInclude>
+    <ClInclude Include="ReorganizeString.h">
+      <Filter>Source Files\Sorting and Searching\ReorganizeString</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1927,6 +1951,18 @@
     </ClCompile>
     <ClCompile Include="SimilarStringGroups.cpp">
       <Filter>Source Files\Trees and Graphs\SimilarStringGroups</Filter>
+    </ClCompile>
+    <ClCompile Include="FindAllAnagramsInAString.cpp">
+      <Filter>Source Files\Array and Strings\FindAllAnagramsInAString</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstBadVersion.cpp">
+      <Filter>Source Files\Sorting and Searching\FirstBadVersion</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupShiftedStrings.cpp">
+      <Filter>Source Files\Sorting and Searching\GroupShiftedStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="ReorganizeString.cpp">
+      <Filter>Source Files\Sorting and Searching\ReorganizeString</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
