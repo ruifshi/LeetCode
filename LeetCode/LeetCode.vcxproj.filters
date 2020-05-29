@@ -673,6 +673,33 @@
     <Filter Include="Source Files\Sorting and Searching\ReorganizeString">
       <UniqueIdentifier>{bb0178ed-d571-4b47-93d0-bd97acc28f71}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\BattleshipsInABoard">
+      <UniqueIdentifier>{7227a85a-e3ad-44b2-a395-c13b331c3bfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MissingElementInSortedArray">
+      <UniqueIdentifier>{e91a5cff-8530-4136-b235-07eab7c3dff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindKClosestElements">
+      <UniqueIdentifier>{e2be68a7-12f1-4054-be33-67ef9d887a7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MultiplyStrings">
+      <UniqueIdentifier>{c47d6e6d-0ce6-40de-a8ae-53ef70bb8716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntegerStringConversion">
+      <UniqueIdentifier>{f5f7f517-c880-4032-947f-14405de5445f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\NestedListWeightSum">
+      <UniqueIdentifier>{fdad3f97-a42e-4b50-840a-8a7e69d00681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\LowestCommonAncestorOfDeepestLeaves">
+      <UniqueIdentifier>{d6397dd2-429c-4e05-930b-658abdfeeab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\RangeSumQuery2DImmutable">
+      <UniqueIdentifier>{4752ee01-05c3-45ff-a0df-96527fa4c463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SearchInRotatedSortedArray">
+      <UniqueIdentifier>{7bb83cfd-ff97-438e-a698-17e9e94d69f1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1310,6 +1337,30 @@
     </ClInclude>
     <ClInclude Include="ReorganizeString.h">
       <Filter>Source Files\Sorting and Searching\ReorganizeString</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleshipsInABoard.h">
+      <Filter>Source Files\Sorting and Searching\BattleshipsInABoard</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingElementInSortedArray.h">
+      <Filter>Source Files\Array and Strings\MissingElementInSortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="FindKClosestElements.h">
+      <Filter>Source Files\Sorting and Searching\FindKClosestElements</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplyStrings.h">
+      <Filter>Source Files\Array and Strings\MultiplyStrings</Filter>
+    </ClInclude>
+    <ClInclude Include="NestedListWeightSum.h">
+      <Filter>Source Files\Trees and Graphs\NestedListWeightSum</Filter>
+    </ClInclude>
+    <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h">
+      <Filter>Source Files\Trees and Graphs\LowestCommonAncestorOfDeepestLeaves</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeSumQuery2DImmutable.h">
+      <Filter>Source Files\Design\RangeSumQuery2DImmutable</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInRotatedSortedArray.h">
+      <Filter>Source Files\Sorting and Searching\SearchInRotatedSortedArray</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1963,6 +2014,33 @@
     </ClCompile>
     <ClCompile Include="ReorganizeString.cpp">
       <Filter>Source Files\Sorting and Searching\ReorganizeString</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleshipsInABoard.cpp">
+      <Filter>Source Files\Sorting and Searching\BattleshipsInABoard</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingElementInSortedArray.cpp">
+      <Filter>Source Files\Array and Strings\MissingElementInSortedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="FindKClosestElements.cpp">
+      <Filter>Source Files\Sorting and Searching\FindKClosestElements</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplyStrings.cpp">
+      <Filter>Source Files\Array and Strings\MultiplyStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegerStringConversion.cpp">
+      <Filter>Source Files\Array and Strings\IntegerStringConversion</Filter>
+    </ClCompile>
+    <ClCompile Include="NestedListWeightSum.cpp">
+      <Filter>Source Files\Trees and Graphs\NestedListWeightSum</Filter>
+    </ClCompile>
+    <ClCompile Include="LowestCommonAncestorOfDeepestLeaves.cpp">
+      <Filter>Source Files\Trees and Graphs\LowestCommonAncestorOfDeepestLeaves</Filter>
+    </ClCompile>
+    <ClCompile Include="RangeSumQuery2DImmutable.cpp">
+      <Filter>Source Files\Design\RangeSumQuery2DImmutable</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchInRotatedSortedArray.cpp">
+      <Filter>Source Files\Sorting and Searching\SearchInRotatedSortedArray</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

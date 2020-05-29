@@ -1,2 +1,9 @@
-﻿  ReorganizeString.cpp
+﻿  LowestCommonAncestorOfDeepestLeaves.cpp
+  RangeSumQuery2DImmutable.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2dimmutable.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\rangesumquery2dimmutable.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  SearchInRotatedSortedArray.cpp
+  SingleNumber.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\singlenumber.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

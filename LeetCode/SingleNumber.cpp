@@ -19,7 +19,7 @@ int Solution::singleNumber(vector<int>& nums) {
 
 /*
 	a = 0
-	for i in nums:
-		a ^= i
+	for i to nums.size():
+		a ^= nums[i]
 	return a
 */
