@@ -6,23 +6,17 @@
 // O(nlogn) due to sorting
 int Solution::findKthLargest(vector<int>& nums, int k) {
 	/*
-	priority_queue<int> q;
+  priority_queue<int, vector<int>, greater<int>> q;
 
-	for(int i = 0; i < nums.size(); i++) {
-		q.push(nums[i]);
-	}
+  for(int i = 0; i < nums.size(); i++) {
+    q.push(nums[i]);
+    if(q.size() > k) q.pop();
+  }
 
-	int ans;
-
-	for(int i = 0; i < k; i++) {
-		ans = q.top();
-		q.pop();
-	}
-
-	return ans;
+  return q.top();
 	*/
 
 	sort (nums.begin(), nums.end());
         
-    return nums[nums.size()-k];
+  return nums[nums.size()-k];
 }

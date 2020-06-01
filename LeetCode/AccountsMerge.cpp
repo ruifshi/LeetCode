@@ -21,7 +21,7 @@ vector<vector<string>> Solution::accountsMerge(vector<vector<string>>& accounts)
 	for (int i = 0; i < n; ++i) {
 		if (visited[i] != 0) continue;
 		queue<int> q{ {i} };
-		set<string> s;
+		set<string> email_set;
 		while (!q.empty()) {
 			int name_indx = q.front(); q.pop();
 			visited[name_indx] = 1;
@@ -29,7 +29,7 @@ vector<vector<string>> Solution::accountsMerge(vector<vector<string>>& accounts)
 
 			// link mail addresses to same name from the map 
 			for (string mail : mails) {
-				s.insert(mail);
+				email_set.insert(mail);
 				for (int name : address2name[mail]) {
 					if (visited[name] != 0) continue;
 					q.push(name);	// if these emails are linked to another name index, examine that next
@@ -37,7 +37,7 @@ vector<vector<string>> Solution::accountsMerge(vector<vector<string>>& accounts)
 				}
 			}
 		}
-		vector<string> out(s.begin(), s.end());
+		vector<string> out(email_set.begin(), email_set.end());
 		out.insert(out.begin(), accounts[i][0]);
 		res.push_back(out);
 	}

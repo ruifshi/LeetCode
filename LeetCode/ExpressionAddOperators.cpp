@@ -19,6 +19,13 @@ void addOperatorsHelper(vector<string> &result, string path, string num, int tar
 		else {
 			addOperatorsHelper(result, path + "+" + _str, num, target, i + 1, cur + _value, _value);
 			addOperatorsHelper(result, path + "-" + _str, num, target, i + 1, cur - _value, -_value);
+      /*
+      Let say the expression string formed so far is 1 + 2 (eval is 3)
+      in current step let say we cur is 3 (i.e. the remnant string expression till end)
+      we can choose to add, subtract or multiply 3 to the evaluated value (eval)
+      however, if we choose multiply 3 (i.e. 1 + 2 * 3), then the answer should be 7
+      this is where multed (i.e. 2) shall help us, which is basically the last value that contributed to the current eval
+      */
 			addOperatorsHelper(result, path + "*" + _str, num, target, i + 1, cur - prev + prev * _value, prev*_value);
 		}
 	}

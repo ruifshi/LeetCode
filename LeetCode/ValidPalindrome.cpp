@@ -2,28 +2,21 @@
 #include "ValidPalindrome.h"
 
 bool Solution::isPalindrome(string s) {
-	string t;
+  int front = 0, end = s.size() - 1;
 
-	// convert string to same case
-	for(int i = 0; i < s.size(); i++) {
-		if((s[i] >= '0' && s[i] <= '9') || (s[i] >= 'A' && s[i] <= 'Z') || (s[i] >= 'a' && s[i] <= 'z')) {
-			t += toupper(s[i]);
-		}
-	}
+  while (front < end) {
+    if (!isalnum(s[front])) { front++; continue; }
+    if (!isalnum(s[end])) { end--; continue; }
 
-	// check chars at ends to make sure they are the same
-	int front = 0, end = t.size() - 1;
+    if (tolower(s[front]) == tolower(s[end])) {
+      front++;
+      end--;
+    }
+    else
+    {
+      return false;
+    }
+  }
 
-	while(front < end) {
-		if(t[front] == t[end]) {
-			front++;
-			end--;
-		}
-		else
-		{
-			return false;
-		}
-	}
-
-	return true;
+  return true;
 }

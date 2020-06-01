@@ -143,6 +143,7 @@
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
+    <ClInclude Include="FriendsOfAppropriateAges.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="GenerateParentheses.h" />
@@ -154,6 +155,7 @@
     <ClInclude Include="IsGraphBipartite.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
@@ -189,6 +191,7 @@
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="SimilarStringGroups.h" />
+    <ClInclude Include="SimplifyPath.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
@@ -294,6 +297,7 @@
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="VerticalOrderTraversalOfABinaryTree.h" />
     <ClInclude Include="VowelSpellchecker.h" />
+    <ClInclude Include="WallsAndGates.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordBreakII.h" />
     <ClInclude Include="WordLadder.h" />
@@ -366,6 +370,7 @@
     <ClCompile Include="FizzBuzz.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
+    <ClCompile Include="FriendsOfAppropriateAges.cpp" />
     <ClCompile Include="FruitIntoBaskets.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
@@ -388,6 +393,7 @@
     <ClCompile Include="kEmptySlot.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
+    <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp" />
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LFUCache.cpp" />
     <ClCompile Include="LicenseKeyFormat.cpp" />
@@ -480,6 +486,7 @@
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
     <ClCompile Include="SimilarStringGroups.cpp" />
+    <ClCompile Include="SimplifyPath.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
@@ -525,6 +532,7 @@
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
     <ClCompile Include="VowelSpellchecker.cpp" />
     <ClCompile Include="WalkingRobotSimulation.cpp" />
+    <ClCompile Include="WallsAndGates.cpp" />
     <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordBreakII.cpp" />
     <ClCompile Include="WordLadder.cpp" />

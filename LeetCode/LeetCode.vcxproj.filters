@@ -700,6 +700,18 @@
     <Filter Include="Source Files\Sorting and Searching\SearchInRotatedSortedArray">
       <UniqueIdentifier>{7bb83cfd-ff97-438e-a698-17e9e94d69f1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LeftmostColumnWithAtLeastAOne">
+      <UniqueIdentifier>{b62ba29a-1ec2-49c2-9b83-6ed851ef61b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\WallsAndGates">
+      <UniqueIdentifier>{df603a43-3988-4e13-8bbf-36571b022045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FriendsOfAppropriateAges">
+      <UniqueIdentifier>{f3ecdd9b-f254-421d-8c4d-645513347e54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SimplifyPath">
+      <UniqueIdentifier>{e00701ea-cf42-499d-9a5f-e386334b302f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1361,6 +1373,18 @@
     </ClInclude>
     <ClInclude Include="SearchInRotatedSortedArray.h">
       <Filter>Source Files\Sorting and Searching\SearchInRotatedSortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftmostColumnWithAtLeastAOne.h">
+      <Filter>Source Files\Sorting and Searching\LeftmostColumnWithAtLeastAOne</Filter>
+    </ClInclude>
+    <ClInclude Include="WallsAndGates.h">
+      <Filter>Source Files\Trees and Graphs\WallsAndGates</Filter>
+    </ClInclude>
+    <ClInclude Include="FriendsOfAppropriateAges.h">
+      <Filter>Source Files\Array and Strings\FriendsOfAppropriateAges</Filter>
+    </ClInclude>
+    <ClInclude Include="SimplifyPath.h">
+      <Filter>Source Files\Array and Strings\SimplifyPath</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2041,6 +2065,18 @@
     </ClCompile>
     <ClCompile Include="SearchInRotatedSortedArray.cpp">
       <Filter>Source Files\Sorting and Searching\SearchInRotatedSortedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp">
+      <Filter>Source Files\Sorting and Searching\LeftmostColumnWithAtLeastAOne</Filter>
+    </ClCompile>
+    <ClCompile Include="WallsAndGates.cpp">
+      <Filter>Source Files\Trees and Graphs\WallsAndGates</Filter>
+    </ClCompile>
+    <ClCompile Include="FriendsOfAppropriateAges.cpp">
+      <Filter>Source Files\Array and Strings\FriendsOfAppropriateAges</Filter>
+    </ClCompile>
+    <ClCompile Include="SimplifyPath.cpp">
+      <Filter>Source Files\Array and Strings\SimplifyPath</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

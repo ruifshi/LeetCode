@@ -51,7 +51,7 @@ vector<int> findClosestElements(vector<int>& arr, int k, int x) {
 }
 */
 
-/* O(klogk)
+/* O(nlogk)
 vector<int> findClosestElements(vector<int>& arr, int k, int x) {
 
 	priority_queue<pair<int, int>>pq;

@@ -19,6 +19,7 @@ int Solution::subarraySum(vector<int>& nums, int k) {
 		if (sum == k)	//found subarr 
 			count++;
 
+		// prefix sums. k = the sum between intervals so sum - k
 		if (subarr_sums.find(sum - k) != subarr_sums.end()) {
 			count += subarr_sums[sum - k];
 		}

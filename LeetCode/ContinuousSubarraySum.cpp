@@ -18,7 +18,7 @@ bool Solution::checkSubarraySum(vector<int>& nums, int k) {
 		if (k != 0) sum = sum % k;
 
 		if (table.find(sum) != table.end()) {
-			if (i - table[sum] > 1) return true;
+			if (i - table[sum] > 1) return true;  // make sure at least 2 elements
 		}
 		else {
 			table[sum] = i;

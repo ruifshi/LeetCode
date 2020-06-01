@@ -13,6 +13,12 @@ int Solution::maxPathSum(TreeNode* root) {
 int Solution::help(TreeNode* root, int &sum) {
 	if (!root)   
 		return 0;
+
+  // if its less than 0, that means we should not connect current node with that branch, 
+  // since it will decrease the value of the path that goes through current    
+  // node anyway. In other words, if both branch have negative values, 
+  // then it's better just not to connect current node with any of the branch (simply take current node's value alone).
+  // This is like kadane's algorithm
 	int left = std::max(0, help(root->left, sum));
 	int right = std::max(0, help(root->right, sum));
 	

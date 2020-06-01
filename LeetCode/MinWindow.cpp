@@ -17,41 +17,44 @@
 // character in the remaining and if it is a character in t
 // increase required.
 string minWindow(string s, string t) {
-    if (s.size() == 0 || t.size() == 0) {
-		return "";
-	}
+  if (s.size() == 0 || t.size() == 0) {
+    return "";
+  }
 
-    map<char, int> remaining;
-    int required = t.size();
+  map<char, int> remaining;
+  int required = t.size();
 
-    for (int i = 0; i < required; i++) { 
-		remaining[t[i]]++;
-	}
+  for (int i = 0; i < required; i++) { 
+    remaining[t[i]]++;
+  }
 
-    // left is the start end of the min-length substring ever found
-    int min = INT_MAX, start = 0, left = 0, end = 0;
+	// left is the start end of the min-length substring ever found
+  int min = INT_MAX, start = 0, left = 0, end = 0;
 
-    while(end <= s.size() && start < s.size()) {
-        if(required) {
-            if (end == s.size()) {
-				break;
-			}
-            remaining[s[end]]--;
-            if (remaining[s[end]] >= 0) {
-				required--;
-			}
-            end++;
-        } else {
-            if (end - start < min) {
-                min = end -start;
-                left = start;
-            }
-            remaining[s[start]]++;
-            if (remaining[s[start]] > 0) {
-				required++;
-			}
-            start++;
-        }
+  // needed letters in the map will always be positive while
+  // unneeded will be negative
+  // required keeps track of if a letter is missing or not
+  while(end <= s.size() && start < s.size()) {
+    if(required) {
+      if (end == s.size()) {
+        break;
+      }
+      remaining[s[end]]--;
+      if (remaining[s[end]] >= 0) {
+        required--;
+      }
+      end++;
+    } else {
+      if (end - start < min) {
+        min = end - start;
+        left = start;
+      }
+      remaining[s[start]]++;
+      if (remaining[s[start]] > 0) {
+        required++;
+      }
+      start++;
     }
-    return min == INT_MAX? "" : s.substr(left, min);
+  }
+  return min == INT_MAX? "" : s.substr(left, min);
 }
