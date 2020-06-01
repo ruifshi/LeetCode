@@ -2,14 +2,12 @@
 #include "MaximumDepthOfBinaryTree.h"
 #include <algorithm>
 
-int maxDepthHelper(TreeNode* node, int ans) {
+int maxDepthHelper(TreeNode* node) {
 	if (node == NULL) {
-		return ans;
+		return 0;
 	}
 
-	ans++;
-
-	return std::max(maxDepthHelper(node->left, ans), maxDepthHelper(node->right, ans));
+	return std::max(maxDepthHelper(node->left) + 1, maxDepthHelper(node->right) + 1);
 }
 
 int Solution::maxDepth(TreeNode* root) {
@@ -17,6 +15,5 @@ int Solution::maxDepth(TreeNode* root) {
 		return 0;
 	}
 
-	int ans = 0;
-	return maxDepthHelper(root, ans);
+	return maxDepthHelper(root);
 }
