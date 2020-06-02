@@ -526,9 +526,6 @@
     <Filter Include="Source Files\Design\DesignSnakeGame">
       <UniqueIdentifier>{62f787fe-f095-45fc-8197-eed0e3f2146f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Trees and Graphs\CopyListWithRandomPointer">
-      <UniqueIdentifier>{d4b71914-0d50-4d11-a79a-0e9039ea24fb}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Trees and Graphs\BinaryTreeMaximumPathSum">
       <UniqueIdentifier>{0740282b-9d02-4b2f-909b-e240d6027d41}</UniqueIdentifier>
     </Filter>
@@ -735,6 +732,30 @@
     </Filter>
     <Filter Include="Source Files\Recursion\CombinationSum">
       <UniqueIdentifier>{821fd4b8-6045-435f-a50f-37a8ed3df974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConvertBinarySearchTreeToSortedDoublyLinkedList">
+      <UniqueIdentifier>{9fd524cf-4493-4bfe-9246-6c94ead931e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MinimumAddToMakeParenthesesValid">
+      <UniqueIdentifier>{cb6a21c2-20c2-4918-8cb9-2350aca90c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindFirstAndLastPositionOfElementInSortedArray">
+      <UniqueIdentifier>{05bf48c0-58d8-4ea7-b479-00ca1ca49c3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConvertSortedListToBinarySearchTree">
+      <UniqueIdentifier>{c980dfac-b0d5-44d6-877c-17f78e329268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\CopyListWithRandomPointer">
+      <UniqueIdentifier>{d4b71914-0d50-4d11-a79a-0e9039ea24fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\ReorderList">
+      <UniqueIdentifier>{4764a4d0-d690-42c5-b138-8492d5f6f3de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\GoatLatin">
+      <UniqueIdentifier>{ee4ebb1d-94ae-43e2-83cd-ec5ae31bd16a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CloneGraph">
+      <UniqueIdentifier>{07d10789-6c2c-4efa-aa7a-0476a55cddb9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1234,7 +1255,7 @@
       <Filter>Source Files\Design\DesignSnakeGame</Filter>
     </ClInclude>
     <ClInclude Include="CopyListWithRandomPointer.h">
-      <Filter>Source Files\Trees and Graphs\CopyListWithRandomPointer</Filter>
+      <Filter>Source Files\Linked List\CopyListWithRandomPointer</Filter>
     </ClInclude>
     <ClInclude Include="BinaryTreeMaximumPathSum.h">
       <Filter>Source Files\Trees and Graphs\BinaryTreeMaximumPathSum</Filter>
@@ -1433,6 +1454,27 @@
     </ClInclude>
     <ClInclude Include="CombinationSum.h">
       <Filter>Source Files\Recursion\CombinationSum</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.h">
+      <Filter>Source Files\Trees and Graphs\ConvertBinarySearchTreeToSortedDoublyLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumAddToMakeParenthesesValid.h">
+      <Filter>Source Files\Array and Strings\MinimumAddToMakeParenthesesValid</Filter>
+    </ClInclude>
+    <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h">
+      <Filter>Source Files\Sorting and Searching\FindFirstAndLastPositionOfElementInSortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertSortedListToBinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\ConvertSortedListToBinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ReorderList.h">
+      <Filter>Source Files\Linked List\ReorderList</Filter>
+    </ClInclude>
+    <ClInclude Include="GoatLatin.h">
+      <Filter>Source Files\Array and Strings\GoatLatin</Filter>
+    </ClInclude>
+    <ClInclude Include="CloneGraph.h">
+      <Filter>Source Files\Trees and Graphs\CloneGraph</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -1947,7 +1989,7 @@
       <Filter>Source Files\Design\DesignSnakeGame</Filter>
     </ClCompile>
     <ClCompile Include="CopyListWithRandomPointer.cpp">
-      <Filter>Source Files\Trees and Graphs\CopyListWithRandomPointer</Filter>
+      <Filter>Source Files\Linked List\CopyListWithRandomPointer</Filter>
     </ClCompile>
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp">
       <Filter>Source Files\Trees and Graphs\BinaryTreeMaximumPathSum</Filter>
@@ -2149,6 +2191,27 @@
     </ClCompile>
     <ClCompile Include="CombinationSum.cpp">
       <Filter>Source Files\Recursion\CombinationSum</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp">
+      <Filter>Source Files\Trees and Graphs\ConvertBinarySearchTreeToSortedDoublyLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp">
+      <Filter>Source Files\Array and Strings\MinimumAddToMakeParenthesesValid</Filter>
+    </ClCompile>
+    <ClCompile Include="FindFirstAndLastPositionOfElementInSortedArray.cpp">
+      <Filter>Source Files\Sorting and Searching\FindFirstAndLastPositionOfElementInSortedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertSortedListToBinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\ConvertSortedListToBinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ReorderList.cpp">
+      <Filter>Source Files\Linked List\ReorderList</Filter>
+    </ClCompile>
+    <ClCompile Include="GoatLatin.cpp">
+      <Filter>Source Files\Array and Strings\GoatLatin</Filter>
+    </ClCompile>
+    <ClCompile Include="CloneGraph.cpp">
+      <Filter>Source Files\Trees and Graphs\CloneGraph</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

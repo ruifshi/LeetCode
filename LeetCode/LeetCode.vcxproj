@@ -105,12 +105,15 @@
     <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BurstBalloons.h" />
     <ClInclude Include="ClimbingStairs.h" />
+    <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ConcatenatedWords.h" />
     <ClInclude Include="ConstructBSTFromPreorderTraversal.h" />
     <ClInclude Include="ContinuousSubarraySum.h" />
     <ClInclude Include="ConvertANumberToHexadecimal.h" />
+    <ClInclude Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.h" />
+    <ClInclude Include="ConvertSortedListToBinarySearchTree.h" />
     <ClInclude Include="CopyListWithRandomPointer.h" />
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="CousinsInBinaryTree.h" />
@@ -133,6 +136,7 @@
     <ClInclude Include="ExclusiveTimeOfFunctions.h" />
     <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
+    <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindKClosestElements.h" />
     <ClInclude Include="FindKPairsWithSmallestSums.h" />
     <ClInclude Include="FindKthSmallestPairDistance.h" />
@@ -150,6 +154,7 @@
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="GenerateParentheses.h" />
+    <ClInclude Include="GoatLatin.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
@@ -169,6 +174,7 @@
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
     <ClInclude Include="MaximumSwap.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
+    <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
@@ -190,6 +196,7 @@
     <ClInclude Include="RangeSumQuery2DImmutable.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
+    <ClInclude Include="ReorderList.h" />
     <ClInclude Include="ReorganizeString.h" />
     <ClInclude Include="RestoreIPAddresses.h" />
     <ClInclude Include="ReverseLinkedList.h" />
@@ -340,12 +347,15 @@
     <ClCompile Include="BuddyStrings.cpp" />
     <ClCompile Include="BurstBalloons.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
+    <ClCompile Include="CloneGraph.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ConcatenatedWords.cpp" />
     <ClCompile Include="ConstructBSTFromPreorderTraversal.cpp" />
     <ClCompile Include="ContinuousSubarraySum.cpp" />
     <ClCompile Include="ConvertANumberToHexadecimal.cpp" />
+    <ClCompile Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp" />
+    <ClCompile Include="ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="CopyListWithRandomPointer.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="CousinsInBinaryTree.cpp" />
@@ -368,6 +378,7 @@
     <ClCompile Include="ExclusiveTimeOfFunctions.cpp" />
     <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FindAllAnagramsInAString.cpp" />
+    <ClCompile Include="FindFirstAndLastPositionOfElementInSortedArray.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
     <ClCompile Include="FindKPairsWithSmallestSums.cpp" />
     <ClCompile Include="FindKthSmallestPairDistance.cpp" />
@@ -385,6 +396,7 @@
     <ClCompile Include="FruitIntoBaskets.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
+    <ClCompile Include="GoatLatin.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="GroupShiftedStrings.cpp" />
     <ClCompile Include="HouseRobberII.cpp" />
@@ -431,6 +443,7 @@
     <ClCompile Include="MergeKSortedLists.cpp" />
     <ClCompile Include="MergeSortedArray.cpp" />
     <ClCompile Include="MergeTwoSortedLists.cpp" />
+    <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
@@ -484,6 +497,7 @@
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RemoveInvalidParentheses.cpp" />
     <ClCompile Include="ReorderDataInLogFiles.cpp" />
+    <ClCompile Include="ReorderList.cpp" />
     <ClCompile Include="ReorganizeString.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
     <ClCompile Include="RestoreIPAddresses.cpp" />
