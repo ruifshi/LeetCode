@@ -1,4 +1,8 @@
-﻿  FriendsOfAppropriateAges.cpp
-  SimplifyPath.cpp
+﻿  CombinationSum.cpp
+  FindLargestValueInEachTreeRow.cpp
+  MinimumTimeToCollectAllApplesInATree.cpp
+  NextGreaterNodeInLinkedList.cpp
+  RestoreIPAddresses.cpp
+  Stock.cpp
   Generating Code...
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

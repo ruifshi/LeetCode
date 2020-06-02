@@ -3,7 +3,7 @@
 #include "limits.h"
 
 int maxProfit(int* prices, int pricesSize) {
-    int maxProfit = 0;
+  int maxProfit = 0;
 	int minPrice = INT_MAX;
 	int	i;
     

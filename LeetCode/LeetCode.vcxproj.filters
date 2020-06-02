@@ -712,6 +712,30 @@
     <Filter Include="Source Files\Array and Strings\SimplifyPath">
       <UniqueIdentifier>{e00701ea-cf42-499d-9a5f-e386334b302f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ShortestBridge">
+      <UniqueIdentifier>{43ad0e98-fdd8-4a59-b1f2-309dfb1e64dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ConvertANumberToHexadecimal">
+      <UniqueIdentifier>{756cc467-cd5b-43e4-ae7e-232e78adf43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\Rotate Array">
+      <UniqueIdentifier>{144fa773-af0a-4448-85e8-04dfbedee845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FindLargestValueInEachTreeRow">
+      <UniqueIdentifier>{d19e4970-903c-4cf0-a476-da4b4f1c1c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\RestoreIPAddresses">
+      <UniqueIdentifier>{9738dcb7-8a71-4d4f-bf1c-97cd5e7b2f07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MinimumTimeToCollectAllApplesInATree">
+      <UniqueIdentifier>{eb012d21-8e9c-4a8a-8110-6b9138716405}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\NextGreaterNodeInLinkedList">
+      <UniqueIdentifier>{50f4d0e9-fa82-4318-83a0-cba0db097e8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\CombinationSum">
+      <UniqueIdentifier>{821fd4b8-6045-435f-a50f-37a8ed3df974}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1385,6 +1409,30 @@
     </ClInclude>
     <ClInclude Include="SimplifyPath.h">
       <Filter>Source Files\Array and Strings\SimplifyPath</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestBridge.h">
+      <Filter>Source Files\Trees and Graphs\ShortestBridge</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertANumberToHexadecimal.h">
+      <Filter>Source Files\Array and Strings\ConvertANumberToHexadecimal</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateArray.h">
+      <Filter>Source Files\Array and Strings\Rotate Array</Filter>
+    </ClInclude>
+    <ClInclude Include="FindLargestValueInEachTreeRow.h">
+      <Filter>Source Files\Trees and Graphs\FindLargestValueInEachTreeRow</Filter>
+    </ClInclude>
+    <ClInclude Include="RestoreIPAddresses.h">
+      <Filter>Source Files\Recursion\RestoreIPAddresses</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h">
+      <Filter>Source Files\Trees and Graphs\MinimumTimeToCollectAllApplesInATree</Filter>
+    </ClInclude>
+    <ClInclude Include="NextGreaterNodeInLinkedList.h">
+      <Filter>Source Files\Linked List\NextGreaterNodeInLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>Source Files\Recursion\CombinationSum</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2077,6 +2125,30 @@
     </ClCompile>
     <ClCompile Include="SimplifyPath.cpp">
       <Filter>Source Files\Array and Strings\SimplifyPath</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestBridge.cpp">
+      <Filter>Source Files\Trees and Graphs\ShortestBridge</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertANumberToHexadecimal.cpp">
+      <Filter>Source Files\Array and Strings\ConvertANumberToHexadecimal</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateArray.cpp">
+      <Filter>Source Files\Array and Strings\Rotate Array</Filter>
+    </ClCompile>
+    <ClCompile Include="FindLargestValueInEachTreeRow.cpp">
+      <Filter>Source Files\Trees and Graphs\FindLargestValueInEachTreeRow</Filter>
+    </ClCompile>
+    <ClCompile Include="RestoreIPAddresses.cpp">
+      <Filter>Source Files\Recursion\RestoreIPAddresses</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumTimeToCollectAllApplesInATree.cpp">
+      <Filter>Source Files\Trees and Graphs\MinimumTimeToCollectAllApplesInATree</Filter>
+    </ClCompile>
+    <ClCompile Include="NextGreaterNodeInLinkedList.cpp">
+      <Filter>Source Files\Linked List\NextGreaterNodeInLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationSum.cpp">
+      <Filter>Source Files\Recursion\CombinationSum</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
