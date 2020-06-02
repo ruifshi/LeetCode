@@ -1,8 +1,3 @@
-﻿  CombinationSum.cpp
-  FindLargestValueInEachTreeRow.cpp
-  MinimumTimeToCollectAllApplesInATree.cpp
-  NextGreaterNodeInLinkedList.cpp
-  RestoreIPAddresses.cpp
-  Stock.cpp
-  Generating Code...
+﻿  TopKFrequentElements.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\topkfrequentelements.cpp(20): warning C4018: '>': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

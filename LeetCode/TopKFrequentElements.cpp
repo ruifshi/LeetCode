@@ -5,28 +5,22 @@
 #include <queue>
 
 vector<int> Solution::topKFrequent(vector<int>& nums, int k) {
-	unordered_map<int, int> table;
-	priority_queue<pair<int, int>, vector<pair<int, int>>, std::less<pair<int,int>>> q;	//lower values first
-	vector<int> ans;
+  unordered_map<int, int> map;
+  for (int num : nums) {
+    map[num]++;
+  }
 
-	for (int i = 0; i < nums.size(); i++) {
-		if (table.find(nums[i]) == table.end()) {
-			table[nums[i]] = 1;
-		}
-		else {
-			table[nums[i]]++;
-		}
-	}
-
-	for (auto x : table) {
-		q.push(make_pair(x.second, x.first));
-	}
-
-	for (int i = 0; i < k; i++) {
-		int key = q.top().second;
-		q.pop();
-		ans.push_back(key);
-	}
-
-	return ans;
+  vector<int> res;
+  /** use the priority queue, like the max-heap , we will keep (size-k) smallest elements in the queue**/
+  /** pair<first, second>: first is frequency,  second is number **/
+  priority_queue<pair<int, int>> pq;
+  for (auto x : map) {
+    pq.push(make_pair(x.second, x.first));
+    /** onece the size bigger than size-k, we will pop the value, which is the top k frequent element value **/
+    if (pq.size() > (int)map.size() - k) {
+      res.push_back(pq.top().second);
+      pq.pop();
+    }
+  }
+  return res;
 }
