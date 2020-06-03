@@ -757,6 +757,18 @@
     <Filter Include="Source Files\Trees and Graphs\CloneGraph">
       <UniqueIdentifier>{07d10789-6c2c-4efa-aa7a-0476a55cddb9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CheckCompletenessOfABinaryTree">
+      <UniqueIdentifier>{6bfabae7-f9c6-40d7-93ba-19d1bbf53776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BasicCalculatorII">
+      <UniqueIdentifier>{596ca022-ddb1-46b7-a50d-720503c5e8e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MinimumKnightMoves">
+      <UniqueIdentifier>{0bb62782-c3ca-4eb3-a5df-dc7468808812}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\StrobogrammaticNumber">
+      <UniqueIdentifier>{4a22a35d-d66a-4b01-92cb-fe2d94e99c02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1475,6 +1487,18 @@
     </ClInclude>
     <ClInclude Include="CloneGraph.h">
       <Filter>Source Files\Trees and Graphs\CloneGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckCompletenessOfABinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\CheckCompletenessOfABinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicCalculatorII.h">
+      <Filter>Source Files\Array and Strings\BasicCalculatorII</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumKnightMoves.h">
+      <Filter>Source Files\Trees and Graphs\MinimumKnightMoves</Filter>
+    </ClInclude>
+    <ClInclude Include="StrobogrammaticNumber.h">
+      <Filter>Source Files\Array and Strings\StrobogrammaticNumber</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2212,6 +2236,18 @@
     </ClCompile>
     <ClCompile Include="CloneGraph.cpp">
       <Filter>Source Files\Trees and Graphs\CloneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckCompletenessOfABinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\CheckCompletenessOfABinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicCalculatorII.cpp">
+      <Filter>Source Files\Array and Strings\BasicCalculatorII</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumKnightMoves.cpp">
+      <Filter>Source Files\Trees and Graphs\MinimumKnightMoves</Filter>
+    </ClCompile>
+    <ClCompile Include="StrobogrammaticNumber.cpp">
+      <Filter>Source Files\Array and Strings\StrobogrammaticNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

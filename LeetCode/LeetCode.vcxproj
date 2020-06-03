@@ -93,6 +93,7 @@
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BasicCalculator.h" />
+    <ClInclude Include="BasicCalculatorII.h" />
     <ClInclude Include="BasicCalculatorIII.h" />
     <ClInclude Include="BattleshipsInABoard.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
@@ -104,6 +105,7 @@
     <ClInclude Include="BrokenCalculator.h" />
     <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BurstBalloons.h" />
+    <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
@@ -177,6 +179,7 @@
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
+    <ClInclude Include="MinimumKnightMoves.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
     <ClInclude Include="MissingElementInSortedArray.h" />
@@ -210,6 +213,7 @@
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
+    <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="TaskScheduler.h" />
@@ -335,6 +339,7 @@
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="BasicCalculator.cpp" />
+    <ClCompile Include="BasicCalculatorII.cpp" />
     <ClCompile Include="BasicCalculatorIII.cpp" />
     <ClCompile Include="BattleshipsInABoard.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
@@ -346,6 +351,7 @@
     <ClCompile Include="BrokenCalculator.cpp" />
     <ClCompile Include="BuddyStrings.cpp" />
     <ClCompile Include="BurstBalloons.cpp" />
+    <ClCompile Include="CheckCompletenessOfABinaryTree.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CloneGraph.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
@@ -446,6 +452,7 @@
     <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
+    <ClCompile Include="MinimumKnightMoves.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinimumRemoveToMakeValidParentheses.cpp" />
     <ClCompile Include="MinimumTimeToCollectAllApplesInATree.cpp" />
@@ -527,6 +534,7 @@
     <ClCompile Include="SparseMatrixMultiplication.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
+    <ClCompile Include="StrobogrammaticNumber.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
     <ClCompile Include="SubtreeOfAnotherTree.cpp" />
