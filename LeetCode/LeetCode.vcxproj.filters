@@ -715,9 +715,6 @@
     <Filter Include="Source Files\Array and Strings\ConvertANumberToHexadecimal">
       <UniqueIdentifier>{756cc467-cd5b-43e4-ae7e-232e78adf43a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\Rotate Array">
-      <UniqueIdentifier>{144fa773-af0a-4448-85e8-04dfbedee845}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Trees and Graphs\FindLargestValueInEachTreeRow">
       <UniqueIdentifier>{d19e4970-903c-4cf0-a476-da4b4f1c1c8e}</UniqueIdentifier>
     </Filter>
@@ -768,6 +765,24 @@
     </Filter>
     <Filter Include="Source Files\Array and Strings\StrobogrammaticNumber">
       <UniqueIdentifier>{4a22a35d-d66a-4b01-92cb-fe2d94e99c02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RotateArray">
+      <UniqueIdentifier>{144fa773-af0a-4448-85e8-04dfbedee845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\TreeDiameter">
+      <UniqueIdentifier>{11c8d53d-f198-474d-b2ad-2d0f45557cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ToeplitzMatrix">
+      <UniqueIdentifier>{e5882e6b-913e-479d-863a-a7237f440ad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\StampingTheSequence">
+      <UniqueIdentifier>{41b85762-f064-498b-aa69-870ae827850a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\NumberOfWaysToStayInTheSamePlaceAfterSomeSteps">
+      <UniqueIdentifier>{49a57803-f461-40cb-8552-864018c7120b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\IslandPerimeter">
+      <UniqueIdentifier>{9ed4f25e-b6a8-4231-9937-acfbfd224738}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1450,7 +1465,7 @@
       <Filter>Source Files\Array and Strings\ConvertANumberToHexadecimal</Filter>
     </ClInclude>
     <ClInclude Include="RotateArray.h">
-      <Filter>Source Files\Array and Strings\Rotate Array</Filter>
+      <Filter>Source Files\Array and Strings\RotateArray</Filter>
     </ClInclude>
     <ClInclude Include="FindLargestValueInEachTreeRow.h">
       <Filter>Source Files\Trees and Graphs\FindLargestValueInEachTreeRow</Filter>
@@ -1499,6 +1514,21 @@
     </ClInclude>
     <ClInclude Include="StrobogrammaticNumber.h">
       <Filter>Source Files\Array and Strings\StrobogrammaticNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeDiameter.h">
+      <Filter>Source Files\Trees and Graphs\TreeDiameter</Filter>
+    </ClInclude>
+    <ClInclude Include="ToeplitzMatrix.h">
+      <Filter>Source Files\Array and Strings\ToeplitzMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="StampingTheSequence.h">
+      <Filter>Source Files\Array and Strings\StampingTheSequence</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h">
+      <Filter>Source Files\Dynamic Programming\NumberOfWaysToStayInTheSamePlaceAfterSomeSteps</Filter>
+    </ClInclude>
+    <ClInclude Include="IslandPerimeter.h">
+      <Filter>Source Files\Trees and Graphs\IslandPerimeter</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2199,7 +2229,7 @@
       <Filter>Source Files\Array and Strings\ConvertANumberToHexadecimal</Filter>
     </ClCompile>
     <ClCompile Include="RotateArray.cpp">
-      <Filter>Source Files\Array and Strings\Rotate Array</Filter>
+      <Filter>Source Files\Array and Strings\RotateArray</Filter>
     </ClCompile>
     <ClCompile Include="FindLargestValueInEachTreeRow.cpp">
       <Filter>Source Files\Trees and Graphs\FindLargestValueInEachTreeRow</Filter>
@@ -2248,6 +2278,21 @@
     </ClCompile>
     <ClCompile Include="StrobogrammaticNumber.cpp">
       <Filter>Source Files\Array and Strings\StrobogrammaticNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeDiameter.cpp">
+      <Filter>Source Files\Trees and Graphs\TreeDiameter</Filter>
+    </ClCompile>
+    <ClCompile Include="ToeplitzMatrix.cpp">
+      <Filter>Source Files\Array and Strings\ToeplitzMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="StampingTheSequence.cpp">
+      <Filter>Source Files\Array and Strings\StampingTheSequence</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.cpp">
+      <Filter>Source Files\Dynamic Programming\NumberOfWaysToStayInTheSamePlaceAfterSomeSteps</Filter>
+    </ClCompile>
+    <ClCompile Include="IslandPerimeter.cpp">
+      <Filter>Source Files\Trees and Graphs\IslandPerimeter</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

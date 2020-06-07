@@ -163,6 +163,7 @@
     <ClInclude Include="IntegerToEnglishWords.h" />
     <ClInclude Include="InvertBinaryTree.h" />
     <ClInclude Include="IsGraphBipartite.h" />
+    <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
@@ -189,6 +190,7 @@
     <ClInclude Include="NestedListWeightSum.h" />
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
+    <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
@@ -213,13 +215,16 @@
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
+    <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TheMazeII.h" />
+    <ClInclude Include="ToeplitzMatrix.h" />
     <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TopKFrequentWords.h" />
+    <ClInclude Include="TreeDiameter.h" />
     <ClInclude Include="TwoSumLessThanK.h" />
     <ClInclude Include="TwoSums.h" />
     <ClInclude Include="UniquePathsIII.h" />
@@ -417,6 +422,7 @@
     <ClCompile Include="IntervalListIntersections.cpp" />
     <ClCompile Include="InvertBinaryTree.cpp" />
     <ClCompile Include="IsGraphBipartite.cpp" />
+    <ClCompile Include="IslandPerimeter.cpp" />
     <ClCompile Include="JumpGameII.cpp" />
     <ClCompile Include="KClosestPointsToOrigin.cpp" />
     <ClCompile Include="kEmptySlot.cpp" />
@@ -473,6 +479,7 @@
     <ClCompile Include="NondecreasingArray.cpp" />
     <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp" />
     <ClCompile Include="NumberOfSquarefulArrays.cpp" />
+    <ClCompile Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.cpp" />
     <ClCompile Include="NumIslands.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MaxSubarray.cpp" />
@@ -534,6 +541,7 @@
     <ClCompile Include="SparseMatrixMultiplication.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
+    <ClCompile Include="StampingTheSequence.cpp" />
     <ClCompile Include="StrobogrammaticNumber.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
@@ -548,10 +556,12 @@
     <ClCompile Include="SumQuery2.cpp" />
     <ClCompile Include="TaskScheduler.cpp" />
     <ClCompile Include="TheMazeII.cpp" />
+    <ClCompile Include="ToeplitzMatrix.cpp" />
     <ClCompile Include="TopKFrequentElements.cpp" />
     <ClCompile Include="TopKFrequentWords.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
     <ClCompile Include="TravelingSalesman.cpp" />
+    <ClCompile Include="TreeDiameter.cpp" />
     <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="TwoSumLessThanK.cpp" />
     <ClCompile Include="TwoSums.cpp" />

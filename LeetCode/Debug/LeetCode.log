@@ -1,4 +1,7 @@
-﻿  MinimumKnightMoves.cpp
-  StrobogrammaticNumber.cpp
+﻿  IslandPerimeter.cpp
+  NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.cpp
+  TreeDiameter.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\treediameter.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\treediameter.cpp(28): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe
