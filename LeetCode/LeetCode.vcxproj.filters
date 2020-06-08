@@ -784,6 +784,18 @@
     <Filter Include="Source Files\Trees and Graphs\IslandPerimeter">
       <UniqueIdentifier>{9ed4f25e-b6a8-4231-9937-acfbfd224738}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Design\ExamRoom">
+      <UniqueIdentifier>{0339721e-06b7-49eb-acd8-0ca223d9eea6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\AllOoneDataStructure">
+      <UniqueIdentifier>{2a8a2bca-827a-4a41-a66a-53389ab49bcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ValidParenthesisString">
+      <UniqueIdentifier>{d6f93a51-a85d-4679-80a9-e8fba8f624d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ReconstructItinerary">
+      <UniqueIdentifier>{a0a03230-9dc1-464d-865d-273ee2830001}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1529,6 +1541,18 @@
     </ClInclude>
     <ClInclude Include="IslandPerimeter.h">
       <Filter>Source Files\Trees and Graphs\IslandPerimeter</Filter>
+    </ClInclude>
+    <ClInclude Include="ExamRoom.h">
+      <Filter>Source Files\Design\ExamRoom</Filter>
+    </ClInclude>
+    <ClInclude Include="AllOoneDataStructure.h">
+      <Filter>Source Files\Design\AllOoneDataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidParenthesisString.h">
+      <Filter>Source Files\Sorting and Searching\ValidParenthesisString</Filter>
+    </ClInclude>
+    <ClInclude Include="ReconstructItinerary.h">
+      <Filter>Source Files\Trees and Graphs\ReconstructItinerary</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2293,6 +2317,18 @@
     </ClCompile>
     <ClCompile Include="IslandPerimeter.cpp">
       <Filter>Source Files\Trees and Graphs\IslandPerimeter</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamRoom.cpp">
+      <Filter>Source Files\Design\ExamRoom</Filter>
+    </ClCompile>
+    <ClCompile Include="AllOoneDataStructure.cpp">
+      <Filter>Source Files\Design\AllOoneDataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidParenthesisString.cpp">
+      <Filter>Source Files\Sorting and Searching\ValidParenthesisString</Filter>
+    </ClCompile>
+    <ClCompile Include="ReconstructItinerary.cpp">
+      <Filter>Source Files\Trees and Graphs\ReconstructItinerary</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

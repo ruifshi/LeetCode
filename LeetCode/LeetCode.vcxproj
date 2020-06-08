@@ -91,6 +91,7 @@
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="AlienDictionary.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
+    <ClInclude Include="AllOoneDataStructure.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BasicCalculator.h" />
     <ClInclude Include="BasicCalculatorII.h" />
@@ -135,6 +136,7 @@
     <ClInclude Include="EncodeAndDecodeTinyURL.h" />
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
+    <ClInclude Include="ExamRoom.h" />
     <ClInclude Include="ExclusiveTimeOfFunctions.h" />
     <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
@@ -199,6 +201,7 @@
     <ClInclude Include="RandomPickWithWeight.h" />
     <ClInclude Include="RangeSumOfBST.h" />
     <ClInclude Include="RangeSumQuery2DImmutable.h" />
+    <ClInclude Include="ReconstructItinerary.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
     <ClInclude Include="ReorderList.h" />
@@ -229,6 +232,7 @@
     <ClInclude Include="TwoSums.h" />
     <ClInclude Include="UniquePathsIII.h" />
     <ClInclude Include="ValidPalindromeII.h" />
+    <ClInclude Include="ValidParenthesisString.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="HouseRobberII.h" />
@@ -342,6 +346,7 @@
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="AlienDictionary.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
+    <ClCompile Include="AllOoneDataStructure.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="BasicCalculator.cpp" />
     <ClCompile Include="BasicCalculatorII.cpp" />
@@ -386,6 +391,7 @@
     <ClCompile Include="EncodeAndDecodeTinyURL.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="EvaluateReversePolishNotation.cpp" />
+    <ClCompile Include="ExamRoom.cpp" />
     <ClCompile Include="ExclusiveTimeOfFunctions.cpp" />
     <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FindAllAnagramsInAString.cpp" />
@@ -506,6 +512,7 @@
     <ClCompile Include="RangeSumQuery2DImmutable.cpp" />
     <ClCompile Include="ReadNCharactersGivenRead4.cpp" />
     <ClCompile Include="ReadNCharactersGivenRead4II.cpp" />
+    <ClCompile Include="ReconstructItinerary.cpp" />
     <ClCompile Include="RedundantConnectionII.cpp" />
     <ClCompile Include="RegularExpressionMatching.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
@@ -576,6 +583,7 @@
     <ClCompile Include="ValidPalindrome.cpp" />
     <ClCompile Include="ValidPalindromeII.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
+    <ClCompile Include="ValidParenthesisString.cpp" />
     <ClCompile Include="VerifyingAnAlienDictionary.cpp" />
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
     <ClCompile Include="VowelSpellchecker.cpp" />

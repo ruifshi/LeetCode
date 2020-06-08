@@ -4,6 +4,21 @@
 #include <stack>
 
 int Solution::minAddToMakeValid(string S) {
+  int left = 0, right = 0;
+
+  for (int i = 0; i < S.size(); i++) {
+    if (S[i] == '(') left++;
+    if (S[i] == ')') {
+      if (left == 0)
+        right++;
+      else
+        left--;
+    }
+  }
+
+  return left + right;
+
+/*
   stack<int> indicies;
   int missing = 0;
 
@@ -22,4 +37,5 @@ int Solution::minAddToMakeValid(string S) {
   }
 
   return missing + indicies.size();
+*/
 }
