@@ -154,6 +154,7 @@
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
+    <ClInclude Include="FractionToRecurringDecimal.h" />
     <ClInclude Include="FriendsOfAppropriateAges.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
@@ -172,6 +173,7 @@
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
@@ -183,6 +185,7 @@
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MinimumKnightMoves.h" />
+    <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
     <ClInclude Include="MissingElementInSortedArray.h" />
@@ -191,6 +194,7 @@
     <ClInclude Include="MultiplyStrings.h" />
     <ClInclude Include="NestedListWeightSum.h" />
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
+    <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="PartitionLabels.h" />
@@ -409,6 +413,7 @@
     <ClCompile Include="FizzBuzz.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
+    <ClCompile Include="FractionToRecurringDecimal.cpp" />
     <ClCompile Include="FriendsOfAppropriateAges.cpp" />
     <ClCompile Include="FruitIntoBaskets.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
@@ -443,6 +448,7 @@
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
+    <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="LongestUnivaluePath.cpp" />
     <ClCompile Include="LowestCommonAncestorOfABinaryTree.cpp" />
     <ClCompile Include="LowestCommonAncestorOfDeepestLeaves.cpp" />
@@ -465,6 +471,7 @@
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumKnightMoves.cpp" />
+    <ClCompile Include="MinimumNumberOfArrowsToBurstBalloons.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinimumRemoveToMakeValidParentheses.cpp" />
     <ClCompile Include="MinimumTimeToCollectAllApplesInATree.cpp" />
@@ -483,6 +490,7 @@
     <ClCompile Include="NextGreaterNodeInLinkedList.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NondecreasingArray.cpp" />
+    <ClCompile Include="NthDigit.cpp" />
     <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp" />
     <ClCompile Include="NumberOfSquarefulArrays.cpp" />
     <ClCompile Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.cpp" />

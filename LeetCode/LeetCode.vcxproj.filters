@@ -796,6 +796,18 @@
     <Filter Include="Source Files\Trees and Graphs\ReconstructItinerary">
       <UniqueIdentifier>{a0a03230-9dc1-464d-865d-273ee2830001}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinimumNumberOfArrowsToBurstBalloons">
+      <UniqueIdentifier>{903d888f-7904-422c-ab99-613e161f4ac0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FractionToRecurringDecimal">
+      <UniqueIdentifier>{5478ec1b-a55d-4559-8939-3489bd9f387c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\NthDigit">
+      <UniqueIdentifier>{6f1f2f24-c8ad-40da-beff-2be6333301fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LongestSubstringWithoutRepeatingCharacters">
+      <UniqueIdentifier>{c3cd60cf-5425-44e3-881c-ef49f94b8542}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1553,6 +1565,18 @@
     </ClInclude>
     <ClInclude Include="ReconstructItinerary.h">
       <Filter>Source Files\Trees and Graphs\ReconstructItinerary</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h">
+      <Filter>Source Files\Sorting and Searching\MinimumNumberOfArrowsToBurstBalloons</Filter>
+    </ClInclude>
+    <ClInclude Include="FractionToRecurringDecimal.h">
+      <Filter>Source Files\Array and Strings\FractionToRecurringDecimal</Filter>
+    </ClInclude>
+    <ClInclude Include="NthDigit.h">
+      <Filter>Source Files\Array and Strings\NthDigit</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h">
+      <Filter>Source Files\Sorting and Searching\LongestSubstringWithoutRepeatingCharacters</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2329,6 +2353,18 @@
     </ClCompile>
     <ClCompile Include="ReconstructItinerary.cpp">
       <Filter>Source Files\Trees and Graphs\ReconstructItinerary</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumNumberOfArrowsToBurstBalloons.cpp">
+      <Filter>Source Files\Sorting and Searching\MinimumNumberOfArrowsToBurstBalloons</Filter>
+    </ClCompile>
+    <ClCompile Include="FractionToRecurringDecimal.cpp">
+      <Filter>Source Files\Array and Strings\FractionToRecurringDecimal</Filter>
+    </ClCompile>
+    <ClCompile Include="NthDigit.cpp">
+      <Filter>Source Files\Array and Strings\NthDigit</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp">
+      <Filter>Source Files\Sorting and Searching\LongestSubstringWithoutRepeatingCharacters</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
