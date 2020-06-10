@@ -808,6 +808,21 @@
     <Filter Include="Source Files\Sorting and Searching\LongestSubstringWithoutRepeatingCharacters">
       <UniqueIdentifier>{c3cd60cf-5425-44e3-881c-ef49f94b8542}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinimumAreaRectangle">
+      <UniqueIdentifier>{95f86c2b-d9e8-4222-8521-bff24b07fa29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\SlidingWindowMedian">
+      <UniqueIdentifier>{ce553791-3034-4848-a50a-e3aab1a498dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SingleElementInASortedArray">
+      <UniqueIdentifier>{2cfdb4ae-b0aa-4789-8bc2-83ee1ec958e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreePaths">
+      <UniqueIdentifier>{27ff0388-6592-42b9-ab65-da5ae76d9b71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindDuplicateFileInSystem">
+      <UniqueIdentifier>{67b396d2-a004-4541-8d52-860c297676ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1577,6 +1592,21 @@
     </ClInclude>
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h">
       <Filter>Source Files\Sorting and Searching\LongestSubstringWithoutRepeatingCharacters</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumAreaRectangle.h">
+      <Filter>Source Files\Sorting and Searching\MinimumAreaRectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="SlidingWindowMedian.h">
+      <Filter>Source Files\Design\SlidingWindowMedian</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleElementInASortedArray.h">
+      <Filter>Source Files\Sorting and Searching\SingleElementInASortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePaths.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreePaths</Filter>
+    </ClInclude>
+    <ClInclude Include="FindDuplicateFileInSystem.h">
+      <Filter>Source Files\Sorting and Searching\FindDuplicateFileInSystem</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2365,6 +2395,21 @@
     </ClCompile>
     <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp">
       <Filter>Source Files\Sorting and Searching\LongestSubstringWithoutRepeatingCharacters</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumAreaRectangle.cpp">
+      <Filter>Source Files\Sorting and Searching\MinimumAreaRectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingWindowMedian.cpp">
+      <Filter>Source Files\Design\SlidingWindowMedian</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleElementInASortedArray.cpp">
+      <Filter>Source Files\Sorting and Searching\SingleElementInASortedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreePaths.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreePaths</Filter>
+    </ClCompile>
+    <ClCompile Include="FindDuplicateFileInSystem.cpp">
+      <Filter>Source Files\Sorting and Searching\FindDuplicateFileInSystem</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

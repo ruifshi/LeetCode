@@ -99,6 +99,7 @@
     <ClInclude Include="BattleshipsInABoard.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
     <ClInclude Include="BinaryTreeMaximumPathSum.h" />
+    <ClInclude Include="BinaryTreePaths.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BinaryTreeVerticalOrderTraversal.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
@@ -140,6 +141,7 @@
     <ClInclude Include="ExclusiveTimeOfFunctions.h" />
     <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
+    <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindKClosestElements.h" />
     <ClInclude Include="FindKPairsWithSmallestSums.h" />
@@ -182,6 +184,7 @@
     <ClInclude Include="MaximumSwap.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
+    <ClInclude Include="MinimumAreaRectangle.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MinimumKnightMoves.h" />
@@ -219,7 +222,9 @@
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="SimilarStringGroups.h" />
     <ClInclude Include="SimplifyPath.h" />
+    <ClInclude Include="SingleElementInASortedArray.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
+    <ClInclude Include="SlidingWindowMedian.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
     <ClInclude Include="StampingTheSequence.h" />
@@ -358,6 +363,7 @@
     <ClCompile Include="BattleshipsInABoard.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
+    <ClCompile Include="BinaryTreePaths.cpp" />
     <ClCompile Include="BinaryTreeRightSideView.cpp" />
     <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeZigzagLevelOrderTraversal.cpp" />
@@ -399,6 +405,7 @@
     <ClCompile Include="ExclusiveTimeOfFunctions.cpp" />
     <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FindAllAnagramsInAString.cpp" />
+    <ClCompile Include="FindDuplicateFileInSystem.cpp" />
     <ClCompile Include="FindFirstAndLastPositionOfElementInSortedArray.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
     <ClCompile Include="FindKPairsWithSmallestSums.cpp" />
@@ -468,6 +475,7 @@
     <ClCompile Include="MergeSortedArray.cpp" />
     <ClCompile Include="MergeTwoSortedLists.cpp" />
     <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp" />
+    <ClCompile Include="MinimumAreaRectangle.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumKnightMoves.cpp" />
@@ -546,8 +554,10 @@
     <ClCompile Include="ShortestPalindrome.cpp" />
     <ClCompile Include="SimilarStringGroups.cpp" />
     <ClCompile Include="SimplifyPath.cpp" />
+    <ClCompile Include="SingleElementInASortedArray.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
+    <ClCompile Include="SlidingWindowMedian.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
     <ClCompile Include="SnakesAndLadders.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />
