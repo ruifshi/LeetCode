@@ -823,6 +823,21 @@
     <Filter Include="Source Files\Sorting and Searching\FindDuplicateFileInSystem">
       <UniqueIdentifier>{67b396d2-a004-4541-8d52-860c297676ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PalindromicSubstrings">
+      <UniqueIdentifier>{8dc04e77-9f4d-4f1c-a5c1-ba327ad69173}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\StringToInteger">
+      <UniqueIdentifier>{b7623ac6-3eb1-46aa-aefd-75457917c260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\TargetSum">
+      <UniqueIdentifier>{1a22676c-a99d-4559-808f-ffb78159be57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\LargestBSTSubtree">
+      <UniqueIdentifier>{09cbbc9d-6766-4f2c-8817-e49e14374fd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\LongestIncreasingPathInAMatrix">
+      <UniqueIdentifier>{345c37d3-f841-4963-b686-8a23ab661d8b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1607,6 +1622,21 @@
     </ClInclude>
     <ClInclude Include="FindDuplicateFileInSystem.h">
       <Filter>Source Files\Sorting and Searching\FindDuplicateFileInSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromicSubstrings.h">
+      <Filter>Source Files\Sorting and Searching\PalindromicSubstrings</Filter>
+    </ClInclude>
+    <ClInclude Include="StringToInteger.h">
+      <Filter>Source Files\Array and Strings\StringToInteger</Filter>
+    </ClInclude>
+    <ClInclude Include="TargetSum.h">
+      <Filter>Source Files\Recursion\TargetSum</Filter>
+    </ClInclude>
+    <ClInclude Include="LargestBSTSubtree.h">
+      <Filter>Source Files\Trees and Graphs\LargestBSTSubtree</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestIncreasingPathInAMatrix.h">
+      <Filter>Source Files\Recursion\LongestIncreasingPathInAMatrix</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2410,6 +2440,21 @@
     </ClCompile>
     <ClCompile Include="FindDuplicateFileInSystem.cpp">
       <Filter>Source Files\Sorting and Searching\FindDuplicateFileInSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromicSubstrings.cpp">
+      <Filter>Source Files\Sorting and Searching\PalindromicSubstrings</Filter>
+    </ClCompile>
+    <ClCompile Include="StringToInteger.cpp">
+      <Filter>Source Files\Array and Strings\StringToInteger</Filter>
+    </ClCompile>
+    <ClCompile Include="TargetSum.cpp">
+      <Filter>Source Files\Recursion\TargetSum</Filter>
+    </ClCompile>
+    <ClCompile Include="LargestBSTSubtree.cpp">
+      <Filter>Source Files\Trees and Graphs\LargestBSTSubtree</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestIncreasingPathInAMatrix.cpp">
+      <Filter>Source Files\Recursion\LongestIncreasingPathInAMatrix</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,3 +1,5 @@
-﻿  FindDuplicateFileInSystem.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\findduplicatefileinsystem.cpp(12): warning C4018: '<': signed/unsigned mismatch
+﻿  LongestIncreasingPathInAMatrix.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\longestincreasingpathinamatrix.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\longestincreasingpathinamatrix.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\longestincreasingpathinamatrix.cpp(32): warning C4018: '<': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

@@ -171,10 +171,12 @@
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="LargestBSTSubtree.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="LongestIncreasingPathInAMatrix.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h" />
@@ -200,6 +202,7 @@
     <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
+    <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
@@ -228,9 +231,11 @@
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
     <ClInclude Include="StampingTheSequence.h" />
+    <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
+    <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TheMazeII.h" />
     <ClInclude Include="ToeplitzMatrix.h" />
@@ -446,6 +451,7 @@
     <ClCompile Include="kEmptySlot.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
+    <ClCompile Include="LargestBSTSubtree.cpp" />
     <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp" />
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LFUCache.cpp" />
@@ -453,6 +459,7 @@
     <ClCompile Include="LongestAbsoluteFilePath.cpp" />
     <ClCompile Include="LongestCommonSubsequence.cpp" />
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
+    <ClCompile Include="LongestIncreasingPathInAMatrix.cpp" />
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
     <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp" />
@@ -510,6 +517,7 @@
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="PalindromePairs.cpp" />
+    <ClCompile Include="PalindromicSubstrings.cpp" />
     <ClCompile Include="PartitionLabels.cpp" />
     <ClCompile Include="PathSumII.cpp" />
     <ClCompile Include="PeekingIterator.cpp" />
@@ -567,6 +575,7 @@
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
     <ClCompile Include="StampingTheSequence.cpp" />
+    <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="StrobogrammaticNumber.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
@@ -579,6 +588,7 @@
     </ClCompile>
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
+    <ClCompile Include="TargetSum.cpp" />
     <ClCompile Include="TaskScheduler.cpp" />
     <ClCompile Include="TheMazeII.cpp" />
     <ClCompile Include="ToeplitzMatrix.cpp" />
