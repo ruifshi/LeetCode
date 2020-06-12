@@ -8,6 +8,7 @@ int Solution::subarraySum(vector<int>& nums, int k) {
 	if (nums.size() == 0)
 		return 0;
 
+  // sums to number of times seen
 	unordered_map<int, int> subarr_sums;
 
 	int sum = 0;

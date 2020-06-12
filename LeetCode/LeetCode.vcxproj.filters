@@ -838,6 +838,24 @@
     <Filter Include="Source Files\Recursion\LongestIncreasingPathInAMatrix">
       <UniqueIdentifier>{345c37d3-f841-4963-b686-8a23ab661d8b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaxAreaOfIsland">
+      <UniqueIdentifier>{e43a6462-eda9-4203-9d0f-33340b41c251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\NumberOfConnectedComponentsInAnUndirectedGraph">
+      <UniqueIdentifier>{5c0b1368-bd8a-43e7-8066-f7374cfb99c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SplitArrayWithEqualSum">
+      <UniqueIdentifier>{0a174e4d-c5ae-4143-a38a-c86b95ab4223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BackspaceStringCompare">
+      <UniqueIdentifier>{4b8d822c-4820-4ced-9e2f-0c7eb52c2691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\ValidPalindromeIII">
+      <UniqueIdentifier>{1ad90944-1078-41b8-83b0-928b6d285e46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\CombinationSumII">
+      <UniqueIdentifier>{a97ee942-f884-4998-b0ff-918eb3925c06}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1637,6 +1655,24 @@
     </ClInclude>
     <ClInclude Include="LongestIncreasingPathInAMatrix.h">
       <Filter>Source Files\Recursion\LongestIncreasingPathInAMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxAreaOfIsland.h">
+      <Filter>Source Files\Trees and Graphs\MaxAreaOfIsland</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfConnectedComponentsInAnUndirectedGraph.h">
+      <Filter>Source Files\Trees and Graphs\NumberOfConnectedComponentsInAnUndirectedGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="SplitArrayWithEqualSum.h">
+      <Filter>Source Files\Array and Strings\SplitArrayWithEqualSum</Filter>
+    </ClInclude>
+    <ClInclude Include="BackspaceStringCompare.h">
+      <Filter>Source Files\Array and Strings\BackspaceStringCompare</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidPalindromeIII.h">
+      <Filter>Source Files\Dynamic Programming\ValidPalindromeIII</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSumII.h">
+      <Filter>Source Files\Recursion\CombinationSumII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2455,6 +2491,24 @@
     </ClCompile>
     <ClCompile Include="LongestIncreasingPathInAMatrix.cpp">
       <Filter>Source Files\Recursion\LongestIncreasingPathInAMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxAreaOfIsland.cpp">
+      <Filter>Source Files\Trees and Graphs\MaxAreaOfIsland</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfConnectedComponentsInAnUndirectedGraph.cpp">
+      <Filter>Source Files\Trees and Graphs\NumberOfConnectedComponentsInAnUndirectedGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="SplitArrayWithEqualSum.cpp">
+      <Filter>Source Files\Array and Strings\SplitArrayWithEqualSum</Filter>
+    </ClCompile>
+    <ClCompile Include="BackspaceStringCompare.cpp">
+      <Filter>Source Files\Array and Strings\BackspaceStringCompare</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidPalindromeIII.cpp">
+      <Filter>Source Files\Dynamic Programming\ValidPalindromeIII</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationSumII.cpp">
+      <Filter>Source Files\Recursion\CombinationSumII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
