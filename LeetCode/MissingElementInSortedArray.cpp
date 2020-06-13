@@ -3,7 +3,8 @@
 
 /*
 First we guess a result rst = nums[0] + k.
-We then check if nums[1] is larger than rst. If so, we know all integers between nums[0]+1 and rst are missing, thus we can return rst. Otherwise, nums[1] is not missing, we should update our guess to rst = rst + 1.
+We then check if nums[1] is larger than rst. If so, we know all integers between nums[0]+1 and rst are missing, 
+thus we can return rst. Otherwise, nums[1] is not missing, we should update our guess to rst = rst + 1.
 Similar logic is applied to nums[2], nums[3], ...
 */
 int Solution::missingElement(vector<int>& nums, int k) {

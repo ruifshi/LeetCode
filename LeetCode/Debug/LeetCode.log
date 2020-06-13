@@ -1,3 +1,15 @@
-﻿  CombinationSumII.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\combinationsumii.cpp(14): warning C4018: '<': signed/unsigned mismatch
+﻿  ClosestBinarySearchTreeValueII.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\closestbinarysearchtreevalueii.cpp(11): warning C4018: '>': signed/unsigned mismatch
+  IntersectionOfTwoArraysII.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\intersectionoftwoarraysii.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\intersectionoftwoarraysii.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  MaxConsecutiveOnesIII.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\maxconsecutiveonesiii.cpp(6): warning C4018: '<': signed/unsigned mismatch
+  MissingElementInSortedArray.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\missingelementinsortedarray.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Subsets.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\subsets.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  TwoSums.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\twosums.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

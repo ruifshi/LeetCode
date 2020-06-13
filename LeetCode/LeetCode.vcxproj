@@ -112,6 +112,7 @@
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
+    <ClInclude Include="ClosestBinarySearchTreeValueII.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="ConcatenatedWords.h" />
@@ -168,6 +169,7 @@
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
+    <ClInclude Include="IntersectionOfTwoArraysII.h" />
     <ClInclude Include="InvertBinaryTree.h" />
     <ClInclude Include="IsGraphBipartite.h" />
     <ClInclude Include="IslandPerimeter.h" />
@@ -182,7 +184,9 @@
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h" />
+    <ClInclude Include="MakingALargeIsland.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
+    <ClInclude Include="MaxConsecutiveOnesIII.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
@@ -239,6 +243,7 @@
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
+    <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
@@ -387,6 +392,7 @@
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CloneGraph.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
+    <ClCompile Include="ClosestBinarySearchTreeValueII.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="CombinationSumII.cpp" />
     <ClCompile Include="ConcatenatedWords.cpp" />
@@ -450,6 +456,7 @@
     <ClCompile Include="IntegerStringConversion.cpp" />
     <ClCompile Include="IntegerToEnglishWords.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
+    <ClCompile Include="IntersectionOfTwoArraysII.cpp" />
     <ClCompile Include="IntervalListIntersections.cpp" />
     <ClCompile Include="InvertBinaryTree.cpp" />
     <ClCompile Include="IsGraphBipartite.cpp" />
@@ -475,9 +482,11 @@
     <ClCompile Include="LowestCommonAncestorOfABinaryTree.cpp" />
     <ClCompile Include="LowestCommonAncestorOfDeepestLeaves.cpp" />
     <ClCompile Include="LRUCache.cpp" />
+    <ClCompile Include="MakingALargeIsland.cpp" />
     <ClCompile Include="MaxAreaOfIsland.cpp" />
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
+    <ClCompile Include="MaxConsecutiveOnesIII.cpp" />
     <ClCompile Include="MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
@@ -590,6 +599,7 @@
     <ClCompile Include="StrobogrammaticNumber.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
+    <ClCompile Include="Subsets.cpp" />
     <ClCompile Include="SubtreeOfAnotherTree.cpp" />
     <ClCompile Include="SumQuery.cpp" />
     <ClCompile Include="Stock.cpp" />

@@ -856,6 +856,21 @@
     <Filter Include="Source Files\Recursion\CombinationSumII">
       <UniqueIdentifier>{a97ee942-f884-4998-b0ff-918eb3925c06}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MakingALargeIsland">
+      <UniqueIdentifier>{fef2ee79-3f78-480b-90f2-ffe3f942a998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ClosestBinarySearchTreeValueII">
+      <UniqueIdentifier>{273cbcb2-8000-459b-bf19-6ebbba8e2822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntersectionOfTwoArraysII">
+      <UniqueIdentifier>{f85775fd-ec02-41bd-a2a2-16aa1b724fca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\Subsets">
+      <UniqueIdentifier>{30939c0f-0a46-41e6-8b0b-969fe8e0059e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaxConsecutiveOnesIII">
+      <UniqueIdentifier>{189a9086-8ca4-4375-a494-7f3f33a5b3ed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1673,6 +1688,21 @@
     </ClInclude>
     <ClInclude Include="CombinationSumII.h">
       <Filter>Source Files\Recursion\CombinationSumII</Filter>
+    </ClInclude>
+    <ClInclude Include="MakingALargeIsland.h">
+      <Filter>Source Files\Trees and Graphs\MakingALargeIsland</Filter>
+    </ClInclude>
+    <ClInclude Include="ClosestBinarySearchTreeValueII.h">
+      <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValueII</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoArraysII.h">
+      <Filter>Source Files\Array and Strings\IntersectionOfTwoArraysII</Filter>
+    </ClInclude>
+    <ClInclude Include="Subsets.h">
+      <Filter>Source Files\Recursion\Subsets</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxConsecutiveOnesIII.h">
+      <Filter>Source Files\Array and Strings\MaxConsecutiveOnesIII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2509,6 +2539,21 @@
     </ClCompile>
     <ClCompile Include="CombinationSumII.cpp">
       <Filter>Source Files\Recursion\CombinationSumII</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingALargeIsland.cpp">
+      <Filter>Source Files\Trees and Graphs\MakingALargeIsland</Filter>
+    </ClCompile>
+    <ClCompile Include="ClosestBinarySearchTreeValueII.cpp">
+      <Filter>Source Files\Trees and Graphs\ClosestBinarySearchTreeValueII</Filter>
+    </ClCompile>
+    <ClCompile Include="IntersectionOfTwoArraysII.cpp">
+      <Filter>Source Files\Array and Strings\IntersectionOfTwoArraysII</Filter>
+    </ClCompile>
+    <ClCompile Include="Subsets.cpp">
+      <Filter>Source Files\Recursion\Subsets</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxConsecutiveOnesIII.cpp">
+      <Filter>Source Files\Array and Strings\MaxConsecutiveOnesIII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
