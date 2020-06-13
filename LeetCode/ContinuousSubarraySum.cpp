@@ -5,6 +5,7 @@
 
 bool Solution::checkSubarraySum(vector<int>& nums, int k) {
 	int sum = 0;
+  // maps cumulative sum to index
 	unordered_map<int, int> table;
 
 	table[0] = -1; // for [0,0], 0 case

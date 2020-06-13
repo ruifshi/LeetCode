@@ -128,6 +128,7 @@
     <ClInclude Include="CutOffTreesForGolfEvent.h" />
     <ClInclude Include="DailyTemperature.h" />
     <ClInclude Include="DecodeWays.h" />
+    <ClInclude Include="DesignCircularQueue.h" />
     <ClInclude Include="DesignInMemoryFileSystem.h" />
     <ClInclude Include="DesignSearchAutocompleteSystem.h" />
     <ClInclude Include="DesignSnakeGame.h" />
@@ -170,17 +171,20 @@
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
     <ClInclude Include="IntersectionOfTwoArraysII.h" />
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="InvertBinaryTree.h" />
     <ClInclude Include="IsGraphBipartite.h" />
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestBSTSubtree.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestIncreasingPathInAMatrix.h" />
+    <ClInclude Include="LongestRepeatingSubstring.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h" />
@@ -212,6 +216,7 @@
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionLabels.h" />
+    <ClInclude Include="PopulatingNextRightPointersInEachNodeII.h" />
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
     <ClInclude Include="ProductOfArrayExceptSelf.h" />
@@ -408,6 +413,7 @@
     <ClCompile Include="CutOffTreesForGolfEvent.cpp" />
     <ClCompile Include="DailyTemperature.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
+    <ClCompile Include="DesignCircularQueue.cpp" />
     <ClCompile Include="DesignSnakeGame.cpp" />
     <ClCompile Include="DesignInMemoryFileSystem.cpp" />
     <ClCompile Include="DesignSearchAutocompleteSystem.cpp" />
@@ -457,6 +463,7 @@
     <ClCompile Include="IntegerToEnglishWords.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
     <ClCompile Include="IntersectionOfTwoArraysII.cpp" />
+    <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="IntervalListIntersections.cpp" />
     <ClCompile Include="InvertBinaryTree.cpp" />
     <ClCompile Include="IsGraphBipartite.cpp" />
@@ -466,6 +473,7 @@
     <ClCompile Include="kEmptySlot.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
+    <ClCompile Include="KthSmallestElementInASortedMatrix.cpp" />
     <ClCompile Include="LargestBSTSubtree.cpp" />
     <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp" />
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
@@ -476,6 +484,7 @@
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
     <ClCompile Include="LongestIncreasingPathInAMatrix.cpp" />
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
+    <ClCompile Include="LongestRepeatingSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
     <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="LongestUnivaluePath.cpp" />
@@ -542,6 +551,7 @@
     <ClCompile Include="PeekingIterator.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="PlusOne.cpp" />
+    <ClCompile Include="PopulatingNextRightPointersInEachNodeII.cpp" />
     <ClCompile Include="Pow.cpp" />
     <ClCompile Include="PrimePalindrome.cpp" />
     <ClCompile Include="Prims.cpp" />

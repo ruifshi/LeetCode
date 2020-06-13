@@ -9,8 +9,13 @@
 string Solution::simplifyPath(string path) {
   string res, s;
   stack<string>stk;
-  stringstream ss(path);
-  while (getline(ss, s, '/')) {
+  //stringstream ss(path);
+  //while(getline(ss, s, '/')) {  // gets sub with deliminator or until null char is reached
+  path += '/';
+  while (path.find('/') != string::npos) {
+    s = path.substr(0, path.find('/'));
+    path = path.substr(path.find('/') + 1);
+
     if (s == "" || s == ".") continue;
     if (s == ".." && !stk.empty()) stk.pop();
     else if (s != "..") stk.push(s);
@@ -21,30 +26,3 @@ string Solution::simplifyPath(string path) {
   }
   return res.empty() ? "/" : res;
 }
-
-/*
-string simplifyPath(string path) {
-  std::string ret;
-  int skip = 0;
-  for (auto it = path.rbegin(); it != path.rend(); ) {
-    if ('.' == *it && '.' == *(it + 1) && '/' == *(it + 2)) {
-      ++skip;
-      it = it + 3;
-    } else if ('.' == *it && '/' == *(it + 1)) {
-      it = it + 2;
-    } else if ('/' == *it) {
-      ++it;
-    } else if (skip) {
-      it = std::find(it, path.rend(), '/');
-      --skip;
-    } else {
-      do {
-        ret.push_back(*it);
-      }
-      while ('/' != *it++);
-    }
-  }
-  std::reverse(ret.begin(), ret.end());
-  return ret.empty() ? "/" : ret;
-}
-*/

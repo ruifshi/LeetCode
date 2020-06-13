@@ -871,6 +871,21 @@
     <Filter Include="Source Files\Array and Strings\MaxConsecutiveOnesIII">
       <UniqueIdentifier>{189a9086-8ca4-4375-a494-7f3f33a5b3ed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Design\DesignCircularQueue">
+      <UniqueIdentifier>{6d0aad6a-66b5-4644-a4b2-b37c5e788c01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\IntersectionOfTwoLinkedLists">
+      <UniqueIdentifier>{6275224b-a1f0-486f-8ece-3e991107e2ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\KthSmallestElementInASortedMatrix">
+      <UniqueIdentifier>{3beebd3f-f7ef-40fc-bffc-4bae6e89bf50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LongestRepeatingSubstring">
+      <UniqueIdentifier>{3b191f43-8946-421a-8bad-7a1e0a14ae29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNodeII">
+      <UniqueIdentifier>{1623c8c8-099c-4d3f-84e2-354539a1af4a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1703,6 +1718,21 @@
     </ClInclude>
     <ClInclude Include="MaxConsecutiveOnesIII.h">
       <Filter>Source Files\Array and Strings\MaxConsecutiveOnesIII</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignCircularQueue.h">
+      <Filter>Source Files\Design\DesignCircularQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h">
+      <Filter>Source Files\Linked List\IntersectionOfTwoLinkedLists</Filter>
+    </ClInclude>
+    <ClInclude Include="KthSmallestElementInASortedMatrix.h">
+      <Filter>Source Files\Sorting and Searching\KthSmallestElementInASortedMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestRepeatingSubstring.h">
+      <Filter>Source Files\Array and Strings\LongestRepeatingSubstring</Filter>
+    </ClInclude>
+    <ClInclude Include="PopulatingNextRightPointersInEachNodeII.h">
+      <Filter>Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNodeII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2554,6 +2584,21 @@
     </ClCompile>
     <ClCompile Include="MaxConsecutiveOnesIII.cpp">
       <Filter>Source Files\Array and Strings\MaxConsecutiveOnesIII</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignCircularQueue.cpp">
+      <Filter>Source Files\Design\DesignCircularQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="IntersectionOfTwoLinkedLists.cpp">
+      <Filter>Source Files\Linked List\IntersectionOfTwoLinkedLists</Filter>
+    </ClCompile>
+    <ClCompile Include="KthSmallestElementInASortedMatrix.cpp">
+      <Filter>Source Files\Sorting and Searching\KthSmallestElementInASortedMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestRepeatingSubstring.cpp">
+      <Filter>Source Files\Array and Strings\LongestRepeatingSubstring</Filter>
+    </ClCompile>
+    <ClCompile Include="PopulatingNextRightPointersInEachNodeII.cpp">
+      <Filter>Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNodeII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
