@@ -113,6 +113,7 @@
     <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
     <ClInclude Include="ClosestBinarySearchTreeValueII.h" />
+    <ClInclude Include="ClosestLeafInABinaryTree.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="ConcatenatedWords.h" />
@@ -153,6 +154,7 @@
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindMedianFromDataStream.h" />
     <ClInclude Include="FindPeakElement.h" />
+    <ClInclude Include="FindTheCelebrity.h" />
     <ClInclude Include="FindTheTownJudge.h" />
     <ClInclude Include="FirstBadVersion.h" />
     <ClInclude Include="FirstMissingPositive.h" />
@@ -161,6 +163,7 @@
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
     <ClInclude Include="FractionToRecurringDecimal.h" />
+    <ClInclude Include="FriendCircles.h" />
     <ClInclude Include="FriendsOfAppropriateAges.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
@@ -170,6 +173,7 @@
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
+    <ClInclude Include="IntersectionOfThreeSortedArrays.h" />
     <ClInclude Include="IntersectionOfTwoArraysII.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="InvertBinaryTree.h" />
@@ -196,6 +200,7 @@
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
     <ClInclude Include="MaximumSwap.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
+    <ClInclude Include="Minesweeper.h" />
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumAreaRectangle.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
@@ -398,6 +403,7 @@
     <ClCompile Include="CloneGraph.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValueII.cpp" />
+    <ClCompile Include="ClosestLeafInABinaryTree.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="CombinationSumII.cpp" />
     <ClCompile Include="ConcatenatedWords.cpp" />
@@ -438,6 +444,7 @@
     <ClCompile Include="FindLargestValueInEachTreeRow.cpp" />
     <ClCompile Include="FindMedianFromDataStream.cpp" />
     <ClCompile Include="FindPeakElement.cpp" />
+    <ClCompile Include="FindTheCelebrity.cpp" />
     <ClCompile Include="FindTheTownJudge.cpp" />
     <ClCompile Include="FirstBadVersion.cpp" />
     <ClCompile Include="FirstMissingPositive.cpp" />
@@ -446,6 +453,7 @@
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
     <ClCompile Include="FractionToRecurringDecimal.cpp" />
+    <ClCompile Include="FriendCircles.cpp" />
     <ClCompile Include="FriendsOfAppropriateAges.cpp" />
     <ClCompile Include="FruitIntoBaskets.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
@@ -461,6 +469,7 @@
     <ClCompile Include="InsertIntoACyclicSortedList.cpp" />
     <ClCompile Include="IntegerStringConversion.cpp" />
     <ClCompile Include="IntegerToEnglishWords.cpp" />
+    <ClCompile Include="IntersectionOfThreeSortedArrays.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
     <ClCompile Include="IntersectionOfTwoArraysII.cpp" />
     <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
@@ -508,6 +517,7 @@
     <ClCompile Include="MergeKSortedLists.cpp" />
     <ClCompile Include="MergeSortedArray.cpp" />
     <ClCompile Include="MergeTwoSortedLists.cpp" />
+    <ClCompile Include="Minesweeper.cpp" />
     <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp" />
     <ClCompile Include="MinimumAreaRectangle.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />

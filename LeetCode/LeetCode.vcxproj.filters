@@ -886,6 +886,21 @@
     <Filter Include="Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNodeII">
       <UniqueIdentifier>{1623c8c8-099c-4d3f-84e2-354539a1af4a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\Minesweeper">
+      <UniqueIdentifier>{db58f863-c60a-4010-872f-b38ab849d142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntersectionOfThreeSortedArrays">
+      <UniqueIdentifier>{38a126ba-5b31-448d-99b4-91fe59fc61f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FindTheCelebrity">
+      <UniqueIdentifier>{1c4981c7-192b-40c4-ab1d-696edaaadfe7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FriendCircles">
+      <UniqueIdentifier>{26936450-b74b-4e74-8b1f-236589543113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ClosestLeafInABinaryTree">
+      <UniqueIdentifier>{e79edc17-a298-4389-968d-bb25d4e0eca6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1733,6 +1748,21 @@
     </ClInclude>
     <ClInclude Include="PopulatingNextRightPointersInEachNodeII.h">
       <Filter>Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNodeII</Filter>
+    </ClInclude>
+    <ClInclude Include="Minesweeper.h">
+      <Filter>Source Files\Trees and Graphs\Minesweeper</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfThreeSortedArrays.h">
+      <Filter>Source Files\Array and Strings\IntersectionOfThreeSortedArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheCelebrity.h">
+      <Filter>Source Files\Trees and Graphs\FindTheCelebrity</Filter>
+    </ClInclude>
+    <ClInclude Include="FriendCircles.h">
+      <Filter>Source Files\Trees and Graphs\FriendCircles</Filter>
+    </ClInclude>
+    <ClInclude Include="ClosestLeafInABinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\ClosestLeafInABinaryTree</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2599,6 +2629,21 @@
     </ClCompile>
     <ClCompile Include="PopulatingNextRightPointersInEachNodeII.cpp">
       <Filter>Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNodeII</Filter>
+    </ClCompile>
+    <ClCompile Include="Minesweeper.cpp">
+      <Filter>Source Files\Trees and Graphs\Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="IntersectionOfThreeSortedArrays.cpp">
+      <Filter>Source Files\Array and Strings\IntersectionOfThreeSortedArrays</Filter>
+    </ClCompile>
+    <ClCompile Include="FindTheCelebrity.cpp">
+      <Filter>Source Files\Trees and Graphs\FindTheCelebrity</Filter>
+    </ClCompile>
+    <ClCompile Include="FriendCircles.cpp">
+      <Filter>Source Files\Trees and Graphs\FriendCircles</Filter>
+    </ClCompile>
+    <ClCompile Include="ClosestLeafInABinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\ClosestLeafInABinaryTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
