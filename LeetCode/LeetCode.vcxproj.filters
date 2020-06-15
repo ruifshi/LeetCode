@@ -901,6 +901,21 @@
     <Filter Include="Source Files\Trees and Graphs\ClosestLeafInABinaryTree">
       <UniqueIdentifier>{e79edc17-a298-4389-968d-bb25d4e0eca6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConstructBinaryTreeFromString">
+      <UniqueIdentifier>{544a4eee-d885-4864-9acd-935857ba5443}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\TheMaze">
+      <UniqueIdentifier>{0e5f264c-f82f-4343-b020-a41dbd7f1f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\IncreasingTripletSubsequence">
+      <UniqueIdentifier>{f146d773-6f7d-4106-a46e-ca42943696e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeLongestConsecutiveSequenceII">
+      <UniqueIdentifier>{71a1d3a7-b3fb-4ea3-88d5-75484c37c3b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SplitBST">
+      <UniqueIdentifier>{e1e513ad-5616-4489-96ac-cd6df7f05842}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1763,6 +1778,21 @@
     </ClInclude>
     <ClInclude Include="ClosestLeafInABinaryTree.h">
       <Filter>Source Files\Trees and Graphs\ClosestLeafInABinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBinaryTreeFromString.h">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromString</Filter>
+    </ClInclude>
+    <ClInclude Include="TheMaze.h">
+      <Filter>Source Files\Trees and Graphs\TheMaze</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreasingTripletSubsequence.h">
+      <Filter>Source Files\Sorting and Searching\IncreasingTripletSubsequence</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeLongestConsecutiveSequenceII.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeLongestConsecutiveSequenceII</Filter>
+    </ClInclude>
+    <ClInclude Include="SplitBST.h">
+      <Filter>Source Files\Trees and Graphs\SplitBST</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2644,6 +2674,21 @@
     </ClCompile>
     <ClCompile Include="ClosestLeafInABinaryTree.cpp">
       <Filter>Source Files\Trees and Graphs\ClosestLeafInABinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructBinaryTreeFromString.cpp">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromString</Filter>
+    </ClCompile>
+    <ClCompile Include="TheMaze.cpp">
+      <Filter>Source Files\Trees and Graphs\TheMaze</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreasingTripletSubsequence.cpp">
+      <Filter>Source Files\Sorting and Searching\IncreasingTripletSubsequence</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeLongestConsecutiveSequenceII.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeLongestConsecutiveSequenceII</Filter>
+    </ClCompile>
+    <ClCompile Include="SplitBST.cpp">
+      <Filter>Source Files\Trees and Graphs\SplitBST</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
