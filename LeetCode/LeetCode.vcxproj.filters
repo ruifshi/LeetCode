@@ -916,6 +916,15 @@
     <Filter Include="Source Files\Trees and Graphs\SplitBST">
       <UniqueIdentifier>{e1e513ad-5616-4489-96ac-cd6df7f05842}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Linked List\OddEvenLinkedList">
+      <UniqueIdentifier>{3179c1fc-ed33-4b31-a29f-033f98534d93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FlattenBinaryTreeToLinkedList">
+      <UniqueIdentifier>{231b7272-c5ab-4e6a-906f-0094a9eeb4b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\FlattenAMultilevelDoublyLinkedList">
+      <UniqueIdentifier>{3aa2e83b-193b-4004-a56c-8c4df66ae043}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1793,6 +1802,15 @@
     </ClInclude>
     <ClInclude Include="SplitBST.h">
       <Filter>Source Files\Trees and Graphs\SplitBST</Filter>
+    </ClInclude>
+    <ClInclude Include="OddEvenLinkedList.h">
+      <Filter>Source Files\Linked List\OddEvenLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenBinaryTreeToLinkedList.h">
+      <Filter>Source Files\Trees and Graphs\FlattenBinaryTreeToLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenAMultilevelDoublyLinkedList.h">
+      <Filter>Source Files\Linked List\FlattenAMultilevelDoublyLinkedList</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2689,6 +2707,15 @@
     </ClCompile>
     <ClCompile Include="SplitBST.cpp">
       <Filter>Source Files\Trees and Graphs\SplitBST</Filter>
+    </ClCompile>
+    <ClCompile Include="OddEvenLinkedList.cpp">
+      <Filter>Source Files\Linked List\OddEvenLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="FlattenBinaryTreeToLinkedList.cpp">
+      <Filter>Source Files\Trees and Graphs\FlattenBinaryTreeToLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="FlattenAMultilevelDoublyLinkedList.cpp">
+      <Filter>Source Files\Linked List\FlattenAMultilevelDoublyLinkedList</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

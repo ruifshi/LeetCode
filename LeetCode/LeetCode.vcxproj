@@ -162,6 +162,8 @@
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FizzBuzz.h" />
+    <ClInclude Include="FlattenAMultilevelDoublyLinkedList.h" />
+    <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
     <ClInclude Include="FractionToRecurringDecimal.h" />
@@ -222,6 +224,7 @@
     <ClInclude Include="NumberOfConnectedComponentsInAnUndirectedGraph.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
+    <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeII.h" />
@@ -457,6 +460,8 @@
     <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
     <ClCompile Include="FizzBuzz.cpp" />
+    <ClCompile Include="FlattenAMultilevelDoublyLinkedList.cpp" />
+    <ClCompile Include="FlattenBinaryTreeToLinkedList.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
     <ClCompile Include="FractionToRecurringDecimal.cpp" />
@@ -559,6 +564,7 @@
     <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MaxSubarray.cpp" />
     <ClCompile Include="MinNumCoins.cpp" />
+    <ClCompile Include="OddEvenLinkedList.cpp" />
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
