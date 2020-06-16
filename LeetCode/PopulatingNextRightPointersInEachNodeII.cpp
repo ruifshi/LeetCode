@@ -5,7 +5,7 @@
 
 using namespace std;
 
-Node* Solution::connect(Node* root) {
+Node* Solution::connect2(Node* root) {
   if (!root) return nullptr;
 
   queue<Node*> q;

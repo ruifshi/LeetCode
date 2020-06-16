@@ -137,6 +137,7 @@
     <ClInclude Include="DesignSnakeGame.h" />
     <ClInclude Include="DesignTicTacToe.h" />
     <ClInclude Include="DiagonalTraverse.h" />
+    <ClInclude Include="DiagonalTraverseII.h" />
     <ClInclude Include="DiameterOfBinaryTree.h" />
     <ClInclude Include="DivideTwoIntegers.h" />
     <ClInclude Include="EditDistance.h" />
@@ -227,6 +228,7 @@
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionLabels.h" />
+    <ClInclude Include="PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeII.h" />
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
@@ -237,6 +239,7 @@
     <ClInclude Include="RangeSumQuery2DImmutable.h" />
     <ClInclude Include="ReconstructItinerary.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
+    <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
     <ClInclude Include="ReorderList.h" />
     <ClInclude Include="ReorganizeString.h" />
@@ -256,6 +259,7 @@
     <ClInclude Include="SparseMatrixMultiplication.h" />
     <ClInclude Include="SplitArrayWithEqualSum.h" />
     <ClInclude Include="SplitBST.h" />
+    <ClInclude Include="SquaresOfASortedArray.h" />
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="StrobogrammaticNumber.h" />
@@ -435,6 +439,7 @@
     <ClCompile Include="DesignSearchAutocompleteSystem.cpp" />
     <ClCompile Include="DesignTicTacToe.cpp" />
     <ClCompile Include="DiagonalTraverse.cpp" />
+    <ClCompile Include="DiagonalTraverseII.cpp" />
     <ClCompile Include="DiameterOfBinaryTree.cpp" />
     <ClCompile Include="DivideTwoIntegers.cpp" />
     <ClCompile Include="EditDistance.cpp" />
@@ -575,6 +580,7 @@
     <ClCompile Include="PeekingIterator.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="PlusOne.cpp" />
+    <ClCompile Include="PopulatingNextRightPointersInEachNode.cpp" />
     <ClCompile Include="PopulatingNextRightPointersInEachNodeII.cpp" />
     <ClCompile Include="Pow.cpp" />
     <ClCompile Include="PrimePalindrome.cpp" />
@@ -594,6 +600,7 @@
     <ClCompile Include="RegularExpressionMatching.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RemoveInvalidParentheses.cpp" />
+    <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
     <ClCompile Include="ReorderDataInLogFiles.cpp" />
     <ClCompile Include="ReorderList.cpp" />
     <ClCompile Include="ReorganizeString.cpp" />
@@ -629,6 +636,7 @@
     <ClCompile Include="SplitArrayWithEqualSum.cpp" />
     <ClCompile Include="SplitBST.cpp" />
     <ClCompile Include="Sqrtx.cpp" />
+    <ClCompile Include="SquaresOfASortedArray.cpp" />
     <ClCompile Include="StampingTheSequence.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="StrobogrammaticNumber.cpp" />

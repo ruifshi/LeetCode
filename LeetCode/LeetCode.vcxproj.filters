@@ -925,6 +925,18 @@
     <Filter Include="Source Files\Linked List\FlattenAMultilevelDoublyLinkedList">
       <UniqueIdentifier>{3aa2e83b-193b-4004-a56c-8c4df66ae043}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\DiagonalTraverseII">
+      <UniqueIdentifier>{1c26a41b-ed55-4818-978f-1d969dc1b9a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNode">
+      <UniqueIdentifier>{81779c54-db39-4b44-b91a-c8cdb40e297c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\RemoveNthNodeFromEndOfList">
+      <UniqueIdentifier>{4b76965f-5c5f-4a43-a225-c7edefe560a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SquaresOfASortedArray">
+      <UniqueIdentifier>{d9e099cf-9344-426a-b82f-76b603132717}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1811,6 +1823,18 @@
     </ClInclude>
     <ClInclude Include="FlattenAMultilevelDoublyLinkedList.h">
       <Filter>Source Files\Linked List\FlattenAMultilevelDoublyLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="DiagonalTraverseII.h">
+      <Filter>Source Files\Sorting and Searching\DiagonalTraverseII</Filter>
+    </ClInclude>
+    <ClInclude Include="PopulatingNextRightPointersInEachNode.h">
+      <Filter>Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNode</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveNthNodeFromEndOfList.h">
+      <Filter>Source Files\Linked List\RemoveNthNodeFromEndOfList</Filter>
+    </ClInclude>
+    <ClInclude Include="SquaresOfASortedArray.h">
+      <Filter>Source Files\Array and Strings\SquaresOfASortedArray</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2716,6 +2740,18 @@
     </ClCompile>
     <ClCompile Include="FlattenAMultilevelDoublyLinkedList.cpp">
       <Filter>Source Files\Linked List\FlattenAMultilevelDoublyLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="DiagonalTraverseII.cpp">
+      <Filter>Source Files\Sorting and Searching\DiagonalTraverseII</Filter>
+    </ClCompile>
+    <ClCompile Include="PopulatingNextRightPointersInEachNode.cpp">
+      <Filter>Source Files\Trees and Graphs\PopulatingNextRightPointersInEachNode</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveNthNodeFromEndOfList.cpp">
+      <Filter>Source Files\Linked List\RemoveNthNodeFromEndOfList</Filter>
+    </ClCompile>
+    <ClCompile Include="SquaresOfASortedArray.cpp">
+      <Filter>Source Files\Array and Strings\SquaresOfASortedArray</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

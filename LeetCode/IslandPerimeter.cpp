@@ -17,10 +17,10 @@ int islandPerimeter(vector<vector<int>>& grid) {
     {
       if (grid[i][j] == 1)
       {
-        res += (i == 0 || grid[i - 1][j] == 0 ? 1 : 0);
-        res += (i == r - 1 || grid[i + 1][j] == 0 ? 1 : 0);
-        res += (j == 0 || grid[i][j - 1] == 0 ? 1 : 0);
-        res += (j == c - 1 || grid[i][j + 1] == 0 ? 1 : 0);
+        res += (i == 0 || grid[i - 1][j] == 0 ? 1 : 0);     // top
+        res += (i == r - 1 || grid[i + 1][j] == 0 ? 1 : 0); // bottom
+        res += (j == 0 || grid[i][j - 1] == 0 ? 1 : 0);     // left
+        res += (j == c - 1 || grid[i][j + 1] == 0 ? 1 : 0); // right
       }
     }
   }

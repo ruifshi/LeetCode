@@ -20,5 +20,5 @@ public:
 
 class Solution {
 public:
-  Node* connect(Node* root);
+  Node* connect2(Node* root);
 };
