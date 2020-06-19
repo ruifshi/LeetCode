@@ -937,6 +937,15 @@
     <Filter Include="Source Files\Array and Strings\SquaresOfASortedArray">
       <UniqueIdentifier>{d9e099cf-9344-426a-b82f-76b603132717}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinimumAreaRectangleII">
+      <UniqueIdentifier>{9b46fc2b-81d4-4756-b7be-4a5e29026adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\WiggleSort">
+      <UniqueIdentifier>{8442a509-515c-4626-a909-814bdc17579e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SlidingPuzzle">
+      <UniqueIdentifier>{7aa8f9bf-9375-4974-9d74-991af3126663}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1835,6 +1844,15 @@
     </ClInclude>
     <ClInclude Include="SquaresOfASortedArray.h">
       <Filter>Source Files\Array and Strings\SquaresOfASortedArray</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumAreaRectangleII.h">
+      <Filter>Source Files\Sorting and Searching\MinimumAreaRectangleII</Filter>
+    </ClInclude>
+    <ClInclude Include="WiggleSort.h">
+      <Filter>Source Files\Sorting and Searching\WiggleSort</Filter>
+    </ClInclude>
+    <ClInclude Include="SlidingPuzzle.h">
+      <Filter>Source Files\Trees and Graphs\SlidingPuzzle</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2752,6 +2770,15 @@
     </ClCompile>
     <ClCompile Include="SquaresOfASortedArray.cpp">
       <Filter>Source Files\Array and Strings\SquaresOfASortedArray</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumAreaRectangleII.cpp">
+      <Filter>Source Files\Sorting and Searching\MinimumAreaRectangleII</Filter>
+    </ClCompile>
+    <ClCompile Include="WiggleSort.cpp">
+      <Filter>Source Files\Sorting and Searching\WiggleSort</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingPuzzle.cpp">
+      <Filter>Source Files\Trees and Graphs\SlidingPuzzle</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -209,6 +209,7 @@
     <ClInclude Include="Minesweeper.h" />
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumAreaRectangle.h" />
+    <ClInclude Include="MinimumAreaRectangleII.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MinimumKnightMoves.h" />
@@ -253,6 +254,7 @@
     <ClInclude Include="SimilarStringGroups.h" />
     <ClInclude Include="SimplifyPath.h" />
     <ClInclude Include="SingleElementInASortedArray.h" />
+    <ClInclude Include="SlidingPuzzle.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SlidingWindowMedian.h" />
     <ClInclude Include="SnakesAndLadders.h" />
@@ -373,6 +375,7 @@
     <ClInclude Include="VerticalOrderTraversalOfABinaryTree.h" />
     <ClInclude Include="VowelSpellchecker.h" />
     <ClInclude Include="WallsAndGates.h" />
+    <ClInclude Include="WiggleSort.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordBreakII.h" />
     <ClInclude Include="WordLadder.h" />
@@ -538,6 +541,7 @@
     <ClCompile Include="Minesweeper.cpp" />
     <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp" />
     <ClCompile Include="MinimumAreaRectangle.cpp" />
+    <ClCompile Include="MinimumAreaRectangleII.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumKnightMoves.cpp" />
@@ -624,6 +628,7 @@
     <ClCompile Include="SimplifyPath.cpp" />
     <ClCompile Include="SingleElementInASortedArray.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
+    <ClCompile Include="SlidingPuzzle.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SlidingWindowMedian.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
@@ -683,6 +688,7 @@
     <ClCompile Include="VowelSpellchecker.cpp" />
     <ClCompile Include="WalkingRobotSimulation.cpp" />
     <ClCompile Include="WallsAndGates.cpp" />
+    <ClCompile Include="WiggleSort.cpp" />
     <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordBreakII.cpp" />
     <ClCompile Include="WordLadder.cpp" />
