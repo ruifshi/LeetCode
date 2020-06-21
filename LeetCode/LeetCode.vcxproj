@@ -128,8 +128,10 @@
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="CousinsInBinaryTree.h" />
     <ClInclude Include="CriticalConnectionsInANetwork.h" />
+    <ClInclude Include="CustomSortString.h" />
     <ClInclude Include="CutOffTreesForGolfEvent.h" />
     <ClInclude Include="DailyTemperature.h" />
+    <ClInclude Include="DataStreamAsDisjointIntervals.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DesignCircularQueue.h" />
     <ClInclude Include="DesignInMemoryFileSystem.h" />
@@ -158,6 +160,7 @@
     <ClInclude Include="FindMedianFromDataStream.h" />
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindTheCelebrity.h" />
+    <ClInclude Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.h" />
     <ClInclude Include="FindTheTownJudge.h" />
     <ClInclude Include="FirstBadVersion.h" />
     <ClInclude Include="FirstMissingPositive.h" />
@@ -178,6 +181,7 @@
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
+    <ClInclude Include="InsertDeleteGetRandomDuplicates.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
     <ClInclude Include="IntersectionOfThreeSortedArrays.h" />
     <ClInclude Include="IntersectionOfTwoArraysII.h" />
@@ -247,6 +251,7 @@
     <ClInclude Include="RestoreIPAddresses.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
+    <ClInclude Include="ReverseNodesInKGroup.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShortestBridge.h" />
@@ -433,8 +438,10 @@
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="CousinsInBinaryTree.cpp" />
     <ClCompile Include="CriticalConnectionsInANetwork.cpp" />
+    <ClCompile Include="CustomSortString.cpp" />
     <ClCompile Include="CutOffTreesForGolfEvent.cpp" />
     <ClCompile Include="DailyTemperature.cpp" />
+    <ClCompile Include="DataStreamAsDisjointIntervals.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DesignCircularQueue.cpp" />
     <ClCompile Include="DesignSnakeGame.cpp" />
@@ -463,6 +470,7 @@
     <ClCompile Include="FindMedianFromDataStream.cpp" />
     <ClCompile Include="FindPeakElement.cpp" />
     <ClCompile Include="FindTheCelebrity.cpp" />
+    <ClCompile Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.cpp" />
     <ClCompile Include="FindTheTownJudge.cpp" />
     <ClCompile Include="FirstBadVersion.cpp" />
     <ClCompile Include="FirstMissingPositive.cpp" />
@@ -486,6 +494,7 @@
     <ClCompile Include="IncreasingTripletSubsequence.cpp" />
     <ClCompile Include="InorderSuccessorInBST.cpp" />
     <ClCompile Include="InsertDeleteGetRandom.cpp" />
+    <ClCompile Include="InsertDeleteGetRandomDuplicates.cpp" />
     <ClCompile Include="InsertInterval.cpp" />
     <ClCompile Include="InsertIntoACyclicSortedList.cpp" />
     <ClCompile Include="IntegerStringConversion.cpp" />
@@ -612,6 +621,7 @@
     <ClCompile Include="RestoreIPAddresses.cpp" />
     <ClCompile Include="ReverseLinkedList.cpp" />
     <ClCompile Include="ReverseLinkedListII.cpp" />
+    <ClCompile Include="ReverseNodesInKGroup.cpp" />
     <ClCompile Include="RobotRoomCleaner.cpp" />
     <ClCompile Include="RotateArray.cpp" />
     <ClCompile Include="RottingOranges.cpp" />
@@ -683,6 +693,7 @@
     <ClCompile Include="ValidPalindromeIII.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidParenthesisString.cpp" />
+    <ClCompile Include="ValidTreeFromListOfNodes.cpp" />
     <ClCompile Include="VerifyingAnAlienDictionary.cpp" />
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
     <ClCompile Include="VowelSpellchecker.cpp" />

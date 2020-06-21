@@ -30,6 +30,11 @@ Remove the last element of the vector.
 That is exactly the trick we are using here, only that we need to update our hashmap as well.
 */
 
+/*
+  vector<int> nums;
+  unordered_map<int, int> m;
+*/
+
 /** Initialize your data structure here. */
 RandomizedSet::RandomizedSet() {
 

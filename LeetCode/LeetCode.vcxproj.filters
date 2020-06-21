@@ -946,6 +946,24 @@
     <Filter Include="Source Files\Trees and Graphs\SlidingPuzzle">
       <UniqueIdentifier>{7aa8f9bf-9375-4974-9d74-991af3126663}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ValidTreeFromListOfNodes">
+      <UniqueIdentifier>{f006923a-9bef-4a5b-b022-6513f1c7b6c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\CustomSortString">
+      <UniqueIdentifier>{3a8020b6-2526-41c7-9e78-b5834e1a6b59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindTheKthSmallestSumOfAMatrixWithSortedRows">
+      <UniqueIdentifier>{c189343f-c85e-4d5e-a129-3c6c67656fa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\InsertDeleteGetRandomDuplicates">
+      <UniqueIdentifier>{2e762600-f0a7-4d0f-8cfd-6b6c9870fac7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\ReverseNodesInKGroup">
+      <UniqueIdentifier>{788a9c78-fd9c-4f92-96b1-ad275b03268d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\DataStreamAsDisjointIntervals">
+      <UniqueIdentifier>{f01e03c7-4a92-4c4d-8556-d2404efe0ca3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1853,6 +1871,21 @@
     </ClInclude>
     <ClInclude Include="SlidingPuzzle.h">
       <Filter>Source Files\Trees and Graphs\SlidingPuzzle</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomSortString.h">
+      <Filter>Source Files\Array and Strings\CustomSortString</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.h">
+      <Filter>Source Files\Sorting and Searching\FindTheKthSmallestSumOfAMatrixWithSortedRows</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertDeleteGetRandomDuplicates.h">
+      <Filter>Source Files\Design\InsertDeleteGetRandomDuplicates</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseNodesInKGroup.h">
+      <Filter>Source Files\Linked List\ReverseNodesInKGroup</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStreamAsDisjointIntervals.h">
+      <Filter>Source Files\Design\DataStreamAsDisjointIntervals</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2779,6 +2812,24 @@
     </ClCompile>
     <ClCompile Include="SlidingPuzzle.cpp">
       <Filter>Source Files\Trees and Graphs\SlidingPuzzle</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidTreeFromListOfNodes.cpp">
+      <Filter>Source Files\Trees and Graphs\ValidTreeFromListOfNodes</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomSortString.cpp">
+      <Filter>Source Files\Array and Strings\CustomSortString</Filter>
+    </ClCompile>
+    <ClCompile Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.cpp">
+      <Filter>Source Files\Sorting and Searching\FindTheKthSmallestSumOfAMatrixWithSortedRows</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertDeleteGetRandomDuplicates.cpp">
+      <Filter>Source Files\Design\InsertDeleteGetRandomDuplicates</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseNodesInKGroup.cpp">
+      <Filter>Source Files\Linked List\ReverseNodesInKGroup</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStreamAsDisjointIntervals.cpp">
+      <Filter>Source Files\Design\DataStreamAsDisjointIntervals</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
