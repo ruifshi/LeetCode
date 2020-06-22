@@ -151,6 +151,7 @@
     <ClInclude Include="ExclusiveTimeOfFunctions.h" />
     <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
+    <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindKClosestElements.h" />
@@ -191,6 +192,7 @@
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="KthSmallestElementInABST.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestBSTSubtree.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
@@ -225,6 +227,8 @@
     <ClInclude Include="MostCommonWord.h" />
     <ClInclude Include="MultiplyStrings.h" />
     <ClInclude Include="NestedListWeightSum.h" />
+    <ClInclude Include="NestedListWeightSumII.h" />
+    <ClInclude Include="NextGreaterElementII.h" />
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
     <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NumberOfConnectedComponentsInAnUndirectedGraph.h" />
@@ -252,6 +256,7 @@
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
     <ClInclude Include="ReverseNodesInKGroup.h" />
+    <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShortestBridge.h" />
@@ -259,6 +264,7 @@
     <ClInclude Include="SimilarStringGroups.h" />
     <ClInclude Include="SimplifyPath.h" />
     <ClInclude Include="SingleElementInASortedArray.h" />
+    <ClInclude Include="SingleNumberII.h" />
     <ClInclude Include="SlidingPuzzle.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SlidingWindowMedian.h" />
@@ -287,6 +293,7 @@
     <ClInclude Include="ValidPalindromeII.h" />
     <ClInclude Include="ValidPalindromeIII.h" />
     <ClInclude Include="ValidParenthesisString.h" />
+    <ClInclude Include="ValidWordAbbreviation.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="HouseRobberII.h" />
@@ -461,6 +468,7 @@
     <ClCompile Include="ExclusiveTimeOfFunctions.cpp" />
     <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FindAllAnagramsInAString.cpp" />
+    <ClCompile Include="FindAllDuplicatesInAnArray.cpp" />
     <ClCompile Include="FindDuplicateFileInSystem.cpp" />
     <ClCompile Include="FindFirstAndLastPositionOfElementInSortedArray.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
@@ -512,6 +520,7 @@
     <ClCompile Include="kEmptySlot.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
+    <ClCompile Include="KthSmallestElementInABST.cpp" />
     <ClCompile Include="KthSmallestElementInASortedMatrix.cpp" />
     <ClCompile Include="LargestBSTSubtree.cpp" />
     <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp" />
@@ -568,8 +577,10 @@
     <ClCompile Include="MovingAverageFromDataStream.cpp" />
     <ClCompile Include="MultiplyStrings.cpp" />
     <ClCompile Include="NestedListWeightSum.cpp" />
+    <ClCompile Include="NestedListWeightSumII.cpp" />
     <ClCompile Include="NextClosestTime.cpp" />
     <ClCompile Include="NextGreaterElementI.cpp" />
+    <ClCompile Include="NextGreaterElementII.cpp" />
     <ClCompile Include="NextGreaterNodeInLinkedList.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NondecreasingArray.cpp" />
@@ -622,6 +633,7 @@
     <ClCompile Include="ReverseLinkedList.cpp" />
     <ClCompile Include="ReverseLinkedListII.cpp" />
     <ClCompile Include="ReverseNodesInKGroup.cpp" />
+    <ClCompile Include="ReverseVowelsOfAString.cpp" />
     <ClCompile Include="RobotRoomCleaner.cpp" />
     <ClCompile Include="RotateArray.cpp" />
     <ClCompile Include="RottingOranges.cpp" />
@@ -638,6 +650,7 @@
     <ClCompile Include="SimplifyPath.cpp" />
     <ClCompile Include="SingleElementInASortedArray.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
+    <ClCompile Include="SingleNumberII.cpp" />
     <ClCompile Include="SlidingPuzzle.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SlidingWindowMedian.cpp" />
@@ -694,6 +707,7 @@
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidParenthesisString.cpp" />
     <ClCompile Include="ValidTreeFromListOfNodes.cpp" />
+    <ClCompile Include="ValidWordAbbreviation.cpp" />
     <ClCompile Include="VerifyingAnAlienDictionary.cpp" />
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />
     <ClCompile Include="VowelSpellchecker.cpp" />

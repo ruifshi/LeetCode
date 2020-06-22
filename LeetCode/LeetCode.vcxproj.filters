@@ -964,6 +964,27 @@
     <Filter Include="Source Files\Design\DataStreamAsDisjointIntervals">
       <UniqueIdentifier>{f01e03c7-4a92-4c4d-8556-d2404efe0ca3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidWordAbbreviation">
+      <UniqueIdentifier>{3d15fbeb-ad40-4369-8c4d-5062a9cae5b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\NestedListWeightSumII">
+      <UniqueIdentifier>{938e2aa5-4ec6-4138-b402-9fe06f614204}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReverseVowelsOfAString">
+      <UniqueIdentifier>{fac44b0a-861b-4246-a1b2-ba3c79b93937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\KthSmallestElementInABST">
+      <UniqueIdentifier>{b0dc6a6c-e435-485b-bc0d-bd52545089f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindAllDuplicatesInAnArray">
+      <UniqueIdentifier>{5a75faa5-1c28-4f0e-98d7-0634c34847b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SingleNumberII">
+      <UniqueIdentifier>{d38aa359-e83b-4d85-af49-3311820af9ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\NextGreaterElementII">
+      <UniqueIdentifier>{2f163402-ba30-4dc3-8e0e-e7eda9168dfa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1886,6 +1907,27 @@
     </ClInclude>
     <ClInclude Include="DataStreamAsDisjointIntervals.h">
       <Filter>Source Files\Design\DataStreamAsDisjointIntervals</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidWordAbbreviation.h">
+      <Filter>Source Files\Array and Strings\ValidWordAbbreviation</Filter>
+    </ClInclude>
+    <ClInclude Include="NestedListWeightSumII.h">
+      <Filter>Source Files\Trees and Graphs\NestedListWeightSumII</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseVowelsOfAString.h">
+      <Filter>Source Files\Array and Strings\ReverseVowelsOfAString</Filter>
+    </ClInclude>
+    <ClInclude Include="KthSmallestElementInABST.h">
+      <Filter>Source Files\Trees and Graphs\KthSmallestElementInABST</Filter>
+    </ClInclude>
+    <ClInclude Include="FindAllDuplicatesInAnArray.h">
+      <Filter>Source Files\Sorting and Searching\FindAllDuplicatesInAnArray</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleNumberII.h">
+      <Filter>Source Files\Array and Strings\SingleNumberII</Filter>
+    </ClInclude>
+    <ClInclude Include="NextGreaterElementII.h">
+      <Filter>Source Files\Sorting and Searching\NextGreaterElementII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2830,6 +2872,27 @@
     </ClCompile>
     <ClCompile Include="DataStreamAsDisjointIntervals.cpp">
       <Filter>Source Files\Design\DataStreamAsDisjointIntervals</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidWordAbbreviation.cpp">
+      <Filter>Source Files\Array and Strings\ValidWordAbbreviation</Filter>
+    </ClCompile>
+    <ClCompile Include="NestedListWeightSumII.cpp">
+      <Filter>Source Files\Trees and Graphs\NestedListWeightSumII</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseVowelsOfAString.cpp">
+      <Filter>Source Files\Array and Strings\ReverseVowelsOfAString</Filter>
+    </ClCompile>
+    <ClCompile Include="KthSmallestElementInABST.cpp">
+      <Filter>Source Files\Trees and Graphs\KthSmallestElementInABST</Filter>
+    </ClCompile>
+    <ClCompile Include="FindAllDuplicatesInAnArray.cpp">
+      <Filter>Source Files\Sorting and Searching\FindAllDuplicatesInAnArray</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleNumberII.cpp">
+      <Filter>Source Files\Array and Strings\SingleNumberII</Filter>
+    </ClCompile>
+    <ClCompile Include="NextGreaterElementII.cpp">
+      <Filter>Source Files\Sorting and Searching\NextGreaterElementII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
