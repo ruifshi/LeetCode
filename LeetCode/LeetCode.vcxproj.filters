@@ -985,6 +985,21 @@
     <Filter Include="Source Files\Sorting and Searching\NextGreaterElementII">
       <UniqueIdentifier>{2f163402-ba30-4dc3-8e0e-e7eda9168dfa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\ExcelSheetColumnTitle">
+      <UniqueIdentifier>{69e89dae-6eaf-431c-a3e5-c744203282cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LongestContinuousIncreasingSubsequence">
+      <UniqueIdentifier>{9807dd79-c03f-4aea-b803-d41d0549eba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\3SumClosest">
+      <UniqueIdentifier>{92e0fc3f-8b13-4169-8f96-0f2bc2e93379}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\NumberOfDaysBetweenTwoDates">
+      <UniqueIdentifier>{a9699672-3436-4f0d-9b0e-29f2e2ada175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\CandyCrush">
+      <UniqueIdentifier>{6ac1a133-372a-4d91-847a-4f993a7d7dfd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1928,6 +1943,21 @@
     </ClInclude>
     <ClInclude Include="NextGreaterElementII.h">
       <Filter>Source Files\Sorting and Searching\NextGreaterElementII</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelSheetColumnTitle.h">
+      <Filter>Source Files\Array and Strings\ExcelSheetColumnTitle</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestContinuousIncreasingSubsequence.h">
+      <Filter>Source Files\Array and Strings\LongestContinuousIncreasingSubsequence</Filter>
+    </ClInclude>
+    <ClInclude Include="3SumClosest.h">
+      <Filter>Source Files\Array and Strings\3SumClosest</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfDaysBetweenTwoDates.h">
+      <Filter>Source Files\Array and Strings\NumberOfDaysBetweenTwoDates</Filter>
+    </ClInclude>
+    <ClInclude Include="CandyCrush.h">
+      <Filter>Source Files\Sorting and Searching\CandyCrush</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2893,6 +2923,21 @@
     </ClCompile>
     <ClCompile Include="NextGreaterElementII.cpp">
       <Filter>Source Files\Sorting and Searching\NextGreaterElementII</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelSheetColumnTitle.cpp">
+      <Filter>Source Files\Array and Strings\ExcelSheetColumnTitle</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestContinuousIncreasingSubsequence.cpp">
+      <Filter>Source Files\Array and Strings\LongestContinuousIncreasingSubsequence</Filter>
+    </ClCompile>
+    <ClCompile Include="3SumClosest.cpp">
+      <Filter>Source Files\Array and Strings\3SumClosest</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfDaysBetweenTwoDates.cpp">
+      <Filter>Source Files\Array and Strings\NumberOfDaysBetweenTwoDates</Filter>
+    </ClCompile>
+    <ClCompile Include="CandyCrush.cpp">
+      <Filter>Source Files\Sorting and Searching\CandyCrush</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

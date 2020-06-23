@@ -83,6 +83,7 @@
   <ItemGroup>
     <ClInclude Include="132Pattern.h" />
     <ClInclude Include="3Sum.h" />
+    <ClInclude Include="3SumClosest.h" />
     <ClInclude Include="AccountsMerge.h" />
     <ClInclude Include="AddAndSearchWord.h" />
     <ClInclude Include="AddBinary.h" />
@@ -109,6 +110,7 @@
     <ClInclude Include="BrokenCalculator.h" />
     <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BurstBalloons.h" />
+    <ClInclude Include="CandyCrush.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CloneGraph.h" />
@@ -148,6 +150,7 @@
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
     <ClInclude Include="ExamRoom.h" />
+    <ClInclude Include="ExcelSheetColumnTitle.h" />
     <ClInclude Include="ExclusiveTimeOfFunctions.h" />
     <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
@@ -199,6 +202,7 @@
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="LongestContinuousIncreasingSubsequence.h" />
     <ClInclude Include="LongestIncreasingPathInAMatrix.h" />
     <ClInclude Include="LongestRepeatingSubstring.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
@@ -232,6 +236,7 @@
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
     <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NumberOfConnectedComponentsInAnUndirectedGraph.h" />
+    <ClInclude Include="NumberOfDaysBetweenTwoDates.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
@@ -400,6 +405,7 @@
     <ClCompile Include="01Knapsack.cpp" />
     <ClCompile Include="132Pattern.cpp" />
     <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="3SumClosest.cpp" />
     <ClCompile Include="AccountsMerge.cpp" />
     <ClCompile Include="AddAndSearchWord.cpp" />
     <ClCompile Include="AddBinary.cpp" />
@@ -426,6 +432,7 @@
     <ClCompile Include="BrokenCalculator.cpp" />
     <ClCompile Include="BuddyStrings.cpp" />
     <ClCompile Include="BurstBalloons.cpp" />
+    <ClCompile Include="CandyCrush.cpp" />
     <ClCompile Include="CheckCompletenessOfABinaryTree.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CloneGraph.cpp" />
@@ -465,6 +472,7 @@
     <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="EvaluateReversePolishNotation.cpp" />
     <ClCompile Include="ExamRoom.cpp" />
+    <ClCompile Include="ExcelSheetColumnTitle.cpp" />
     <ClCompile Include="ExclusiveTimeOfFunctions.cpp" />
     <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FindAllAnagramsInAString.cpp" />
@@ -530,6 +538,7 @@
     <ClCompile Include="LongestAbsoluteFilePath.cpp" />
     <ClCompile Include="LongestCommonSubsequence.cpp" />
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
+    <ClCompile Include="LongestContinuousIncreasingSubsequence.cpp" />
     <ClCompile Include="LongestIncreasingPathInAMatrix.cpp" />
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestRepeatingSubstring.cpp" />
@@ -586,6 +595,7 @@
     <ClCompile Include="NondecreasingArray.cpp" />
     <ClCompile Include="NthDigit.cpp" />
     <ClCompile Include="NumberOfConnectedComponentsInAnUndirectedGraph.cpp" />
+    <ClCompile Include="NumberOfDaysBetweenTwoDates.cpp" />
     <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp" />
     <ClCompile Include="NumberOfSquarefulArrays.cpp" />
     <ClCompile Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.cpp" />
