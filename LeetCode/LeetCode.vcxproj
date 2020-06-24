@@ -91,6 +91,7 @@
     <ClInclude Include="AddStrings.h" />
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="AlienDictionary.h" />
+    <ClInclude Include="AllElementsInTwoBinarySearchTrees.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
@@ -183,6 +184,7 @@
     <ClInclude Include="GoatLatin.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
+    <ClInclude Include="ImplementMagicDictionary.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="InsertDeleteGetRandomDuplicates.h" />
@@ -281,6 +283,7 @@
     <ClInclude Include="SquaresOfASortedArray.h" />
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="StreamOfCharacters.h" />
+    <ClInclude Include="StringCompression.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
@@ -415,6 +418,7 @@
     <ClCompile Include="AddStrings.cpp" />
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="AlienDictionary.cpp" />
+    <ClCompile Include="AllElementsInTwoBinarySearchTrees.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
     <ClCompile Include="AllOoneDataStructure.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
@@ -509,6 +513,7 @@
     <ClCompile Include="GroupShiftedStrings.cpp" />
     <ClCompile Include="HouseRobberII.cpp" />
     <ClCompile Include="ImageSmoother.cpp" />
+    <ClCompile Include="ImplementMagicDictionary.cpp" />
     <ClCompile Include="IncreasingTripletSubsequence.cpp" />
     <ClCompile Include="InorderSuccessorInBST.cpp" />
     <ClCompile Include="InsertDeleteGetRandom.cpp" />
@@ -680,6 +685,7 @@
     <ClCompile Include="SquaresOfASortedArray.cpp" />
     <ClCompile Include="StampingTheSequence.cpp" />
     <ClCompile Include="StreamOfCharacters.cpp" />
+    <ClCompile Include="StringCompression.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="StrobogrammaticNumber.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
