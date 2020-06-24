@@ -1,3 +1,5 @@
-﻿  LongestContinuousIncreasingSubsequence.cpp
-c:\users\ruifs\source\repos\leetcode\leetcode\longestcontinuousincreasingsubsequence.cpp(9): warning C4018: '<': signed/unsigned mismatch
+﻿  StreamOfCharacters.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\streamofcharacters.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\streamofcharacters.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\streamofcharacters.cpp(30): warning C4018: '<': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\ruifs\source\repos\LeetCode\Debug\LeetCode.exe

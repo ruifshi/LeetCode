@@ -264,6 +264,7 @@
     <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="SetMatrixZeroes.h" />
     <ClInclude Include="ShortestBridge.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="SimilarStringGroups.h" />
@@ -279,6 +280,7 @@
     <ClInclude Include="SplitBST.h" />
     <ClInclude Include="SquaresOfASortedArray.h" />
     <ClInclude Include="StampingTheSequence.h" />
+    <ClInclude Include="StreamOfCharacters.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
@@ -652,6 +654,7 @@
     <ClCompile Include="SearchInRotatedSortedArray.cpp" />
     <ClCompile Include="SentenceScreenFitting.cpp" />
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp" />
+    <ClCompile Include="SetMatrixZeroes.cpp" />
     <ClCompile Include="ShortestBridge.cpp" />
     <ClCompile Include="ShortestPathInBinaryMatrix.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
@@ -676,6 +679,7 @@
     <ClCompile Include="Sqrtx.cpp" />
     <ClCompile Include="SquaresOfASortedArray.cpp" />
     <ClCompile Include="StampingTheSequence.cpp" />
+    <ClCompile Include="StreamOfCharacters.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="StrobogrammaticNumber.cpp" />
     <ClCompile Include="StrobogrammaticNumberII.cpp" />

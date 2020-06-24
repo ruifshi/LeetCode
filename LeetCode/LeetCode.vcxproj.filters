@@ -1000,6 +1000,12 @@
     <Filter Include="Source Files\Sorting and Searching\CandyCrush">
       <UniqueIdentifier>{6ac1a133-372a-4d91-847a-4f993a7d7dfd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\SetMatrixZeroes">
+      <UniqueIdentifier>{3500b933-512e-47b1-81a2-9506a8a8133f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\StreamOfCharacters">
+      <UniqueIdentifier>{5b58516a-f2cf-4dc5-8882-79ae50f1ef96}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1958,6 +1964,12 @@
     </ClInclude>
     <ClInclude Include="CandyCrush.h">
       <Filter>Source Files\Sorting and Searching\CandyCrush</Filter>
+    </ClInclude>
+    <ClInclude Include="SetMatrixZeroes.h">
+      <Filter>Source Files\Array and Strings\SetMatrixZeroes</Filter>
+    </ClInclude>
+    <ClInclude Include="StreamOfCharacters.h">
+      <Filter>Source Files\Design\StreamOfCharacters</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2938,6 +2950,12 @@
     </ClCompile>
     <ClCompile Include="CandyCrush.cpp">
       <Filter>Source Files\Sorting and Searching\CandyCrush</Filter>
+    </ClCompile>
+    <ClCompile Include="SetMatrixZeroes.cpp">
+      <Filter>Source Files\Array and Strings\SetMatrixZeroes</Filter>
+    </ClCompile>
+    <ClCompile Include="StreamOfCharacters.cpp">
+      <Filter>Source Files\Design\StreamOfCharacters</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
