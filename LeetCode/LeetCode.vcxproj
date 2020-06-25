@@ -111,6 +111,7 @@
     <ClInclude Include="BrokenCalculator.h" />
     <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BurstBalloons.h" />
+    <ClInclude Include="CampusBikes.h" />
     <ClInclude Include="CandyCrush.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="ClimbingStairs.h" />
@@ -254,8 +255,10 @@
     <ClInclude Include="RangeSumOfBST.h" />
     <ClInclude Include="RangeSumQuery2DImmutable.h" />
     <ClInclude Include="ReconstructItinerary.h" />
+    <ClInclude Include="RemoveAllAdjacentDuplicatesInStringII.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
+    <ClInclude Include="RemoveSubFoldersFromTheFilesystem.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
     <ClInclude Include="ReorderList.h" />
     <ClInclude Include="ReorganizeString.h" />
@@ -438,6 +441,7 @@
     <ClCompile Include="BrokenCalculator.cpp" />
     <ClCompile Include="BuddyStrings.cpp" />
     <ClCompile Include="BurstBalloons.cpp" />
+    <ClCompile Include="CampusBikes.cpp" />
     <ClCompile Include="CandyCrush.cpp" />
     <ClCompile Include="CheckCompletenessOfABinaryTree.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
@@ -639,9 +643,11 @@
     <ClCompile Include="ReconstructItinerary.cpp" />
     <ClCompile Include="RedundantConnectionII.cpp" />
     <ClCompile Include="RegularExpressionMatching.cpp" />
+    <ClCompile Include="RemoveAllAdjacentDuplicatesInStringII.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RemoveInvalidParentheses.cpp" />
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
+    <ClCompile Include="RemoveSubFoldersFromTheFilesystem.cpp" />
     <ClCompile Include="ReorderDataInLogFiles.cpp" />
     <ClCompile Include="ReorderList.cpp" />
     <ClCompile Include="ReorganizeString.cpp" />

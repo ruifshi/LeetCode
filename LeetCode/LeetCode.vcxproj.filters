@@ -1015,6 +1015,15 @@
     <Filter Include="Source Files\Array and Strings\StringCompression">
       <UniqueIdentifier>{1b86d7bc-a2b9-4cf3-8f6a-3e3ba4466e02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\RemoveAllAdjacentDuplicatesInStringII">
+      <UniqueIdentifier>{61da9765-140f-4e7b-9d7a-b4f763881308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RemoveSubFoldersFromTheFilesystem">
+      <UniqueIdentifier>{cd0b7966-0dc7-4e50-a9da-2dc198b97485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\CampusBikes">
+      <UniqueIdentifier>{17f58d8f-5fb3-4c75-84de-888ce107eeb6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1988,6 +1997,15 @@
     </ClInclude>
     <ClInclude Include="StringCompression.h">
       <Filter>Source Files\Array and Strings\StringCompression</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveAllAdjacentDuplicatesInStringII.h">
+      <Filter>Source Files\Array and Strings\RemoveAllAdjacentDuplicatesInStringII</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveSubFoldersFromTheFilesystem.h">
+      <Filter>Source Files\Sorting and Searching\RemoveSubFoldersFromTheFilesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="CampusBikes.h">
+      <Filter>Source Files\Sorting and Searching\CampusBikes</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -2983,6 +3001,15 @@
     </ClCompile>
     <ClCompile Include="StringCompression.cpp">
       <Filter>Source Files\Array and Strings\StringCompression</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveAllAdjacentDuplicatesInStringII.cpp">
+      <Filter>Source Files\Array and Strings\RemoveAllAdjacentDuplicatesInStringII</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveSubFoldersFromTheFilesystem.cpp">
+      <Filter>Source Files\Sorting and Searching\RemoveSubFoldersFromTheFilesystem</Filter>
+    </ClCompile>
+    <ClCompile Include="CampusBikes.cpp">
+      <Filter>Source Files\Sorting and Searching\CampusBikes</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
