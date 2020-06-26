@@ -186,6 +186,7 @@
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="ImplementMagicDictionary.h" />
+    <ClInclude Include="IncreasingSubsequences.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="InsertDeleteGetRandomDuplicates.h" />
@@ -208,6 +209,7 @@
     <ClInclude Include="LongestContinuousIncreasingSubsequence.h" />
     <ClInclude Include="LongestIncreasingPathInAMatrix.h" />
     <ClInclude Include="LongestRepeatingSubstring.h" />
+    <ClInclude Include="LongestSubstringWithAtLeastKRepeatingCharacters.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h" />
@@ -218,6 +220,7 @@
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
     <ClInclude Include="MaximumSwap.h" />
+    <ClInclude Include="MaximumWidthOfBinaryTree.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="Minesweeper.h" />
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
@@ -269,6 +272,7 @@
     <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="SerializeAndDeserializeNaryTree.h" />
     <ClInclude Include="SetMatrixZeroes.h" />
     <ClInclude Include="ShortestBridge.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
@@ -292,6 +296,7 @@
     <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
+    <ClInclude Include="SumRoottoLeafNumbers.h" />
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TheMaze.h" />
@@ -518,6 +523,7 @@
     <ClCompile Include="HouseRobberII.cpp" />
     <ClCompile Include="ImageSmoother.cpp" />
     <ClCompile Include="ImplementMagicDictionary.cpp" />
+    <ClCompile Include="IncreasingSubsequences.cpp" />
     <ClCompile Include="IncreasingTripletSubsequence.cpp" />
     <ClCompile Include="InorderSuccessorInBST.cpp" />
     <ClCompile Include="InsertDeleteGetRandom.cpp" />
@@ -554,6 +560,7 @@
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestRepeatingSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
+    <ClCompile Include="LongestSubstringWithAtLeastKRepeatingCharacters.cpp" />
     <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="LongestUnivaluePath.cpp" />
     <ClCompile Include="LowestCommonAncestorOfABinaryTree.cpp" />
@@ -571,6 +578,7 @@
     <ClCompile Include="MaximumSumOf3NonOverlappingSubarrays.cpp" />
     <ClCompile Include="MaximumSwap.cpp" />
     <ClCompile Include="MaximumVacationDays.cpp" />
+    <ClCompile Include="MaximumWidthOfBinaryTree.cpp" />
     <ClCompile Include="MedianOfTwoSortedArrays.cpp" />
     <ClCompile Include="MeetingRoomsII.cpp" />
     <ClCompile Include="MergeKSortedLists.cpp" />
@@ -665,6 +673,7 @@
     <ClCompile Include="SearchInRotatedSortedArray.cpp" />
     <ClCompile Include="SentenceScreenFitting.cpp" />
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp" />
+    <ClCompile Include="SerializeAndDeserializeNaryTree.cpp" />
     <ClCompile Include="SetMatrixZeroes.cpp" />
     <ClCompile Include="ShortestBridge.cpp" />
     <ClCompile Include="ShortestPathInBinaryMatrix.cpp" />
@@ -706,6 +715,7 @@
     </ClCompile>
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
+    <ClCompile Include="SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="TargetSum.cpp" />
     <ClCompile Include="TaskScheduler.cpp" />
     <ClCompile Include="TheMaze.cpp" />

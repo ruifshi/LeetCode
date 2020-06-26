@@ -1024,6 +1024,21 @@
     <Filter Include="Source Files\Sorting and Searching\CampusBikes">
       <UniqueIdentifier>{17f58d8f-5fb3-4c75-84de-888ce107eeb6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumWidthOfBinaryTree">
+      <UniqueIdentifier>{ab1ab608-177d-4b1c-9a62-ddb3477530c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SerializeAndDeserializeNaryTree">
+      <UniqueIdentifier>{a4521379-286f-46ad-a13a-8bd7cbd4b9eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SumRoottoLeafNumbers">
+      <UniqueIdentifier>{fa666534-5c6c-4cf7-93d5-0922202b5ff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\IncreasingSubsequences">
+      <UniqueIdentifier>{bf475fd0-f7a7-4a21-afca-a9c60edec496}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LongestSubstringWithAtLeastKRepeatingCharacters">
+      <UniqueIdentifier>{849a1d47-eaf0-44c8-95cf-3e6efcc9da9a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2006,6 +2021,21 @@
     </ClInclude>
     <ClInclude Include="CampusBikes.h">
       <Filter>Source Files\Sorting and Searching\CampusBikes</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumWidthOfBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\MaximumWidthOfBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SerializeAndDeserializeNaryTree.h">
+      <Filter>Source Files\Trees and Graphs\SerializeAndDeserializeNaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SumRoottoLeafNumbers.h">
+      <Filter>Source Files\Trees and Graphs\SumRoottoLeafNumbers</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreasingSubsequences.h">
+      <Filter>Source Files\Recursion\IncreasingSubsequences</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstringWithAtLeastKRepeatingCharacters.h">
+      <Filter>Source Files\Sorting and Searching\LongestSubstringWithAtLeastKRepeatingCharacters</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3010,6 +3040,21 @@
     </ClCompile>
     <ClCompile Include="CampusBikes.cpp">
       <Filter>Source Files\Sorting and Searching\CampusBikes</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumWidthOfBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumWidthOfBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="SerializeAndDeserializeNaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\SerializeAndDeserializeNaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="SumRoottoLeafNumbers.cpp">
+      <Filter>Source Files\Trees and Graphs\SumRoottoLeafNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreasingSubsequences.cpp">
+      <Filter>Source Files\Recursion\IncreasingSubsequences</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstringWithAtLeastKRepeatingCharacters.cpp">
+      <Filter>Source Files\Sorting and Searching\LongestSubstringWithAtLeastKRepeatingCharacters</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
