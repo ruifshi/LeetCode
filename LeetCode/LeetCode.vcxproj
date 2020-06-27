@@ -168,6 +168,7 @@
     <ClInclude Include="FindTheCelebrity.h" />
     <ClInclude Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.h" />
     <ClInclude Include="FindTheTownJudge.h" />
+    <ClInclude Include="FindWinnerOnATicTacToeGame.h" />
     <ClInclude Include="FirstBadVersion.h" />
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
@@ -197,8 +198,10 @@
     <ClInclude Include="InvertBinaryTree.h" />
     <ClInclude Include="IsGraphBipartite.h" />
     <ClInclude Include="IslandPerimeter.h" />
+    <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="KokoEatingBananas.h" />
     <ClInclude Include="KthSmallestElementInABST.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestBSTSubtree.h" />
@@ -248,6 +251,7 @@
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionLabels.h" />
+    <ClInclude Include="PartitionToKEqualSumSubsets.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeII.h" />
     <ClInclude Include="PrimePalindrome.h" />
@@ -311,6 +315,7 @@
     <ClInclude Include="ValidPalindromeII.h" />
     <ClInclude Include="ValidPalindromeIII.h" />
     <ClInclude Include="ValidParenthesisString.h" />
+    <ClInclude Include="ValidTriangleNumber.h" />
     <ClInclude Include="ValidWordAbbreviation.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
@@ -503,6 +508,7 @@
     <ClCompile Include="FindTheCelebrity.cpp" />
     <ClCompile Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.cpp" />
     <ClCompile Include="FindTheTownJudge.cpp" />
+    <ClCompile Include="FindWinnerOnATicTacToeGame.cpp" />
     <ClCompile Include="FirstBadVersion.cpp" />
     <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
@@ -540,9 +546,11 @@
     <ClCompile Include="InvertBinaryTree.cpp" />
     <ClCompile Include="IsGraphBipartite.cpp" />
     <ClCompile Include="IslandPerimeter.cpp" />
+    <ClCompile Include="JumpGame.cpp" />
     <ClCompile Include="JumpGameII.cpp" />
     <ClCompile Include="KClosestPointsToOrigin.cpp" />
     <ClCompile Include="kEmptySlot.cpp" />
+    <ClCompile Include="KokoEatingBananas.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
     <ClCompile Include="KthSmallestElementInABST.cpp" />
@@ -629,6 +637,7 @@
     <ClCompile Include="PalindromePairs.cpp" />
     <ClCompile Include="PalindromicSubstrings.cpp" />
     <ClCompile Include="PartitionLabels.cpp" />
+    <ClCompile Include="PartitionToKEqualSumSubsets.cpp" />
     <ClCompile Include="PathSumII.cpp" />
     <ClCompile Include="PeekingIterator.cpp" />
     <ClCompile Include="Permutations.cpp" />
@@ -743,6 +752,7 @@
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidParenthesisString.cpp" />
     <ClCompile Include="ValidTreeFromListOfNodes.cpp" />
+    <ClCompile Include="ValidTriangleNumber.cpp" />
     <ClCompile Include="ValidWordAbbreviation.cpp" />
     <ClCompile Include="VerifyingAnAlienDictionary.cpp" />
     <ClCompile Include="VerticalOrderTraversalOfABinaryTree.cpp" />

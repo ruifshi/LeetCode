@@ -1039,6 +1039,21 @@
     <Filter Include="Source Files\Sorting and Searching\LongestSubstringWithAtLeastKRepeatingCharacters">
       <UniqueIdentifier>{849a1d47-eaf0-44c8-95cf-3e6efcc9da9a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\FindWinnerOnATicTacToeGame">
+      <UniqueIdentifier>{33125b08-7ce1-4ffa-b099-f6a41cefcb6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\PartitionToKEqualSumSubsets">
+      <UniqueIdentifier>{d5953fe9-6c27-47b2-827c-a7f71c16c43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\JumpGame">
+      <UniqueIdentifier>{46e3fc06-60dc-4a1f-acc9-5af977c08309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\KokoEatingBananas">
+      <UniqueIdentifier>{ff0dbccd-da24-4fd2-97d6-35d16eef848f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidTriangleNumber">
+      <UniqueIdentifier>{0b698cc0-8830-4455-b30a-bbb3a56154ef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2036,6 +2051,21 @@
     </ClInclude>
     <ClInclude Include="LongestSubstringWithAtLeastKRepeatingCharacters.h">
       <Filter>Source Files\Sorting and Searching\LongestSubstringWithAtLeastKRepeatingCharacters</Filter>
+    </ClInclude>
+    <ClInclude Include="FindWinnerOnATicTacToeGame.h">
+      <Filter>Source Files\Array and Strings\FindWinnerOnATicTacToeGame</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionToKEqualSumSubsets.h">
+      <Filter>Source Files\Recursion\PartitionToKEqualSumSubsets</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpGame.h">
+      <Filter>Source Files\Array and Strings\JumpGame</Filter>
+    </ClInclude>
+    <ClInclude Include="KokoEatingBananas.h">
+      <Filter>Source Files\Sorting and Searching\KokoEatingBananas</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidTriangleNumber.h">
+      <Filter>Source Files\Array and Strings\ValidTriangleNumber</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3055,6 +3085,21 @@
     </ClCompile>
     <ClCompile Include="LongestSubstringWithAtLeastKRepeatingCharacters.cpp">
       <Filter>Source Files\Sorting and Searching\LongestSubstringWithAtLeastKRepeatingCharacters</Filter>
+    </ClCompile>
+    <ClCompile Include="FindWinnerOnATicTacToeGame.cpp">
+      <Filter>Source Files\Array and Strings\FindWinnerOnATicTacToeGame</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionToKEqualSumSubsets.cpp">
+      <Filter>Source Files\Recursion\PartitionToKEqualSumSubsets</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpGame.cpp">
+      <Filter>Source Files\Array and Strings\JumpGame</Filter>
+    </ClCompile>
+    <ClCompile Include="KokoEatingBananas.cpp">
+      <Filter>Source Files\Sorting and Searching\KokoEatingBananas</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidTriangleNumber.cpp">
+      <Filter>Source Files\Array and Strings\ValidTriangleNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
