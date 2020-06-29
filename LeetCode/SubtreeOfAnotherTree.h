@@ -11,5 +11,5 @@ struct TreeNode {
 class Solution {
 public:
 	bool isSubtree(TreeNode* s, TreeNode* t);
-	bool Solution::isSameTree(TreeNode* p, TreeNode* q);
+	bool isSameTree2(TreeNode* p, TreeNode* q);
 };

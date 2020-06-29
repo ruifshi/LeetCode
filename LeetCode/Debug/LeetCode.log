@@ -1,4 +1,9 @@
-﻿  LowestCommonAncestorOfABinarySearchTree.cpp
-  MinimumDepthOfBinaryTree.cpp
+﻿  ImplementStrStr.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\implementstrstr.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  LongestCommonPrefix.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\longestcommonprefix.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\longestcommonprefix.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruifs\source\repos\leetcode\leetcode\longestcommonprefix.cpp(14): warning C4018: '>=': signed/unsigned mismatch
+  ThirdMaximumNumber.cpp
   Generating Code...
-  LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe
+c:\users\ruifs\source\repos\leetcode\leetcode\thirdmaximumnumber.cpp(6): error C4716: 'Solution::thirdMax': must return a value

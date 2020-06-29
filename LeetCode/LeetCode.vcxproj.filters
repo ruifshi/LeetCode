@@ -391,9 +391,6 @@
     <Filter Include="Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal">
       <UniqueIdentifier>{983df86f-8adf-42b6-afb2-5a5ac3b9f332}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips">
-      <UniqueIdentifier>{e307cab6-e431-4914-9cf0-70b2be872242}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\ReverseString">
       <UniqueIdentifier>{6a39b729-f9ab-4a29-9493-a4418c7c5beb}</UniqueIdentifier>
     </Filter>
@@ -1126,6 +1123,66 @@
     <Filter Include="Source Files\Trees and Graphs\MinimumDepthOfBinaryTree">
       <UniqueIdentifier>{10304c13-6e89-436d-8312-dd9e4a6af8c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\DefangingAnIPAddress">
+      <UniqueIdentifier>{fbc78d87-901f-47c1-8228-c67966bcbaa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MissingElementInSortedArray\MinNumOfKConsecutiveBitFlips">
+      <UniqueIdentifier>{e307cab6-e431-4914-9cf0-70b2be872242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FindNUniqueIntegersSumUpToZero">
+      <UniqueIdentifier>{421965c7-3c88-4860-96c7-afbec75a590e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PeakIndexInAMountainArray">
+      <UniqueIdentifier>{33faa421-b863-4ef1-9688-fb0142dfe70d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\FibonacciNumber">
+      <UniqueIdentifier>{72d2e471-b46b-4474-98b3-84f581875571}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConvertSortedArrayToBinarySearchTree">
+      <UniqueIdentifier>{9bb8eeea-bc6d-4ed3-8326-913bccaa37d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BestTimeToBuyAndSellStockII">
+      <UniqueIdentifier>{c132bd51-596d-47b1-9577-ac9f29a65557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\NthTribonacciNumber">
+      <UniqueIdentifier>{fdfc1b36-6e15-4822-886c-529898316478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RomanToInteger">
+      <UniqueIdentifier>{4c35bcff-fbae-49e1-8b73-2727ed4442c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\TwoSumIVInputIsABST">
+      <UniqueIdentifier>{7890a3d7-8ca1-492c-b9d8-d33e72d0fc19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ExcelSheetColumnNumber">
+      <UniqueIdentifier>{441090f5-6d7e-4bbd-989d-84bbea999db2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\IsSubsequence">
+      <UniqueIdentifier>{d97f78bb-2009-4482-a1a8-b497a39bd57f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SymmetricTree">
+      <UniqueIdentifier>{32fc216d-30d4-441f-914f-187cf12d428b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PathSumIII">
+      <UniqueIdentifier>{617439a1-1e98-42e8-842b-53d03feb68bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IsomorphicStrings">
+      <UniqueIdentifier>{4b0a9e4c-c0ca-4437-8873-5f5a7d9f3617}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FactorialTrailingZeroes">
+      <UniqueIdentifier>{103d3f9d-4d04-469f-b1c8-1200ccf24568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SameTree">
+      <UniqueIdentifier>{fde2d609-fbe8-4c1e-b414-ae17bd437ff8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\LongestCommonPrefix">
+      <UniqueIdentifier>{c6d99674-a157-4cde-a36d-1c230a10281e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ImplementStrStr">
+      <UniqueIdentifier>{62861d7d-0726-462d-b62f-1472797eec77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ThirdMaximumNumber">
+      <UniqueIdentifier>{ddb4e8f2-585f-418b-a886-2ea4ffe45626}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -1486,7 +1543,7 @@
       <Filter>Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal</Filter>
     </ClInclude>
     <ClInclude Include="MinNumOfKConsecutiveBitFlips.h">
-      <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
+      <Filter>Source Files\Array and Strings\MissingElementInSortedArray\MinNumOfKConsecutiveBitFlips</Filter>
     </ClInclude>
     <ClInclude Include="ReverseString.h">
       <Filter>Source Files\Array and Strings\ReverseString</Filter>
@@ -2211,6 +2268,63 @@
     <ClInclude Include="MinimumDepthOfBinaryTree.h">
       <Filter>Source Files\Trees and Graphs\MinimumDepthOfBinaryTree</Filter>
     </ClInclude>
+    <ClInclude Include="DefangingAnIPAddress.h">
+      <Filter>Source Files\Array and Strings\DefangingAnIPAddress</Filter>
+    </ClInclude>
+    <ClInclude Include="FindNUniqueIntegersSumUpToZero.h">
+      <Filter>Source Files\Array and Strings\FindNUniqueIntegersSumUpToZero</Filter>
+    </ClInclude>
+    <ClInclude Include="PeakIndexInAMountainArray.h">
+      <Filter>Source Files\Sorting and Searching\PeakIndexInAMountainArray</Filter>
+    </ClInclude>
+    <ClInclude Include="FibonacciNumber.h">
+      <Filter>Source Files\Dynamic Programming\FibonacciNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\ConvertSortedArrayToBinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimeToBuyAndSellStockII.h">
+      <Filter>Source Files\Array and Strings\BestTimeToBuyAndSellStockII</Filter>
+    </ClInclude>
+    <ClInclude Include="NthTribonacciNumber.h">
+      <Filter>Source Files\Recursion\NthTribonacciNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="RomanToInteger.h">
+      <Filter>Source Files\Array and Strings\RomanToInteger</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSumIVInputIsABST.h">
+      <Filter>Source Files\Trees and Graphs\TwoSumIVInputIsABST</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelSheetColumnNumber.h">
+      <Filter>Source Files\Array and Strings\ExcelSheetColumnNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="IsSubsequence.h">
+      <Filter>Source Files\Sorting and Searching\IsSubsequence</Filter>
+    </ClInclude>
+    <ClInclude Include="SymmetricTree.h">
+      <Filter>Source Files\Trees and Graphs\SymmetricTree</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSumIII.h">
+      <Filter>Source Files\Trees and Graphs\PathSumIII</Filter>
+    </ClInclude>
+    <ClInclude Include="IsomorphicStrings.h">
+      <Filter>Source Files\Array and Strings\IsomorphicStrings</Filter>
+    </ClInclude>
+    <ClInclude Include="FactorialTrailingZeroes.h">
+      <Filter>Source Files\Sorting and Searching\FactorialTrailingZeroes</Filter>
+    </ClInclude>
+    <ClInclude Include="SameTree.h">
+      <Filter>Source Files\Trees and Graphs\SameTree</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestCommonPrefix.h">
+      <Filter>Source Files\Array and Strings\LongestCommonPrefix</Filter>
+    </ClInclude>
+    <ClInclude Include="ImplementStrStr.h">
+      <Filter>Source Files\Array and Strings\ImplementStrStr</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdMaximumNumber.h">
+      <Filter>Source Files\Array and Strings\ThirdMaximumNumber</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -2586,7 +2700,7 @@
       <Filter>Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal</Filter>
     </ClCompile>
     <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp">
-      <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
+      <Filter>Source Files\Array and Strings\MissingElementInSortedArray\MinNumOfKConsecutiveBitFlips</Filter>
     </ClCompile>
     <ClCompile Include="ReverseString.cpp">
       <Filter>Source Files\Array and Strings\ReverseString</Filter>
@@ -3316,6 +3430,63 @@
     </ClCompile>
     <ClCompile Include="MinimumDepthOfBinaryTree.cpp">
       <Filter>Source Files\Trees and Graphs\MinimumDepthOfBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="DefangingAnIPAddress.cpp">
+      <Filter>Source Files\Array and Strings\DefangingAnIPAddress</Filter>
+    </ClCompile>
+    <ClCompile Include="FindNUniqueIntegersSumUpToZero.cpp">
+      <Filter>Source Files\Array and Strings\FindNUniqueIntegersSumUpToZero</Filter>
+    </ClCompile>
+    <ClCompile Include="PeakIndexInAMountainArray.cpp">
+      <Filter>Source Files\Sorting and Searching\PeakIndexInAMountainArray</Filter>
+    </ClCompile>
+    <ClCompile Include="FibonacciNumber.cpp">
+      <Filter>Source Files\Dynamic Programming\FibonacciNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertSortedArrayToBinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\ConvertSortedArrayToBinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="BestTimeToBuyAndSellStockII.cpp">
+      <Filter>Source Files\Array and Strings\BestTimeToBuyAndSellStockII</Filter>
+    </ClCompile>
+    <ClCompile Include="NthTribonacciNumber.cpp">
+      <Filter>Source Files\Recursion\NthTribonacciNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="RomanToInteger.cpp">
+      <Filter>Source Files\Array and Strings\RomanToInteger</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSumIVInputIsABST.cpp">
+      <Filter>Source Files\Trees and Graphs\TwoSumIVInputIsABST</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelSheetColumnNumber.cpp">
+      <Filter>Source Files\Array and Strings\ExcelSheetColumnNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="IsSubsequence.cpp">
+      <Filter>Source Files\Sorting and Searching\IsSubsequence</Filter>
+    </ClCompile>
+    <ClCompile Include="SymmetricTree.cpp">
+      <Filter>Source Files\Trees and Graphs\SymmetricTree</Filter>
+    </ClCompile>
+    <ClCompile Include="PathSumIII.cpp">
+      <Filter>Source Files\Trees and Graphs\PathSumIII</Filter>
+    </ClCompile>
+    <ClCompile Include="IsomorphicStrings.cpp">
+      <Filter>Source Files\Array and Strings\IsomorphicStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="FactorialTrailingZeroes.cpp">
+      <Filter>Source Files\Sorting and Searching\FactorialTrailingZeroes</Filter>
+    </ClCompile>
+    <ClCompile Include="SameTree.cpp">
+      <Filter>Source Files\Trees and Graphs\SameTree</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestCommonPrefix.cpp">
+      <Filter>Source Files\Array and Strings\LongestCommonPrefix</Filter>
+    </ClCompile>
+    <ClCompile Include="ImplementStrStr.cpp">
+      <Filter>Source Files\Array and Strings\ImplementStrStr</Filter>
+    </ClCompile>
+    <ClCompile Include="ThirdMaximumNumber.cpp">
+      <Filter>Source Files\Array and Strings\ThirdMaximumNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
