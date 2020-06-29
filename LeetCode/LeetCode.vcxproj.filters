@@ -1183,6 +1183,72 @@
     <Filter Include="Source Files\Array and Strings\ThirdMaximumNumber">
       <UniqueIdentifier>{ddb4e8f2-585f-418b-a886-2ea4ffe45626}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LongestValidParentheses">
+      <UniqueIdentifier>{480d5ac8-c1fc-4f4a-bcd2-affaa310cb75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LargestNumber">
+      <UniqueIdentifier>{8ae580fe-6ad5-434e-99bc-7e3ea0a4c878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConstructBinaryTreeFromPreorderAndInorderTraversal">
+      <UniqueIdentifier>{9c585e3a-fb16-4c8e-80bc-0df0b8edb3ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinimumSizeSubarraySum">
+      <UniqueIdentifier>{588b1209-d62f-44d5-8b07-a99969cf8c42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ContainerWithMostWater">
+      <UniqueIdentifier>{f2591172-e12c-4b1a-9127-add15d4a2cf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreePostorderTraversal">
+      <UniqueIdentifier>{3ad30955-c092-4981-b97c-96c1b7443a95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeInorderTraversal">
+      <UniqueIdentifier>{d4e255f1-aebd-4822-aa6b-e989d34ff0af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SortColors">
+      <UniqueIdentifier>{fd4a91d4-03e6-4501-aaa8-e09f58066ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\AddTwoNumbersII">
+      <UniqueIdentifier>{2242eb42-3d69-4b80-927d-6496bf7d4f8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\ImplementTrie">
+      <UniqueIdentifier>{619c3039-52d2-4543-9ce0-f768cf1c40d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\WordSearch">
+      <UniqueIdentifier>{f942340f-b340-403e-b2e8-4deb2d69d3f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\LongestIncreasingSubsequence">
+      <UniqueIdentifier>{d8ab77b4-ff2a-402e-b9c4-55bb8e94989e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\FrogJump">
+      <UniqueIdentifier>{7c570d26-17c5-4d5d-9ab5-313a94365adb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CourseScheduleII">
+      <UniqueIdentifier>{64f63011-e61e-49af-8cca-176eab78ed31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindTheDuplicateNumber">
+      <UniqueIdentifier>{18ae333d-0012-483d-a01c-ec9fb644e374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MaximumProductSubarray">
+      <UniqueIdentifier>{e9096d46-b25f-45ef-b3be-35be2bd8ac44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ZigZagConversion">
+      <UniqueIdentifier>{05d1aa66-0a4b-4479-8413-7f4fec7dcd56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\UniqueBinarySearchTreesII">
+      <UniqueIdentifier>{7a41105a-5870-40b6-8ecc-1d4a5e0af1bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\NonOverlappingIntervals">
+      <UniqueIdentifier>{0649449f-53bb-47bf-8467-518a20c6b1de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\SwapNodesInPairs">
+      <UniqueIdentifier>{6fac5bd7-f474-4e8e-a24a-6b0f6457cbbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\SubsetsII">
+      <UniqueIdentifier>{40dc48d1-f516-4af3-9e52-d4f85ee7e99b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\PartitionEqualSubsetSum">
+      <UniqueIdentifier>{968275f9-cd74-426d-a436-0e4e0086916c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2324,6 +2390,72 @@
     </ClInclude>
     <ClInclude Include="ThirdMaximumNumber.h">
       <Filter>Source Files\Array and Strings\ThirdMaximumNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestValidParentheses.h">
+      <Filter>Source Files\Sorting and Searching\LongestValidParentheses</Filter>
+    </ClInclude>
+    <ClInclude Include="LargestNumber.h">
+      <Filter>Source Files\Sorting and Searching\LargestNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromPreorderAndInorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumSizeSubarraySum.h">
+      <Filter>Source Files\Sorting and Searching\MinimumSizeSubarraySum</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>Source Files\Array and Strings\ContainerWithMostWater</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePostorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreePostorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeInorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeInorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="SortColors.h">
+      <Filter>Source Files\Sorting and Searching\SortColors</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbersII.h">
+      <Filter>Source Files\Linked List\AddTwoNumbersII</Filter>
+    </ClInclude>
+    <ClInclude Include="ImplementTrie.h">
+      <Filter>Source Files\Design\ImplementTrie</Filter>
+    </ClInclude>
+    <ClInclude Include="WordSearch.h">
+      <Filter>Source Files\Recursion\WordSearch</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestIncreasingSubsequence.h">
+      <Filter>Source Files\Dynamic Programming\LongestIncreasingSubsequence</Filter>
+    </ClInclude>
+    <ClInclude Include="FrogJump.h">
+      <Filter>Source Files\Dynamic Programming\FrogJump</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseScheduleII.h">
+      <Filter>Source Files\Trees and Graphs\CourseScheduleII</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheDuplicateNumber.h">
+      <Filter>Source Files\Sorting and Searching\FindTheDuplicateNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumProductSubarray.h">
+      <Filter>Source Files\Dynamic Programming\MaximumProductSubarray</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZagConversion.h">
+      <Filter>Source Files\Array and Strings\ZigZagConversion</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueBinarySearchTreesII.h">
+      <Filter>Source Files\Trees and Graphs\UniqueBinarySearchTreesII</Filter>
+    </ClInclude>
+    <ClInclude Include="NonOverlappingIntervals.h">
+      <Filter>Source Files\Sorting and Searching\NonOverlappingIntervals</Filter>
+    </ClInclude>
+    <ClInclude Include="SwapNodesInPairs.h">
+      <Filter>Source Files\Linked List\SwapNodesInPairs</Filter>
+    </ClInclude>
+    <ClInclude Include="SubsetsII.h">
+      <Filter>Source Files\Recursion\SubsetsII</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionEqualSubsetSum.h">
+      <Filter>Source Files\Dynamic Programming\PartitionEqualSubsetSum</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3487,6 +3619,72 @@
     </ClCompile>
     <ClCompile Include="ThirdMaximumNumber.cpp">
       <Filter>Source Files\Array and Strings\ThirdMaximumNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestValidParentheses.cpp">
+      <Filter>Source Files\Sorting and Searching\LongestValidParentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="LargestNumber.cpp">
+      <Filter>Source Files\Sorting and Searching\LargestNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromPreorderAndInorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumSizeSubarraySum.cpp">
+      <Filter>Source Files\Sorting and Searching\MinimumSizeSubarraySum</Filter>
+    </ClCompile>
+    <ClCompile Include="ContainerWithMostWater.cpp">
+      <Filter>Source Files\Array and Strings\ContainerWithMostWater</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreePostorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreePostorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeInorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeInorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="SortColors.cpp">
+      <Filter>Source Files\Sorting and Searching\SortColors</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTwoNumbersII.cpp">
+      <Filter>Source Files\Linked List\AddTwoNumbersII</Filter>
+    </ClCompile>
+    <ClCompile Include="ImplementTrie.cpp">
+      <Filter>Source Files\Design\ImplementTrie</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearch.cpp">
+      <Filter>Source Files\Recursion\WordSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestIncreasingSubsequence.cpp">
+      <Filter>Source Files\Dynamic Programming\LongestIncreasingSubsequence</Filter>
+    </ClCompile>
+    <ClCompile Include="FrogJump.cpp">
+      <Filter>Source Files\Dynamic Programming\FrogJump</Filter>
+    </ClCompile>
+    <ClCompile Include="CourseScheduleII.cpp">
+      <Filter>Source Files\Trees and Graphs\CourseScheduleII</Filter>
+    </ClCompile>
+    <ClCompile Include="FindTheDuplicateNumber.cpp">
+      <Filter>Source Files\Sorting and Searching\FindTheDuplicateNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumProductSubarray.cpp">
+      <Filter>Source Files\Dynamic Programming\MaximumProductSubarray</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigZagConversion.cpp">
+      <Filter>Source Files\Array and Strings\ZigZagConversion</Filter>
+    </ClCompile>
+    <ClCompile Include="UniqueBinarySearchTreesII.cpp">
+      <Filter>Source Files\Trees and Graphs\UniqueBinarySearchTreesII</Filter>
+    </ClCompile>
+    <ClCompile Include="NonOverlappingIntervals.cpp">
+      <Filter>Source Files\Sorting and Searching\NonOverlappingIntervals</Filter>
+    </ClCompile>
+    <ClCompile Include="SwapNodesInPairs.cpp">
+      <Filter>Source Files\Linked List\SwapNodesInPairs</Filter>
+    </ClCompile>
+    <ClCompile Include="SubsetsII.cpp">
+      <Filter>Source Files\Recursion\SubsetsII</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionEqualSubsetSum.cpp">
+      <Filter>Source Files\Dynamic Programming\PartitionEqualSubsetSum</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

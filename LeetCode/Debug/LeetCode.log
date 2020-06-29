@@ -1,9 +1,8 @@
-﻿  ImplementStrStr.cpp
-c:\users\ruifs\source\repos\leetcode\leetcode\implementstrstr.cpp(9): warning C4018: '<': signed/unsigned mismatch
-  LongestCommonPrefix.cpp
-c:\users\ruifs\source\repos\leetcode\leetcode\longestcommonprefix.cpp(11): warning C4018: '<': signed/unsigned mismatch
-c:\users\ruifs\source\repos\leetcode\leetcode\longestcommonprefix.cpp(13): warning C4018: '<': signed/unsigned mismatch
-c:\users\ruifs\source\repos\leetcode\leetcode\longestcommonprefix.cpp(14): warning C4018: '>=': signed/unsigned mismatch
-  ThirdMaximumNumber.cpp
+﻿  NonOverlappingIntervals.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\nonoverlappingintervals.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  PartitionEqualSubsetSum.cpp
+c:\users\ruifs\source\repos\leetcode\leetcode\partitionequalsubsetsum.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  SubsetsII.cpp
+  SwapNodesInPairs.cpp
   Generating Code...
-c:\users\ruifs\source\repos\leetcode\leetcode\thirdmaximumnumber.cpp(6): error C4716: 'Solution::thirdMax': must return a value
+  LeetCode.vcxproj -> C:\Users\ruifs\source\repos\LeetCode\Debug\LeetCode.exe

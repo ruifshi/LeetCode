@@ -90,6 +90,7 @@
     <ClInclude Include="AddBoldTagInString.h" />
     <ClInclude Include="AddStrings.h" />
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="AddTwoNumbersII.h" />
     <ClInclude Include="AlienDictionary.h" />
     <ClInclude Include="AllElementsInTwoBinarySearchTrees.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
@@ -102,10 +103,12 @@
     <ClInclude Include="BattleshipsInABoard.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
+    <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="BinaryTreeLongestConsecutiveSequenceII.h" />
     <ClInclude Include="BinaryTreeMaximumPathSum.h" />
     <ClInclude Include="BinaryTreePaths.h" />
+    <ClInclude Include="BinaryTreePostorderTraversal.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BinaryTreeVerticalOrderTraversal.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
@@ -125,8 +128,10 @@
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="ConcatenatedWords.h" />
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="ConstructBinaryTreeFromString.h" />
     <ClInclude Include="ConstructBSTFromPreorderTraversal.h" />
+    <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContinuousSubarraySum.h" />
     <ClInclude Include="ConvertANumberToHexadecimal.h" />
     <ClInclude Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.h" />
@@ -134,6 +139,7 @@
     <ClInclude Include="ConvertSortedListToBinarySearchTree.h" />
     <ClInclude Include="CopyListWithRandomPointer.h" />
     <ClInclude Include="CourseSchedule.h" />
+    <ClInclude Include="CourseScheduleII.h" />
     <ClInclude Include="CousinsInBinaryTree.h" />
     <ClInclude Include="CriticalConnectionsInANetwork.h" />
     <ClInclude Include="CustomSortString.h" />
@@ -177,6 +183,7 @@
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindPivotIndex.h" />
     <ClInclude Include="FindTheCelebrity.h" />
+    <ClInclude Include="FindTheDuplicateNumber.h" />
     <ClInclude Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.h" />
     <ClInclude Include="FindTheTownJudge.h" />
     <ClInclude Include="FindWinnerOnATicTacToeGame.h" />
@@ -191,6 +198,7 @@
     <ClInclude Include="FractionToRecurringDecimal.h" />
     <ClInclude Include="FriendCircles.h" />
     <ClInclude Include="FriendsOfAppropriateAges.h" />
+    <ClInclude Include="FrogJump.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="GenerateParentheses.h" />
@@ -199,6 +207,7 @@
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="ImplementMagicDictionary.h" />
     <ClInclude Include="ImplementStrStr.h" />
+    <ClInclude Include="ImplementTrie.h" />
     <ClInclude Include="IncreasingSubsequences.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="InsertDeleteGetRandom.h" />
@@ -219,6 +228,7 @@
     <ClInclude Include="KthSmallestElementInABST.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestBSTSubtree.h" />
+    <ClInclude Include="LargestNumber.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
@@ -226,9 +236,11 @@
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestContinuousIncreasingSubsequence.h" />
     <ClInclude Include="LongestIncreasingPathInAMatrix.h" />
+    <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestRepeatingSubstring.h" />
     <ClInclude Include="LongestSubstringWithAtLeastKRepeatingCharacters.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
+    <ClInclude Include="LongestValidParentheses.h" />
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfDeepestLeaves.h" />
@@ -237,6 +249,7 @@
     <ClInclude Include="MaxConsecutiveOnesIII.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
+    <ClInclude Include="MaximumProductSubarray.h" />
     <ClInclude Include="MaximumSumCircularSubarray.h" />
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
     <ClInclude Include="MaximumSwap.h" />
@@ -253,6 +266,7 @@
     <ClInclude Include="MinimumKnightMoves.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
+    <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
     <ClInclude Include="MissingElementInSortedArray.h" />
     <ClInclude Include="MissingRanges.h" />
@@ -263,6 +277,7 @@
     <ClInclude Include="NestedListWeightSumII.h" />
     <ClInclude Include="NextGreaterElementII.h" />
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
+    <ClInclude Include="NonOverlappingIntervals.h" />
     <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NthTribonacciNumber.h" />
     <ClInclude Include="NumberOfConnectedComponentsInAnUndirectedGraph.h" />
@@ -273,6 +288,7 @@
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="PalindromePermutation.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
+    <ClInclude Include="PartitionEqualSubsetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PartitionToKEqualSumSubsets.h" />
     <ClInclude Include="PathSumIII.h" />
@@ -323,6 +339,7 @@
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SlidingWindowMedian.h" />
     <ClInclude Include="SnakesAndLadders.h" />
+    <ClInclude Include="SortColors.h" />
     <ClInclude Include="SortList.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
     <ClInclude Include="SplitArrayWithEqualSum.h" />
@@ -335,8 +352,10 @@
     <ClInclude Include="StrobogrammaticNumber.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="Subsets.h" />
+    <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="SumRoottoLeafNumbers.h" />
+    <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
@@ -351,6 +370,7 @@
     <ClInclude Include="TwoSumIVInputIsABST.h" />
     <ClInclude Include="TwoSumLessThanK.h" />
     <ClInclude Include="TwoSums.h" />
+    <ClInclude Include="UniqueBinarySearchTreesII.h" />
     <ClInclude Include="UniquePathsIII.h" />
     <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="ValidateIPAddress.h" />
@@ -458,8 +478,10 @@
     <ClInclude Include="WordBreakII.h" />
     <ClInclude Include="WordLadder.h" />
     <ClInclude Include="WordLadderII.h" />
+    <ClInclude Include="WordSearch.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WorldSquares.h" />
+    <ClInclude Include="ZigZagConversion.h" />
     <ClInclude Include="ZigzagIterator.h" />
   </ItemGroup>
   <ItemGroup>
@@ -473,6 +495,7 @@
     <ClCompile Include="AddBoldTagInString.cpp" />
     <ClCompile Include="AddStrings.cpp" />
     <ClCompile Include="AddTwoNumbers.cpp" />
+    <ClCompile Include="AddTwoNumbersII.cpp" />
     <ClCompile Include="AlienDictionary.cpp" />
     <ClCompile Include="AllElementsInTwoBinarySearchTrees.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
@@ -485,10 +508,12 @@
     <ClCompile Include="BattleshipsInABoard.cpp" />
     <ClCompile Include="BestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
+    <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLongestConsecutiveSequenceII.cpp" />
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
     <ClCompile Include="BinaryTreePaths.cpp" />
+    <ClCompile Include="BinaryTreePostorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeRightSideView.cpp" />
     <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeZigzagLevelOrderTraversal.cpp" />
@@ -508,8 +533,10 @@
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="CombinationSumII.cpp" />
     <ClCompile Include="ConcatenatedWords.cpp" />
+    <ClCompile Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp" />
     <ClCompile Include="ConstructBinaryTreeFromString.cpp" />
     <ClCompile Include="ConstructBSTFromPreorderTraversal.cpp" />
+    <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="ContinuousSubarraySum.cpp" />
     <ClCompile Include="ConvertANumberToHexadecimal.cpp" />
     <ClCompile Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp" />
@@ -517,6 +544,7 @@
     <ClCompile Include="ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="CopyListWithRandomPointer.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
+    <ClCompile Include="CourseScheduleII.cpp" />
     <ClCompile Include="CousinsInBinaryTree.cpp" />
     <ClCompile Include="CriticalConnectionsInANetwork.cpp" />
     <ClCompile Include="CustomSortString.cpp" />
@@ -560,6 +588,7 @@
     <ClCompile Include="FindPeakElement.cpp" />
     <ClCompile Include="FindPivotIndex.cpp" />
     <ClCompile Include="FindTheCelebrity.cpp" />
+    <ClCompile Include="FindTheDuplicateNumber.cpp" />
     <ClCompile Include="FindTheKthSmallestSumOfAMatrixWithSortedRows.cpp" />
     <ClCompile Include="FindTheTownJudge.cpp" />
     <ClCompile Include="FindWinnerOnATicTacToeGame.cpp" />
@@ -574,6 +603,7 @@
     <ClCompile Include="FractionToRecurringDecimal.cpp" />
     <ClCompile Include="FriendCircles.cpp" />
     <ClCompile Include="FriendsOfAppropriateAges.cpp" />
+    <ClCompile Include="FrogJump.cpp" />
     <ClCompile Include="FruitIntoBaskets.cpp" />
     <ClCompile Include="GameOfLife.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
@@ -584,6 +614,7 @@
     <ClCompile Include="ImageSmoother.cpp" />
     <ClCompile Include="ImplementMagicDictionary.cpp" />
     <ClCompile Include="ImplementStrStr.cpp" />
+    <ClCompile Include="ImplementTrie.cpp" />
     <ClCompile Include="IncreasingSubsequences.cpp" />
     <ClCompile Include="IncreasingTripletSubsequence.cpp" />
     <ClCompile Include="InorderSuccessorInBST.cpp" />
@@ -613,6 +644,7 @@
     <ClCompile Include="KthSmallestElementInABST.cpp" />
     <ClCompile Include="KthSmallestElementInASortedMatrix.cpp" />
     <ClCompile Include="LargestBSTSubtree.cpp" />
+    <ClCompile Include="LargestNumber.cpp" />
     <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp" />
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LFUCache.cpp" />
@@ -623,12 +655,14 @@
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
     <ClCompile Include="LongestContinuousIncreasingSubsequence.cpp" />
     <ClCompile Include="LongestIncreasingPathInAMatrix.cpp" />
+    <ClCompile Include="LongestIncreasingSubsequence.cpp" />
     <ClCompile Include="LongestPalindromicSubstring.cpp" />
     <ClCompile Include="LongestRepeatingSubstring.cpp" />
     <ClCompile Include="LongestSubstringK.cpp" />
     <ClCompile Include="LongestSubstringWithAtLeastKRepeatingCharacters.cpp" />
     <ClCompile Include="LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="LongestUnivaluePath.cpp" />
+    <ClCompile Include="LongestValidParentheses.cpp" />
     <ClCompile Include="LowestCommonAncestorOfABinarySearchTree.cpp" />
     <ClCompile Include="LowestCommonAncestorOfABinaryTree.cpp" />
     <ClCompile Include="LowestCommonAncestorOfDeepestLeaves.cpp" />
@@ -642,6 +676,7 @@
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
+    <ClCompile Include="MaximumProductSubarray.cpp" />
     <ClCompile Include="MaximumSumCircularSubarray.cpp" />
     <ClCompile Include="MaximumSumOf3NonOverlappingSubarrays.cpp" />
     <ClCompile Include="MaximumSwap.cpp" />
@@ -664,6 +699,7 @@
     <ClCompile Include="MinimumNumberOfArrowsToBurstBalloons.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinimumRemoveToMakeValidParentheses.cpp" />
+    <ClCompile Include="MinimumSizeSubarraySum.cpp" />
     <ClCompile Include="MinimumTimeToCollectAllApplesInATree.cpp" />
     <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp" />
     <ClCompile Include="MinStack.cpp" />
@@ -683,6 +719,7 @@
     <ClCompile Include="NextGreaterNodeInLinkedList.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NondecreasingArray.cpp" />
+    <ClCompile Include="NonOverlappingIntervals.cpp" />
     <ClCompile Include="NthDigit.cpp" />
     <ClCompile Include="NthTribonacciNumber.cpp" />
     <ClCompile Include="NumberOfConnectedComponentsInAnUndirectedGraph.cpp" />
@@ -702,6 +739,7 @@
     <ClCompile Include="PalindromePairs.cpp" />
     <ClCompile Include="PalindromePermutation.cpp" />
     <ClCompile Include="PalindromicSubstrings.cpp" />
+    <ClCompile Include="PartitionEqualSubsetSum.cpp" />
     <ClCompile Include="PartitionLabels.cpp" />
     <ClCompile Include="PartitionToKEqualSumSubsets.cpp" />
     <ClCompile Include="PathSumII.cpp" />
@@ -775,6 +813,7 @@
     <ClCompile Include="SlidingWindowMedian.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
     <ClCompile Include="SnakesAndLadders.cpp" />
+    <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="SortList.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
@@ -794,6 +833,7 @@
     <ClCompile Include="StrobogrammaticNumberII.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
     <ClCompile Include="Subsets.cpp" />
+    <ClCompile Include="SubsetsII.cpp" />
     <ClCompile Include="SubtreeOfAnotherTree.cpp" />
     <ClCompile Include="SumQuery.cpp" />
     <ClCompile Include="Stock.cpp" />
@@ -804,6 +844,7 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
     <ClCompile Include="SumRoottoLeafNumbers.cpp" />
+    <ClCompile Include="SwapNodesInPairs.cpp" />
     <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="TargetSum.cpp" />
     <ClCompile Include="TaskScheduler.cpp" />
@@ -822,6 +863,7 @@
     <ClCompile Include="TwoSumLessThanK.cpp" />
     <ClCompile Include="TwoSums.cpp" />
     <ClCompile Include="UniqueBinarySearchTrees.cpp" />
+    <ClCompile Include="UniqueBinarySearchTreesII.cpp" />
     <ClCompile Include="UniqueEmailAddresses.cpp" />
     <ClCompile Include="UniquePaths.cpp" />
     <ClCompile Include="UniquePathsII.cpp" />
@@ -850,8 +892,10 @@
     <ClCompile Include="WordBreakII.cpp" />
     <ClCompile Include="WordLadder.cpp" />
     <ClCompile Include="WordLadderII.cpp" />
+    <ClCompile Include="WordSearch.cpp" />
     <ClCompile Include="WordSearchII.cpp" />
     <ClCompile Include="WordSquares.cpp" />
+    <ClCompile Include="ZigZagConversion.cpp" />
     <ClCompile Include="ZigzagIterator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
