@@ -1,6 +1,11 @@
 #include "stdafx.h"
 #include "MinStack.h"'
 
+/*
+  vector<int> a;
+  vector<int> min;
+*/
+
 MinStack::MinStack() {
 	min.push_back(INT_MAX);
 }

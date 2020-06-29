@@ -1054,6 +1054,78 @@
     <Filter Include="Source Files\Array and Strings\ValidTriangleNumber">
       <UniqueIdentifier>{0b698cc0-8830-4455-b30a-bbb3a56154ef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\TrimABinarySearchTree">
+      <UniqueIdentifier>{449ec367-23b2-4ce4-b341-80136d739fa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidateIPAddress">
+      <UniqueIdentifier>{352421df-0af2-48fa-a66c-2ec7f82afddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RectangleArea">
+      <UniqueIdentifier>{4df6c552-96e6-4092-8651-92ca30126f78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\MaxStack">
+      <UniqueIdentifier>{29655557-9e41-4d53-8968-e836ea09f704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ValidAnagram">
+      <UniqueIdentifier>{54eecb73-95b4-4d44-9282-7a0cb3e7c5c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MissingRanges">
+      <UniqueIdentifier>{9f393557-3814-4a88-ba4b-5b3567736453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximumSumCircularSubarray">
+      <UniqueIdentifier>{7cc982fb-d4a0-426a-b446-e0baca47f36c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PalindromePermutation">
+      <UniqueIdentifier>{f86b2684-cadc-422a-a809-401c958a64e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReverseWordsInAString">
+      <UniqueIdentifier>{3ab1a346-923e-4f70-9494-c17b022463cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\SortList">
+      <UniqueIdentifier>{2d32ccdf-b72b-4c21-978b-828112705a2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\RemoveLinkedListElements">
+      <UniqueIdentifier>{d222db29-8dd9-47b0-b846-df69beb1e659}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindPivotIndex">
+      <UniqueIdentifier>{d2e55259-5b9c-4048-bb08-7e8c49330f6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\WildcardMatching">
+      <UniqueIdentifier>{de633791-8baf-463b-a8d3-8ed74932eeec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\PermutationInString">
+      <UniqueIdentifier>{3747b0a0-acfa-43bd-88f4-44c7244caba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RemoveAllAdjacentDuplicatesInString">
+      <UniqueIdentifier>{7a34856f-4782-4aa0-87cb-c2876a7ebc0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\BulbSwitcher">
+      <UniqueIdentifier>{1b2bcd43-6ee4-4a80-8316-8d91ed932933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversal">
+      <UniqueIdentifier>{52a0c249-04ce-4fbc-b850-11bc7f02092e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PossibleBipartition">
+      <UniqueIdentifier>{c24bea5e-2a30-4544-9228-3e2cf03adacc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\NumberOfDistinctIslands">
+      <UniqueIdentifier>{9fa4be45-0c4a-4901-9027-9da660fe5f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SearchInRotatedSortedArrayII">
+      <UniqueIdentifier>{05f3626f-37fe-47ab-985e-61bee4a3c4ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReverseInteger">
+      <UniqueIdentifier>{fbe97d9a-ffad-4961-b454-9bb6cccdf772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\DistributeCoinsInBinaryTree">
+      <UniqueIdentifier>{6b31049e-2107-4694-835c-694e40286061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\LowestCommonAncestorOfABinarySearchTree">
+      <UniqueIdentifier>{edbe9fc8-e3cb-4cc3-a849-1e99e7e4ee6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MinimumDepthOfBinaryTree">
+      <UniqueIdentifier>{10304c13-6e89-436d-8312-dd9e4a6af8c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2066,6 +2138,78 @@
     </ClInclude>
     <ClInclude Include="ValidTriangleNumber.h">
       <Filter>Source Files\Array and Strings\ValidTriangleNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="TrimABinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\TrimABinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidateIPAddress.h">
+      <Filter>Source Files\Array and Strings\ValidateIPAddress</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleArea.h">
+      <Filter>Source Files\Sorting and Searching\RectangleArea</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxStack.h">
+      <Filter>Source Files\Design\MaxStack</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidAnagram.h">
+      <Filter>Source Files\Array and Strings\ValidAnagram</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingRanges.h">
+      <Filter>Source Files\Array and Strings\MissingRanges</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumSumCircularSubarray.h">
+      <Filter>Source Files\Array and Strings\MaximumSumCircularSubarray</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromePermutation.h">
+      <Filter>Source Files\Sorting and Searching\PalindromePermutation</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseWordsInAString.h">
+      <Filter>Source Files\Array and Strings\ReverseWordsInAString</Filter>
+    </ClInclude>
+    <ClInclude Include="SortList.h">
+      <Filter>Source Files\Linked List\SortList</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveLinkedListElements.h">
+      <Filter>Source Files\Linked List\RemoveLinkedListElements</Filter>
+    </ClInclude>
+    <ClInclude Include="FindPivotIndex.h">
+      <Filter>Source Files\Sorting and Searching\FindPivotIndex</Filter>
+    </ClInclude>
+    <ClInclude Include="WildcardMatching.h">
+      <Filter>Source Files\Dynamic Programming\WildcardMatching</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutationInString.h">
+      <Filter>Source Files\Sorting and Searching\PermutationInString</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h">
+      <Filter>Source Files\Array and Strings\RemoveAllAdjacentDuplicatesInString</Filter>
+    </ClInclude>
+    <ClInclude Include="BulbSwitcher.h">
+      <Filter>Source Files\Sorting and Searching\BulbSwitcher</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeLevelOrderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="PossibleBipartition.h">
+      <Filter>Source Files\Trees and Graphs\PossibleBipartition</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfDistinctIslands.h">
+      <Filter>Source Files\Trees and Graphs\NumberOfDistinctIslands</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInRotatedSortedArrayII.h">
+      <Filter>Source Files\Sorting and Searching\SearchInRotatedSortedArrayII</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInteger.h">
+      <Filter>Source Files\Array and Strings\ReverseInteger</Filter>
+    </ClInclude>
+    <ClInclude Include="DistributeCoinsInBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\DistributeCoinsInBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\LowestCommonAncestorOfABinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumDepthOfBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\MinimumDepthOfBinaryTree</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3100,6 +3244,78 @@
     </ClCompile>
     <ClCompile Include="ValidTriangleNumber.cpp">
       <Filter>Source Files\Array and Strings\ValidTriangleNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="TrimABinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\TrimABinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidateIPAddress.cpp">
+      <Filter>Source Files\Array and Strings\ValidateIPAddress</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleArea.cpp">
+      <Filter>Source Files\Sorting and Searching\RectangleArea</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStack.cpp">
+      <Filter>Source Files\Design\MaxStack</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidAnagram.cpp">
+      <Filter>Source Files\Array and Strings\ValidAnagram</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingRanges.cpp">
+      <Filter>Source Files\Array and Strings\MissingRanges</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumSumCircularSubarray.cpp">
+      <Filter>Source Files\Array and Strings\MaximumSumCircularSubarray</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromePermutation.cpp">
+      <Filter>Source Files\Sorting and Searching\PalindromePermutation</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseWordsInAString.cpp">
+      <Filter>Source Files\Array and Strings\ReverseWordsInAString</Filter>
+    </ClCompile>
+    <ClCompile Include="SortList.cpp">
+      <Filter>Source Files\Linked List\SortList</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveLinkedListElements.cpp">
+      <Filter>Source Files\Linked List\RemoveLinkedListElements</Filter>
+    </ClCompile>
+    <ClCompile Include="FindPivotIndex.cpp">
+      <Filter>Source Files\Sorting and Searching\FindPivotIndex</Filter>
+    </ClCompile>
+    <ClCompile Include="WildcardMatching.cpp">
+      <Filter>Source Files\Dynamic Programming\WildcardMatching</Filter>
+    </ClCompile>
+    <ClCompile Include="PermutationInString.cpp">
+      <Filter>Source Files\Sorting and Searching\PermutationInString</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveAllAdjacentDuplicatesInString.cpp">
+      <Filter>Source Files\Array and Strings\RemoveAllAdjacentDuplicatesInString</Filter>
+    </ClCompile>
+    <ClCompile Include="BulbSwitcher.cpp">
+      <Filter>Source Files\Sorting and Searching\BulbSwitcher</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="PossibleBipartition.cpp">
+      <Filter>Source Files\Trees and Graphs\PossibleBipartition</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfDistinctIslands.cpp">
+      <Filter>Source Files\Trees and Graphs\NumberOfDistinctIslands</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchInRotatedSortedArrayII.cpp">
+      <Filter>Source Files\Sorting and Searching\SearchInRotatedSortedArrayII</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseInteger.cpp">
+      <Filter>Source Files\Array and Strings\ReverseInteger</Filter>
+    </ClCompile>
+    <ClCompile Include="DistributeCoinsInBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\DistributeCoinsInBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="LowestCommonAncestorOfABinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\LowestCommonAncestorOfABinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumDepthOfBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\MinimumDepthOfBinaryTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

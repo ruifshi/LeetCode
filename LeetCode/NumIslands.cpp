@@ -1,43 +1,32 @@
 #include "stdafx.h"
 #include "NumIslands.h"
 
-void rec(char** grid, int* visited, int gridRowSize, int gridColSize, int i, int j) {
-    if(i<0 || j <0 || i >= gridRowSize || j >= gridColSize) {
-        return;
-    }
-    if(!*((visited + i * gridColSize) + j ) && grid[i][j] == '1') {
-        *((visited + i * gridColSize) + j)  = 1;
-        rec(grid, visited, gridRowSize, gridColSize, i+1, j);
-        rec(grid, visited, gridRowSize, gridColSize, i, j+1);
-        rec(grid, visited, gridRowSize, gridColSize, i-1, j);
-        rec(grid, visited, gridRowSize, gridColSize, i, j-1);
-    }
+void dfs(vector<vector<char>>& grid, int i, int j) {
+  if (i < 0 || j < 0 || i >= grid.size() || j >= grid[0].size() || grid[i][j] == '2') {
+    return;
+  }
+
+  if (grid[i][j] != '2' && grid[i][j] == '1') {
+    grid[i][j] = '2';
+    dfs(grid, i + 1, j);
+    dfs(grid, i, j + 1);
+    dfs(grid, i - 1, j);
+    dfs(grid, i, j - 1);
+  }
 }
 
-int numIslands(char** grid, int gridRowSize, int gridColSize) {    
-    int visited[10000][10000];
-    int count = 0;
-    int i;
-    int j;
-    
-    if(gridRowSize <= 0 || gridColSize <= 0) {
-        return 0;
-    }
+int Solution::numIslands(vector<vector<char>>& grid) {
+  if (grid.size() == 0) return 0;
+  if (grid[0].size() == 0) return 0;
 
-    for(i = 0; i < gridRowSize; i++) {
-        for(j = 0; j < gridColSize; j++) {
-            visited[i][j] = 0;
-        }
+  int count = 0;
+  for (int i = 0; i < grid.size(); i++) {
+    for (int j = 0; j < grid[0].size(); j++) {
+      if (grid[i][j] != '2' && grid[i][j] == '1')
+        count++;
+      dfs(grid, i, j);
     }
-    
-    for(i = 0; i < gridRowSize; i++) {
-        for(j = 0; j < gridColSize; j++) {
-            if(!visited[i][j] && grid[i][j] == '1') {
-                count++;
-                rec(grid, (int *)visited, gridRowSize, gridColSize, i, j);
-            }
-        }
-    }
-    
-    return count;
+  }
+
+  return count;
 }

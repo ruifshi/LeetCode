@@ -1,1 +1,10 @@
-int numIslands(char** grid, int gridRowSize, int gridColSize);
+#pragma once
+
+#include <vector>
+
+using namespace std;
+
+class Solution {
+public:
+  int numIslands(vector<vector<char>>& grid);
+};
