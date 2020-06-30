@@ -119,6 +119,7 @@
     <ClInclude Include="BurstBalloons.h" />
     <ClInclude Include="CampusBikes.h" />
     <ClInclude Include="CandyCrush.h" />
+    <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CloneGraph.h" />
@@ -170,6 +171,7 @@
     <ClInclude Include="ExpressionAddOperators.h" />
     <ClInclude Include="FactorialTrailingZeroes.h" />
     <ClInclude Include="FibonacciNumber.h" />
+    <ClInclude Include="FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
     <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindDuplicateFileInSystem.h" />
@@ -179,6 +181,7 @@
     <ClInclude Include="FindKthSmallestPairDistance.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindMedianFromDataStream.h" />
+    <ClInclude Include="FindMinimumInRotatedSortedArrayII.h" />
     <ClInclude Include="FindNUniqueIntegersSumUpToZero.h" />
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindPivotIndex.h" />
@@ -224,6 +227,7 @@
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KokoEatingBananas.h" />
     <ClInclude Include="KthSmallestElementInABST.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
@@ -232,6 +236,7 @@
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
+    <ClInclude Include="LongestArithmeticSequence.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestContinuousIncreasingSubsequence.h" />
@@ -260,6 +265,7 @@
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumAreaRectangle.h" />
     <ClInclude Include="MinimumAreaRectangleII.h" />
+    <ClInclude Include="MinimumCostForTickets.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
     <ClInclude Include="MinimumDepthOfBinaryTree.h" />
@@ -284,6 +290,7 @@
     <ClInclude Include="NumberOfDaysBetweenTwoDates.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfDistinctIslands.h" />
+    <ClInclude Include="NumberOfWaysToPaintNx3Grid.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="PalindromePermutation.h" />
@@ -300,6 +307,7 @@
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
     <ClInclude Include="ProductOfArrayExceptSelf.h" />
+    <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RandomPickIndex.h" />
     <ClInclude Include="RandomPickWithWeight.h" />
     <ClInclude Include="RangeSumOfBST.h" />
@@ -324,6 +332,7 @@
     <ClInclude Include="ReverseWordsInAString.h" />
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="RotateArray.h" />
+    <ClInclude Include="RotateImage.h" />
     <ClInclude Include="SameTree.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchInRotatedSortedArrayII.h" />
@@ -355,12 +364,14 @@
     <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="SumRoottoLeafNumbers.h" />
+    <ClInclude Include="SuperEggDrop.h" />
     <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TheMaze.h" />
     <ClInclude Include="TheMazeII.h" />
+    <ClInclude Include="TheSkylineProblem.h" />
     <ClInclude Include="ThirdMaximumNumber.h" />
     <ClInclude Include="ToeplitzMatrix.h" />
     <ClInclude Include="TopKFrequentElements.h" />
@@ -524,6 +535,7 @@
     <ClCompile Include="BurstBalloons.cpp" />
     <ClCompile Include="CampusBikes.cpp" />
     <ClCompile Include="CandyCrush.cpp" />
+    <ClCompile Include="CheapestFlightsWithinKStops.cpp" />
     <ClCompile Include="CheckCompletenessOfABinaryTree.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CloneGraph.cpp" />
@@ -575,6 +587,7 @@
     <ClCompile Include="ExpressionAddOperators.cpp" />
     <ClCompile Include="FactorialTrailingZeroes.cpp" />
     <ClCompile Include="FibonacciNumber.cpp" />
+    <ClCompile Include="FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cpp" />
     <ClCompile Include="FindAllAnagramsInAString.cpp" />
     <ClCompile Include="FindAllDuplicatesInAnArray.cpp" />
     <ClCompile Include="FindDuplicateFileInSystem.cpp" />
@@ -584,6 +597,7 @@
     <ClCompile Include="FindKthSmallestPairDistance.cpp" />
     <ClCompile Include="FindLargestValueInEachTreeRow.cpp" />
     <ClCompile Include="FindMedianFromDataStream.cpp" />
+    <ClCompile Include="FindMinimumInRotatedSortedArrayII.cpp" />
     <ClCompile Include="FindNUniqueIntegersSumUpToZero.cpp" />
     <ClCompile Include="FindPeakElement.cpp" />
     <ClCompile Include="FindPivotIndex.cpp" />
@@ -638,6 +652,7 @@
     <ClCompile Include="JumpGameII.cpp" />
     <ClCompile Include="KClosestPointsToOrigin.cpp" />
     <ClCompile Include="kEmptySlot.cpp" />
+    <ClCompile Include="KnightDialer.cpp" />
     <ClCompile Include="KokoEatingBananas.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
@@ -650,6 +665,7 @@
     <ClCompile Include="LFUCache.cpp" />
     <ClCompile Include="LicenseKeyFormat.cpp" />
     <ClCompile Include="LongestAbsoluteFilePath.cpp" />
+    <ClCompile Include="LongestArithmeticSequence.cpp" />
     <ClCompile Include="LongestCommonPrefix.cpp" />
     <ClCompile Include="LongestCommonSubsequence.cpp" />
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
@@ -692,6 +708,7 @@
     <ClCompile Include="MinimumAddToMakeParenthesesValid.cpp" />
     <ClCompile Include="MinimumAreaRectangle.cpp" />
     <ClCompile Include="MinimumAreaRectangleII.cpp" />
+    <ClCompile Include="MinimumCostForTickets.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
     <ClCompile Include="MinimumDepthOfBinaryTree.cpp" />
@@ -727,6 +744,7 @@
     <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp" />
     <ClCompile Include="NumberOfDistinctIslands.cpp" />
     <ClCompile Include="NumberOfSquarefulArrays.cpp" />
+    <ClCompile Include="NumberOfWaysToPaintNx3Grid.cpp" />
     <ClCompile Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.cpp" />
     <ClCompile Include="NumIslands.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
@@ -756,6 +774,7 @@
     <ClCompile Include="Prims.cpp" />
     <ClCompile Include="PrisonCellsAfterNDays.cpp" />
     <ClCompile Include="ProductOfArrayExceptSelf.cpp" />
+    <ClCompile Include="QueueReconstructionByHeight.cpp" />
     <ClCompile Include="RandomPickIndex.cpp" />
     <ClCompile Include="RandomPickWithWeight.cpp" />
     <ClCompile Include="RangeModule.cpp" />
@@ -789,6 +808,7 @@
     <ClCompile Include="RobotRoomCleaner.cpp" />
     <ClCompile Include="RomanToInteger.cpp" />
     <ClCompile Include="RotateArray.cpp" />
+    <ClCompile Include="RotateImage.cpp" />
     <ClCompile Include="RottingOranges.cpp" />
     <ClCompile Include="SameTree.cpp" />
     <ClCompile Include="SatisfiabilityOfEqualityEquations.cpp" />
@@ -844,12 +864,14 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="SumQuery2.cpp" />
     <ClCompile Include="SumRoottoLeafNumbers.cpp" />
+    <ClCompile Include="SuperEggDrop.cpp" />
     <ClCompile Include="SwapNodesInPairs.cpp" />
     <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="TargetSum.cpp" />
     <ClCompile Include="TaskScheduler.cpp" />
     <ClCompile Include="TheMaze.cpp" />
     <ClCompile Include="TheMazeII.cpp" />
+    <ClCompile Include="TheSkylineProblem.cpp" />
     <ClCompile Include="ThirdMaximumNumber.cpp" />
     <ClCompile Include="ToeplitzMatrix.cpp" />
     <ClCompile Include="TopKFrequentElements.cpp" />

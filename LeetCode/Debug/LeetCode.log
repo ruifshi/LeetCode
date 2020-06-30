@@ -1,8 +1,9 @@
-﻿  NonOverlappingIntervals.cpp
-c:\users\ruifs\source\repos\leetcode\leetcode\nonoverlappingintervals.cpp(17): warning C4018: '<': signed/unsigned mismatch
-  PartitionEqualSubsetSum.cpp
-c:\users\ruifs\source\repos\leetcode\leetcode\partitionequalsubsetsum.cpp(8): warning C4018: '<': signed/unsigned mismatch
-  SubsetsII.cpp
-  SwapNodesInPairs.cpp
+﻿  FindMinimumInRotatedSortedArrayII.cpp
+  NumberOfWaysToPaintNx3Grid.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\numberofwaystopaintnx3grid.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  SuperEggDrop.cpp
+  TheSkylineProblem.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\theskylineproblem.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\rui shi\source\repos\leetcode\leetcode\theskylineproblem.cpp(27): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
-  LeetCode.vcxproj -> C:\Users\ruifs\source\repos\LeetCode\Debug\LeetCode.exe
+  LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

@@ -1249,6 +1249,39 @@
     <Filter Include="Source Files\Dynamic Programming\PartitionEqualSubsetSum">
       <UniqueIdentifier>{968275f9-cd74-426d-a436-0e4e0086916c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\RotateImage">
+      <UniqueIdentifier>{bc5549cc-0c93-4c90-9b5a-82a386dbe011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\KnightDialer">
+      <UniqueIdentifier>{d6b061ca-eabf-4bf0-96df-c5842cc5fe61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CheapestFlightsWithinKStops">
+      <UniqueIdentifier>{1ea3e934-540f-4c8f-a06e-58e5c5cef53c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\LongestArithmeticSequence">
+      <UniqueIdentifier>{f1fd13e3-abae-4c15-82cd-75e38c463235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\MinimumCostForTickets">
+      <UniqueIdentifier>{34d1af79-da02-4859-b4be-b5c0886a0704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree">
+      <UniqueIdentifier>{e8091207-c30c-490c-ab02-bd971faf9c90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\QueueReconstructionByHeight">
+      <UniqueIdentifier>{e0ff85dc-09db-46cd-9f76-70c3cb8a8268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\TheSkylineProblem">
+      <UniqueIdentifier>{1cf55a4c-268e-47dd-9557-f60bd74d62ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindMinimumInRotatedSortedArrayII">
+      <UniqueIdentifier>{94ed079d-b836-43de-821b-cc118b42cf9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\SuperEggDrop">
+      <UniqueIdentifier>{ee2bdacc-364d-4708-a62a-f0f9fda1f691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\NumberOfWaysToPaintNx3Grid">
+      <UniqueIdentifier>{e5dca350-641a-401f-ac9b-44370999333d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2456,6 +2489,39 @@
     </ClInclude>
     <ClInclude Include="PartitionEqualSubsetSum.h">
       <Filter>Source Files\Dynamic Programming\PartitionEqualSubsetSum</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateImage.h">
+      <Filter>Source Files\Array and Strings\RotateImage</Filter>
+    </ClInclude>
+    <ClInclude Include="KnightDialer.h">
+      <Filter>Source Files\Dynamic Programming\KnightDialer</Filter>
+    </ClInclude>
+    <ClInclude Include="CheapestFlightsWithinKStops.h">
+      <Filter>Source Files\Trees and Graphs\CheapestFlightsWithinKStops</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestArithmeticSequence.h">
+      <Filter>Source Files\Dynamic Programming\LongestArithmeticSequence</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumCostForTickets.h">
+      <Filter>Source Files\Dynamic Programming\MinimumCostForTickets</Filter>
+    </ClInclude>
+    <ClInclude Include="FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.h">
+      <Filter>Source Files\Trees and Graphs\FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueReconstructionByHeight.h">
+      <Filter>Source Files\Sorting and Searching\QueueReconstructionByHeight</Filter>
+    </ClInclude>
+    <ClInclude Include="TheSkylineProblem.h">
+      <Filter>Source Files\Array and Strings\TheSkylineProblem</Filter>
+    </ClInclude>
+    <ClInclude Include="FindMinimumInRotatedSortedArrayII.h">
+      <Filter>Source Files\Sorting and Searching\FindMinimumInRotatedSortedArrayII</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperEggDrop.h">
+      <Filter>Source Files\Dynamic Programming\SuperEggDrop</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfWaysToPaintNx3Grid.h">
+      <Filter>Source Files\Dynamic Programming\NumberOfWaysToPaintNx3Grid</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3685,6 +3751,39 @@
     </ClCompile>
     <ClCompile Include="PartitionEqualSubsetSum.cpp">
       <Filter>Source Files\Dynamic Programming\PartitionEqualSubsetSum</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateImage.cpp">
+      <Filter>Source Files\Array and Strings\RotateImage</Filter>
+    </ClCompile>
+    <ClCompile Include="KnightDialer.cpp">
+      <Filter>Source Files\Dynamic Programming\KnightDialer</Filter>
+    </ClCompile>
+    <ClCompile Include="CheapestFlightsWithinKStops.cpp">
+      <Filter>Source Files\Trees and Graphs\CheapestFlightsWithinKStops</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestArithmeticSequence.cpp">
+      <Filter>Source Files\Dynamic Programming\LongestArithmeticSequence</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumCostForTickets.cpp">
+      <Filter>Source Files\Dynamic Programming\MinimumCostForTickets</Filter>
+    </ClCompile>
+    <ClCompile Include="FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cpp">
+      <Filter>Source Files\Trees and Graphs\FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueReconstructionByHeight.cpp">
+      <Filter>Source Files\Sorting and Searching\QueueReconstructionByHeight</Filter>
+    </ClCompile>
+    <ClCompile Include="TheSkylineProblem.cpp">
+      <Filter>Source Files\Array and Strings\TheSkylineProblem</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMinimumInRotatedSortedArrayII.cpp">
+      <Filter>Source Files\Sorting and Searching\FindMinimumInRotatedSortedArrayII</Filter>
+    </ClCompile>
+    <ClCompile Include="SuperEggDrop.cpp">
+      <Filter>Source Files\Dynamic Programming\SuperEggDrop</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfWaysToPaintNx3Grid.cpp">
+      <Filter>Source Files\Dynamic Programming\NumberOfWaysToPaintNx3Grid</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
