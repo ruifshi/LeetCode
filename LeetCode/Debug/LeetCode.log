@@ -1,9 +1,3 @@
-﻿  FindMinimumInRotatedSortedArrayII.cpp
-  NumberOfWaysToPaintNx3Grid.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\numberofwaystopaintnx3grid.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
-  SuperEggDrop.cpp
-  TheSkylineProblem.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\theskylineproblem.cpp(10): warning C4018: '<': signed/unsigned mismatch
-c:\users\rui shi\source\repos\leetcode\leetcode\theskylineproblem.cpp(27): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
+﻿  MissingNumber.cpp
+c:\users\rui shi\source\repos\leetcode\leetcode\missingnumber.cpp(9): warning C4018: '<=': signed/unsigned mismatch
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

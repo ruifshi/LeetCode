@@ -275,6 +275,7 @@
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
     <ClInclude Include="MissingElementInSortedArray.h" />
+    <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MissingRanges.h" />
     <ClInclude Include="MonotonicArray.h" />
     <ClInclude Include="MostCommonWord.h" />
@@ -722,6 +723,7 @@
     <ClCompile Include="MinStack.cpp" />
     <ClCompile Include="MinWindow.cpp" />
     <ClCompile Include="MissingElementInSortedArray.cpp" />
+    <ClCompile Include="MissingNumber.cpp" />
     <ClCompile Include="MissingRanges.cpp" />
     <ClCompile Include="MonotonicArray.cpp" />
     <ClCompile Include="MostCommonWord.cpp" />

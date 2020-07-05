@@ -6,10 +6,10 @@ ListNode* Solution::reverseBetween(ListNode* head, int m, int n) {
 		return head;
 	}
 
-	ListNode *dummy = new ListNode();
-	ListNode *begin = dummy;
+	ListNode dummy;
+	ListNode *begin = &dummy;
 
-	dummy->next = head;
+	dummy.next = head;
 
 	int start = m;
 
@@ -31,5 +31,5 @@ ListNode* Solution::reverseBetween(ListNode* head, int m, int n) {
 		begin->next->next = tmp;
 	}
 
-	return dummy->next;
+	return dummy.next;
 }

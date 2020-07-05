@@ -1282,6 +1282,9 @@
     <Filter Include="Source Files\Dynamic Programming\NumberOfWaysToPaintNx3Grid">
       <UniqueIdentifier>{e5dca350-641a-401f-ac9b-44370999333d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\MissingNumber">
+      <UniqueIdentifier>{78a707da-cfc8-4867-9fdf-9b5d179a62e6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2522,6 +2525,9 @@
     </ClInclude>
     <ClInclude Include="NumberOfWaysToPaintNx3Grid.h">
       <Filter>Source Files\Dynamic Programming\NumberOfWaysToPaintNx3Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingNumber.h">
+      <Filter>Source Files\Array and Strings\MissingNumber</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3784,6 +3790,9 @@
     </ClCompile>
     <ClCompile Include="NumberOfWaysToPaintNx3Grid.cpp">
       <Filter>Source Files\Dynamic Programming\NumberOfWaysToPaintNx3Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingNumber.cpp">
+      <Filter>Source Files\Array and Strings\MissingNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
