@@ -5,10 +5,10 @@
 // O(n), height of tree
 int Solution::closestValue(TreeNode* root, double target) {
 	/*
-    int ans = root->val;
+    int closest = root->val;
     while (root) {
-        if (abs(ans - target) >= abs(root->val - target))
-            ans = root->val;
+        if (abs(closest - target) >= abs(root->val - target))
+            closest = root->val;
         root = target < root->val ? root->left : root->right;
     }
     return closest;

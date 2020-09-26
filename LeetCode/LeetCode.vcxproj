@@ -95,8 +95,10 @@
     <ClInclude Include="AllElementsInTwoBinarySearchTrees.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
+    <ClInclude Include="AnalyzeUserWebsiteVisitPattern.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
+    <ClInclude Include="BaseballGame.h" />
     <ClInclude Include="BasicCalculator.h" />
     <ClInclude Include="BasicCalculatorII.h" />
     <ClInclude Include="BasicCalculatorIII.h" />
@@ -198,6 +200,7 @@
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
+    <ClInclude Include="FloodFill.h" />
     <ClInclude Include="FractionToRecurringDecimal.h" />
     <ClInclude Include="FriendCircles.h" />
     <ClInclude Include="FriendsOfAppropriateAges.h" />
@@ -252,6 +255,7 @@
     <ClInclude Include="MakingALargeIsland.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
     <ClInclude Include="MaxConsecutiveOnesIII.h" />
+    <ClInclude Include="MaximumAverageSubtree.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
     <ClInclude Include="MaximumProductSubarray.h" />
@@ -294,6 +298,7 @@
     <ClInclude Include="NumberOfWaysToPaintNx3Grid.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
+    <ClInclude Include="OnlineStockSpan.h" />
     <ClInclude Include="PalindromePermutation.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionEqualSubsetSum.h" />
@@ -512,8 +517,10 @@
     <ClCompile Include="AllElementsInTwoBinarySearchTrees.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
     <ClCompile Include="AllOoneDataStructure.cpp" />
+    <ClCompile Include="AnalyzeUserWebsiteVisitPattern.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="BackspaceStringCompare.cpp" />
+    <ClCompile Include="BaseballGame.cpp" />
     <ClCompile Include="BasicCalculator.cpp" />
     <ClCompile Include="BasicCalculatorII.cpp" />
     <ClCompile Include="BasicCalculatorIII.cpp" />
@@ -615,6 +622,7 @@
     <ClCompile Include="FlattenBinaryTreeToLinkedList.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
+    <ClCompile Include="FloodFill.cpp" />
     <ClCompile Include="FractionToRecurringDecimal.cpp" />
     <ClCompile Include="FriendCircles.cpp" />
     <ClCompile Include="FriendsOfAppropriateAges.cpp" />
@@ -689,6 +697,7 @@
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
     <ClCompile Include="MaxConsecutiveOnesIII.cpp" />
+    <ClCompile Include="MaximumAverageSubtree.cpp" />
     <ClCompile Include="MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
@@ -754,6 +763,7 @@
     <ClCompile Include="MinNumCoins.cpp" />
     <ClCompile Include="OddEvenLinkedList.cpp" />
     <ClCompile Include="OneEditDist.cpp" />
+    <ClCompile Include="OnlineStockSpan.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="PalindromePairs.cpp" />

@@ -54,3 +54,19 @@ int missingElement(vector<int>& nums, int k) {
 	return nums[lo] + k;
 }
 */
+
+/*
+int missingElement(vector<int>& nums, int k) {
+    unordered_set<int> sett(nums.begin(), nums.end());
+
+    int search = nums[0] + 1;
+    while(k) {
+        if(sett.find(search) == sett.end()) {
+            k--;
+        }
+
+        search++;
+    }
+
+    return search - 1;
+*/

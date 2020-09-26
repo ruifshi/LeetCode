@@ -1126,9 +1126,6 @@
     <Filter Include="Source Files\Array and Strings\DefangingAnIPAddress">
       <UniqueIdentifier>{fbc78d87-901f-47c1-8228-c67966bcbaa7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Array and Strings\MissingElementInSortedArray\MinNumOfKConsecutiveBitFlips">
-      <UniqueIdentifier>{e307cab6-e431-4914-9cf0-70b2be872242}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Array and Strings\FindNUniqueIntegersSumUpToZero">
       <UniqueIdentifier>{421965c7-3c88-4860-96c7-afbec75a590e}</UniqueIdentifier>
     </Filter>
@@ -1284,6 +1281,24 @@
     </Filter>
     <Filter Include="Source Files\Array and Strings\MissingNumber">
       <UniqueIdentifier>{78a707da-cfc8-4867-9fdf-9b5d179a62e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips">
+      <UniqueIdentifier>{e307cab6-e431-4914-9cf0-70b2be872242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\AnalyzeUserWebsiteVisitPattern">
+      <UniqueIdentifier>{d40804c5-6cf8-4c89-be4f-fc8c4f900546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BaseballGame">
+      <UniqueIdentifier>{d5d43e19-1097-4d31-9b62-c857178f5ad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumAverageSubtree">
+      <UniqueIdentifier>{f7eac308-1da6-47c0-a189-31d089a4e86c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\OnlineStockSpan">
+      <UniqueIdentifier>{0db210b7-8cac-43d1-b1b6-672740d7d372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FloodFill">
+      <UniqueIdentifier>{a9487ae2-fbd5-4e0b-b090-6bac04a108d2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1645,7 +1660,7 @@
       <Filter>Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal</Filter>
     </ClInclude>
     <ClInclude Include="MinNumOfKConsecutiveBitFlips.h">
-      <Filter>Source Files\Array and Strings\MissingElementInSortedArray\MinNumOfKConsecutiveBitFlips</Filter>
+      <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
     </ClInclude>
     <ClInclude Include="ReverseString.h">
       <Filter>Source Files\Array and Strings\ReverseString</Filter>
@@ -2529,6 +2544,21 @@
     <ClInclude Include="MissingNumber.h">
       <Filter>Source Files\Array and Strings\MissingNumber</Filter>
     </ClInclude>
+    <ClInclude Include="AnalyzeUserWebsiteVisitPattern.h">
+      <Filter>Source Files\Sorting and Searching\AnalyzeUserWebsiteVisitPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseballGame.h">
+      <Filter>Source Files\Array and Strings\BaseballGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumAverageSubtree.h">
+      <Filter>Source Files\Trees and Graphs\MaximumAverageSubtree</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlineStockSpan.h">
+      <Filter>Source Files\Design\OnlineStockSpan</Filter>
+    </ClInclude>
+    <ClInclude Include="FloodFill.h">
+      <Filter>Source Files\Trees and Graphs\FloodFill</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -2904,7 +2934,7 @@
       <Filter>Source Files\Trees and Graphs\ConstructBSTFromPreorderTraversal</Filter>
     </ClCompile>
     <ClCompile Include="MinNumOfKConsecutiveBitFlips.cpp">
-      <Filter>Source Files\Array and Strings\MissingElementInSortedArray\MinNumOfKConsecutiveBitFlips</Filter>
+      <Filter>Source Files\Array and Strings\MinNumOfKConsecutiveBitFlips</Filter>
     </ClCompile>
     <ClCompile Include="ReverseString.cpp">
       <Filter>Source Files\Array and Strings\ReverseString</Filter>
@@ -3793,6 +3823,21 @@
     </ClCompile>
     <ClCompile Include="MissingNumber.cpp">
       <Filter>Source Files\Array and Strings\MissingNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="AnalyzeUserWebsiteVisitPattern.cpp">
+      <Filter>Source Files\Sorting and Searching\AnalyzeUserWebsiteVisitPattern</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseballGame.cpp">
+      <Filter>Source Files\Array and Strings\BaseballGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumAverageSubtree.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumAverageSubtree</Filter>
+    </ClCompile>
+    <ClCompile Include="OnlineStockSpan.cpp">
+      <Filter>Source Files\Design\OnlineStockSpan</Filter>
+    </ClCompile>
+    <ClCompile Include="FloodFill.cpp">
+      <Filter>Source Files\Trees and Graphs\FloodFill</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
