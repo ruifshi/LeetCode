@@ -238,6 +238,8 @@
     <ClInclude Include="LargestNumber.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
+    <ClInclude Include="LinkedListCycle.h" />
+    <ClInclude Include="LinkedListRandomNode.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
     <ClInclude Include="LongestArithmeticSequence.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
@@ -299,10 +301,12 @@
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="OnlineStockSpan.h" />
+    <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromePermutation.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PartitionEqualSubsetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
+    <ClInclude Include="PartitionList.h" />
     <ClInclude Include="PartitionToKEqualSumSubsets.h" />
     <ClInclude Include="PathSumIII.h" />
     <ClInclude Include="PeakIndexInAMountainArray.h" />
@@ -322,6 +326,7 @@
     <ClInclude Include="RectangleArea.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInStringII.h" />
+    <ClInclude Include="RemoveDuplicatesFromSortedListII.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
@@ -339,6 +344,7 @@
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="RotateImage.h" />
+    <ClInclude Include="RotateList.h" />
     <ClInclude Include="SameTree.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchInRotatedSortedArrayII.h" />
@@ -673,6 +679,8 @@
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LFUCache.cpp" />
     <ClCompile Include="LicenseKeyFormat.cpp" />
+    <ClCompile Include="LinkedListCycle.cpp" />
+    <ClCompile Include="LinkedListRandomNode.cpp" />
     <ClCompile Include="LongestAbsoluteFilePath.cpp" />
     <ClCompile Include="LongestArithmeticSequence.cpp" />
     <ClCompile Include="LongestCommonPrefix.cpp" />
@@ -765,12 +773,14 @@
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="OnlineStockSpan.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
+    <ClCompile Include="PalindromeLinkedList.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="PalindromePairs.cpp" />
     <ClCompile Include="PalindromePermutation.cpp" />
     <ClCompile Include="PalindromicSubstrings.cpp" />
     <ClCompile Include="PartitionEqualSubsetSum.cpp" />
     <ClCompile Include="PartitionLabels.cpp" />
+    <ClCompile Include="PartitionList.cpp" />
     <ClCompile Include="PartitionToKEqualSumSubsets.cpp" />
     <ClCompile Include="PathSumII.cpp" />
     <ClCompile Include="PeakIndexInAMountainArray.cpp" />
@@ -802,6 +812,7 @@
     <ClCompile Include="RemoveAllAdjacentDuplicatesInString.cpp" />
     <ClCompile Include="RemoveAllAdjacentDuplicatesInStringII.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
+    <ClCompile Include="RemoveDuplicatesFromSortedListII.cpp" />
     <ClCompile Include="RemoveInvalidParentheses.cpp" />
     <ClCompile Include="RemoveLinkedListElements.cpp" />
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
@@ -821,6 +832,7 @@
     <ClCompile Include="RomanToInteger.cpp" />
     <ClCompile Include="RotateArray.cpp" />
     <ClCompile Include="RotateImage.cpp" />
+    <ClCompile Include="RotateList.cpp" />
     <ClCompile Include="RottingOranges.cpp" />
     <ClCompile Include="SameTree.cpp" />
     <ClCompile Include="SatisfiabilityOfEqualityEquations.cpp" />

@@ -1,7 +1,2 @@
-﻿  BaseballGame.cpp
-  FloodFill.cpp
-c:\users\rui shi\source\repos\leetcode\leetcode\floodfill.cpp(5): warning C4018: '>=': signed/unsigned mismatch
-  MaximumAverageSubtree.cpp
-  OnlineStockSpan.cpp
-  Generating Code...
+﻿  PalindromeLinkedList.cpp
   LeetCode.vcxproj -> C:\Users\Rui Shi\source\repos\LeetCode\Debug\LeetCode.exe

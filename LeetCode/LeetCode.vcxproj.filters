@@ -1300,6 +1300,24 @@
     <Filter Include="Source Files\Trees and Graphs\FloodFill">
       <UniqueIdentifier>{a9487ae2-fbd5-4e0b-b090-6bac04a108d2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Linked List\PartitionList">
+      <UniqueIdentifier>{fe54974f-a179-4b54-a47f-b1c227fc86d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\LinkedListRandomNode">
+      <UniqueIdentifier>{f0e0e2c0-74a5-4754-a875-3ef8c873cce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\RemoveDuplicatesFromSortedListII">
+      <UniqueIdentifier>{8dbcd33f-5260-41c3-a59b-9aa1dc9ecf0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\PalindromeLinkedList">
+      <UniqueIdentifier>{1b759d1a-7eab-49b9-9b86-a2362a07fe09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\RotateList">
+      <UniqueIdentifier>{9ea88cfa-2f85-42a8-9c60-d4a3215d46b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\LinkedListCycle">
+      <UniqueIdentifier>{91c1319a-a44a-41dd-bedf-2c86228e629a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2558,6 +2576,24 @@
     </ClInclude>
     <ClInclude Include="FloodFill.h">
       <Filter>Source Files\Trees and Graphs\FloodFill</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionList.h">
+      <Filter>Source Files\Linked List\PartitionList</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListRandomNode.h">
+      <Filter>Source Files\Design\LinkedListRandomNode</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveDuplicatesFromSortedListII.h">
+      <Filter>Source Files\Linked List\RemoveDuplicatesFromSortedListII</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeLinkedList.h">
+      <Filter>Source Files\Linked List\PalindromeLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateList.h">
+      <Filter>Source Files\Linked List\RotateList</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListCycle.h">
+      <Filter>Source Files\Linked List\LinkedListCycle</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3838,6 +3874,24 @@
     </ClCompile>
     <ClCompile Include="FloodFill.cpp">
       <Filter>Source Files\Trees and Graphs\FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionList.cpp">
+      <Filter>Source Files\Linked List\PartitionList</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListRandomNode.cpp">
+      <Filter>Source Files\Design\LinkedListRandomNode</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveDuplicatesFromSortedListII.cpp">
+      <Filter>Source Files\Linked List\RemoveDuplicatesFromSortedListII</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromeLinkedList.cpp">
+      <Filter>Source Files\Linked List\PalindromeLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateList.cpp">
+      <Filter>Source Files\Linked List\RotateList</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListCycle.cpp">
+      <Filter>Source Files\Linked List\LinkedListCycle</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
