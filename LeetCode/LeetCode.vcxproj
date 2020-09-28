@@ -119,6 +119,7 @@
     <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BulbSwitcher.h" />
     <ClInclude Include="BurstBalloons.h" />
+    <ClInclude Include="BusRoutes.h" />
     <ClInclude Include="CampusBikes.h" />
     <ClInclude Include="CandyCrush.h" />
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
@@ -149,9 +150,11 @@
     <ClInclude Include="CutOffTreesForGolfEvent.h" />
     <ClInclude Include="DailyTemperature.h" />
     <ClInclude Include="DataStreamAsDisjointIntervals.h" />
+    <ClInclude Include="DecodeString.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DefangingAnIPAddress.h" />
     <ClInclude Include="DesignCircularQueue.h" />
+    <ClInclude Include="DesignHitCounter.h" />
     <ClInclude Include="DesignInMemoryFileSystem.h" />
     <ClInclude Include="DesignSearchAutocompleteSystem.h" />
     <ClInclude Include="DesignSnakeGame.h" />
@@ -195,6 +198,7 @@
     <ClInclude Include="FirstBadVersion.h" />
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
+    <ClInclude Include="FirstUniqueNumber.h" />
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="FlattenAMultilevelDoublyLinkedList.h" />
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
@@ -219,6 +223,7 @@
     <ClInclude Include="InsertDeleteGetRandom.h" />
     <ClInclude Include="InsertDeleteGetRandomDuplicates.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
+    <ClInclude Include="IntegerToRoman.h" />
     <ClInclude Include="IntersectionOfThreeSortedArrays.h" />
     <ClInclude Include="IntersectionOfTwoArraysII.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
@@ -257,6 +262,7 @@
     <ClInclude Include="MakingALargeIsland.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
     <ClInclude Include="MaxConsecutiveOnesIII.h" />
+    <ClInclude Include="MaximalSquare.h" />
     <ClInclude Include="MaximumAverageSubtree.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
@@ -293,6 +299,7 @@
     <ClInclude Include="NonOverlappingIntervals.h" />
     <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NthTribonacciNumber.h" />
+    <ClInclude Include="NumberOfAtoms.h" />
     <ClInclude Include="NumberOfConnectedComponentsInAnUndirectedGraph.h" />
     <ClInclude Include="NumberOfDaysBetweenTwoDates.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
@@ -348,6 +355,7 @@
     <ClInclude Include="SameTree.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchInRotatedSortedArrayII.h" />
+    <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="SerializeAndDeserializeNaryTree.h" />
     <ClInclude Include="SetMatrixZeroes.h" />
     <ClInclude Include="ShortestBridge.h" />
@@ -547,6 +555,7 @@
     <ClCompile Include="BuddyStrings.cpp" />
     <ClCompile Include="BulbSwitcher.cpp" />
     <ClCompile Include="BurstBalloons.cpp" />
+    <ClCompile Include="BusRoutes.cpp" />
     <ClCompile Include="CampusBikes.cpp" />
     <ClCompile Include="CandyCrush.cpp" />
     <ClCompile Include="CheapestFlightsWithinKStops.cpp" />
@@ -577,9 +586,11 @@
     <ClCompile Include="CutOffTreesForGolfEvent.cpp" />
     <ClCompile Include="DailyTemperature.cpp" />
     <ClCompile Include="DataStreamAsDisjointIntervals.cpp" />
+    <ClCompile Include="DecodeString.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DefangingAnIPAddress.cpp" />
     <ClCompile Include="DesignCircularQueue.cpp" />
+    <ClCompile Include="DesignHitCounter.cpp" />
     <ClCompile Include="DesignSnakeGame.cpp" />
     <ClCompile Include="DesignInMemoryFileSystem.cpp" />
     <ClCompile Include="DesignSearchAutocompleteSystem.cpp" />
@@ -623,6 +634,7 @@
     <ClCompile Include="FirstBadVersion.cpp" />
     <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FirstUniqueCharacterInAString.cpp" />
+    <ClCompile Include="FirstUniqueNumber.cpp" />
     <ClCompile Include="FizzBuzz.cpp" />
     <ClCompile Include="FlattenAMultilevelDoublyLinkedList.cpp" />
     <ClCompile Include="FlattenBinaryTreeToLinkedList.cpp" />
@@ -653,6 +665,7 @@
     <ClCompile Include="InsertIntoACyclicSortedList.cpp" />
     <ClCompile Include="IntegerStringConversion.cpp" />
     <ClCompile Include="IntegerToEnglishWords.cpp" />
+    <ClCompile Include="IntegerToRoman.cpp" />
     <ClCompile Include="IntersectionOfThreeSortedArrays.cpp" />
     <ClCompile Include="IntersectionOfTwoArrays.cpp" />
     <ClCompile Include="IntersectionOfTwoArraysII.cpp" />
@@ -705,6 +718,7 @@
     <ClCompile Include="MaxConsecutiveOnes.cpp" />
     <ClCompile Include="MaxConsecutiveOnesFlip.cpp" />
     <ClCompile Include="MaxConsecutiveOnesIII.cpp" />
+    <ClCompile Include="MaximalSquare.cpp" />
     <ClCompile Include="MaximumAverageSubtree.cpp" />
     <ClCompile Include="MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
@@ -758,6 +772,7 @@
     <ClCompile Include="NonOverlappingIntervals.cpp" />
     <ClCompile Include="NthDigit.cpp" />
     <ClCompile Include="NthTribonacciNumber.cpp" />
+    <ClCompile Include="NumberOfAtoms.cpp" />
     <ClCompile Include="NumberOfConnectedComponentsInAnUndirectedGraph.cpp" />
     <ClCompile Include="NumberOfDaysBetweenTwoDates.cpp" />
     <ClCompile Include="NumberOfDiceRollsWithTargetSum.cpp" />
@@ -839,6 +854,7 @@
     <ClCompile Include="SearchA2DMatrixII.cpp" />
     <ClCompile Include="SearchInRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInRotatedSortedArrayII.cpp" />
+    <ClCompile Include="SearchSuggestionsSystem.cpp" />
     <ClCompile Include="SentenceScreenFitting.cpp" />
     <ClCompile Include="SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="SerializeAndDeserializeNaryTree.cpp" />

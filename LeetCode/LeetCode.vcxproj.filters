@@ -1318,6 +1318,30 @@
     <Filter Include="Source Files\Linked List\LinkedListCycle">
       <UniqueIdentifier>{91c1319a-a44a-41dd-bedf-2c86228e629a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Design\FirstUniqueNumber">
+      <UniqueIdentifier>{8848ac12-9844-461e-ae92-1b66dfc65bab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BusRoutes">
+      <UniqueIdentifier>{efbb5cb8-817b-47f9-8e76-e3f9969607e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SearchSuggestionsSystem">
+      <UniqueIdentifier>{6ad74ca0-1b43-4671-a9ea-d6ca592b1199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\DecodeString">
+      <UniqueIdentifier>{a204dc19-4c4a-4849-badf-5f438e458976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\NumberOfAtoms">
+      <UniqueIdentifier>{69b201a6-d02f-4609-945c-1024e29ae946}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximalSquare">
+      <UniqueIdentifier>{77c758c6-2383-40c3-9d79-e2e4039a6f30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\DesignHitCounter">
+      <UniqueIdentifier>{2cfdd8bc-abd3-4578-8335-29bd90c54954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\IntegerToRoman">
+      <UniqueIdentifier>{f96d3631-f9fa-4076-a844-adc0788e81b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2594,6 +2618,30 @@
     </ClInclude>
     <ClInclude Include="LinkedListCycle.h">
       <Filter>Source Files\Linked List\LinkedListCycle</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstUniqueNumber.h">
+      <Filter>Source Files\Design\FirstUniqueNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="BusRoutes.h">
+      <Filter>Source Files\Trees and Graphs\BusRoutes</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchSuggestionsSystem.h">
+      <Filter>Source Files\Sorting and Searching\SearchSuggestionsSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="DecodeString.h">
+      <Filter>Source Files\Array and Strings\DecodeString</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfAtoms.h">
+      <Filter>Source Files\Array and Strings\NumberOfAtoms</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximalSquare.h">
+      <Filter>Source Files\Array and Strings\MaximalSquare</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignHitCounter.h">
+      <Filter>Source Files\Design\DesignHitCounter</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerToRoman.h">
+      <Filter>Source Files\Array and Strings\IntegerToRoman</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3892,6 +3940,30 @@
     </ClCompile>
     <ClCompile Include="LinkedListCycle.cpp">
       <Filter>Source Files\Linked List\LinkedListCycle</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstUniqueNumber.cpp">
+      <Filter>Source Files\Design\FirstUniqueNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="BusRoutes.cpp">
+      <Filter>Source Files\Trees and Graphs\BusRoutes</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchSuggestionsSystem.cpp">
+      <Filter>Source Files\Sorting and Searching\SearchSuggestionsSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="DecodeString.cpp">
+      <Filter>Source Files\Array and Strings\DecodeString</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOfAtoms.cpp">
+      <Filter>Source Files\Array and Strings\NumberOfAtoms</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximalSquare.cpp">
+      <Filter>Source Files\Array and Strings\MaximalSquare</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignHitCounter.cpp">
+      <Filter>Source Files\Design\DesignHitCounter</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegerToRoman.cpp">
+      <Filter>Source Files\Array and Strings\IntegerToRoman</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
