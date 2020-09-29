@@ -104,6 +104,7 @@
     <ClInclude Include="BasicCalculatorIII.h" />
     <ClInclude Include="BattleshipsInABoard.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
@@ -266,6 +267,7 @@
     <ClInclude Include="MaximumAverageSubtree.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
+    <ClInclude Include="MaximumNumberOfNonOverlappingSubstrings.h" />
     <ClInclude Include="MaximumProductSubarray.h" />
     <ClInclude Include="MaximumSumCircularSubarray.h" />
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
@@ -308,6 +310,7 @@
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="OnlineStockSpan.h" />
+    <ClInclude Include="OptimalAccountBalancing.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromePermutation.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
@@ -368,6 +371,7 @@
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SlidingWindowMedian.h" />
     <ClInclude Include="SnakesAndLadders.h" />
+    <ClInclude Include="SolveTheEquation.h" />
     <ClInclude Include="SortColors.h" />
     <ClInclude Include="SortList.h" />
     <ClInclude Include="SparseMatrixMultiplication.h" />
@@ -540,6 +544,7 @@
     <ClCompile Include="BasicCalculatorIII.cpp" />
     <ClCompile Include="BattleshipsInABoard.cpp" />
     <ClCompile Include="BestTimeToBuyAndSellStockII.cpp" />
+    <ClCompile Include="BestTimeToBuyAndSellStockIV.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
@@ -723,6 +728,7 @@
     <ClCompile Include="MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
+    <ClCompile Include="MaximumNumberOfNonOverlappingSubstrings.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
     <ClCompile Include="MaximumProductSubarray.cpp" />
     <ClCompile Include="MaximumSumCircularSubarray.cpp" />
@@ -787,6 +793,7 @@
     <ClCompile Include="OddEvenLinkedList.cpp" />
     <ClCompile Include="OneEditDist.cpp" />
     <ClCompile Include="OnlineStockSpan.cpp" />
+    <ClCompile Include="OptimalAccountBalancing.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="PalindromeLinkedList.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
@@ -873,6 +880,7 @@
     <ClCompile Include="SlidingWindowMedian.cpp" />
     <ClCompile Include="SmallestStringStartingFromLeaf.cpp" />
     <ClCompile Include="SnakesAndLadders.cpp" />
+    <ClCompile Include="SolveTheEquation.cpp" />
     <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="SortList.cpp" />
     <ClCompile Include="SortTransformedArray.cpp" />

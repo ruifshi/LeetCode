@@ -1342,6 +1342,18 @@
     <Filter Include="Source Files\Array and Strings\IntegerToRoman">
       <UniqueIdentifier>{f96d3631-f9fa-4076-a844-adc0788e81b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximumNumberOfNonOverlappingSubstrings">
+      <UniqueIdentifier>{97f70565-269c-42a1-b2e5-2745a240dbf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SolveTheEquation">
+      <UniqueIdentifier>{9d4392e6-1ab1-4ce4-89bd-2c5da5924c02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\BestTimeToBuyAndSellStockIV">
+      <UniqueIdentifier>{60784c4e-b38d-4f69-b94a-1042989d76d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\OptimalAccountBalancing">
+      <UniqueIdentifier>{85b7501f-680a-4797-bbde-a776f9fba842}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2642,6 +2654,18 @@
     </ClInclude>
     <ClInclude Include="IntegerToRoman.h">
       <Filter>Source Files\Array and Strings\IntegerToRoman</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumNumberOfNonOverlappingSubstrings.h">
+      <Filter>Source Files\Array and Strings\MaximumNumberOfNonOverlappingSubstrings</Filter>
+    </ClInclude>
+    <ClInclude Include="SolveTheEquation.h">
+      <Filter>Source Files\Array and Strings\SolveTheEquation</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimeToBuyAndSellStockIV.h">
+      <Filter>Source Files\Dynamic Programming\BestTimeToBuyAndSellStockIV</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimalAccountBalancing.h">
+      <Filter>Source Files\Trees and Graphs\OptimalAccountBalancing</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -3964,6 +3988,18 @@
     </ClCompile>
     <ClCompile Include="IntegerToRoman.cpp">
       <Filter>Source Files\Array and Strings\IntegerToRoman</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumNumberOfNonOverlappingSubstrings.cpp">
+      <Filter>Source Files\Array and Strings\MaximumNumberOfNonOverlappingSubstrings</Filter>
+    </ClCompile>
+    <ClCompile Include="SolveTheEquation.cpp">
+      <Filter>Source Files\Array and Strings\SolveTheEquation</Filter>
+    </ClCompile>
+    <ClCompile Include="BestTimeToBuyAndSellStockIV.cpp">
+      <Filter>Source Files\Dynamic Programming\BestTimeToBuyAndSellStockIV</Filter>
+    </ClCompile>
+    <ClCompile Include="OptimalAccountBalancing.cpp">
+      <Filter>Source Files\Trees and Graphs\OptimalAccountBalancing</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
