@@ -106,6 +106,7 @@
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
     <ClInclude Include="BinarySearchTreeIterator.h" />
+    <ClInclude Include="BinarySearchTreeToGreaterSumTree.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="BinaryTreeLongestConsecutiveSequenceII.h" />
@@ -123,6 +124,7 @@
     <ClInclude Include="BusRoutes.h" />
     <ClInclude Include="CampusBikes.h" />
     <ClInclude Include="CandyCrush.h" />
+    <ClInclude Include="CapacityToShipPackagesWithinDDays.h" />
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="ClimbingStairs.h" />
@@ -244,6 +246,7 @@
     <ClInclude Include="LargestNumber.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
     <ClInclude Include="LFUCache.h" />
+    <ClInclude Include="LineReflection.h" />
     <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="LinkedListRandomNode.h" />
     <ClInclude Include="LongestAbsoluteFilePath.h" />
@@ -282,6 +285,7 @@
     <ClInclude Include="MinimumCostForTickets.h" />
     <ClInclude Include="MinimumCostToConnectSticks.h" />
     <ClInclude Include="MinimumCostToMergeStones.h" />
+    <ClInclude Include="MinimumCostTreeFromLeafValues.h" />
     <ClInclude Include="MinimumDepthOfBinaryTree.h" />
     <ClInclude Include="MinimumKnightMoves.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
@@ -299,6 +303,7 @@
     <ClInclude Include="NextGreaterElementII.h" />
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
     <ClInclude Include="NonOverlappingIntervals.h" />
+    <ClInclude Include="NQueens.h" />
     <ClInclude Include="NthDigit.h" />
     <ClInclude Include="NthTribonacciNumber.h" />
     <ClInclude Include="NumberOfAtoms.h" />
@@ -546,6 +551,7 @@
     <ClCompile Include="BestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="BestTimeToBuyAndSellStockIV.cpp" />
     <ClCompile Include="BinarySearchTreeIterator.cpp" />
+    <ClCompile Include="BinarySearchTreeToGreaterSumTree.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLongestConsecutiveSequenceII.cpp" />
@@ -563,6 +569,7 @@
     <ClCompile Include="BusRoutes.cpp" />
     <ClCompile Include="CampusBikes.cpp" />
     <ClCompile Include="CandyCrush.cpp" />
+    <ClCompile Include="CapacityToShipPackagesWithinDDays.cpp" />
     <ClCompile Include="CheapestFlightsWithinKStops.cpp" />
     <ClCompile Include="CheckCompletenessOfABinaryTree.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
@@ -697,6 +704,7 @@
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LFUCache.cpp" />
     <ClCompile Include="LicenseKeyFormat.cpp" />
+    <ClCompile Include="LineReflection.cpp" />
     <ClCompile Include="LinkedListCycle.cpp" />
     <ClCompile Include="LinkedListRandomNode.cpp" />
     <ClCompile Include="LongestAbsoluteFilePath.cpp" />
@@ -749,6 +757,7 @@
     <ClCompile Include="MinimumCostForTickets.cpp" />
     <ClCompile Include="MinimumCostToConnectSticks.cpp" />
     <ClCompile Include="MinimumCostToMergeStones.cpp" />
+    <ClCompile Include="MinimumCostTreeFromLeafValues.cpp" />
     <ClCompile Include="MinimumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MinimumKnightMoves.cpp" />
     <ClCompile Include="MinimumNumberOfArrowsToBurstBalloons.cpp" />
@@ -776,6 +785,7 @@
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NondecreasingArray.cpp" />
     <ClCompile Include="NonOverlappingIntervals.cpp" />
+    <ClCompile Include="NQueens.cpp" />
     <ClCompile Include="NthDigit.cpp" />
     <ClCompile Include="NthTribonacciNumber.cpp" />
     <ClCompile Include="NumberOfAtoms.cpp" />

@@ -1354,6 +1354,21 @@
     <Filter Include="Source Files\Trees and Graphs\OptimalAccountBalancing">
       <UniqueIdentifier>{85b7501f-680a-4797-bbde-a776f9fba842}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\CapacityToShipPackagesWithinDDays">
+      <UniqueIdentifier>{cbe9f4d0-af8a-410f-9b0e-a0a8d5ce8aaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinarySearchTreeToGreaterSumTree">
+      <UniqueIdentifier>{f04b55c5-308b-488c-bfe9-83d8e48a5e97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MinimumCostTreeFromLeafValues">
+      <UniqueIdentifier>{b95cbc56-f90a-4a1c-99e8-b87ac23a273b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LineReflection">
+      <UniqueIdentifier>{5a59de7b-abef-4fd9-9756-838dad3c1d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\NQueens">
+      <UniqueIdentifier>{a43fe89b-d06f-4c92-9c2b-11dfd1cc50b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2666,6 +2681,21 @@
     </ClInclude>
     <ClInclude Include="OptimalAccountBalancing.h">
       <Filter>Source Files\Trees and Graphs\OptimalAccountBalancing</Filter>
+    </ClInclude>
+    <ClInclude Include="CapacityToShipPackagesWithinDDays.h">
+      <Filter>Source Files\Sorting and Searching\CapacityToShipPackagesWithinDDays</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchTreeToGreaterSumTree.h">
+      <Filter>Source Files\Trees and Graphs\BinarySearchTreeToGreaterSumTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumCostTreeFromLeafValues.h">
+      <Filter>Source Files\Trees and Graphs\MinimumCostTreeFromLeafValues</Filter>
+    </ClInclude>
+    <ClInclude Include="LineReflection.h">
+      <Filter>Source Files\Sorting and Searching\LineReflection</Filter>
+    </ClInclude>
+    <ClInclude Include="NQueens.h">
+      <Filter>Source Files\Recursion\NQueens</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4000,6 +4030,21 @@
     </ClCompile>
     <ClCompile Include="OptimalAccountBalancing.cpp">
       <Filter>Source Files\Trees and Graphs\OptimalAccountBalancing</Filter>
+    </ClCompile>
+    <ClCompile Include="CapacityToShipPackagesWithinDDays.cpp">
+      <Filter>Source Files\Sorting and Searching\CapacityToShipPackagesWithinDDays</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTreeToGreaterSumTree.cpp">
+      <Filter>Source Files\Trees and Graphs\BinarySearchTreeToGreaterSumTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumCostTreeFromLeafValues.cpp">
+      <Filter>Source Files\Trees and Graphs\MinimumCostTreeFromLeafValues</Filter>
+    </ClCompile>
+    <ClCompile Include="LineReflection.cpp">
+      <Filter>Source Files\Sorting and Searching\LineReflection</Filter>
+    </ClCompile>
+    <ClCompile Include="NQueens.cpp">
+      <Filter>Source Files\Recursion\NQueens</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
