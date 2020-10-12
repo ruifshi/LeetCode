@@ -1369,6 +1369,30 @@
     <Filter Include="Source Files\Recursion\NQueens">
       <UniqueIdentifier>{a43fe89b-d06f-4c92-9c2b-11dfd1cc50b7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindKLengthSubstringsWithNoRepeatedCharacters">
+      <UniqueIdentifier>{f2f80e3e-d59d-44d1-a127-f4de3b4e2e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\BreakAPalindrome">
+      <UniqueIdentifier>{ee2c4c12-063d-4bfe-a663-c05ec7a38141}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\PairsOfSongsWithTotalDurationsDivisibleBy60">
+      <UniqueIdentifier>{8c0ba331-2b6f-4f9e-8f0d-16decdd94c7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\AllPathsFromSourceToTarget">
+      <UniqueIdentifier>{db4a8f8d-e49b-4321-bec4-f7218100e36b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\RemoveZeroSumConsecutiveNodesFromLinkedList">
+      <UniqueIdentifier>{9fa12e26-f7d2-4923-ba0e-e5f418e04964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits">
+      <UniqueIdentifier>{656411cb-293b-4d2b-b6a9-0863bc9ad770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree">
+      <UniqueIdentifier>{573800f4-d29a-4a60-9b23-7ee4a147af41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PyramidTransitionMatrix">
+      <UniqueIdentifier>{646e6a7c-7303-4254-9924-82517a202eb2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2696,6 +2720,30 @@
     </ClInclude>
     <ClInclude Include="NQueens.h">
       <Filter>Source Files\Recursion\NQueens</Filter>
+    </ClInclude>
+    <ClInclude Include="FindKLengthSubstringsWithNoRepeatedCharacters.h">
+      <Filter>Source Files\Sorting and Searching\FindKLengthSubstringsWithNoRepeatedCharacters</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakAPalindrome.h">
+      <Filter>Source Files\Array and Strings\BreakAPalindrome</Filter>
+    </ClInclude>
+    <ClInclude Include="PairsOfSongsWithTotalDurationsDivisibleBy60.h">
+      <Filter>Source Files\Array and Strings\PairsOfSongsWithTotalDurationsDivisibleBy60</Filter>
+    </ClInclude>
+    <ClInclude Include="AllPathsFromSourceToTarget.h">
+      <Filter>Source Files\Trees and Graphs\AllPathsFromSourceToTarget</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveZeroSumConsecutiveNodesFromLinkedList.h">
+      <Filter>Source Files\Linked List\RemoveZeroSumConsecutiveNodesFromLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits.h">
+      <Filter>Source Files\Sorting and Searching\MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="PyramidTransitionMatrix.h">
+      <Filter>Source Files\Trees and Graphs\PyramidTransitionMatrix</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4045,6 +4093,30 @@
     </ClCompile>
     <ClCompile Include="NQueens.cpp">
       <Filter>Source Files\Recursion\NQueens</Filter>
+    </ClCompile>
+    <ClCompile Include="FindKLengthSubstringsWithNoRepeatedCharacters.cpp">
+      <Filter>Source Files\Sorting and Searching\FindKLengthSubstringsWithNoRepeatedCharacters</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakAPalindrome.cpp">
+      <Filter>Source Files\Array and Strings\BreakAPalindrome</Filter>
+    </ClCompile>
+    <ClCompile Include="PairsOfSongsWithTotalDurationsDivisibleBy60.cpp">
+      <Filter>Source Files\Array and Strings\PairsOfSongsWithTotalDurationsDivisibleBy60</Filter>
+    </ClCompile>
+    <ClCompile Include="AllPathsFromSourceToTarget.cpp">
+      <Filter>Source Files\Trees and Graphs\AllPathsFromSourceToTarget</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveZeroSumConsecutiveNodesFromLinkedList.cpp">
+      <Filter>Source Files\Linked List\RemoveZeroSumConsecutiveNodesFromLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits.cpp">
+      <Filter>Source Files\Sorting and Searching\MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="PyramidTransitionMatrix.cpp">
+      <Filter>Source Files\Trees and Graphs\PyramidTransitionMatrix</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

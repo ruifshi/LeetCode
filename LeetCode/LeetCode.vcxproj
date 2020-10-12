@@ -95,6 +95,7 @@
     <ClInclude Include="AllElementsInTwoBinarySearchTrees.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
+    <ClInclude Include="AllPathsFromSourceToTarget.h" />
     <ClInclude Include="AnalyzeUserWebsiteVisitPattern.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
@@ -117,6 +118,7 @@
     <ClInclude Include="BinaryTreeVerticalOrderTraversal.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="BoundaryOfBinaryTree.h" />
+    <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BrokenCalculator.h" />
     <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BulbSwitcher.h" />
@@ -127,6 +129,7 @@
     <ClInclude Include="CapacityToShipPackagesWithinDDays.h" />
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
+    <ClInclude Include="CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="ClosestBinarySearchTreeValue.h" />
@@ -185,6 +188,7 @@
     <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindKClosestElements.h" />
+    <ClInclude Include="FindKLengthSubstringsWithNoRepeatedCharacters.h" />
     <ClInclude Include="FindKPairsWithSmallestSums.h" />
     <ClInclude Include="FindKthSmallestPairDistance.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
@@ -289,6 +293,7 @@
     <ClInclude Include="MinimumDepthOfBinaryTree.h" />
     <ClInclude Include="MinimumKnightMoves.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
+    <ClInclude Include="MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
@@ -316,6 +321,7 @@
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="OnlineStockSpan.h" />
     <ClInclude Include="OptimalAccountBalancing.h" />
+    <ClInclude Include="PairsOfSongsWithTotalDurationsDivisibleBy60.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromePermutation.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
@@ -332,6 +338,7 @@
     <ClInclude Include="PrimePalindrome.h" />
     <ClInclude Include="PrisonCellsAfterNDays.h" />
     <ClInclude Include="ProductOfArrayExceptSelf.h" />
+    <ClInclude Include="PyramidTransitionMatrix.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RandomPickIndex.h" />
     <ClInclude Include="RandomPickWithWeight.h" />
@@ -346,6 +353,7 @@
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="RemoveSubFoldersFromTheFilesystem.h" />
+    <ClInclude Include="RemoveZeroSumConsecutiveNodesFromLinkedList.h" />
     <ClInclude Include="ReorderDataInLogFiles.h" />
     <ClInclude Include="ReorderList.h" />
     <ClInclude Include="ReorganizeString.h" />
@@ -540,6 +548,7 @@
     <ClCompile Include="AllElementsInTwoBinarySearchTrees.cpp" />
     <ClCompile Include="AllNodesDistanceKinBinaryTree.cpp" />
     <ClCompile Include="AllOoneDataStructure.cpp" />
+    <ClCompile Include="AllPathsFromSourceToTarget.cpp" />
     <ClCompile Include="AnalyzeUserWebsiteVisitPattern.cpp" />
     <ClCompile Include="AndroidUnlockPatterns.cpp" />
     <ClCompile Include="BackspaceStringCompare.cpp" />
@@ -562,6 +571,7 @@
     <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeZigzagLevelOrderTraversal.cpp" />
     <ClCompile Include="BoundaryOfBinaryTree.cpp" />
+    <ClCompile Include="BreakAPalindrome.cpp" />
     <ClCompile Include="BrokenCalculator.cpp" />
     <ClCompile Include="BuddyStrings.cpp" />
     <ClCompile Include="BulbSwitcher.cpp" />
@@ -572,6 +582,7 @@
     <ClCompile Include="CapacityToShipPackagesWithinDDays.cpp" />
     <ClCompile Include="CheapestFlightsWithinKStops.cpp" />
     <ClCompile Include="CheckCompletenessOfABinaryTree.cpp" />
+    <ClCompile Include="CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CloneGraph.cpp" />
     <ClCompile Include="ClosestBinarySearchTreeValue.cpp" />
@@ -630,6 +641,7 @@
     <ClCompile Include="FindDuplicateFileInSystem.cpp" />
     <ClCompile Include="FindFirstAndLastPositionOfElementInSortedArray.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
+    <ClCompile Include="FindKLengthSubstringsWithNoRepeatedCharacters.cpp" />
     <ClCompile Include="FindKPairsWithSmallestSums.cpp" />
     <ClCompile Include="FindKthSmallestPairDistance.cpp" />
     <ClCompile Include="FindLargestValueInEachTreeRow.cpp" />
@@ -762,6 +774,7 @@
     <ClCompile Include="MinimumKnightMoves.cpp" />
     <ClCompile Include="MinimumNumberOfArrowsToBurstBalloons.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
+    <ClCompile Include="MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits.cpp" />
     <ClCompile Include="MinimumRemoveToMakeValidParentheses.cpp" />
     <ClCompile Include="MinimumSizeSubarraySum.cpp" />
     <ClCompile Include="MinimumTimeToCollectAllApplesInATree.cpp" />
@@ -805,6 +818,7 @@
     <ClCompile Include="OnlineStockSpan.cpp" />
     <ClCompile Include="OptimalAccountBalancing.cpp" />
     <ClCompile Include="PacificAtlanticWaterFlow.cpp" />
+    <ClCompile Include="PairsOfSongsWithTotalDurationsDivisibleBy60.cpp" />
     <ClCompile Include="PalindromeLinkedList.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="PalindromePairs.cpp" />
@@ -828,6 +842,7 @@
     <ClCompile Include="Prims.cpp" />
     <ClCompile Include="PrisonCellsAfterNDays.cpp" />
     <ClCompile Include="ProductOfArrayExceptSelf.cpp" />
+    <ClCompile Include="PyramidTransitionMatrix.cpp" />
     <ClCompile Include="QueueReconstructionByHeight.cpp" />
     <ClCompile Include="RandomPickIndex.cpp" />
     <ClCompile Include="RandomPickWithWeight.cpp" />
@@ -849,6 +864,7 @@
     <ClCompile Include="RemoveLinkedListElements.cpp" />
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
     <ClCompile Include="RemoveSubFoldersFromTheFilesystem.cpp" />
+    <ClCompile Include="RemoveZeroSumConsecutiveNodesFromLinkedList.cpp" />
     <ClCompile Include="ReorderDataInLogFiles.cpp" />
     <ClCompile Include="ReorderList.cpp" />
     <ClCompile Include="ReorganizeString.cpp" />
