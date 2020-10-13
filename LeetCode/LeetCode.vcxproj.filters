@@ -1393,6 +1393,9 @@
     <Filter Include="Source Files\Trees and Graphs\PyramidTransitionMatrix">
       <UniqueIdentifier>{646e6a7c-7303-4254-9924-82517a202eb2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\UncommonWordsFromTwoSentences">
+      <UniqueIdentifier>{fa27fd1c-731d-4941-8ad7-56d750f93c0f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2744,6 +2747,9 @@
     </ClInclude>
     <ClInclude Include="PyramidTransitionMatrix.h">
       <Filter>Source Files\Trees and Graphs\PyramidTransitionMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="UncommonWordsFromTwoSentences.h">
+      <Filter>Source Files\Sorting and Searching\UncommonWordsFromTwoSentences</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4117,6 +4123,9 @@
     </ClCompile>
     <ClCompile Include="PyramidTransitionMatrix.cpp">
       <Filter>Source Files\Trees and Graphs\PyramidTransitionMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="UncommonWordsFromTwoSentences.cpp">
+      <Filter>Source Files\Sorting and Searching\UncommonWordsFromTwoSentences</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

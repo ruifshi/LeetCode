@@ -418,6 +418,7 @@
     <ClInclude Include="TwoSumIVInputIsABST.h" />
     <ClInclude Include="TwoSumLessThanK.h" />
     <ClInclude Include="TwoSums.h" />
+    <ClInclude Include="UncommonWordsFromTwoSentences.h" />
     <ClInclude Include="UniqueBinarySearchTreesII.h" />
     <ClInclude Include="UniquePathsIII.h" />
     <ClInclude Include="ValidAnagram.h" />
@@ -958,6 +959,7 @@
     <ClCompile Include="TwoSumIVInputIsABST.cpp" />
     <ClCompile Include="TwoSumLessThanK.cpp" />
     <ClCompile Include="TwoSums.cpp" />
+    <ClCompile Include="UncommonWordsFromTwoSentences.cpp" />
     <ClCompile Include="UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="UniqueBinarySearchTreesII.cpp" />
     <ClCompile Include="UniqueEmailAddresses.cpp" />
