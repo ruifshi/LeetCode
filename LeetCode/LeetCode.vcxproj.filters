@@ -1396,6 +1396,27 @@
     <Filter Include="Source Files\Sorting and Searching\UncommonWordsFromTwoSentences">
       <UniqueIdentifier>{fa27fd1c-731d-4941-8ad7-56d750f93c0f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LongestHappyString">
+      <UniqueIdentifier>{34e43da8-964e-4d96-bc31-fda42bec2cfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\ShuffleAnArray">
+      <UniqueIdentifier>{efeacd8f-dc93-4cc2-ac95-aabcd813fa53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\GlobalAndLocalInversions">
+      <UniqueIdentifier>{4cfa767d-9fd0-4490-a2f6-a7d711456cd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\PathWithMaximumMinimumValue">
+      <UniqueIdentifier>{0f36bd7f-c3b0-4e12-b29d-460027cf4c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\GetWatchedVideosByYourFriends">
+      <UniqueIdentifier>{29b1a190-698a-4782-9e4f-b0e6690bec75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LengthOfLongestFibonacciSubsequence">
+      <UniqueIdentifier>{e01652bd-1321-44f9-93a7-ec772dfbca1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\CompareVersionNumbers">
+      <UniqueIdentifier>{9f11e2ab-83c1-4cbf-8f52-b5a5e825a56b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2750,6 +2771,27 @@
     </ClInclude>
     <ClInclude Include="UncommonWordsFromTwoSentences.h">
       <Filter>Source Files\Sorting and Searching\UncommonWordsFromTwoSentences</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestHappyString.h">
+      <Filter>Source Files\Sorting and Searching\LongestHappyString</Filter>
+    </ClInclude>
+    <ClInclude Include="ShuffleAnArray.h">
+      <Filter>Source Files\Design\ShuffleAnArray</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalAndLocalInversions.h">
+      <Filter>Source Files\Array and Strings\GlobalAndLocalInversions</Filter>
+    </ClInclude>
+    <ClInclude Include="PathWithMaximumMinimumValue.h">
+      <Filter>Source Files\Trees and Graphs\PathWithMaximumMinimumValue</Filter>
+    </ClInclude>
+    <ClInclude Include="GetWatchedVideosByYourFriends.h">
+      <Filter>Source Files\Trees and Graphs\GetWatchedVideosByYourFriends</Filter>
+    </ClInclude>
+    <ClInclude Include="LengthOfLongestFibonacciSubsequence.h">
+      <Filter>Source Files\Sorting and Searching\LengthOfLongestFibonacciSubsequence</Filter>
+    </ClInclude>
+    <ClInclude Include="CompareVersionNumbers.h">
+      <Filter>Source Files\Array and Strings\CompareVersionNumbers</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4126,6 +4168,27 @@
     </ClCompile>
     <ClCompile Include="UncommonWordsFromTwoSentences.cpp">
       <Filter>Source Files\Sorting and Searching\UncommonWordsFromTwoSentences</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestHappyString.cpp">
+      <Filter>Source Files\Sorting and Searching\LongestHappyString</Filter>
+    </ClCompile>
+    <ClCompile Include="ShuffleAnArray.cpp">
+      <Filter>Source Files\Design\ShuffleAnArray</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalAndLocalInversions.cpp">
+      <Filter>Source Files\Array and Strings\GlobalAndLocalInversions</Filter>
+    </ClCompile>
+    <ClCompile Include="PathWithMaximumMinimumValue.cpp">
+      <Filter>Source Files\Trees and Graphs\PathWithMaximumMinimumValue</Filter>
+    </ClCompile>
+    <ClCompile Include="GetWatchedVideosByYourFriends.cpp">
+      <Filter>Source Files\Trees and Graphs\GetWatchedVideosByYourFriends</Filter>
+    </ClCompile>
+    <ClCompile Include="LengthOfLongestFibonacciSubsequence.cpp">
+      <Filter>Source Files\Sorting and Searching\LengthOfLongestFibonacciSubsequence</Filter>
+    </ClCompile>
+    <ClCompile Include="CompareVersionNumbers.cpp">
+      <Filter>Source Files\Array and Strings\CompareVersionNumbers</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
