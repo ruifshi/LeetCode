@@ -160,6 +160,7 @@
     <ClInclude Include="DecodeString.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DefangingAnIPAddress.h" />
+    <ClInclude Include="DesignALeaderboard.h" />
     <ClInclude Include="DesignCircularQueue.h" />
     <ClInclude Include="DesignHitCounter.h" />
     <ClInclude Include="DesignInMemoryFileSystem.h" />
@@ -223,6 +224,7 @@
     <ClInclude Include="GetWatchedVideosByYourFriends.h" />
     <ClInclude Include="GlobalAndLocalInversions.h" />
     <ClInclude Include="GoatLatin.h" />
+    <ClInclude Include="GraphValidTree.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
     <ClInclude Include="ImplementMagicDictionary.h" />
@@ -621,6 +623,7 @@
     <ClCompile Include="DecodeString.cpp" />
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DefangingAnIPAddress.cpp" />
+    <ClCompile Include="DesignALeaderboard.cpp" />
     <ClCompile Include="DesignCircularQueue.cpp" />
     <ClCompile Include="DesignHitCounter.cpp" />
     <ClCompile Include="DesignSnakeGame.cpp" />
@@ -684,6 +687,7 @@
     <ClCompile Include="GetWatchedVideosByYourFriends.cpp" />
     <ClCompile Include="GlobalAndLocalInversions.cpp" />
     <ClCompile Include="GoatLatin.cpp" />
+    <ClCompile Include="GraphValidTree.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="GroupShiftedStrings.cpp" />
     <ClCompile Include="HouseRobberII.cpp" />

@@ -4,11 +4,11 @@
 
 using namespace std;
 
-class Solution {
+class Solution3 {
 private:
   vector<int> nums;
 public:
-  Solution(vector<int>& nums);
+  Solution3(vector<int>& nums);
 
   /** Resets the array to its original configuration and return it. */
   vector<int> reset();

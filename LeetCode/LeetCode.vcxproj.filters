@@ -1417,6 +1417,12 @@
     <Filter Include="Source Files\Array and Strings\CompareVersionNumbers">
       <UniqueIdentifier>{9f11e2ab-83c1-4cbf-8f52-b5a5e825a56b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Design\DesignALeaderboard">
+      <UniqueIdentifier>{a125ab10-8263-4eb0-bad4-59ee9713c71c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\GraphValidTree">
+      <UniqueIdentifier>{7ebe12b9-50e9-44a8-afde-461764842e6b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2792,6 +2798,12 @@
     </ClInclude>
     <ClInclude Include="CompareVersionNumbers.h">
       <Filter>Source Files\Array and Strings\CompareVersionNumbers</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignALeaderboard.h">
+      <Filter>Source Files\Design\DesignALeaderboard</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphValidTree.h">
+      <Filter>Source Files\Trees and Graphs\GraphValidTree</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4189,6 +4201,12 @@
     </ClCompile>
     <ClCompile Include="CompareVersionNumbers.cpp">
       <Filter>Source Files\Array and Strings\CompareVersionNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignALeaderboard.cpp">
+      <Filter>Source Files\Design\DesignALeaderboard</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphValidTree.cpp">
+      <Filter>Source Files\Trees and Graphs\GraphValidTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
