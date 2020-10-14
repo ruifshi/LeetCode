@@ -1423,6 +1423,9 @@
     <Filter Include="Source Files\Trees and Graphs\GraphValidTree">
       <UniqueIdentifier>{7ebe12b9-50e9-44a8-afde-461764842e6b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConstructBinaryTreeFromInorderAndPostorderTraversal">
+      <UniqueIdentifier>{3baf1309-2f8c-4726-a306-a0a4e0b48d1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2804,6 +2807,9 @@
     </ClInclude>
     <ClInclude Include="GraphValidTree.h">
       <Filter>Source Files\Trees and Graphs\GraphValidTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromInorderAndPostorderTraversal</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4207,6 +4213,9 @@
     </ClCompile>
     <ClCompile Include="GraphValidTree.cpp">
       <Filter>Source Files\Trees and Graphs\GraphValidTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromInorderAndPostorderTraversal</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

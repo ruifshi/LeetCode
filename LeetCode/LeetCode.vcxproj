@@ -139,6 +139,7 @@
     <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConcatenatedWords.h" />
+    <ClInclude Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.h" />
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="ConstructBinaryTreeFromString.h" />
     <ClInclude Include="ConstructBSTFromPreorderTraversal.h" />
@@ -602,6 +603,7 @@
     <ClCompile Include="CombinationSumII.cpp" />
     <ClCompile Include="CompareVersionNumbers.cpp" />
     <ClCompile Include="ConcatenatedWords.cpp" />
+    <ClCompile Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp" />
     <ClCompile Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp" />
     <ClCompile Include="ConstructBinaryTreeFromString.cpp" />
     <ClCompile Include="ConstructBSTFromPreorderTraversal.cpp" />
