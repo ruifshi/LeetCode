@@ -1426,6 +1426,21 @@
     <Filter Include="Source Files\Trees and Graphs\ConstructBinaryTreeFromInorderAndPostorderTraversal">
       <UniqueIdentifier>{3baf1309-2f8c-4726-a306-a0a4e0b48d1c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RemoveKDigits">
+      <UniqueIdentifier>{462b2c15-ae55-4ef2-8362-d355e6507b6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\PartitionArrayIntoThreePartsWithEqualSum">
+      <UniqueIdentifier>{56818945-4107-4922-bfd6-7ec2f72706ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\MyCalendarI">
+      <UniqueIdentifier>{653e2d4c-21d2-4524-8148-7dd6c0871ee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FlipStringToMonotoneIncreasing">
+      <UniqueIdentifier>{cb6f64e6-e36f-494b-8146-4219c27aecb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ScoreOfParentheses">
+      <UniqueIdentifier>{665a9fe0-1c9b-497f-ab3d-8f11cdbd3f77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2810,6 +2825,21 @@
     </ClInclude>
     <ClInclude Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.h">
       <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromInorderAndPostorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveKDigits.h">
+      <Filter>Source Files\Sorting and Searching\RemoveKDigits</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionArrayIntoThreePartsWithEqualSum.h">
+      <Filter>Source Files\Array and Strings\PartitionArrayIntoThreePartsWithEqualSum</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCalendarI.h">
+      <Filter>Source Files\Design\MyCalendarI</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipStringToMonotoneIncreasing.h">
+      <Filter>Source Files\Array and Strings\FlipStringToMonotoneIncreasing</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreOfParentheses.h">
+      <Filter>Source Files\Sorting and Searching\ScoreOfParentheses</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4216,6 +4246,21 @@
     </ClCompile>
     <ClCompile Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp">
       <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromInorderAndPostorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveKDigits.cpp">
+      <Filter>Source Files\Sorting and Searching\RemoveKDigits</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionArrayIntoThreePartsWithEqualSum.cpp">
+      <Filter>Source Files\Array and Strings\PartitionArrayIntoThreePartsWithEqualSum</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCalendarI.cpp">
+      <Filter>Source Files\Design\MyCalendarI</Filter>
+    </ClCompile>
+    <ClCompile Include="FlipStringToMonotoneIncreasing.cpp">
+      <Filter>Source Files\Array and Strings\FlipStringToMonotoneIncreasing</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreOfParentheses.cpp">
+      <Filter>Source Files\Sorting and Searching\ScoreOfParentheses</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

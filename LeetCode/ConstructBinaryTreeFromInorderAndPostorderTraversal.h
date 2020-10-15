@@ -20,6 +20,6 @@ private:
   unordered_map<int, int> hmap;
 
 public:
-  TreeNode* helper(int left, int right, int postIdx, vector<int>& inorder, vector<int>& postorder);
-  TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder);
+  TreeNode* helper(int left, int right, int &postIdx, vector<int>& inorder, vector<int>& postorder);
+  TreeNode* buildTree2(vector<int>& inorder, vector<int>& postorder);
 };

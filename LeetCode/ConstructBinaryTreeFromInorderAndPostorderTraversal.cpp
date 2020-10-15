@@ -18,14 +18,15 @@ TreeNode* Solution::helper(int left, int right, int &postIdx, vector<int>& inord
   // into left and right subtrees
   int index = hmap[root_val];
 
+  postIdx--;
   // build right subtree
-  root->right = helper(index + 1, right, postIdx--, inorder, postorder);
+  root->right = helper(index + 1, right, postIdx, inorder, postorder);
   // build left subtree
-  root->left = helper(left, index - 1, postIdx--, inorder, postorder);
+  root->left = helper(left, index - 1, postIdx, inorder, postorder);
   return root;
 }
 
-TreeNode* Solution::buildTree(vector<int>& inorder, vector<int>& postorder) {
+TreeNode* Solution::buildTree2(vector<int>& inorder, vector<int>& postorder) {
   if (inorder.size() == 0 || postorder.size() == 0) return nullptr;
 
   int postIdx = postorder.size() - 1; // This is the root

@@ -214,6 +214,7 @@
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipBinaryTreeToMatchPreorderTraversal.h" />
+    <ClInclude Include="FlipStringToMonotoneIncreasing.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="FractionToRecurringDecimal.h" />
     <ClInclude Include="FriendCircles.h" />
@@ -311,6 +312,7 @@
     <ClInclude Include="MonotonicArray.h" />
     <ClInclude Include="MostCommonWord.h" />
     <ClInclude Include="MultiplyStrings.h" />
+    <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="NestedListWeightSum.h" />
     <ClInclude Include="NestedListWeightSumII.h" />
     <ClInclude Include="NextGreaterElementII.h" />
@@ -333,6 +335,7 @@
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromePermutation.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
+    <ClInclude Include="PartitionArrayIntoThreePartsWithEqualSum.h" />
     <ClInclude Include="PartitionEqualSubsetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PartitionList.h" />
@@ -359,6 +362,7 @@
     <ClInclude Include="RemoveAllAdjacentDuplicatesInStringII.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedListII.h" />
     <ClInclude Include="RemoveInvalidParentheses.h" />
+    <ClInclude Include="RemoveKDigits.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="RemoveSubFoldersFromTheFilesystem.h" />
@@ -378,6 +382,7 @@
     <ClInclude Include="RotateImage.h" />
     <ClInclude Include="RotateList.h" />
     <ClInclude Include="SameTree.h" />
+    <ClInclude Include="ScoreOfParentheses.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchInRotatedSortedArrayII.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
@@ -678,6 +683,7 @@
     <ClCompile Include="FlattenBinaryTreeToLinkedList.cpp" />
     <ClCompile Include="FlattenNestedListIterator.cpp" />
     <ClCompile Include="FlipBinaryTreeToMatchPreorderTraversal.cpp" />
+    <ClCompile Include="FlipStringToMonotoneIncreasing.cpp" />
     <ClCompile Include="FloodFill.cpp" />
     <ClCompile Include="FractionToRecurringDecimal.cpp" />
     <ClCompile Include="FriendCircles.cpp" />
@@ -808,6 +814,7 @@
     <ClCompile Include="MoveZeroes.cpp" />
     <ClCompile Include="MovingAverageFromDataStream.cpp" />
     <ClCompile Include="MultiplyStrings.cpp" />
+    <ClCompile Include="MyCalendarI.cpp" />
     <ClCompile Include="NestedListWeightSum.cpp" />
     <ClCompile Include="NestedListWeightSumII.cpp" />
     <ClCompile Include="NextClosestTime.cpp" />
@@ -843,6 +850,7 @@
     <ClCompile Include="PalindromePairs.cpp" />
     <ClCompile Include="PalindromePermutation.cpp" />
     <ClCompile Include="PalindromicSubstrings.cpp" />
+    <ClCompile Include="PartitionArrayIntoThreePartsWithEqualSum.cpp" />
     <ClCompile Include="PartitionEqualSubsetSum.cpp" />
     <ClCompile Include="PartitionLabels.cpp" />
     <ClCompile Include="PartitionList.cpp" />
@@ -881,6 +889,7 @@
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedListII.cpp" />
     <ClCompile Include="RemoveInvalidParentheses.cpp" />
+    <ClCompile Include="RemoveKDigits.cpp" />
     <ClCompile Include="RemoveLinkedListElements.cpp" />
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
     <ClCompile Include="RemoveSubFoldersFromTheFilesystem.cpp" />
@@ -904,6 +913,7 @@
     <ClCompile Include="RottingOranges.cpp" />
     <ClCompile Include="SameTree.cpp" />
     <ClCompile Include="SatisfiabilityOfEqualityEquations.cpp" />
+    <ClCompile Include="ScoreOfParentheses.cpp" />
     <ClCompile Include="SearchA2DMatrixII.cpp" />
     <ClCompile Include="SearchInRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInRotatedSortedArrayII.cpp" />
