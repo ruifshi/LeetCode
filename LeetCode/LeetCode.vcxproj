@@ -84,6 +84,7 @@
     <ClInclude Include="132Pattern.h" />
     <ClInclude Include="3Sum.h" />
     <ClInclude Include="3SumClosest.h" />
+    <ClInclude Include="4Sum.h" />
     <ClInclude Include="AccountsMerge.h" />
     <ClInclude Include="AddAndSearchWord.h" />
     <ClInclude Include="AddBinary.h" />
@@ -229,6 +230,7 @@
     <ClInclude Include="GraphValidTree.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
+    <ClInclude Include="RepeatedDNASequences.h" />
     <ClInclude Include="ImplementMagicDictionary.h" />
     <ClInclude Include="ImplementStrStr.h" />
     <ClInclude Include="ImplementTrie.h" />
@@ -256,6 +258,7 @@
     <ClInclude Include="LargestBSTSubtree.h" />
     <ClInclude Include="LargestNumber.h" />
     <ClInclude Include="LeftmostColumnWithAtLeastAOne.h" />
+    <ClInclude Include="LemonadeChange.h" />
     <ClInclude Include="LengthOfLongestFibonacciSubsequence.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LineReflection.h" />
@@ -301,6 +304,7 @@
     <ClInclude Include="MinimumCostTreeFromLeafValues.h" />
     <ClInclude Include="MinimumDepthOfBinaryTree.h" />
     <ClInclude Include="MinimumKnightMoves.h" />
+    <ClInclude Include="MinimumMovesToEqualArrayElements.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
     <ClInclude Include="MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
@@ -316,6 +320,7 @@
     <ClInclude Include="NestedListWeightSum.h" />
     <ClInclude Include="NestedListWeightSumII.h" />
     <ClInclude Include="NextGreaterElementII.h" />
+    <ClInclude Include="NextGreaterElementIII.h" />
     <ClInclude Include="NextGreaterNodeInLinkedList.h" />
     <ClInclude Include="NonOverlappingIntervals.h" />
     <ClInclude Include="NQueens.h" />
@@ -415,6 +420,7 @@
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
+    <ClInclude Include="SumOfNodesWithEvenValuedGrandparent.h" />
     <ClInclude Include="SumRoottoLeafNumbers.h" />
     <ClInclude Include="SuperEggDrop.h" />
     <ClInclude Include="SwapNodesInPairs.h" />
@@ -433,6 +439,7 @@
     <ClInclude Include="TwoSumIVInputIsABST.h" />
     <ClInclude Include="TwoSumLessThanK.h" />
     <ClInclude Include="TwoSums.h" />
+    <ClInclude Include="UglyNumberII.h" />
     <ClInclude Include="UncommonWordsFromTwoSentences.h" />
     <ClInclude Include="UniqueBinarySearchTreesII.h" />
     <ClInclude Include="UniquePathsIII.h" />
@@ -553,6 +560,7 @@
     <ClCompile Include="132Pattern.cpp" />
     <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="3SumClosest.cpp" />
+    <ClCompile Include="4Sum.cpp" />
     <ClCompile Include="AccountsMerge.cpp" />
     <ClCompile Include="AddAndSearchWord.cpp" />
     <ClCompile Include="AddBinary.cpp" />
@@ -736,6 +744,7 @@
     <ClCompile Include="LargestBSTSubtree.cpp" />
     <ClCompile Include="LargestNumber.cpp" />
     <ClCompile Include="LeftmostColumnWithAtLeastAOne.cpp" />
+    <ClCompile Include="LemonadeChange.cpp" />
     <ClCompile Include="LengthOfLongestFibonacciSubsequence.cpp" />
     <ClCompile Include="LetterCombinationsOfAPhoneNumber.cpp" />
     <ClCompile Include="LFUCache.cpp" />
@@ -797,6 +806,7 @@
     <ClCompile Include="MinimumCostTreeFromLeafValues.cpp" />
     <ClCompile Include="MinimumDepthOfBinaryTree.cpp" />
     <ClCompile Include="MinimumKnightMoves.cpp" />
+    <ClCompile Include="MinimumMovesToEqualArrayElements.cpp" />
     <ClCompile Include="MinimumNumberOfArrowsToBurstBalloons.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits.cpp" />
@@ -820,6 +830,7 @@
     <ClCompile Include="NextClosestTime.cpp" />
     <ClCompile Include="NextGreaterElementI.cpp" />
     <ClCompile Include="NextGreaterElementII.cpp" />
+    <ClCompile Include="NextGreaterElementIII.cpp" />
     <ClCompile Include="NextGreaterNodeInLinkedList.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NondecreasingArray.cpp" />
@@ -897,6 +908,7 @@
     <ClCompile Include="ReorderDataInLogFiles.cpp" />
     <ClCompile Include="ReorderList.cpp" />
     <ClCompile Include="ReorganizeString.cpp" />
+    <ClCompile Include="RepeatedDNASequences.cpp" />
     <ClCompile Include="RepeatedStringMatch.cpp" />
     <ClCompile Include="RestoreIPAddresses.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
@@ -960,6 +972,7 @@
     <ClCompile Include="Subsets.cpp" />
     <ClCompile Include="SubsetsII.cpp" />
     <ClCompile Include="SubtreeOfAnotherTree.cpp" />
+    <ClCompile Include="SumOfNodesWithEvenValuedGrandparent.cpp" />
     <ClCompile Include="SumQuery.cpp" />
     <ClCompile Include="Stock.cpp" />
     <ClCompile Include="stdafx.cpp">
@@ -989,6 +1002,7 @@
     <ClCompile Include="TwoSumIVInputIsABST.cpp" />
     <ClCompile Include="TwoSumLessThanK.cpp" />
     <ClCompile Include="TwoSums.cpp" />
+    <ClCompile Include="UglyNumberII.cpp" />
     <ClCompile Include="UncommonWordsFromTwoSentences.cpp" />
     <ClCompile Include="UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="UniqueBinarySearchTreesII.cpp" />

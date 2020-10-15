@@ -1441,6 +1441,27 @@
     <Filter Include="Source Files\Sorting and Searching\ScoreOfParentheses">
       <UniqueIdentifier>{665a9fe0-1c9b-497f-ab3d-8f11cdbd3f77}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sorting and Searching\NextGreaterElementIII">
+      <UniqueIdentifier>{dff104d1-b876-492d-9bea-effd3859a053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\LemonadeChange">
+      <UniqueIdentifier>{ee7e6829-7a1c-446f-8883-d220f2ebf173}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SumOfNodesWithEvenValuedGrandparent">
+      <UniqueIdentifier>{a7399697-b6c0-4d2e-a10b-92aacf55b39d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\4Sum">
+      <UniqueIdentifier>{17895271-d54b-4a44-a1f3-831615a29dc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\UglyNumberII">
+      <UniqueIdentifier>{44931b72-f899-4db5-9af5-4c15bc97d51d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MinimumMovesToEqualArrayElements">
+      <UniqueIdentifier>{b02ecf97-4da4-47b3-b912-aaf4e86e880b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RepeatedDNASequences">
+      <UniqueIdentifier>{a34e9fba-e753-4ef2-9604-43c6e2f6a6d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2840,6 +2861,27 @@
     </ClInclude>
     <ClInclude Include="ScoreOfParentheses.h">
       <Filter>Source Files\Sorting and Searching\ScoreOfParentheses</Filter>
+    </ClInclude>
+    <ClInclude Include="NextGreaterElementIII.h">
+      <Filter>Source Files\Sorting and Searching\NextGreaterElementIII</Filter>
+    </ClInclude>
+    <ClInclude Include="LemonadeChange.h">
+      <Filter>Source Files\Sorting and Searching\LemonadeChange</Filter>
+    </ClInclude>
+    <ClInclude Include="SumOfNodesWithEvenValuedGrandparent.h">
+      <Filter>Source Files\Trees and Graphs\SumOfNodesWithEvenValuedGrandparent</Filter>
+    </ClInclude>
+    <ClInclude Include="4Sum.h">
+      <Filter>Source Files\Array and Strings\4Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="UglyNumberII.h">
+      <Filter>Source Files\Dynamic Programming\UglyNumberII</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumMovesToEqualArrayElements.h">
+      <Filter>Source Files\Array and Strings\MinimumMovesToEqualArrayElements</Filter>
+    </ClInclude>
+    <ClInclude Include="RepeatedDNASequences.h">
+      <Filter>Source Files\Sorting and Searching\RepeatedDNASequences</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4261,6 +4303,27 @@
     </ClCompile>
     <ClCompile Include="ScoreOfParentheses.cpp">
       <Filter>Source Files\Sorting and Searching\ScoreOfParentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="NextGreaterElementIII.cpp">
+      <Filter>Source Files\Sorting and Searching\NextGreaterElementIII</Filter>
+    </ClCompile>
+    <ClCompile Include="LemonadeChange.cpp">
+      <Filter>Source Files\Sorting and Searching\LemonadeChange</Filter>
+    </ClCompile>
+    <ClCompile Include="SumOfNodesWithEvenValuedGrandparent.cpp">
+      <Filter>Source Files\Trees and Graphs\SumOfNodesWithEvenValuedGrandparent</Filter>
+    </ClCompile>
+    <ClCompile Include="4Sum.cpp">
+      <Filter>Source Files\Array and Strings\4Sum</Filter>
+    </ClCompile>
+    <ClCompile Include="UglyNumberII.cpp">
+      <Filter>Source Files\Dynamic Programming\UglyNumberII</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumMovesToEqualArrayElements.cpp">
+      <Filter>Source Files\Array and Strings\MinimumMovesToEqualArrayElements</Filter>
+    </ClCompile>
+    <ClCompile Include="RepeatedDNASequences.cpp">
+      <Filter>Source Files\Sorting and Searching\RepeatedDNASequences</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
