@@ -81,6 +81,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="01Matrix.h" />
     <ClInclude Include="132Pattern.h" />
     <ClInclude Include="3Sum.h" />
     <ClInclude Include="3SumClosest.h" />
@@ -111,10 +112,12 @@
     <ClInclude Include="BinarySearchTreeToGreaterSumTree.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="BinaryTreeLevelOrderTraversalII.h" />
     <ClInclude Include="BinaryTreeLongestConsecutiveSequenceII.h" />
     <ClInclude Include="BinaryTreeMaximumPathSum.h" />
     <ClInclude Include="BinaryTreePaths.h" />
     <ClInclude Include="BinaryTreePostorderTraversal.h" />
+    <ClInclude Include="BinaryTreePruning.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BinaryTreeVerticalOrderTraversal.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
@@ -230,6 +233,7 @@
     <ClInclude Include="GraphValidTree.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
+    <ClInclude Include="MaximumProductOfThreeNumbers.h" />
     <ClInclude Include="RepeatedDNASequences.h" />
     <ClInclude Include="ImplementMagicDictionary.h" />
     <ClInclude Include="ImplementStrStr.h" />
@@ -557,6 +561,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01Knapsack.cpp" />
+    <ClCompile Include="01Matrix.cpp" />
     <ClCompile Include="132Pattern.cpp" />
     <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="3SumClosest.cpp" />
@@ -587,10 +592,12 @@
     <ClCompile Include="BinarySearchTreeToGreaterSumTree.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="BinaryTreeLevelOrderTraversalII.cpp" />
     <ClCompile Include="BinaryTreeLongestConsecutiveSequenceII.cpp" />
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
     <ClCompile Include="BinaryTreePaths.cpp" />
     <ClCompile Include="BinaryTreePostorderTraversal.cpp" />
+    <ClCompile Include="BinaryTreePruning.cpp" />
     <ClCompile Include="BinaryTreeRightSideView.cpp" />
     <ClCompile Include="BinaryTreeVerticalOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeZigzagLevelOrderTraversal.cpp" />
@@ -783,6 +790,7 @@
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
     <ClCompile Include="MaximumNumberOfNonOverlappingSubstrings.cpp" />
+    <ClCompile Include="MaximumProductOfThreeNumbers.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
     <ClCompile Include="MaximumProductSubarray.cpp" />
     <ClCompile Include="MaximumSumCircularSubarray.cpp" />

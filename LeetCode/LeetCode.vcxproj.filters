@@ -1462,6 +1462,18 @@
     <Filter Include="Source Files\Sorting and Searching\RepeatedDNASequences">
       <UniqueIdentifier>{a34e9fba-e753-4ef2-9604-43c6e2f6a6d2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreePruning">
+      <UniqueIdentifier>{933196ba-573a-4f21-b551-f75fe14f4a7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\01Matrix">
+      <UniqueIdentifier>{ad930cba-cc65-4dd7-a51a-ffc70f5e85fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximumProductOfThreeNumbers">
+      <UniqueIdentifier>{7e42270c-a348-49ab-8eca-256c6ebf2bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversalII">
+      <UniqueIdentifier>{bf33a3d0-d1fb-45ed-ab5d-5b6ec4129f9b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2882,6 +2894,18 @@
     </ClInclude>
     <ClInclude Include="RepeatedDNASequences.h">
       <Filter>Source Files\Sorting and Searching\RepeatedDNASequences</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePruning.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreePruning</Filter>
+    </ClInclude>
+    <ClInclude Include="01Matrix.h">
+      <Filter>Source Files\Trees and Graphs\01Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumProductOfThreeNumbers.h">
+      <Filter>Source Files\Array and Strings\MaximumProductOfThreeNumbers</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeLevelOrderTraversalII.h">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversalII</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4324,6 +4348,18 @@
     </ClCompile>
     <ClCompile Include="RepeatedDNASequences.cpp">
       <Filter>Source Files\Sorting and Searching\RepeatedDNASequences</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreePruning.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreePruning</Filter>
+    </ClCompile>
+    <ClCompile Include="01Matrix.cpp">
+      <Filter>Source Files\Trees and Graphs\01Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumProductOfThreeNumbers.cpp">
+      <Filter>Source Files\Array and Strings\MaximumProductOfThreeNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeLevelOrderTraversalII.cpp">
+      <Filter>Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversalII</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
