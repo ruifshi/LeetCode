@@ -1474,6 +1474,39 @@
     <Filter Include="Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversalII">
       <UniqueIdentifier>{bf33a3d0-d1fb-45ed-ab5d-5b6ec4129f9b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\ShortestUnsortedContinuousSubarray">
+      <UniqueIdentifier>{a6d2e4fd-fd5c-4f3e-8f58-b4ecada22de7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\DesignAStackWithIncrementOperation">
+      <UniqueIdentifier>{bf485122-68c0-4183-bb89-d72dc8c994ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\HighFive">
+      <UniqueIdentifier>{6831ac22-7e43-49d1-8435-e3bd5d8bdc03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\HouseRobberIII">
+      <UniqueIdentifier>{b2c18862-3c3f-4a29-897e-2d2d36ed6733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConstructBinaryTreeFromPreorderAndPostorderTraversal">
+      <UniqueIdentifier>{b2a0a8fa-95a7-49cc-8a3e-8645e85d567c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\ConvertBSTToGreaterTree">
+      <UniqueIdentifier>{9ed73eb2-6d62-4d6a-b629-e981450fecf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ValidSudoku">
+      <UniqueIdentifier>{e5875b5a-3d86-49a6-ac7a-65d4cb25c34a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumProductOfSplittedBinaryTree">
+      <UniqueIdentifier>{0c6f1c25-8627-453d-b873-a6dfe219bf4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\KthLargestElementInAStream">
+      <UniqueIdentifier>{15fa72eb-fa4f-42a5-a818-6ca4471dcdbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\AllPossibleFullBinaryTrees">
+      <UniqueIdentifier>{afce56bd-25ee-49e7-8633-1f49a8ee3e05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\WordPattern">
+      <UniqueIdentifier>{8076a91e-aa91-4fe8-8a74-fcdc63d481cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2906,6 +2939,39 @@
     </ClInclude>
     <ClInclude Include="BinaryTreeLevelOrderTraversalII.h">
       <Filter>Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversalII</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestUnsortedContinuousSubarray.h">
+      <Filter>Source Files\Array and Strings\ShortestUnsortedContinuousSubarray</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignAStackWithIncrementOperation.h">
+      <Filter>Source Files\Design\DesignAStackWithIncrementOperation</Filter>
+    </ClInclude>
+    <ClInclude Include="HighFive.h">
+      <Filter>Source Files\Sorting and Searching\HighFive</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobberIII.h">
+      <Filter>Source Files\Trees and Graphs\HouseRobberIII</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.h">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromPreorderAndPostorderTraversal</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertBSTToGreaterTree.h">
+      <Filter>Source Files\Trees and Graphs\ConvertBSTToGreaterTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidSudoku.h">
+      <Filter>Source Files\Sorting and Searching\ValidSudoku</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumProductOfSplittedBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\MaximumProductOfSplittedBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="KthLargestElementInAStream.h">
+      <Filter>Source Files\Design\KthLargestElementInAStream</Filter>
+    </ClInclude>
+    <ClInclude Include="AllPossibleFullBinaryTrees.h">
+      <Filter>Source Files\Trees and Graphs\AllPossibleFullBinaryTrees</Filter>
+    </ClInclude>
+    <ClInclude Include="WordPattern.h">
+      <Filter>Source Files\Sorting and Searching\WordPattern</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4360,6 +4426,39 @@
     </ClCompile>
     <ClCompile Include="BinaryTreeLevelOrderTraversalII.cpp">
       <Filter>Source Files\Trees and Graphs\BinaryTreeLevelOrderTraversalII</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestUnsortedContinuousSubarray.cpp">
+      <Filter>Source Files\Array and Strings\ShortestUnsortedContinuousSubarray</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignAStackWithIncrementOperation.cpp">
+      <Filter>Source Files\Design\DesignAStackWithIncrementOperation</Filter>
+    </ClCompile>
+    <ClCompile Include="HighFive.cpp">
+      <Filter>Source Files\Sorting and Searching\HighFive</Filter>
+    </ClCompile>
+    <ClCompile Include="HouseRobberIII.cpp">
+      <Filter>Source Files\Trees and Graphs\HouseRobberIII</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.cpp">
+      <Filter>Source Files\Trees and Graphs\ConstructBinaryTreeFromPreorderAndPostorderTraversal</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertBSTToGreaterTree.cpp">
+      <Filter>Source Files\Trees and Graphs\ConvertBSTToGreaterTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidSudoku.cpp">
+      <Filter>Source Files\Sorting and Searching\ValidSudoku</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumProductOfSplittedBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumProductOfSplittedBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="KthLargestElementInAStream.cpp">
+      <Filter>Source Files\Design\KthLargestElementInAStream</Filter>
+    </ClCompile>
+    <ClCompile Include="AllPossibleFullBinaryTrees.cpp">
+      <Filter>Source Files\Trees and Graphs\AllPossibleFullBinaryTrees</Filter>
+    </ClCompile>
+    <ClCompile Include="WordPattern.cpp">
+      <Filter>Source Files\Sorting and Searching\WordPattern</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

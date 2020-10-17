@@ -98,6 +98,7 @@
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
+    <ClInclude Include="AllPossibleFullBinaryTrees.h" />
     <ClInclude Include="AnalyzeUserWebsiteVisitPattern.h" />
     <ClInclude Include="AndroidUnlockPatterns.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
@@ -145,12 +146,14 @@
     <ClInclude Include="ConcatenatedWords.h" />
     <ClInclude Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.h" />
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.h" />
     <ClInclude Include="ConstructBinaryTreeFromString.h" />
     <ClInclude Include="ConstructBSTFromPreorderTraversal.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContinuousSubarraySum.h" />
     <ClInclude Include="ConvertANumberToHexadecimal.h" />
     <ClInclude Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.h" />
+    <ClInclude Include="ConvertBSTToGreaterTree.h" />
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="ConvertSortedListToBinarySearchTree.h" />
     <ClInclude Include="CopyListWithRandomPointer.h" />
@@ -166,6 +169,7 @@
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DefangingAnIPAddress.h" />
     <ClInclude Include="DesignALeaderboard.h" />
+    <ClInclude Include="DesignAStackWithIncrementOperation.h" />
     <ClInclude Include="DesignCircularQueue.h" />
     <ClInclude Include="DesignHitCounter.h" />
     <ClInclude Include="DesignInMemoryFileSystem.h" />
@@ -233,6 +237,10 @@
     <ClInclude Include="GraphValidTree.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GroupShiftedStrings.h" />
+    <ClInclude Include="HighFive.h" />
+    <ClInclude Include="HouseRobberIII.h" />
+    <ClInclude Include="KthLargestElementInAStream.h" />
+    <ClInclude Include="MaximumProductOfSplittedBinaryTree.h" />
     <ClInclude Include="MaximumProductOfThreeNumbers.h" />
     <ClInclude Include="RepeatedDNASequences.h" />
     <ClInclude Include="ImplementMagicDictionary.h" />
@@ -399,6 +407,7 @@
     <ClInclude Include="SetMatrixZeroes.h" />
     <ClInclude Include="ShortestBridge.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
+    <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
     <ClInclude Include="ShuffleAnArray.h" />
     <ClInclude Include="SimilarStringGroups.h" />
     <ClInclude Include="SimplifyPath.h" />
@@ -452,6 +461,7 @@
     <ClInclude Include="ValidPalindromeII.h" />
     <ClInclude Include="ValidPalindromeIII.h" />
     <ClInclude Include="ValidParenthesisString.h" />
+    <ClInclude Include="ValidSudoku.h" />
     <ClInclude Include="ValidTriangleNumber.h" />
     <ClInclude Include="ValidWordAbbreviation.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
@@ -553,6 +563,7 @@
     <ClInclude Include="WordBreakII.h" />
     <ClInclude Include="WordLadder.h" />
     <ClInclude Include="WordLadderII.h" />
+    <ClInclude Include="WordPattern.h" />
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WorldSquares.h" />
@@ -625,12 +636,14 @@
     <ClCompile Include="ConcatenatedWords.cpp" />
     <ClCompile Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp" />
     <ClCompile Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp" />
+    <ClCompile Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.cpp" />
     <ClCompile Include="ConstructBinaryTreeFromString.cpp" />
     <ClCompile Include="ConstructBSTFromPreorderTraversal.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="ContinuousSubarraySum.cpp" />
     <ClCompile Include="ConvertANumberToHexadecimal.cpp" />
     <ClCompile Include="ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp" />
+    <ClCompile Include="ConvertBSTToGreaterTree.cpp" />
     <ClCompile Include="ConvertSortedArrayToBinarySearchTree.cpp" />
     <ClCompile Include="ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="CopyListWithRandomPointer.cpp" />
@@ -646,6 +659,7 @@
     <ClCompile Include="DecodeWays.cpp" />
     <ClCompile Include="DefangingAnIPAddress.cpp" />
     <ClCompile Include="DesignALeaderboard.cpp" />
+    <ClCompile Include="DesignAStackWithIncrementOperation.cpp" />
     <ClCompile Include="DesignCircularQueue.cpp" />
     <ClCompile Include="DesignHitCounter.cpp" />
     <ClCompile Include="DesignSnakeGame.cpp" />
@@ -713,7 +727,9 @@
     <ClCompile Include="GraphValidTree.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="GroupShiftedStrings.cpp" />
+    <ClCompile Include="HighFive.cpp" />
     <ClCompile Include="HouseRobberII.cpp" />
+    <ClCompile Include="HouseRobberIII.cpp" />
     <ClCompile Include="ImageSmoother.cpp" />
     <ClCompile Include="ImplementMagicDictionary.cpp" />
     <ClCompile Include="ImplementStrStr.cpp" />
@@ -746,6 +762,7 @@
     <ClCompile Include="KokoEatingBananas.cpp" />
     <ClCompile Include="Kruskals.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
+    <ClCompile Include="KthLargestElementInAStream.cpp" />
     <ClCompile Include="KthSmallestElementInABST.cpp" />
     <ClCompile Include="KthSmallestElementInASortedMatrix.cpp" />
     <ClCompile Include="LargestBSTSubtree.cpp" />
@@ -790,6 +807,7 @@
     <ClCompile Include="MaximumDifferenceBetweenNodeAndAncestor.cpp" />
     <ClCompile Include="MaximumLevelSumOfABinaryTree.cpp" />
     <ClCompile Include="MaximumNumberOfNonOverlappingSubstrings.cpp" />
+    <ClCompile Include="MaximumProductOfSplittedBinaryTree.cpp" />
     <ClCompile Include="MaximumProductOfThreeNumbers.cpp" />
     <ClCompile Include="MaximumProductOfWordLengths.cpp" />
     <ClCompile Include="MaximumProductSubarray.cpp" />
@@ -946,6 +964,7 @@
     <ClCompile Include="ShortestPathInBinaryMatrix.cpp" />
     <ClCompile Include="ShortestDistanceFromAllBuildings.cpp" />
     <ClCompile Include="ShortestPalindrome.cpp" />
+    <ClCompile Include="ShortestUnsortedContinuousSubarray.cpp" />
     <ClCompile Include="ShuffleAnArray.cpp" />
     <ClCompile Include="SimilarStringGroups.cpp" />
     <ClCompile Include="SimplifyPath.cpp" />
@@ -964,6 +983,7 @@
     <ClCompile Include="Dijkstra.cpp" />
     <ClCompile Include="ReverseString.cpp" />
     <ClCompile Include="PathSumIII.cpp" />
+    <ClCompile Include="AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="SparseMatrixMultiplication.cpp" />
     <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="SplitArrayWithEqualSum.cpp" />
@@ -1028,6 +1048,7 @@
     <ClCompile Include="ValidPalindromeIII.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidParenthesisString.cpp" />
+    <ClCompile Include="ValidSudoku.cpp" />
     <ClCompile Include="ValidTreeFromListOfNodes.cpp" />
     <ClCompile Include="ValidTriangleNumber.cpp" />
     <ClCompile Include="ValidWordAbbreviation.cpp" />
@@ -1042,6 +1063,7 @@
     <ClCompile Include="WordBreakII.cpp" />
     <ClCompile Include="WordLadder.cpp" />
     <ClCompile Include="WordLadderII.cpp" />
+    <ClCompile Include="WordPattern.cpp" />
     <ClCompile Include="WordSearch.cpp" />
     <ClCompile Include="WordSearchII.cpp" />
     <ClCompile Include="WordSquares.cpp" />
