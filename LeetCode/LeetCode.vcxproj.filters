@@ -1507,6 +1507,210 @@
     <Filter Include="Source Files\Sorting and Searching\WordPattern">
       <UniqueIdentifier>{8076a91e-aa91-4fe8-8a74-fcdc63d481cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Array and Strings\FindCommonCharacters">
+      <UniqueIdentifier>{3f88f3ea-a2e0-4e54-b568-4106569bfec0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MaximumLengthOfPairChain">
+      <UniqueIdentifier>{ea055aa6-4426-4fde-bb60-4d498dec5ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReplaceElementsWithGreatestElementOnRight Side">
+      <UniqueIdentifier>{89612113-002b-41ce-bc9f-8ad31699e409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\SnapshotArray">
+      <UniqueIdentifier>{7be54865-54c9-4f1f-8f02-69de49ad006d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\HappyNumber">
+      <UniqueIdentifier>{01e06f3e-e231-4532-9b1c-f64460fa7144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MaximumSumOfTwoNonOverlappingSubarrays">
+      <UniqueIdentifier>{60702f25-1987-4982-8be5-231e76f899cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\DeleteLeavesWithAGivenValue">
+      <UniqueIdentifier>{4036f14e-f43a-4a38-9896-e0a4ab91174d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BalanceABinarySearchTree">
+      <UniqueIdentifier>{b6f91280-3fb9-4d68-8686-626d7ca69301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\GasStation">
+      <UniqueIdentifier>{9141e832-251d-4b4e-ae4a-2e40fdc9a834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MeetingScheduler">
+      <UniqueIdentifier>{8db89725-bddc-42d2-ac7a-22b1e5abcedf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RankTransformOfAnArray">
+      <UniqueIdentifier>{be05ce00-68ff-4fcf-be49-efe4d523bb9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ShortestWordDistance">
+      <UniqueIdentifier>{932a87ea-1276-4d3f-bd27-546abd1de59e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MeetingRooms">
+      <UniqueIdentifier>{89f610cd-fc69-4517-94de-5cb871f75a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MinimumSwapsToMakeStringsEqual">
+      <UniqueIdentifier>{ef4a9d9b-4761-4af1-9c5b-b42bdeb21f93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\ArithmeticSlices">
+      <UniqueIdentifier>{01665f66-e502-459d-a352-2767e6d29292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\CountAndSay">
+      <UniqueIdentifier>{ccd4b5db-0b6b-46cb-8285-1720117ba848}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FindDuplicateSubtrees">
+      <UniqueIdentifier>{58a831da-fc34-4e88-90f3-b8395d07252b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\PalindromePartitioning">
+      <UniqueIdentifier>{574e1161-c417-4bea-9a47-4f53e8708baf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReverseWordsInAStringIII">
+      <UniqueIdentifier>{4edb8b6a-8fb8-4320-b8b4-492b40215018}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\JewelsAndStones">
+      <UniqueIdentifier>{ff3d3e2b-9ac7-458f-a9b2-8a8cbc6ae680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SortCharactersByFrequency">
+      <UniqueIdentifier>{b5484b9b-ba7d-41e7-8541-a63a43aa19c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\ReverseStringII">
+      <UniqueIdentifier>{220aeb9d-16ab-4222-816e-8b9ed0fc69c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\KthSymbolInGrammar">
+      <UniqueIdentifier>{0ac40db6-6fbf-45eb-8d97-a931517495d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MaximizeDistanceToClosestPerson">
+      <UniqueIdentifier>{f6a1cbfc-3f12-440c-a4ae-cc8d03b2bca3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\LetterCasePermutation">
+      <UniqueIdentifier>{a95c99d6-c334-40f7-8da4-9b12c1758ec6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MajorityElementII">
+      <UniqueIdentifier>{6fbed8e1-6510-4562-97f7-aa9c263dc7ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\FindTheSmallestDivisorGivenAThreshold">
+      <UniqueIdentifier>{488db899-1dbc-4c30-9278-bf69c476f859}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\ContiguousArray">
+      <UniqueIdentifier>{08427c02-3485-4a9a-9c0e-203c75055944}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\SortArrayByParityII">
+      <UniqueIdentifier>{538a4a14-96f2-4255-ac0e-a262c8cdcbb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MajorityElement">
+      <UniqueIdentifier>{bfbcb44b-f6f4-4227-8bea-f95066a67388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\BullsAndCows">
+      <UniqueIdentifier>{68ded15d-c1c1-4b42-be21-e51e7143a378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\IncreasingOrderSearchTree">
+      <UniqueIdentifier>{89a47283-8ac3-4a95-997b-605ceefd5f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SumOfRootToLeafBinaryNumbers">
+      <UniqueIdentifier>{fa31edd7-35a5-4361-b442-618a3a90c2a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\CountNumberOfTeams">
+      <UniqueIdentifier>{07fd2f75-56e7-47b0-8372-9805d1d50c85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RectangleOverlap">
+      <UniqueIdentifier>{9cf99829-03de-47d0-9ec8-4894c4b85009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RansomNote">
+      <UniqueIdentifier>{ac5e5c23-a11b-45a9-9f6c-a103f416e040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\EmployeeImportance">
+      <UniqueIdentifier>{14246d9b-7b16-4639-8402-f2d29d17f676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\MinimumNumberOfStepsToMakeTwoStringsAnagram">
+      <UniqueIdentifier>{41025890-dfe0-429a-afdc-9c8fe3ee2486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RotateString">
+      <UniqueIdentifier>{6564d649-faba-4854-b485-b9c6e3e13969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\LoggerRateLimiter">
+      <UniqueIdentifier>{4b4cb27b-fbca-4b2e-8c16-715f05c9ba9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\TimeBasedKeyValueStore">
+      <UniqueIdentifier>{69606063-7a7d-4db8-86ba-1895cfa048fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\BalancedBinaryTree">
+      <UniqueIdentifier>{5e34b796-9d1a-4b83-92be-ac331e90f1f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion\CombinationSumIII">
+      <UniqueIdentifier>{4d2e4b83-e04f-48ef-a7d4-206c2f027efc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\MaximumDepthOfNaryTree">
+      <UniqueIdentifier>{5b8ac787-42af-44e3-b147-18d18526700f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\4SumII">
+      <UniqueIdentifier>{1af2f241-7002-4ef9-b804-e07c02c21cb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RepeatedSubstringPattern">
+      <UniqueIdentifier>{4f3d170b-151a-4f08-be35-8bfb05adccd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\PascalsTriangle">
+      <UniqueIdentifier>{7bcee27f-0599-4ced-9c7e-de465329d823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FindAllNumbersDisappearedInAnArray">
+      <UniqueIdentifier>{676e0b3a-08e8-4091-af54-e06d15c67b41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\SumOfLeftLeaves">
+      <UniqueIdentifier>{fb29adc0-19e4-4ce0-83e6-45b0410de341}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\CountPrimes">
+      <UniqueIdentifier>{896c1b05-2f83-4025-97b1-62586a12ef8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RemoveDuplicateLetters">
+      <UniqueIdentifier>{bd90410c-af78-4814-9cb0-1a5d9564a37a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\ImplementQueueUsingStacks">
+      <UniqueIdentifier>{a6f1103a-6d26-4f78-9247-5f5184aab826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\KidsWithTheGreatestNumberOfCandies">
+      <UniqueIdentifier>{e32fc4eb-dd5a-4e04-b92b-002401f967cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\BinarySearch">
+      <UniqueIdentifier>{045b097d-d8e8-490f-aae0-aa2f0b8351cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\RobotBoundedInCircle">
+      <UniqueIdentifier>{c0640666-b7c7-487b-98b0-9267c6058108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\HowManyNumbersAreSmallerThanTheCurrentNumber">
+      <UniqueIdentifier>{05769a1d-8756-4bc8-b13f-4f8ab06b288f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\InsertIntoABinarySearchTree">
+      <UniqueIdentifier>{51c21a0b-9f42-408e-82bb-df798fc5d1f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\TwoSumIIInputArrayIsSorted">
+      <UniqueIdentifier>{9652bc6d-b86a-4edb-919b-9fcffa4552bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\SearchInsertPosition">
+      <UniqueIdentifier>{2c6d7b9a-ea9d-41ba-a74c-30bb560fb16c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Programming\HouseRobber">
+      <UniqueIdentifier>{23036025-4b28-4ecd-979d-bed10fe88fb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RunningSumOf1dArray">
+      <UniqueIdentifier>{815ae58a-4c0f-4133-bef3-fe465c730de3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\FindTheDifference">
+      <UniqueIdentifier>{70e8827b-e097-4b8f-a080-00cbda3a439b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array and Strings\RemoveVowelsFromAString">
+      <UniqueIdentifier>{d7b8fadc-b8ed-48b5-b30f-c0112c1e53db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List\RemoveDuplicatesFromSortedList">
+      <UniqueIdentifier>{b21bf4bc-3c1c-4bc5-80f3-ddcd9fbbe1f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design\DesignParkingSystem">
+      <UniqueIdentifier>{79f85991-471b-4b1d-a99c-986eaeba01a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\CountNegativeNumbersInASortedMatrix">
+      <UniqueIdentifier>{7deddf10-8e1b-45b1-afad-75c31499a851}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting and Searching\MaximumXOROfTwoNumbersInAnArray">
+      <UniqueIdentifier>{0632c4bc-f064-4e57-83ef-1b71b51924c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees and Graphs\FlipEquivalentBinaryTrees">
+      <UniqueIdentifier>{eb7e9f79-774e-409a-b25f-3b88695206bb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -2972,6 +3176,210 @@
     </ClInclude>
     <ClInclude Include="WordPattern.h">
       <Filter>Source Files\Sorting and Searching\WordPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="FindCommonCharacters.h">
+      <Filter>Source Files\Array and Strings\FindCommonCharacters</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumLengthOfPairChain.h">
+      <Filter>Source Files\Sorting and Searching\MaximumLengthOfPairChain</Filter>
+    </ClInclude>
+    <ClInclude Include="ReplaceElementsWithGreatestElementOnRight Side.h">
+      <Filter>Source Files\Array and Strings\ReplaceElementsWithGreatestElementOnRight Side</Filter>
+    </ClInclude>
+    <ClInclude Include="SnapshotArray.h">
+      <Filter>Source Files\Design\SnapshotArray</Filter>
+    </ClInclude>
+    <ClInclude Include="HappyNumber.h">
+      <Filter>Source Files\Sorting and Searching\HappyNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumSumOfTwoNonOverlappingSubarrays.h">
+      <Filter>Source Files\Sorting and Searching\MaximumSumOfTwoNonOverlappingSubarrays</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteLeavesWithAGivenValue.h">
+      <Filter>Source Files\Trees and Graphs\DeleteLeavesWithAGivenValue</Filter>
+    </ClInclude>
+    <ClInclude Include="BalanceABinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\BalanceABinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="GasStation.h">
+      <Filter>Source Files\Sorting and Searching\GasStation</Filter>
+    </ClInclude>
+    <ClInclude Include="MeetingScheduler.h">
+      <Filter>Source Files\Sorting and Searching\MeetingScheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="RankTransformOfAnArray.h">
+      <Filter>Source Files\Array and Strings\RankTransformOfAnArray</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestWordDistance.h">
+      <Filter>Source Files\Array and Strings\ShortestWordDistance</Filter>
+    </ClInclude>
+    <ClInclude Include="MeetingRooms.h">
+      <Filter>Source Files\Sorting and Searching\MeetingRooms</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumSwapsToMakeStringsEqual.h">
+      <Filter>Source Files\Array and Strings\MinimumSwapsToMakeStringsEqual</Filter>
+    </ClInclude>
+    <ClInclude Include="ArithmeticSlices.h">
+      <Filter>Source Files\Recursion\ArithmeticSlices</Filter>
+    </ClInclude>
+    <ClInclude Include="CountAndSay.h">
+      <Filter>Source Files\Array and Strings\CountAndSay</Filter>
+    </ClInclude>
+    <ClInclude Include="FindDuplicateSubtrees.h">
+      <Filter>Source Files\Trees and Graphs\FindDuplicateSubtrees</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromePartitioning.h">
+      <Filter>Source Files\Recursion\PalindromePartitioning</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseWordsInAStringIII.h">
+      <Filter>Source Files\Array and Strings\ReverseWordsInAStringIII</Filter>
+    </ClInclude>
+    <ClInclude Include="JewelsAndStones.h">
+      <Filter>Source Files\Sorting and Searching\JewelsAndStones</Filter>
+    </ClInclude>
+    <ClInclude Include="SortCharactersByFrequency.h">
+      <Filter>Source Files\Sorting and Searching\SortCharactersByFrequency</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseStringII.h">
+      <Filter>Source Files\Array and Strings\ReverseStringII</Filter>
+    </ClInclude>
+    <ClInclude Include="KthSymbolInGrammar.h">
+      <Filter>Source Files\Recursion\KthSymbolInGrammar</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximizeDistanceToClosestPerson.h">
+      <Filter>Source Files\Array and Strings\MaximizeDistanceToClosestPerson</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCasePermutation.h">
+      <Filter>Source Files\Recursion\LetterCasePermutation</Filter>
+    </ClInclude>
+    <ClInclude Include="MajorityElementII.h">
+      <Filter>Source Files\Sorting and Searching\MajorityElementII</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheSmallestDivisorGivenAThreshold.h">
+      <Filter>Source Files\Sorting and Searching\FindTheSmallestDivisorGivenAThreshold</Filter>
+    </ClInclude>
+    <ClInclude Include="ContiguousArray.h">
+      <Filter>Source Files\Sorting and Searching\ContiguousArray</Filter>
+    </ClInclude>
+    <ClInclude Include="SortArrayByParityII.h">
+      <Filter>Source Files\Array and Strings\SortArrayByParityII</Filter>
+    </ClInclude>
+    <ClInclude Include="MajorityElement.h">
+      <Filter>Source Files\Sorting and Searching\MajorityElement</Filter>
+    </ClInclude>
+    <ClInclude Include="BullsAndCows.h">
+      <Filter>Source Files\Sorting and Searching\BullsAndCows</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreasingOrderSearchTree.h">
+      <Filter>Source Files\Trees and Graphs\IncreasingOrderSearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SumOfRootToLeafBinaryNumbers.h">
+      <Filter>Source Files\Trees and Graphs\SumOfRootToLeafBinaryNumbers</Filter>
+    </ClInclude>
+    <ClInclude Include="CountNumberOfTeams.h">
+      <Filter>Source Files\Sorting and Searching\CountNumberOfTeams</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleOverlap.h">
+      <Filter>Source Files\Array and Strings\RectangleOverlap</Filter>
+    </ClInclude>
+    <ClInclude Include="RansomNote.h">
+      <Filter>Source Files\Sorting and Searching\RansomNote</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeeImportance.h">
+      <Filter>Source Files\Trees and Graphs\EmployeeImportance</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h">
+      <Filter>Source Files\Array and Strings\MinimumNumberOfStepsToMakeTwoStringsAnagram</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateString.h">
+      <Filter>Source Files\Array and Strings\RotateString</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggerRateLimiter.h">
+      <Filter>Source Files\Design\LoggerRateLimiter</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeBasedKeyValueStore.h">
+      <Filter>Source Files\Design\TimeBasedKeyValueStore</Filter>
+    </ClInclude>
+    <ClInclude Include="BalancedBinaryTree.h">
+      <Filter>Source Files\Trees and Graphs\BalancedBinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSumIII.h">
+      <Filter>Source Files\Recursion\CombinationSumIII</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumDepthOfNaryTree.h">
+      <Filter>Source Files\Trees and Graphs\MaximumDepthOfNaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="4SumII.h">
+      <Filter>Source Files\Array and Strings\4SumII</Filter>
+    </ClInclude>
+    <ClInclude Include="RepeatedSubstringPattern.h">
+      <Filter>Source Files\Array and Strings\RepeatedSubstringPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="PascalsTriangle.h">
+      <Filter>Source Files\Array and Strings\PascalsTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="FindAllNumbersDisappearedInAnArray.h">
+      <Filter>Source Files\Array and Strings\FindAllNumbersDisappearedInAnArray</Filter>
+    </ClInclude>
+    <ClInclude Include="SumOfLeftLeaves.h">
+      <Filter>Source Files\Trees and Graphs\SumOfLeftLeaves</Filter>
+    </ClInclude>
+    <ClInclude Include="CountPrimes.h">
+      <Filter>Source Files\Dynamic Programming\CountPrimes</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveDuplicateLetters.h">
+      <Filter>Source Files\Sorting and Searching\RemoveDuplicateLetters</Filter>
+    </ClInclude>
+    <ClInclude Include="ImplementQueueUsingStacks.h">
+      <Filter>Source Files\Design\ImplementQueueUsingStacks</Filter>
+    </ClInclude>
+    <ClInclude Include="KidsWithTheGreatestNumberOfCandies.h">
+      <Filter>Source Files\Array and Strings\KidsWithTheGreatestNumberOfCandies</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearch.h">
+      <Filter>Source Files\Sorting and Searching\BinarySearch</Filter>
+    </ClInclude>
+    <ClInclude Include="RobotBoundedInCircle.h">
+      <Filter>Source Files\Sorting and Searching\RobotBoundedInCircle</Filter>
+    </ClInclude>
+    <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrent Number.h">
+      <Filter>Source Files\Array and Strings\HowManyNumbersAreSmallerThanTheCurrentNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertIntoABinarySearchTree.h">
+      <Filter>Source Files\Trees and Graphs\InsertIntoABinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSumIIInputArrayIsSorted.h">
+      <Filter>Source Files\Array and Strings\TwoSumIIInputArrayIsSorted</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInsertPosition.h">
+      <Filter>Source Files\Sorting and Searching\SearchInsertPosition</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobber.h">
+      <Filter>Source Files\Dynamic Programming\HouseRobber</Filter>
+    </ClInclude>
+    <ClInclude Include="RunningSumOf1dArray.h">
+      <Filter>Source Files\Array and Strings\RunningSumOf1dArray</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheDifference.h">
+      <Filter>Source Files\Array and Strings\FindTheDifference</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveVowelsFromAString.h">
+      <Filter>Source Files\Array and Strings\RemoveVowelsFromAString</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveDuplicatesFromSortedList.h">
+      <Filter>Source Files\Linked List\RemoveDuplicatesFromSortedList</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignParkingSystem.h">
+      <Filter>Source Files\Design\DesignParkingSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="CountNegativeNumbersInASortedMatrix.h">
+      <Filter>Source Files\Sorting and Searching\CountNegativeNumbersInASortedMatrix</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumXOROfTwoNumbersInAnArray.h">
+      <Filter>Source Files\Sorting and Searching\MaximumXOROfTwoNumbersInAnArray</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipEquivalentBinaryTrees.h">
+      <Filter>Source Files\Trees and Graphs\FlipEquivalentBinaryTrees</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -4459,6 +4867,210 @@
     </ClCompile>
     <ClCompile Include="WordPattern.cpp">
       <Filter>Source Files\Sorting and Searching\WordPattern</Filter>
+    </ClCompile>
+    <ClCompile Include="FindCommonCharacters.cpp">
+      <Filter>Source Files\Array and Strings\FindCommonCharacters</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumLengthOfPairChain.cpp">
+      <Filter>Source Files\Sorting and Searching\MaximumLengthOfPairChain</Filter>
+    </ClCompile>
+    <ClCompile Include="ReplaceElementsWithGreatestElementOnRight Side.cpp">
+      <Filter>Source Files\Array and Strings\ReplaceElementsWithGreatestElementOnRight Side</Filter>
+    </ClCompile>
+    <ClCompile Include="SnapshotArray.cpp">
+      <Filter>Source Files\Design\SnapshotArray</Filter>
+    </ClCompile>
+    <ClCompile Include="HappyNumber.cpp">
+      <Filter>Source Files\Sorting and Searching\HappyNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumSumOfTwoNonOverlappingSubarrays.cpp">
+      <Filter>Source Files\Sorting and Searching\MaximumSumOfTwoNonOverlappingSubarrays</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteLeavesWithAGivenValue.cpp">
+      <Filter>Source Files\Trees and Graphs\DeleteLeavesWithAGivenValue</Filter>
+    </ClCompile>
+    <ClCompile Include="BalanceABinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\BalanceABinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="GasStation.cpp">
+      <Filter>Source Files\Sorting and Searching\GasStation</Filter>
+    </ClCompile>
+    <ClCompile Include="MeetingScheduler.cpp">
+      <Filter>Source Files\Sorting and Searching\MeetingScheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="RankTransformOfAnArray.cpp">
+      <Filter>Source Files\Array and Strings\RankTransformOfAnArray</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestWordDistance.cpp">
+      <Filter>Source Files\Array and Strings\ShortestWordDistance</Filter>
+    </ClCompile>
+    <ClCompile Include="MeetingRooms.cpp">
+      <Filter>Source Files\Sorting and Searching\MeetingRooms</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumSwapsToMakeStringsEqual.cpp">
+      <Filter>Source Files\Array and Strings\MinimumSwapsToMakeStringsEqual</Filter>
+    </ClCompile>
+    <ClCompile Include="ArithmeticSlices.cpp">
+      <Filter>Source Files\Recursion\ArithmeticSlices</Filter>
+    </ClCompile>
+    <ClCompile Include="CountAndSay.cpp">
+      <Filter>Source Files\Array and Strings\CountAndSay</Filter>
+    </ClCompile>
+    <ClCompile Include="FindDuplicateSubtrees.cpp">
+      <Filter>Source Files\Trees and Graphs\FindDuplicateSubtrees</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromePartitioning.cpp">
+      <Filter>Source Files\Recursion\PalindromePartitioning</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseWordsInAStringIII.cpp">
+      <Filter>Source Files\Array and Strings\ReverseWordsInAStringIII</Filter>
+    </ClCompile>
+    <ClCompile Include="JewelsAndStones.cpp">
+      <Filter>Source Files\Sorting and Searching\JewelsAndStones</Filter>
+    </ClCompile>
+    <ClCompile Include="SortCharactersByFrequency.cpp">
+      <Filter>Source Files\Sorting and Searching\SortCharactersByFrequency</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseStringII.cpp">
+      <Filter>Source Files\Array and Strings\ReverseStringII</Filter>
+    </ClCompile>
+    <ClCompile Include="KthSymbolInGrammar.cpp">
+      <Filter>Source Files\Recursion\KthSymbolInGrammar</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximizeDistanceToClosestPerson.cpp">
+      <Filter>Source Files\Array and Strings\MaximizeDistanceToClosestPerson</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterCasePermutation.cpp">
+      <Filter>Source Files\Recursion\LetterCasePermutation</Filter>
+    </ClCompile>
+    <ClCompile Include="MajorityElementII.cpp">
+      <Filter>Source Files\Sorting and Searching\MajorityElementII</Filter>
+    </ClCompile>
+    <ClCompile Include="FindTheSmallestDivisorGivenAThreshold.cpp">
+      <Filter>Source Files\Sorting and Searching\FindTheSmallestDivisorGivenAThreshold</Filter>
+    </ClCompile>
+    <ClCompile Include="ContiguousArray.cpp">
+      <Filter>Source Files\Sorting and Searching\ContiguousArray</Filter>
+    </ClCompile>
+    <ClCompile Include="SortArrayByParityII.cpp">
+      <Filter>Source Files\Array and Strings\SortArrayByParityII</Filter>
+    </ClCompile>
+    <ClCompile Include="MajorityElement.cpp">
+      <Filter>Source Files\Sorting and Searching\MajorityElement</Filter>
+    </ClCompile>
+    <ClCompile Include="BullsAndCows.cpp">
+      <Filter>Source Files\Sorting and Searching\BullsAndCows</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreasingOrderSearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\IncreasingOrderSearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="SumOfRootToLeafBinaryNumbers.cpp">
+      <Filter>Source Files\Trees and Graphs\SumOfRootToLeafBinaryNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="CountNumberOfTeams.cpp">
+      <Filter>Source Files\Sorting and Searching\CountNumberOfTeams</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleOverlap.cpp">
+      <Filter>Source Files\Array and Strings\RectangleOverlap</Filter>
+    </ClCompile>
+    <ClCompile Include="RansomNote.cpp">
+      <Filter>Source Files\Sorting and Searching\RansomNote</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeImportance.cpp">
+      <Filter>Source Files\Trees and Graphs\EmployeeImportance</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.cpp">
+      <Filter>Source Files\Array and Strings\MinimumNumberOfStepsToMakeTwoStringsAnagram</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateString.cpp">
+      <Filter>Source Files\Array and Strings\RotateString</Filter>
+    </ClCompile>
+    <ClCompile Include="LoggerRateLimiter.cpp">
+      <Filter>Source Files\Design\LoggerRateLimiter</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeBasedKeyValueStore.cpp">
+      <Filter>Source Files\Design\TimeBasedKeyValueStore</Filter>
+    </ClCompile>
+    <ClCompile Include="BalancedBinaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\BalancedBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationSumIII.cpp">
+      <Filter>Source Files\Recursion\CombinationSumIII</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumDepthOfNaryTree.cpp">
+      <Filter>Source Files\Trees and Graphs\MaximumDepthOfNaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="4SumII.cpp">
+      <Filter>Source Files\Array and Strings\4SumII</Filter>
+    </ClCompile>
+    <ClCompile Include="RepeatedSubstringPattern.cpp">
+      <Filter>Source Files\Array and Strings\RepeatedSubstringPattern</Filter>
+    </ClCompile>
+    <ClCompile Include="PascalsTriangle.cpp">
+      <Filter>Source Files\Array and Strings\PascalsTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="FindAllNumbersDisappearedInAnArray.cpp">
+      <Filter>Source Files\Array and Strings\FindAllNumbersDisappearedInAnArray</Filter>
+    </ClCompile>
+    <ClCompile Include="SumOfLeftLeaves.cpp">
+      <Filter>Source Files\Trees and Graphs\SumOfLeftLeaves</Filter>
+    </ClCompile>
+    <ClCompile Include="CountPrimes.cpp">
+      <Filter>Source Files\Dynamic Programming\CountPrimes</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveDuplicateLetters.cpp">
+      <Filter>Source Files\Sorting and Searching\RemoveDuplicateLetters</Filter>
+    </ClCompile>
+    <ClCompile Include="ImplementQueueUsingStacks.cpp">
+      <Filter>Source Files\Design\ImplementQueueUsingStacks</Filter>
+    </ClCompile>
+    <ClCompile Include="KidsWithTheGreatestNumberOfCandies.cpp">
+      <Filter>Source Files\Array and Strings\KidsWithTheGreatestNumberOfCandies</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>Source Files\Sorting and Searching\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="RobotBoundedInCircle.cpp">
+      <Filter>Source Files\Sorting and Searching\RobotBoundedInCircle</Filter>
+    </ClCompile>
+    <ClCompile Include="HowManyNumbersAreSmallerThanTheCurrent Number.cpp">
+      <Filter>Source Files\Array and Strings\HowManyNumbersAreSmallerThanTheCurrentNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertIntoABinarySearchTree.cpp">
+      <Filter>Source Files\Trees and Graphs\InsertIntoABinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSumIIInputArrayIsSorted.cpp">
+      <Filter>Source Files\Array and Strings\TwoSumIIInputArrayIsSorted</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchInsertPosition.cpp">
+      <Filter>Source Files\Sorting and Searching\SearchInsertPosition</Filter>
+    </ClCompile>
+    <ClCompile Include="HouseRobber.cpp">
+      <Filter>Source Files\Dynamic Programming\HouseRobber</Filter>
+    </ClCompile>
+    <ClCompile Include="RunningSumOf1dArray.cpp">
+      <Filter>Source Files\Array and Strings\RunningSumOf1dArray</Filter>
+    </ClCompile>
+    <ClCompile Include="FindTheDifference.cpp">
+      <Filter>Source Files\Array and Strings\FindTheDifference</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveVowelsFromAString.cpp">
+      <Filter>Source Files\Array and Strings\RemoveVowelsFromAString</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveDuplicatesFromSortedList.cpp">
+      <Filter>Source Files\Linked List\RemoveDuplicatesFromSortedList</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignParkingSystem.cpp">
+      <Filter>Source Files\Design\DesignParkingSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="CountNegativeNumbersInASortedMatrix.cpp">
+      <Filter>Source Files\Sorting and Searching\CountNegativeNumbersInASortedMatrix</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumXOROfTwoNumbersInAnArray.cpp">
+      <Filter>Source Files\Sorting and Searching\MaximumXOROfTwoNumbersInAnArray</Filter>
+    </ClCompile>
+    <ClCompile Include="FlipEquivalentBinaryTrees.cpp">
+      <Filter>Source Files\Trees and Graphs\FlipEquivalentBinaryTrees</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

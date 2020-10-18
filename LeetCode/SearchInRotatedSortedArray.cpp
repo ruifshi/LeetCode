@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "SearchInRotatedSortedArray.h"
 
-int Solution::search(vector<int>& nums, int target) {
+int Solution::search3(vector<int>& nums, int target) {
 	int l = 0, r = nums.size() - 1;
 	while (l <= r) {
 		int mid = (l + r) / 2;

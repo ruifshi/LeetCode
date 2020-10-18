@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "RemoveDuplicatesFromSortedListII.h"
 
-ListNode* Solution::deleteDuplicates(ListNode* head) {
+ListNode* Solution::deleteDuplicates2(ListNode* head) {
   //recursively reconstruct list with no dups
 
   if (head == nullptr)
@@ -15,7 +15,7 @@ ListNode* Solution::deleteDuplicates(ListNode* head) {
     head->next = head->next->next;
   }
 
-  head->next = deleteDuplicates(head->next);
+  head->next = deleteDuplicates2(head->next);
 
   // if dup is found, then attach to next value since we're deleting
   return dup ? head->next : head;

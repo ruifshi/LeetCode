@@ -11,5 +11,5 @@ struct ListNode {
 
 class Solution {
 public:
-  ListNode* deleteDuplicates(ListNode* head);
+  ListNode* deleteDuplicates2(ListNode* head);
 };
