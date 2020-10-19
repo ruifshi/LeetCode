@@ -31,7 +31,7 @@ int Solution::shipWithinDays(vector<int>& weights, int D) {
       if (cur + weights[i] > mid) {
         cur = 0, need++;
       }
-      cur += weights[i++];
+      cur += weights[i];
     }
 
     if (need > D) {
