@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include <string>
 #include "CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.h"
 
 bool helper(TreeNode* root, string target, string path) {
